@@ -29,11 +29,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install scraper dependency
-        run: python -m pip install --upgrade curl_cffi
+      - name: Install scraper dependencies
+        run: |
+          python -m pip install --upgrade curl_cffi playwright
+          python -m playwright install --with-deps chromium
 
       - name: Export OrbitBid auction
-        run: python scripts/export_orbitbid.py "${{ inputs.auction_id }}"
+        run: python scripts/export_orbitbid_rendered.py "${{ inputs.auction_id }}"
 
       - name: Commit auction snapshot
         shell: bash
