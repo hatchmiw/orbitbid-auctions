@@ -6,7 +6,7 @@ on:
       auction_id:
         description: "OrbitBid auction ID"
         required: true
-        default: "1970"
+        default: "1879"
 
 permissions:
   contents: write
