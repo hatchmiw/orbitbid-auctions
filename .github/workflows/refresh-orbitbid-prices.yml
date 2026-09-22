@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: orbitbid-refresh-${{ inputs.auction_id }}
+  # Serialize every workflow that can write auction metadata.\n  # This prevents a price refresh from racing another writer to main.\n  group: orbitbid-metadata-writes
   cancel-in-progress: false
 
 jobs:
