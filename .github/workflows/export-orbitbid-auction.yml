@@ -45,7 +45,8 @@ jobs:
           git add "auctions/${{ inputs.auction_id }}/README.md" \
                   "auctions/${{ inputs.auction_id }}/summary.md" \
                   "auctions/${{ inputs.auction_id }}/summary.csv" \
-                  "auctions/${{ inputs.auction_id }}/lots.json"
+                  "auctions/${{ inputs.auction_id }}/lots.json" \
+                  "auctions/${{ inputs.auction_id }}/price-history.csv"
 
           if git diff --cached --quiet; then
             echo "No auction changes to commit."
