@@ -13,6 +13,7 @@ Public working repository for OrbitBid auction research.
    - `summary.md`
    - `summary.csv`
    - `lots.json`
+   - `price-history.csv`
 6. Photos and `review.jpg` sheets are stored in a temporary Actions artifact named:
    - `orbitbid-<auction-id>-photos`
 
@@ -39,6 +40,8 @@ For an auction that has already been imported:
 3. Run the workflow.
 
 This workflow reads the known internal OrbitBid lot IDs already saved in `lots.json`, refreshes the current bid/status data, and commits updated metadata only. It does **not** rediscover the catalog and does **not** download or change any photos.
+
+Each refresh appends one timestamped row per lot to `price-history.csv`, preserving the bid amount and bid count from that moment. `summary.csv` also includes human-readable UTC closing-time columns alongside OrbitBid's raw timestamps.
 
 This is the preferred way to update live prices for auction **1970** (Mid Michigan Greenhouses) or any other already-saved auction.
 
