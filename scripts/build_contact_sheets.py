@@ -2,6 +2,7 @@
 from pathlib import Path
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 import math
+import re
 import sys
 
 THUMB_W = 360
@@ -29,7 +30,10 @@ def main():
     if not root.exists():
         raise SystemExit(f"Missing {root}")
 
-    lot_dirs=sorted([p for p in root.iterdir() if p.is_dir() and p.name.isdigit()], key=lambda p:int(p.name))
+    def natural_key(path):
+        return [int(x) if x.isdigit() else x.lower() for x in re.split(r"(\\d+)", path.name)]
+
+    lot_dirs=sorted([p for p in root.iterdir() if p.is_dir()], key=natural_key)
     made=0
     for lotdir in lot_dirs:
         photos=sorted([p for p in lotdir.glob("*.jpg") if p.name not in ("contact.jpg", "review.jpg")])
