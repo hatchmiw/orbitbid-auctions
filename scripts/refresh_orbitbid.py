@@ -64,6 +64,15 @@ def main() -> int:
 
     now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     data = dict(old)
+    # Older browser-export snapshots (including auction 1970) predate some
+    # metadata keys used by the GitHub exporter. Supply compatible defaults
+    # without rediscovering the auction catalog.
+    data.setdefault(
+        "source_url",
+        f"https://bid.orbitbid.com/?items=all&auction_id={auction_id}&display=grid&limit=60&page=1",
+    )
+    data.setdefault("total_discovered", len(old_lots))
+    data.setdefault("catalog_pages", [data["source_url"]])
     data["retrieved_at"] = now
     data["last_price_refresh_at"] = now
     data["total_retrieved"] = len(refreshed)
