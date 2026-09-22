@@ -1,0 +1,4132 @@
+{
+  "auction_id": 1970,
+  "source_snapshot": "auctions/1970/lots.json",
+  "lot_count": 60,
+  "photo_count": 412,
+  "error_count": 0,
+  "max_edge": 2048,
+  "jpeg_quality": 88,
+  "photos": [
+    {
+      "lot": "9926",
+      "index": 1,
+      "source_image_id": 10031647,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f1892844d8784f8e9159/large",
+      "repo_path": "auctions/1970/photos/9926/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 749238
+    },
+    {
+      "lot": "9926",
+      "index": 2,
+      "source_image_id": 10031730,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/020e959b0a8b76218f69/large",
+      "repo_path": "auctions/1970/photos/9926/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 661623
+    },
+    {
+      "lot": "9926",
+      "index": 3,
+      "source_image_id": 10031820,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/87de9ca94c01f1178227/large",
+      "repo_path": "auctions/1970/photos/9926/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 658766
+    },
+    {
+      "lot": "9926",
+      "index": 4,
+      "source_image_id": 10031906,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dd663a7ce64b2d8eb844/large",
+      "repo_path": "auctions/1970/photos/9926/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 515027
+    },
+    {
+      "lot": "9926",
+      "index": 5,
+      "source_image_id": 10031966,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/acf77d0457393a5ebcb7/large",
+      "repo_path": "auctions/1970/photos/9926/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 349781
+    },
+    {
+      "lot": "9926",
+      "index": 6,
+      "source_image_id": 10032017,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a5d6eac4e228ab825648/large",
+      "repo_path": "auctions/1970/photos/9926/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 575139
+    },
+    {
+      "lot": "9926",
+      "index": 7,
+      "source_image_id": 10032056,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7274acfb9a325f3dbba7/large",
+      "repo_path": "auctions/1970/photos/9926/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 416857
+    },
+    {
+      "lot": "9927",
+      "index": 1,
+      "source_image_id": 10031645,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1d15c5cad3c2b8aadd29/large",
+      "repo_path": "auctions/1970/photos/9927/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 774194
+    },
+    {
+      "lot": "9927",
+      "index": 2,
+      "source_image_id": 10031737,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0f8bee6a738d464797af/large",
+      "repo_path": "auctions/1970/photos/9927/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 857864
+    },
+    {
+      "lot": "9927",
+      "index": 3,
+      "source_image_id": 10031818,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9bce3d8e185db3c5baa0/large",
+      "repo_path": "auctions/1970/photos/9927/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 748463
+    },
+    {
+      "lot": "9927",
+      "index": 4,
+      "source_image_id": 10031905,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0b75a5ec8d4f8f15fdbd/large",
+      "repo_path": "auctions/1970/photos/9927/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 218553
+    },
+    {
+      "lot": "9928",
+      "index": 1,
+      "source_image_id": 10031649,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d054342db31228f693bf/large",
+      "repo_path": "auctions/1970/photos/9928/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 914613
+    },
+    {
+      "lot": "9928",
+      "index": 2,
+      "source_image_id": 10031738,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/137efcf39ecc6db761f9/large",
+      "repo_path": "auctions/1970/photos/9928/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 856544
+    },
+    {
+      "lot": "9928",
+      "index": 3,
+      "source_image_id": 10031821,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dabef3947900046facea/large",
+      "repo_path": "auctions/1970/photos/9928/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 767639
+    },
+    {
+      "lot": "9928",
+      "index": 4,
+      "source_image_id": 10031907,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3505e3491cc7ae7ee8c6/large",
+      "repo_path": "auctions/1970/photos/9928/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 520466
+    },
+    {
+      "lot": "9929",
+      "index": 1,
+      "source_image_id": 10031650,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8664d923faa0a9b4d430/large",
+      "repo_path": "auctions/1970/photos/9929/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 723070
+    },
+    {
+      "lot": "9929",
+      "index": 2,
+      "source_image_id": 10031735,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/de4b6c150c5791b6defe/large",
+      "repo_path": "auctions/1970/photos/9929/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 556627
+    },
+    {
+      "lot": "9929",
+      "index": 3,
+      "source_image_id": 10031824,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8e93147a44f05c53192d/large",
+      "repo_path": "auctions/1970/photos/9929/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 708634
+    },
+    {
+      "lot": "9929",
+      "index": 4,
+      "source_image_id": 10031908,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2fff8b126c044082e3db/large",
+      "repo_path": "auctions/1970/photos/9929/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 422953
+    },
+    {
+      "lot": "9930",
+      "index": 1,
+      "source_image_id": 10031651,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5a37a03342be2a80bbfc/large",
+      "repo_path": "auctions/1970/photos/9930/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 732904
+    },
+    {
+      "lot": "9930",
+      "index": 2,
+      "source_image_id": 10031736,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5db90476c6c536d33fa5/large",
+      "repo_path": "auctions/1970/photos/9930/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 748043
+    },
+    {
+      "lot": "9930",
+      "index": 3,
+      "source_image_id": 10031823,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3838fe25cd0c7781ec24/large",
+      "repo_path": "auctions/1970/photos/9930/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 600475
+    },
+    {
+      "lot": "9930",
+      "index": 4,
+      "source_image_id": 10031909,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2a062129a14330b2e876/large",
+      "repo_path": "auctions/1970/photos/9930/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 477759
+    },
+    {
+      "lot": "9931",
+      "index": 1,
+      "source_image_id": 10031652,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/edcf5cf8e96fe2d1d144/large",
+      "repo_path": "auctions/1970/photos/9931/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 770999
+    },
+    {
+      "lot": "9931",
+      "index": 2,
+      "source_image_id": 10031734,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1cecdc051e60dc30de42/large",
+      "repo_path": "auctions/1970/photos/9931/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 524555
+    },
+    {
+      "lot": "9931",
+      "index": 3,
+      "source_image_id": 10031822,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1cdb1b0c640671d455ca/large",
+      "repo_path": "auctions/1970/photos/9931/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 507158
+    },
+    {
+      "lot": "9931",
+      "index": 4,
+      "source_image_id": 10031912,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a09c537a1ffec8ad65cb/large",
+      "repo_path": "auctions/1970/photos/9931/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 532412
+    },
+    {
+      "lot": "9932",
+      "index": 1,
+      "source_image_id": 10031654,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/83cead8d33f0c1061741/large",
+      "repo_path": "auctions/1970/photos/9932/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 764909
+    },
+    {
+      "lot": "9932",
+      "index": 2,
+      "source_image_id": 10031739,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5a0c76825e87841b3658/large",
+      "repo_path": "auctions/1970/photos/9932/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 585520
+    },
+    {
+      "lot": "9932",
+      "index": 3,
+      "source_image_id": 10031825,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bc3990750bac9a8542c9/large",
+      "repo_path": "auctions/1970/photos/9932/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 714198
+    },
+    {
+      "lot": "9932",
+      "index": 4,
+      "source_image_id": 10031910,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/63ce71640341c98ded5b/large",
+      "repo_path": "auctions/1970/photos/9932/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 724632
+    },
+    {
+      "lot": "9932",
+      "index": 5,
+      "source_image_id": 10031963,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/11705d6baf00055972e6/large",
+      "repo_path": "auctions/1970/photos/9932/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 255086
+    },
+    {
+      "lot": "9933",
+      "index": 1,
+      "source_image_id": 10031653,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/200ff196ceaaae0a0b77/large",
+      "repo_path": "auctions/1970/photos/9933/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 760018
+    },
+    {
+      "lot": "9933",
+      "index": 2,
+      "source_image_id": 10031740,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7139d1068782dbc0eab8/large",
+      "repo_path": "auctions/1970/photos/9933/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 564568
+    },
+    {
+      "lot": "9933",
+      "index": 3,
+      "source_image_id": 10031826,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dfe3ac976ab1393bb58d/large",
+      "repo_path": "auctions/1970/photos/9933/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 836538
+    },
+    {
+      "lot": "9933",
+      "index": 4,
+      "source_image_id": 10031914,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b8948f742353ca3129f9/large",
+      "repo_path": "auctions/1970/photos/9933/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 710240
+    },
+    {
+      "lot": "9933",
+      "index": 5,
+      "source_image_id": 10031970,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6cee01bf76e25c7e3dc9/large",
+      "repo_path": "auctions/1970/photos/9933/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 585357
+    },
+    {
+      "lot": "9934",
+      "index": 1,
+      "source_image_id": 10031655,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/03bdbf966e56ed7af5eb/large",
+      "repo_path": "auctions/1970/photos/9934/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 686574
+    },
+    {
+      "lot": "9934",
+      "index": 2,
+      "source_image_id": 10031742,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1d43c6f58824fb1b8be1/large",
+      "repo_path": "auctions/1970/photos/9934/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 599258
+    },
+    {
+      "lot": "9934",
+      "index": 3,
+      "source_image_id": 10031827,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/726f86f2272b07f189a7/large",
+      "repo_path": "auctions/1970/photos/9934/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 667907
+    },
+    {
+      "lot": "9934",
+      "index": 4,
+      "source_image_id": 10031913,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/70d31e36589c2338f155/large",
+      "repo_path": "auctions/1970/photos/9934/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 640545
+    },
+    {
+      "lot": "9934",
+      "index": 5,
+      "source_image_id": 10031968,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/07b66886f03d961a14b0/large",
+      "repo_path": "auctions/1970/photos/9934/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 294143
+    },
+    {
+      "lot": "9935",
+      "index": 1,
+      "source_image_id": 10031656,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/94bb6e50c77e08609102/large",
+      "repo_path": "auctions/1970/photos/9935/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 712030
+    },
+    {
+      "lot": "9935",
+      "index": 2,
+      "source_image_id": 10031744,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cb4b1f48635b3bb7053c/large",
+      "repo_path": "auctions/1970/photos/9935/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 753406
+    },
+    {
+      "lot": "9935",
+      "index": 3,
+      "source_image_id": 10031830,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ba4575e1dd6be0b339f3/large",
+      "repo_path": "auctions/1970/photos/9935/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 659257
+    },
+    {
+      "lot": "9935",
+      "index": 4,
+      "source_image_id": 10031915,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/82b5637baf1d85c6a171/large",
+      "repo_path": "auctions/1970/photos/9935/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 711804
+    },
+    {
+      "lot": "9935",
+      "index": 5,
+      "source_image_id": 10031971,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/98565131629c0223043e/large",
+      "repo_path": "auctions/1970/photos/9935/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 683774
+    },
+    {
+      "lot": "9935",
+      "index": 6,
+      "source_image_id": 10032018,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6e3ec113d0ad66eba132/large",
+      "repo_path": "auctions/1970/photos/9935/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 553236
+    },
+    {
+      "lot": "9936",
+      "index": 1,
+      "source_image_id": 10031657,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/52be9ebc20dacc891b5d/large",
+      "repo_path": "auctions/1970/photos/9936/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 726444
+    },
+    {
+      "lot": "9936",
+      "index": 2,
+      "source_image_id": 10031743,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f33b4026db937f1f9561/large",
+      "repo_path": "auctions/1970/photos/9936/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 701893
+    },
+    {
+      "lot": "9936",
+      "index": 3,
+      "source_image_id": 10031831,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/25592fb420b6012b945d/large",
+      "repo_path": "auctions/1970/photos/9936/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 704716
+    },
+    {
+      "lot": "9936",
+      "index": 4,
+      "source_image_id": 10031911,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a3c0fd4411ad38e4d576/large",
+      "repo_path": "auctions/1970/photos/9936/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 717103
+    },
+    {
+      "lot": "9936",
+      "index": 5,
+      "source_image_id": 10031969,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/24fa4af46f2f2f7b340a/large",
+      "repo_path": "auctions/1970/photos/9936/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 518884
+    },
+    {
+      "lot": "9936",
+      "index": 6,
+      "source_image_id": 10032015,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e1bd42ff811f3accbbb4/large",
+      "repo_path": "auctions/1970/photos/9936/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 590386
+    },
+    {
+      "lot": "9936",
+      "index": 7,
+      "source_image_id": 10032057,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/407087c9d64af9599c97/large",
+      "repo_path": "auctions/1970/photos/9936/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 543481
+    },
+    {
+      "lot": "9937",
+      "index": 1,
+      "source_image_id": 10031658,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/75889529bf5b1d36621d/large",
+      "repo_path": "auctions/1970/photos/9937/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 732574
+    },
+    {
+      "lot": "9937",
+      "index": 2,
+      "source_image_id": 10031741,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6520a11eb0d0e35d81e3/large",
+      "repo_path": "auctions/1970/photos/9937/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 738230
+    },
+    {
+      "lot": "9937",
+      "index": 3,
+      "source_image_id": 10031832,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ad583a38b45076893f28/large",
+      "repo_path": "auctions/1970/photos/9937/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 789538
+    },
+    {
+      "lot": "9937",
+      "index": 4,
+      "source_image_id": 10031919,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3b60a578d2539edba1b8/large",
+      "repo_path": "auctions/1970/photos/9937/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 709611
+    },
+    {
+      "lot": "9937",
+      "index": 5,
+      "source_image_id": 10031972,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8102977c35d548915cb6/large",
+      "repo_path": "auctions/1970/photos/9937/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 755044
+    },
+    {
+      "lot": "9937",
+      "index": 6,
+      "source_image_id": 10032019,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bc56c6c716afb27d8bda/large",
+      "repo_path": "auctions/1970/photos/9937/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 765731
+    },
+    {
+      "lot": "9937",
+      "index": 7,
+      "source_image_id": 10032059,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1c0aebd0e12d6d3f1551/large",
+      "repo_path": "auctions/1970/photos/9937/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 660068
+    },
+    {
+      "lot": "9937",
+      "index": 8,
+      "source_image_id": 10032085,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f883a5b78d2a2e767770/large",
+      "repo_path": "auctions/1970/photos/9937/08.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 479383
+    },
+    {
+      "lot": "9938",
+      "index": 1,
+      "source_image_id": 10031659,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/50e92d2d69cc9e9b5f2c/large",
+      "repo_path": "auctions/1970/photos/9938/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 730232
+    },
+    {
+      "lot": "9938",
+      "index": 2,
+      "source_image_id": 10031746,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e1ae7361139871c9b6d2/large",
+      "repo_path": "auctions/1970/photos/9938/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 733396
+    },
+    {
+      "lot": "9938",
+      "index": 3,
+      "source_image_id": 10031829,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5ca610af711e26f9d854/large",
+      "repo_path": "auctions/1970/photos/9938/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 632297
+    },
+    {
+      "lot": "9938",
+      "index": 4,
+      "source_image_id": 10031918,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7071d8f15c80db6ae999/large",
+      "repo_path": "auctions/1970/photos/9938/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 716865
+    },
+    {
+      "lot": "9938",
+      "index": 5,
+      "source_image_id": 10031973,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/99357ffc83c80332be2c/large",
+      "repo_path": "auctions/1970/photos/9938/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 571358
+    },
+    {
+      "lot": "9938",
+      "index": 6,
+      "source_image_id": 10032020,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5c73c6108312d5d625b2/large",
+      "repo_path": "auctions/1970/photos/9938/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 459486
+    },
+    {
+      "lot": "9939",
+      "index": 1,
+      "source_image_id": 10031661,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fe41228544b4892964a1/large",
+      "repo_path": "auctions/1970/photos/9939/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 723118
+    },
+    {
+      "lot": "9939",
+      "index": 2,
+      "source_image_id": 10031745,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6257530631ab450e798e/large",
+      "repo_path": "auctions/1970/photos/9939/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 633198
+    },
+    {
+      "lot": "9939",
+      "index": 3,
+      "source_image_id": 10031828,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e80191c60be241bd0328/large",
+      "repo_path": "auctions/1970/photos/9939/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 571148
+    },
+    {
+      "lot": "9939",
+      "index": 4,
+      "source_image_id": 10031916,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9c11b9e7884d6bdcb592/large",
+      "repo_path": "auctions/1970/photos/9939/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 629465
+    },
+    {
+      "lot": "9939",
+      "index": 5,
+      "source_image_id": 10031974,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/60b46ae36cfa0036da7f/large",
+      "repo_path": "auctions/1970/photos/9939/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 699686
+    },
+    {
+      "lot": "9939",
+      "index": 6,
+      "source_image_id": 10032022,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b1523cdece647a53edf5/large",
+      "repo_path": "auctions/1970/photos/9939/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 502380
+    },
+    {
+      "lot": "9940",
+      "index": 1,
+      "source_image_id": 10031662,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/33b55c628362b906ff22/large",
+      "repo_path": "auctions/1970/photos/9940/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 756845
+    },
+    {
+      "lot": "9940",
+      "index": 2,
+      "source_image_id": 10031747,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3f352b9609522965e378/large",
+      "repo_path": "auctions/1970/photos/9940/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 725523
+    },
+    {
+      "lot": "9940",
+      "index": 3,
+      "source_image_id": 10031833,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5f71b9ba0870f929248b/large",
+      "repo_path": "auctions/1970/photos/9940/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 720390
+    },
+    {
+      "lot": "9940",
+      "index": 4,
+      "source_image_id": 10031920,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/37de54db28af9432e7d0/large",
+      "repo_path": "auctions/1970/photos/9940/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 738561
+    },
+    {
+      "lot": "9940",
+      "index": 5,
+      "source_image_id": 10031976,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9387eea82c5aae2ecc69/large",
+      "repo_path": "auctions/1970/photos/9940/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 734489
+    },
+    {
+      "lot": "9940",
+      "index": 6,
+      "source_image_id": 10032021,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f02b75e6749404388831/large",
+      "repo_path": "auctions/1970/photos/9940/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 492364
+    },
+    {
+      "lot": "9940",
+      "index": 7,
+      "source_image_id": 10032058,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8a192989e44049827ee5/large",
+      "repo_path": "auctions/1970/photos/9940/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 312141
+    },
+    {
+      "lot": "9941",
+      "index": 1,
+      "source_image_id": 10031660,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a82d7cbfc704e7d41dfa/large",
+      "repo_path": "auctions/1970/photos/9941/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 731894
+    },
+    {
+      "lot": "9941",
+      "index": 2,
+      "source_image_id": 10031748,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cc14cc5cf595f6cb5d63/large",
+      "repo_path": "auctions/1970/photos/9941/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 736866
+    },
+    {
+      "lot": "9941",
+      "index": 3,
+      "source_image_id": 10031836,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/acfe11c5ecf5d85536be/large",
+      "repo_path": "auctions/1970/photos/9941/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 731825
+    },
+    {
+      "lot": "9941",
+      "index": 4,
+      "source_image_id": 10031917,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ea98f88d4288e79c2729/large",
+      "repo_path": "auctions/1970/photos/9941/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 716653
+    },
+    {
+      "lot": "9941",
+      "index": 5,
+      "source_image_id": 10031977,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/592802a60103c6929846/large",
+      "repo_path": "auctions/1970/photos/9941/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 745170
+    },
+    {
+      "lot": "9941",
+      "index": 6,
+      "source_image_id": 10032023,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a111c6f49972c94cf81a/large",
+      "repo_path": "auctions/1970/photos/9941/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 545294
+    },
+    {
+      "lot": "9941",
+      "index": 7,
+      "source_image_id": 10032061,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a7f131dc159307f2fc93/large",
+      "repo_path": "auctions/1970/photos/9941/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 794713
+    },
+    {
+      "lot": "9941",
+      "index": 8,
+      "source_image_id": 10032086,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cc32fafea0c201d6f039/large",
+      "repo_path": "auctions/1970/photos/9941/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 517175
+    },
+    {
+      "lot": "9942",
+      "index": 1,
+      "source_image_id": 10031664,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/42737cad8354ceeadfa2/large",
+      "repo_path": "auctions/1970/photos/9942/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 772826
+    },
+    {
+      "lot": "9942",
+      "index": 2,
+      "source_image_id": 10031749,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5b9f0059c45532f8021e/large",
+      "repo_path": "auctions/1970/photos/9942/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 747499
+    },
+    {
+      "lot": "9942",
+      "index": 3,
+      "source_image_id": 10031835,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3e59ee0976eaa5d92b7f/large",
+      "repo_path": "auctions/1970/photos/9942/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 775021
+    },
+    {
+      "lot": "9942",
+      "index": 4,
+      "source_image_id": 10031923,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/935bcaf0006108ff2d74/large",
+      "repo_path": "auctions/1970/photos/9942/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 768535
+    },
+    {
+      "lot": "9942",
+      "index": 5,
+      "source_image_id": 10031979,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e9940e9feff3e480f961/large",
+      "repo_path": "auctions/1970/photos/9942/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 781502
+    },
+    {
+      "lot": "9942",
+      "index": 6,
+      "source_image_id": 10032024,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d462186cc02846e7f3ec/large",
+      "repo_path": "auctions/1970/photos/9942/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 698413
+    },
+    {
+      "lot": "9942",
+      "index": 7,
+      "source_image_id": 10032060,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8a7f3d4c4e353d08ac0a/large",
+      "repo_path": "auctions/1970/photos/9942/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 480316
+    },
+    {
+      "lot": "9942",
+      "index": 8,
+      "source_image_id": 10032096,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e5e6d79b18f4eb4be90c/large",
+      "repo_path": "auctions/1970/photos/9942/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 601552
+    },
+    {
+      "lot": "9942",
+      "index": 9,
+      "source_image_id": 10032104,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1de4d9e2fcaf2f871fe4/large",
+      "repo_path": "auctions/1970/photos/9942/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 568211
+    },
+    {
+      "lot": "9942",
+      "index": 10,
+      "source_image_id": 10032112,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8281f4e9ef10942e47a7/large",
+      "repo_path": "auctions/1970/photos/9942/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 487071
+    },
+    {
+      "lot": "9943",
+      "index": 1,
+      "source_image_id": 10031663,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b9862f202e5d7cc0f227/large",
+      "repo_path": "auctions/1970/photos/9943/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 752630
+    },
+    {
+      "lot": "9943",
+      "index": 2,
+      "source_image_id": 10031754,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fd742318ee1fdd37c267/large",
+      "repo_path": "auctions/1970/photos/9943/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 723423
+    },
+    {
+      "lot": "9943",
+      "index": 3,
+      "source_image_id": 10031838,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9dbb2e3a8f139cc78be1/large",
+      "repo_path": "auctions/1970/photos/9943/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 767208
+    },
+    {
+      "lot": "9943",
+      "index": 4,
+      "source_image_id": 10031925,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cc5ea0efb2af5b042c7c/large",
+      "repo_path": "auctions/1970/photos/9943/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 719199
+    },
+    {
+      "lot": "9943",
+      "index": 5,
+      "source_image_id": 10031978,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4cf6900bfdbfc701513b/large",
+      "repo_path": "auctions/1970/photos/9943/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 765232
+    },
+    {
+      "lot": "9943",
+      "index": 6,
+      "source_image_id": 10032026,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1aca0a830a780339024f/large",
+      "repo_path": "auctions/1970/photos/9943/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 662071
+    },
+    {
+      "lot": "9943",
+      "index": 7,
+      "source_image_id": 10032065,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c43287f4afc921474210/large",
+      "repo_path": "auctions/1970/photos/9943/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 521209
+    },
+    {
+      "lot": "9943",
+      "index": 8,
+      "source_image_id": 10032093,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/580f252533de9751b93b/large",
+      "repo_path": "auctions/1970/photos/9943/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 483734
+    },
+    {
+      "lot": "9943",
+      "index": 9,
+      "source_image_id": 10032106,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6040e7afd23ca936479e/large",
+      "repo_path": "auctions/1970/photos/9943/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 667521
+    },
+    {
+      "lot": "9943",
+      "index": 10,
+      "source_image_id": 10032113,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4cd6787ee7a4fac7a830/large",
+      "repo_path": "auctions/1970/photos/9943/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 290975
+    },
+    {
+      "lot": "9944",
+      "index": 1,
+      "source_image_id": 10031665,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d904125aaf5a09865f7b/large",
+      "repo_path": "auctions/1970/photos/9944/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 647246
+    },
+    {
+      "lot": "9944",
+      "index": 2,
+      "source_image_id": 10031750,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8ef2cf4185c1d391e23b/large",
+      "repo_path": "auctions/1970/photos/9944/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 631639
+    },
+    {
+      "lot": "9944",
+      "index": 3,
+      "source_image_id": 10031837,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/98a73f43f10f136d8130/large",
+      "repo_path": "auctions/1970/photos/9944/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 647915
+    },
+    {
+      "lot": "9944",
+      "index": 4,
+      "source_image_id": 10031922,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3aae1e5e87769d6b4fc6/large",
+      "repo_path": "auctions/1970/photos/9944/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 656863
+    },
+    {
+      "lot": "9944",
+      "index": 5,
+      "source_image_id": 10031975,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e3734d1d66a22496322e/large",
+      "repo_path": "auctions/1970/photos/9944/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 385537
+    },
+    {
+      "lot": "9944",
+      "index": 6,
+      "source_image_id": 10032025,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e19f7dd2f4c6d80bcd9f/large",
+      "repo_path": "auctions/1970/photos/9944/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 558698
+    },
+    {
+      "lot": "9944",
+      "index": 7,
+      "source_image_id": 10032062,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/73642ac26ec09d0024c7/large",
+      "repo_path": "auctions/1970/photos/9944/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 251262
+    },
+    {
+      "lot": "9945",
+      "index": 1,
+      "source_image_id": 10031666,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d44a278fbc95007d368f/large",
+      "repo_path": "auctions/1970/photos/9945/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 666205
+    },
+    {
+      "lot": "9945",
+      "index": 2,
+      "source_image_id": 10031752,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0472f82ca68cf27ff18c/large",
+      "repo_path": "auctions/1970/photos/9945/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 657293
+    },
+    {
+      "lot": "9945",
+      "index": 3,
+      "source_image_id": 10031834,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8550b722d7b14b8fe664/large",
+      "repo_path": "auctions/1970/photos/9945/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 695060
+    },
+    {
+      "lot": "9945",
+      "index": 4,
+      "source_image_id": 10031924,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2e9d82bdf34c11f46a86/large",
+      "repo_path": "auctions/1970/photos/9945/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 665626
+    },
+    {
+      "lot": "9945",
+      "index": 5,
+      "source_image_id": 10031980,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/511c5d42a2d3367c94d7/large",
+      "repo_path": "auctions/1970/photos/9945/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 556356
+    },
+    {
+      "lot": "9945",
+      "index": 6,
+      "source_image_id": 10032027,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/70b5f7bd02c4f07c8999/large",
+      "repo_path": "auctions/1970/photos/9945/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 638383
+    },
+    {
+      "lot": "9945",
+      "index": 7,
+      "source_image_id": 10032064,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ddafa6534c49bcfc3eee/large",
+      "repo_path": "auctions/1970/photos/9945/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 495624
+    },
+    {
+      "lot": "9946",
+      "index": 1,
+      "source_image_id": 10031667,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5b938ef7e40b5c3e5a2a/large",
+      "repo_path": "auctions/1970/photos/9946/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 672220
+    },
+    {
+      "lot": "9946",
+      "index": 2,
+      "source_image_id": 10031751,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/66a70b883d4fb6171c5a/large",
+      "repo_path": "auctions/1970/photos/9946/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 666049
+    },
+    {
+      "lot": "9946",
+      "index": 3,
+      "source_image_id": 10031840,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f74bebf2a715cb294727/large",
+      "repo_path": "auctions/1970/photos/9946/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 610012
+    },
+    {
+      "lot": "9946",
+      "index": 4,
+      "source_image_id": 10031921,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/82f97b0fc757e6fead3e/large",
+      "repo_path": "auctions/1970/photos/9946/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 562285
+    },
+    {
+      "lot": "9946",
+      "index": 5,
+      "source_image_id": 10031983,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/009dfeaf2e8643a2e39d/large",
+      "repo_path": "auctions/1970/photos/9946/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 556648
+    },
+    {
+      "lot": "9946",
+      "index": 6,
+      "source_image_id": 10032028,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/492f92a67e0049601901/large",
+      "repo_path": "auctions/1970/photos/9946/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 609684
+    },
+    {
+      "lot": "9946",
+      "index": 7,
+      "source_image_id": 10032063,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7b22b261ec5c5739a0f2/large",
+      "repo_path": "auctions/1970/photos/9946/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 438037
+    },
+    {
+      "lot": "9947",
+      "index": 1,
+      "source_image_id": 10031668,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a51b22fc25cb1a392c/large",
+      "repo_path": "auctions/1970/photos/9947/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 657510
+    },
+    {
+      "lot": "9947",
+      "index": 2,
+      "source_image_id": 10031753,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9dbee2e3807d6ac1869a/large",
+      "repo_path": "auctions/1970/photos/9947/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 678688
+    },
+    {
+      "lot": "9947",
+      "index": 3,
+      "source_image_id": 10031842,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e883465083874c1c7970/large",
+      "repo_path": "auctions/1970/photos/9947/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 669159
+    },
+    {
+      "lot": "9947",
+      "index": 4,
+      "source_image_id": 10031929,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/34019d1ffdd4b77470d2/large",
+      "repo_path": "auctions/1970/photos/9947/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 671136
+    },
+    {
+      "lot": "9947",
+      "index": 5,
+      "source_image_id": 10031985,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5b171740230fe957dbe7/large",
+      "repo_path": "auctions/1970/photos/9947/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 654884
+    },
+    {
+      "lot": "9947",
+      "index": 6,
+      "source_image_id": 10032029,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/58443bc4186c06060fc8/large",
+      "repo_path": "auctions/1970/photos/9947/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 548966
+    },
+    {
+      "lot": "9947",
+      "index": 7,
+      "source_image_id": 10032066,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bea909021a6339a2f025/large",
+      "repo_path": "auctions/1970/photos/9947/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 558327
+    },
+    {
+      "lot": "9947",
+      "index": 8,
+      "source_image_id": 10032088,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/632c578339341b725209/large",
+      "repo_path": "auctions/1970/photos/9947/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 456457
+    },
+    {
+      "lot": "9948",
+      "index": 1,
+      "source_image_id": 10031669,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bbd7bcb0897acb8b521c/large",
+      "repo_path": "auctions/1970/photos/9948/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 709158
+    },
+    {
+      "lot": "9948",
+      "index": 2,
+      "source_image_id": 10031758,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/db56b647ff85007616d1/large",
+      "repo_path": "auctions/1970/photos/9948/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 693377
+    },
+    {
+      "lot": "9948",
+      "index": 3,
+      "source_image_id": 10031839,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e1f38d8642724059fa9f/large",
+      "repo_path": "auctions/1970/photos/9948/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 432257
+    },
+    {
+      "lot": "9948",
+      "index": 4,
+      "source_image_id": 10031927,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/91275388ebb52c0b56f9/large",
+      "repo_path": "auctions/1970/photos/9948/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 502259
+    },
+    {
+      "lot": "9949",
+      "index": 1,
+      "source_image_id": 10031670,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c3b476abc33ffd7014c4/large",
+      "repo_path": "auctions/1970/photos/9949/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 758708
+    },
+    {
+      "lot": "9949",
+      "index": 2,
+      "source_image_id": 10031759,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1969cf762b86a28fe4cc/large",
+      "repo_path": "auctions/1970/photos/9949/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 768270
+    },
+    {
+      "lot": "9949",
+      "index": 3,
+      "source_image_id": 10031845,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/17f56a3ef1e3d0496806/large",
+      "repo_path": "auctions/1970/photos/9949/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 547057
+    },
+    {
+      "lot": "9949",
+      "index": 4,
+      "source_image_id": 10031928,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3d41c11cd51e001ec452/large",
+      "repo_path": "auctions/1970/photos/9949/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 515052
+    },
+    {
+      "lot": "9949",
+      "index": 5,
+      "source_image_id": 10031982,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8a9df26ef2f6c11a6f72/large",
+      "repo_path": "auctions/1970/photos/9949/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 371946
+    },
+    {
+      "lot": "9950",
+      "index": 1,
+      "source_image_id": 10031671,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/84053bb73a0124fea934/large",
+      "repo_path": "auctions/1970/photos/9950/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 789205
+    },
+    {
+      "lot": "9950",
+      "index": 2,
+      "source_image_id": 10031755,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/21772476e261bc247145/large",
+      "repo_path": "auctions/1970/photos/9950/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 590029
+    },
+    {
+      "lot": "9950",
+      "index": 3,
+      "source_image_id": 10031841,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6f5b66870deb92fb9929/large",
+      "repo_path": "auctions/1970/photos/9950/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 490306
+    },
+    {
+      "lot": "9950",
+      "index": 4,
+      "source_image_id": 10031926,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4a762830bc66eb6b0872/large",
+      "repo_path": "auctions/1970/photos/9950/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 438582
+    },
+    {
+      "lot": "9951",
+      "index": 1,
+      "source_image_id": 10031672,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c4c60335054fa8c7ebb9/large",
+      "repo_path": "auctions/1970/photos/9951/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 778168
+    },
+    {
+      "lot": "9951",
+      "index": 2,
+      "source_image_id": 10031756,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/53b86386741667fb8ae6/large",
+      "repo_path": "auctions/1970/photos/9951/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 614115
+    },
+    {
+      "lot": "9951",
+      "index": 3,
+      "source_image_id": 10031843,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bf984fffd7b594ec6510/large",
+      "repo_path": "auctions/1970/photos/9951/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 557287
+    },
+    {
+      "lot": "9951",
+      "index": 4,
+      "source_image_id": 10031930,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f81dc691da5dc715777a/large",
+      "repo_path": "auctions/1970/photos/9951/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 605364
+    },
+    {
+      "lot": "9951",
+      "index": 5,
+      "source_image_id": 10031981,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8975e756b2e93d30ffd4/large",
+      "repo_path": "auctions/1970/photos/9951/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 244113
+    },
+    {
+      "lot": "9952",
+      "index": 1,
+      "source_image_id": 10031674,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2f03bab6f907193c8f18/large",
+      "repo_path": "auctions/1970/photos/9952/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 744203
+    },
+    {
+      "lot": "9952",
+      "index": 2,
+      "source_image_id": 10031757,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c8cbd1d714ea033fc02f/large",
+      "repo_path": "auctions/1970/photos/9952/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 658488
+    },
+    {
+      "lot": "9952",
+      "index": 3,
+      "source_image_id": 10031844,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5bb57ad933061a3d4947/large",
+      "repo_path": "auctions/1970/photos/9952/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 549904
+    },
+    {
+      "lot": "9952",
+      "index": 4,
+      "source_image_id": 10031933,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/610bbb8f2f288173fe75/large",
+      "repo_path": "auctions/1970/photos/9952/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 566979
+    },
+    {
+      "lot": "9952",
+      "index": 5,
+      "source_image_id": 10031984,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d9fd7ed347c080f726d8/large",
+      "repo_path": "auctions/1970/photos/9952/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 529729
+    },
+    {
+      "lot": "9953",
+      "index": 1,
+      "source_image_id": 10031673,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b448004fdebf0a9c20e4/large",
+      "repo_path": "auctions/1970/photos/9953/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 725926
+    },
+    {
+      "lot": "9953",
+      "index": 2,
+      "source_image_id": 10031760,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/10099d62ed58b18860fa/large",
+      "repo_path": "auctions/1970/photos/9953/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 722953
+    },
+    {
+      "lot": "9953",
+      "index": 3,
+      "source_image_id": 10031853,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/921fb4b1591df2b29ee4/large",
+      "repo_path": "auctions/1970/photos/9953/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 590498
+    },
+    {
+      "lot": "9953",
+      "index": 4,
+      "source_image_id": 10031932,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d6b92aa15fa59833ba4b/large",
+      "repo_path": "auctions/1970/photos/9953/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 537179
+    },
+    {
+      "lot": "9953",
+      "index": 5,
+      "source_image_id": 10031986,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a7b34e5f76fb8d00bb55/large",
+      "repo_path": "auctions/1970/photos/9953/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 529959
+    },
+    {
+      "lot": "9953",
+      "index": 6,
+      "source_image_id": 10032030,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fae09b913615fbac291d/large",
+      "repo_path": "auctions/1970/photos/9953/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 499347
+    },
+    {
+      "lot": "9954",
+      "index": 1,
+      "source_image_id": 10031675,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7152129afff33ad2f9e2/large",
+      "repo_path": "auctions/1970/photos/9954/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 765823
+    },
+    {
+      "lot": "9954",
+      "index": 2,
+      "source_image_id": 10031761,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/43674e295c24f2cf4234/large",
+      "repo_path": "auctions/1970/photos/9954/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 758736
+    },
+    {
+      "lot": "9954",
+      "index": 3,
+      "source_image_id": 10031846,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f89760a2a659b0acdd4/large",
+      "repo_path": "auctions/1970/photos/9954/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 667503
+    },
+    {
+      "lot": "9954",
+      "index": 4,
+      "source_image_id": 10031935,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6b7141db820180eee490/large",
+      "repo_path": "auctions/1970/photos/9954/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 731760
+    },
+    {
+      "lot": "9954",
+      "index": 5,
+      "source_image_id": 10031987,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a00ccf0f8debc2fbbd57/large",
+      "repo_path": "auctions/1970/photos/9954/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 647601
+    },
+    {
+      "lot": "9954",
+      "index": 6,
+      "source_image_id": 10032034,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ddcf068c112260c1bfca/large",
+      "repo_path": "auctions/1970/photos/9954/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 602104
+    },
+    {
+      "lot": "9954",
+      "index": 7,
+      "source_image_id": 10032070,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d63b8a2cce6992318109/large",
+      "repo_path": "auctions/1970/photos/9954/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 594197
+    },
+    {
+      "lot": "9954",
+      "index": 8,
+      "source_image_id": 10032089,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/49de5c7a5eea05707e82/large",
+      "repo_path": "auctions/1970/photos/9954/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 442006
+    },
+    {
+      "lot": "9955",
+      "index": 1,
+      "source_image_id": 10031677,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8ed200e68865d3beba33/large",
+      "repo_path": "auctions/1970/photos/9955/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 841640
+    },
+    {
+      "lot": "9955",
+      "index": 2,
+      "source_image_id": 10031762,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f27a3a23e6e81f4c5c3a/large",
+      "repo_path": "auctions/1970/photos/9955/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 728716
+    },
+    {
+      "lot": "9955",
+      "index": 3,
+      "source_image_id": 10031847,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3679e4420c0a9df04967/large",
+      "repo_path": "auctions/1970/photos/9955/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 631883
+    },
+    {
+      "lot": "9955",
+      "index": 4,
+      "source_image_id": 10031934,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/87e4a6d36360ee545fbe/large",
+      "repo_path": "auctions/1970/photos/9955/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 447595
+    },
+    {
+      "lot": "9955",
+      "index": 5,
+      "source_image_id": 10031991,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/13c7a5ba097feb0db5bc/large",
+      "repo_path": "auctions/1970/photos/9955/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 640206
+    },
+    {
+      "lot": "9955",
+      "index": 6,
+      "source_image_id": 10032031,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b0f903b0bc0db4e97168/large",
+      "repo_path": "auctions/1970/photos/9955/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 496718
+    },
+    {
+      "lot": "9955",
+      "index": 7,
+      "source_image_id": 10032072,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9001d8add957c196ee4c/large",
+      "repo_path": "auctions/1970/photos/9955/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 761035
+    },
+    {
+      "lot": "9955",
+      "index": 8,
+      "source_image_id": 10032090,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c68928bf375a7bb27445/large",
+      "repo_path": "auctions/1970/photos/9955/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 610277
+    },
+    {
+      "lot": "9955",
+      "index": 9,
+      "source_image_id": 10032105,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6067ed2a582ffce0f43f/large",
+      "repo_path": "auctions/1970/photos/9955/09.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 542693
+    },
+    {
+      "lot": "9955",
+      "index": 10,
+      "source_image_id": 10032114,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c017ed0037d24aae5a10/large",
+      "repo_path": "auctions/1970/photos/9955/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 273293
+    },
+    {
+      "lot": "9956",
+      "index": 1,
+      "source_image_id": 10031676,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/43a15a09ca8ec4bcc233/large",
+      "repo_path": "auctions/1970/photos/9956/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 738229
+    },
+    {
+      "lot": "9956",
+      "index": 2,
+      "source_image_id": 10031765,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/54906d84bd361811f630/large",
+      "repo_path": "auctions/1970/photos/9956/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 599981
+    },
+    {
+      "lot": "9956",
+      "index": 3,
+      "source_image_id": 10031848,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6d65f52ea82bd98544d0/large",
+      "repo_path": "auctions/1970/photos/9956/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 627412
+    },
+    {
+      "lot": "9956",
+      "index": 4,
+      "source_image_id": 10031931,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d093ed63a25ca143c5fa/large",
+      "repo_path": "auctions/1970/photos/9956/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 356785
+    },
+    {
+      "lot": "9956",
+      "index": 5,
+      "source_image_id": 10031989,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c02a67222a60e6b759f8/large",
+      "repo_path": "auctions/1970/photos/9956/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 672312
+    },
+    {
+      "lot": "9956",
+      "index": 6,
+      "source_image_id": 10032033,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1fd24d1c026b2506c5c1/large",
+      "repo_path": "auctions/1970/photos/9956/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 559696
+    },
+    {
+      "lot": "9956",
+      "index": 7,
+      "source_image_id": 10032069,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c147b8ec910d075250bd/large",
+      "repo_path": "auctions/1970/photos/9956/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 452066
+    },
+    {
+      "lot": "9956",
+      "index": 8,
+      "source_image_id": 10032091,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/711470c90d9c2eca34ab/large",
+      "repo_path": "auctions/1970/photos/9956/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 349524
+    },
+    {
+      "lot": "9957",
+      "index": 1,
+      "source_image_id": 10031678,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/30718e1c4c80e39c3492/large",
+      "repo_path": "auctions/1970/photos/9957/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 549573
+    },
+    {
+      "lot": "9957",
+      "index": 2,
+      "source_image_id": 10031764,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7557469785c709fa3da9/large",
+      "repo_path": "auctions/1970/photos/9957/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 418829
+    },
+    {
+      "lot": "9957",
+      "index": 3,
+      "source_image_id": 10031849,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8ec4a2987ed1242822b7/large",
+      "repo_path": "auctions/1970/photos/9957/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 411324
+    },
+    {
+      "lot": "9957",
+      "index": 4,
+      "source_image_id": 10031936,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/659dab38bc1db805f8aa/large",
+      "repo_path": "auctions/1970/photos/9957/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 351116
+    },
+    {
+      "lot": "9957",
+      "index": 5,
+      "source_image_id": 10031988,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0af52e61cbed358d9209/large",
+      "repo_path": "auctions/1970/photos/9957/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 404909
+    },
+    {
+      "lot": "9958",
+      "index": 1,
+      "source_image_id": 10031680,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dea56ea9329d1a52114c/large",
+      "repo_path": "auctions/1970/photos/9958/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 774527
+    },
+    {
+      "lot": "9958",
+      "index": 2,
+      "source_image_id": 10031763,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7ef1d43f6cc72e78e017/large",
+      "repo_path": "auctions/1970/photos/9958/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 564217
+    },
+    {
+      "lot": "9958",
+      "index": 3,
+      "source_image_id": 10031851,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9eab12447facd109e782/large",
+      "repo_path": "auctions/1970/photos/9958/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 740121
+    },
+    {
+      "lot": "9958",
+      "index": 4,
+      "source_image_id": 10031937,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fceb264082b0409ce001/large",
+      "repo_path": "auctions/1970/photos/9958/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 397009
+    },
+    {
+      "lot": "9959",
+      "index": 1,
+      "source_image_id": 10031681,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/839a3b0445b9b1f29c6a/large",
+      "repo_path": "auctions/1970/photos/9959/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 780617
+    },
+    {
+      "lot": "9959",
+      "index": 2,
+      "source_image_id": 10031770,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7a765b3f0de945c81890/large",
+      "repo_path": "auctions/1970/photos/9959/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 760814
+    },
+    {
+      "lot": "9959",
+      "index": 3,
+      "source_image_id": 10031852,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e24ca9c7b492963189ca/large",
+      "repo_path": "auctions/1970/photos/9959/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 746218
+    },
+    {
+      "lot": "9959",
+      "index": 4,
+      "source_image_id": 10031938,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9575691ab477c176d4fb/large",
+      "repo_path": "auctions/1970/photos/9959/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 568832
+    },
+    {
+      "lot": "9959",
+      "index": 5,
+      "source_image_id": 10031990,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6b9b80320b6b6c90bc97/large",
+      "repo_path": "auctions/1970/photos/9959/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 407248
+    },
+    {
+      "lot": "9960",
+      "index": 1,
+      "source_image_id": 10031679,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/818b60d3a004dbb7f4a4/large",
+      "repo_path": "auctions/1970/photos/9960/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 619211
+    },
+    {
+      "lot": "9960",
+      "index": 2,
+      "source_image_id": 10031769,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/695f2420225334f3e8c4/large",
+      "repo_path": "auctions/1970/photos/9960/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 528557
+    },
+    {
+      "lot": "9960",
+      "index": 3,
+      "source_image_id": 10031850,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6ebcfd2c4aae6f896517/large",
+      "repo_path": "auctions/1970/photos/9960/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 594070
+    },
+    {
+      "lot": "9960",
+      "index": 4,
+      "source_image_id": 10031940,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/39a2b0206616d0f753c0/large",
+      "repo_path": "auctions/1970/photos/9960/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 671486
+    },
+    {
+      "lot": "9960",
+      "index": 5,
+      "source_image_id": 10031993,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/304ac404101466b87c90/large",
+      "repo_path": "auctions/1970/photos/9960/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 723182
+    },
+    {
+      "lot": "9960",
+      "index": 6,
+      "source_image_id": 10032032,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0d13ea1cacf4bf40b3a5/large",
+      "repo_path": "auctions/1970/photos/9960/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 433973
+    },
+    {
+      "lot": "9961",
+      "index": 1,
+      "source_image_id": 10031682,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fe81747b3ef172f9c4e5/large",
+      "repo_path": "auctions/1970/photos/9961/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 638964
+    },
+    {
+      "lot": "9961",
+      "index": 2,
+      "source_image_id": 10031768,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/82293410b11db59da1f6/large",
+      "repo_path": "auctions/1970/photos/9961/02.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 510707
+    },
+    {
+      "lot": "9961",
+      "index": 3,
+      "source_image_id": 10031854,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a6618a5f13234bd6d4b7/large",
+      "repo_path": "auctions/1970/photos/9961/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 470998
+    },
+    {
+      "lot": "9961",
+      "index": 4,
+      "source_image_id": 10031939,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8bd846064cb342ba0681/large",
+      "repo_path": "auctions/1970/photos/9961/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 411115
+    },
+    {
+      "lot": "9962",
+      "index": 1,
+      "source_image_id": 10031683,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3cc46b4b6ce6752eb59f/large",
+      "repo_path": "auctions/1970/photos/9962/01.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 651003
+    },
+    {
+      "lot": "9962",
+      "index": 2,
+      "source_image_id": 10031766,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/08a08b7868cdeedb72ef/large",
+      "repo_path": "auctions/1970/photos/9962/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 485289
+    },
+    {
+      "lot": "9962",
+      "index": 3,
+      "source_image_id": 10031857,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/261ea0533f425f987d12/large",
+      "repo_path": "auctions/1970/photos/9962/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 580402
+    },
+    {
+      "lot": "9962",
+      "index": 4,
+      "source_image_id": 10031941,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c661b8e6baa6cfa24676/large",
+      "repo_path": "auctions/1970/photos/9962/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 424586
+    },
+    {
+      "lot": "9963",
+      "index": 1,
+      "source_image_id": 10031685,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a8f4196e90ab91e634b3/large",
+      "repo_path": "auctions/1970/photos/9963/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 618357
+    },
+    {
+      "lot": "9963",
+      "index": 2,
+      "source_image_id": 10031767,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3946bed67f00c3217818/large",
+      "repo_path": "auctions/1970/photos/9963/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 502865
+    },
+    {
+      "lot": "9963",
+      "index": 3,
+      "source_image_id": 10031856,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/869cfc772cb81d237263/large",
+      "repo_path": "auctions/1970/photos/9963/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 443326
+    },
+    {
+      "lot": "9963",
+      "index": 4,
+      "source_image_id": 10031942,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/813b217cff28008e9d7f/large",
+      "repo_path": "auctions/1970/photos/9963/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 451674
+    },
+    {
+      "lot": "9963",
+      "index": 5,
+      "source_image_id": 10031992,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/29a089d737a4330ef85f/large",
+      "repo_path": "auctions/1970/photos/9963/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 644027
+    },
+    {
+      "lot": "9963",
+      "index": 6,
+      "source_image_id": 10032035,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b5115703042b3f294b20/large",
+      "repo_path": "auctions/1970/photos/9963/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 389226
+    },
+    {
+      "lot": "9964",
+      "index": 1,
+      "source_image_id": 10031684,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6580ffd87cddaf72fbd5/large",
+      "repo_path": "auctions/1970/photos/9964/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 498449
+    },
+    {
+      "lot": "9964",
+      "index": 2,
+      "source_image_id": 10031772,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d505442d351e4f0e2d25/large",
+      "repo_path": "auctions/1970/photos/9964/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 552672
+    },
+    {
+      "lot": "9964",
+      "index": 3,
+      "source_image_id": 10031855,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/009d560e3d73a8b1990f/large",
+      "repo_path": "auctions/1970/photos/9964/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 361237
+    },
+    {
+      "lot": "9964",
+      "index": 4,
+      "source_image_id": 10031944,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/35f9e70f36e255779a6c/large",
+      "repo_path": "auctions/1970/photos/9964/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 456697
+    },
+    {
+      "lot": "9964",
+      "index": 5,
+      "source_image_id": 10031997,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/966077246044717f0aa8/large",
+      "repo_path": "auctions/1970/photos/9964/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 494685
+    },
+    {
+      "lot": "9964",
+      "index": 6,
+      "source_image_id": 10032038,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/23ee73d8103287b846c3/large",
+      "repo_path": "auctions/1970/photos/9964/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 457814
+    },
+    {
+      "lot": "9964",
+      "index": 7,
+      "source_image_id": 10032067,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a284d6a32debc2f1ba35/large",
+      "repo_path": "auctions/1970/photos/9964/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 328950
+    },
+    {
+      "lot": "9964",
+      "index": 8,
+      "source_image_id": 10032092,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5cac3cec8fbae3ea6924/large",
+      "repo_path": "auctions/1970/photos/9964/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 408557
+    },
+    {
+      "lot": "9964",
+      "index": 9,
+      "source_image_id": 10032107,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/08f756ad19b89ebf0e81/large",
+      "repo_path": "auctions/1970/photos/9964/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 283392
+    },
+    {
+      "lot": "9964",
+      "index": 10,
+      "source_image_id": 10032122,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b3427f43a255c670eeda/large",
+      "repo_path": "auctions/1970/photos/9964/10.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 547361
+    },
+    {
+      "lot": "9964",
+      "index": 11,
+      "source_image_id": 10032120,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f0e21c0cd961d7b1859/large",
+      "repo_path": "auctions/1970/photos/9964/11.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 371891
+    },
+    {
+      "lot": "9965",
+      "index": 1,
+      "source_image_id": 10031686,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2624f184b5612e54c60b/large",
+      "repo_path": "auctions/1970/photos/9965/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 653770
+    },
+    {
+      "lot": "9965",
+      "index": 2,
+      "source_image_id": 10031773,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/092054cadf787a7a7a87/large",
+      "repo_path": "auctions/1970/photos/9965/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 551917
+    },
+    {
+      "lot": "9965",
+      "index": 3,
+      "source_image_id": 10031858,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/02427c39c765f09cf6de/large",
+      "repo_path": "auctions/1970/photos/9965/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 569669
+    },
+    {
+      "lot": "9965",
+      "index": 4,
+      "source_image_id": 10031943,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cf108ebe153f9da5c1b7/large",
+      "repo_path": "auctions/1970/photos/9965/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 444760
+    },
+    {
+      "lot": "9965",
+      "index": 5,
+      "source_image_id": 10031994,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/80f3e0995307b557dc57/large",
+      "repo_path": "auctions/1970/photos/9965/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 324032
+    },
+    {
+      "lot": "9965",
+      "index": 6,
+      "source_image_id": 10032036,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/97673c50497f0d11d1b2/large",
+      "repo_path": "auctions/1970/photos/9965/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 312781
+    },
+    {
+      "lot": "9965",
+      "index": 7,
+      "source_image_id": 10032068,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a8e841cf2fa9e3059bb1/large",
+      "repo_path": "auctions/1970/photos/9965/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 382236
+    },
+    {
+      "lot": "9965",
+      "index": 8,
+      "source_image_id": 10032095,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5dfe0d2681d2e9ca6e63/large",
+      "repo_path": "auctions/1970/photos/9965/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 449474
+    },
+    {
+      "lot": "9966",
+      "index": 1,
+      "source_image_id": 10031687,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f3dbb92280bb1edaaa28/large",
+      "repo_path": "auctions/1970/photos/9966/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 815420
+    },
+    {
+      "lot": "9966",
+      "index": 2,
+      "source_image_id": 10031774,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/39e0ef65c3fde3433858/large",
+      "repo_path": "auctions/1970/photos/9966/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 688939
+    },
+    {
+      "lot": "9966",
+      "index": 3,
+      "source_image_id": 10031859,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b87b0f6eaf05bcb649ab/large",
+      "repo_path": "auctions/1970/photos/9966/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 683881
+    },
+    {
+      "lot": "9966",
+      "index": 4,
+      "source_image_id": 10031948,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/aac9e3667ae97193fd4c/large",
+      "repo_path": "auctions/1970/photos/9966/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 777906
+    },
+    {
+      "lot": "9966",
+      "index": 5,
+      "source_image_id": 10032002,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bee2de8e2d29e5f9ecb3/large",
+      "repo_path": "auctions/1970/photos/9966/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 969995
+    },
+    {
+      "lot": "9966",
+      "index": 6,
+      "source_image_id": 10032037,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/777af71827dc2f2d7708/large",
+      "repo_path": "auctions/1970/photos/9966/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 420974
+    },
+    {
+      "lot": "9967",
+      "index": 1,
+      "source_image_id": 10031688,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f2728073e53e7aae2f5c/large",
+      "repo_path": "auctions/1970/photos/9967/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 594919
+    },
+    {
+      "lot": "9967",
+      "index": 2,
+      "source_image_id": 10031771,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/016aa134e62bea04d92c/large",
+      "repo_path": "auctions/1970/photos/9967/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 551800
+    },
+    {
+      "lot": "9967",
+      "index": 3,
+      "source_image_id": 10031860,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ad770c97ed1ae8c6c72d/large",
+      "repo_path": "auctions/1970/photos/9967/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 539825
+    },
+    {
+      "lot": "9967",
+      "index": 4,
+      "source_image_id": 10031946,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c42f42b7f4834ca656d9/large",
+      "repo_path": "auctions/1970/photos/9967/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 627108
+    },
+    {
+      "lot": "9967",
+      "index": 5,
+      "source_image_id": 10031996,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4a2f9816b3f4cb1d0b2b/large",
+      "repo_path": "auctions/1970/photos/9967/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 480146
+    },
+    {
+      "lot": "9967",
+      "index": 6,
+      "source_image_id": 10032043,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/79c0c4425004c792e164/large",
+      "repo_path": "auctions/1970/photos/9967/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 574767
+    },
+    {
+      "lot": "9967",
+      "index": 7,
+      "source_image_id": 10032075,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f5b21283ef107f184a1c/large",
+      "repo_path": "auctions/1970/photos/9967/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 495539
+    },
+    {
+      "lot": "9968",
+      "index": 1,
+      "source_image_id": 10031689,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b7b6133fb5ac933b7dbb/large",
+      "repo_path": "auctions/1970/photos/9968/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 690187
+    },
+    {
+      "lot": "9968",
+      "index": 2,
+      "source_image_id": 10031775,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e3705025e24bc67eee9a/large",
+      "repo_path": "auctions/1970/photos/9968/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 669554
+    },
+    {
+      "lot": "9968",
+      "index": 3,
+      "source_image_id": 10031863,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bfb795b14fbeefb08ae0/large",
+      "repo_path": "auctions/1970/photos/9968/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 680011
+    },
+    {
+      "lot": "9968",
+      "index": 4,
+      "source_image_id": 10031945,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2cc9afe31f145bf6c3fc/large",
+      "repo_path": "auctions/1970/photos/9968/04.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 460470
+    },
+    {
+      "lot": "9968",
+      "index": 5,
+      "source_image_id": 10031995,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d5cbdd2252a9db3978c2/large",
+      "repo_path": "auctions/1970/photos/9968/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 444466
+    },
+    {
+      "lot": "9969",
+      "index": 1,
+      "source_image_id": 10031691,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5ae7f90f6cad9407012e/large",
+      "repo_path": "auctions/1970/photos/9969/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 688546
+    },
+    {
+      "lot": "9969",
+      "index": 2,
+      "source_image_id": 10031778,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c30891261158df804531/large",
+      "repo_path": "auctions/1970/photos/9969/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 534972
+    },
+    {
+      "lot": "9969",
+      "index": 3,
+      "source_image_id": 10031861,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c7f8cee8b72230fae05f/large",
+      "repo_path": "auctions/1970/photos/9969/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 381482
+    },
+    {
+      "lot": "9969",
+      "index": 4,
+      "source_image_id": 10031949,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e734621a4f90d65e7e90/large",
+      "repo_path": "auctions/1970/photos/9969/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 561012
+    },
+    {
+      "lot": "9969",
+      "index": 5,
+      "source_image_id": 10031999,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dc381c70afb2efe7d4c6/large",
+      "repo_path": "auctions/1970/photos/9969/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 433635
+    },
+    {
+      "lot": "9969",
+      "index": 6,
+      "source_image_id": 10032042,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b786ba0c5f476746110e/large",
+      "repo_path": "auctions/1970/photos/9969/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 517922
+    },
+    {
+      "lot": "9969",
+      "index": 7,
+      "source_image_id": 10032073,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6f8c5bd920079d08f443/large",
+      "repo_path": "auctions/1970/photos/9969/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 444070
+    },
+    {
+      "lot": "9970",
+      "index": 1,
+      "source_image_id": 10031690,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/92d9edd970201094019d/large",
+      "repo_path": "auctions/1970/photos/9970/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 508781
+    },
+    {
+      "lot": "9970",
+      "index": 2,
+      "source_image_id": 10031776,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/752864ddbe59f90488c9/large",
+      "repo_path": "auctions/1970/photos/9970/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 442345
+    },
+    {
+      "lot": "9970",
+      "index": 3,
+      "source_image_id": 10031862,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c330b5a334d32bea72c2/large",
+      "repo_path": "auctions/1970/photos/9970/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 413316
+    },
+    {
+      "lot": "9970",
+      "index": 4,
+      "source_image_id": 10031947,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ff5164122e29f5018d00/large",
+      "repo_path": "auctions/1970/photos/9970/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 446832
+    },
+    {
+      "lot": "9970",
+      "index": 5,
+      "source_image_id": 10031998,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8f5ea48847e348ddeb21/large",
+      "repo_path": "auctions/1970/photos/9970/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 199970
+    },
+    {
+      "lot": "9971",
+      "index": 1,
+      "source_image_id": 10031692,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a92b495a5232c8d8dfa9/large",
+      "repo_path": "auctions/1970/photos/9971/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 460014
+    },
+    {
+      "lot": "9971",
+      "index": 2,
+      "source_image_id": 10031779,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/915867cd88b7d22c40bb/large",
+      "repo_path": "auctions/1970/photos/9971/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 538200
+    },
+    {
+      "lot": "9971",
+      "index": 3,
+      "source_image_id": 10031864,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2c63ad7a40e93e127970/large",
+      "repo_path": "auctions/1970/photos/9971/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 490325
+    },
+    {
+      "lot": "9971",
+      "index": 4,
+      "source_image_id": 10031950,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a18151b1b8d958c2ffb5/large",
+      "repo_path": "auctions/1970/photos/9971/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 367288
+    },
+    {
+      "lot": "9971",
+      "index": 5,
+      "source_image_id": 10032000,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b02c65cdf795044b66/large",
+      "repo_path": "auctions/1970/photos/9971/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 439976
+    },
+    {
+      "lot": "9971",
+      "index": 6,
+      "source_image_id": 10032039,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4eb9d916914ca10ad54e/large",
+      "repo_path": "auctions/1970/photos/9971/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 435222
+    },
+    {
+      "lot": "9971",
+      "index": 7,
+      "source_image_id": 10032071,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a6187b6e2e3822cc8c2a/large",
+      "repo_path": "auctions/1970/photos/9971/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 184132
+    },
+    {
+      "lot": "9972",
+      "index": 1,
+      "source_image_id": 10031695,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d2a71098865ab3900389/large",
+      "repo_path": "auctions/1970/photos/9972/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 666800
+    },
+    {
+      "lot": "9972",
+      "index": 2,
+      "source_image_id": 10031780,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d46cc2f5e59651dd7d6f/large",
+      "repo_path": "auctions/1970/photos/9972/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 567842
+    },
+    {
+      "lot": "9972",
+      "index": 3,
+      "source_image_id": 10031867,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2357f767dbb34995864f/large",
+      "repo_path": "auctions/1970/photos/9972/03.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 587355
+    },
+    {
+      "lot": "9972",
+      "index": 4,
+      "source_image_id": 10031953,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dd87733c1fb0c4212058/large",
+      "repo_path": "auctions/1970/photos/9972/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 622837
+    },
+    {
+      "lot": "9972",
+      "index": 5,
+      "source_image_id": 10032001,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2b9789a1811335e82d5c/large",
+      "repo_path": "auctions/1970/photos/9972/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 480747
+    },
+    {
+      "lot": "9972",
+      "index": 6,
+      "source_image_id": 10032041,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7d57d8565f4c8605d856/large",
+      "repo_path": "auctions/1970/photos/9972/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 555819
+    },
+    {
+      "lot": "9972",
+      "index": 7,
+      "source_image_id": 10032074,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6d5dfa5fef29265f39b6/large",
+      "repo_path": "auctions/1970/photos/9972/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 211613
+    },
+    {
+      "lot": "9973",
+      "index": 1,
+      "source_image_id": 10031693,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8efc05611f0ffa58739e/large",
+      "repo_path": "auctions/1970/photos/9973/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 424559
+    },
+    {
+      "lot": "9973",
+      "index": 2,
+      "source_image_id": 10031777,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/61d214f2ccf957f335c7/large",
+      "repo_path": "auctions/1970/photos/9973/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 445701
+    },
+    {
+      "lot": "9973",
+      "index": 3,
+      "source_image_id": 10031865,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/299e9376e12851480c03/large",
+      "repo_path": "auctions/1970/photos/9973/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 408495
+    },
+    {
+      "lot": "9973",
+      "index": 4,
+      "source_image_id": 10031952,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8137b2d4d45b398118e8/large",
+      "repo_path": "auctions/1970/photos/9973/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 459641
+    },
+    {
+      "lot": "9973",
+      "index": 5,
+      "source_image_id": 10032003,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fa8658110e3a4c7074df/large",
+      "repo_path": "auctions/1970/photos/9973/05.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 524079
+    },
+    {
+      "lot": "9973",
+      "index": 6,
+      "source_image_id": 10032040,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e5b91a7c956f8da794cd/large",
+      "repo_path": "auctions/1970/photos/9973/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 463364
+    },
+    {
+      "lot": "9974",
+      "index": 1,
+      "source_image_id": 10031696,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/13c3cb4b9094444efd01/large",
+      "repo_path": "auctions/1970/photos/9974/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 428090
+    },
+    {
+      "lot": "9974",
+      "index": 2,
+      "source_image_id": 10031782,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/905b35da6f127eb42d2d/large",
+      "repo_path": "auctions/1970/photos/9974/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 483989
+    },
+    {
+      "lot": "9974",
+      "index": 3,
+      "source_image_id": 10031866,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f3297e11f754ff040d/large",
+      "repo_path": "auctions/1970/photos/9974/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 472026
+    },
+    {
+      "lot": "9974",
+      "index": 4,
+      "source_image_id": 10031951,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a27cf87043653a00bbd1/large",
+      "repo_path": "auctions/1970/photos/9974/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 400502
+    },
+    {
+      "lot": "9974",
+      "index": 5,
+      "source_image_id": 10032005,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8b7d50bc237845c1c1ea/large",
+      "repo_path": "auctions/1970/photos/9974/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 374996
+    },
+    {
+      "lot": "9974",
+      "index": 6,
+      "source_image_id": 10032045,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4636a5ad23995d77f820/large",
+      "repo_path": "auctions/1970/photos/9974/06.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 311677
+    },
+    {
+      "lot": "9974",
+      "index": 7,
+      "source_image_id": 10032076,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/eca68b455274093fbd1f/large",
+      "repo_path": "auctions/1970/photos/9974/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 313846
+    },
+    {
+      "lot": "9975",
+      "index": 1,
+      "source_image_id": 10031694,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/764c154f5b35625336da/large",
+      "repo_path": "auctions/1970/photos/9975/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 405079
+    },
+    {
+      "lot": "9975",
+      "index": 2,
+      "source_image_id": 10031783,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2527e739d26d02d74307/large",
+      "repo_path": "auctions/1970/photos/9975/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 484048
+    },
+    {
+      "lot": "9975",
+      "index": 3,
+      "source_image_id": 10031868,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0f743a64058d3603e1aa/large",
+      "repo_path": "auctions/1970/photos/9975/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 416673
+    },
+    {
+      "lot": "9975",
+      "index": 4,
+      "source_image_id": 10031955,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1eed8765b5ba3702d193/large",
+      "repo_path": "auctions/1970/photos/9975/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 462422
+    },
+    {
+      "lot": "9975",
+      "index": 5,
+      "source_image_id": 10032004,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a274978b44cc7f854d84/large",
+      "repo_path": "auctions/1970/photos/9975/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 358563
+    },
+    {
+      "lot": "9975",
+      "index": 6,
+      "source_image_id": 10032048,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/feb58249c65b5341f875/large",
+      "repo_path": "auctions/1970/photos/9975/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 266431
+    },
+    {
+      "lot": "9975",
+      "index": 7,
+      "source_image_id": 10032078,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b02d74dc5447976ab164/large",
+      "repo_path": "auctions/1970/photos/9975/07.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 374459
+    },
+    {
+      "lot": "9975",
+      "index": 8,
+      "source_image_id": 10032094,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2355299ae087de522270/large",
+      "repo_path": "auctions/1970/photos/9975/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 356462
+    },
+    {
+      "lot": "9976",
+      "index": 1,
+      "source_image_id": 10031697,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/44d3aa8e9ed44d311637/large",
+      "repo_path": "auctions/1970/photos/9976/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 455686
+    },
+    {
+      "lot": "9976",
+      "index": 2,
+      "source_image_id": 10031781,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/588785988b1ca167cde3/large",
+      "repo_path": "auctions/1970/photos/9976/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 425080
+    },
+    {
+      "lot": "9976",
+      "index": 3,
+      "source_image_id": 10031869,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d772d1d3f9fc13a6dc52/large",
+      "repo_path": "auctions/1970/photos/9976/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 511241
+    },
+    {
+      "lot": "9976",
+      "index": 4,
+      "source_image_id": 10031954,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/43d6929cebe93f13bc09/large",
+      "repo_path": "auctions/1970/photos/9976/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 339946
+    },
+    {
+      "lot": "9976",
+      "index": 5,
+      "source_image_id": 10032006,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bad18b97f9e685a72e4c/large",
+      "repo_path": "auctions/1970/photos/9976/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 535424
+    },
+    {
+      "lot": "9976",
+      "index": 6,
+      "source_image_id": 10032047,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2a64f54cfc48ae996f1e/large",
+      "repo_path": "auctions/1970/photos/9976/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 210257
+    },
+    {
+      "lot": "9977",
+      "index": 1,
+      "source_image_id": 10031699,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ecef777f7dc5f96516ca/large",
+      "repo_path": "auctions/1970/photos/9977/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 722810
+    },
+    {
+      "lot": "9977",
+      "index": 2,
+      "source_image_id": 10031785,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/01ae6099127d34cb5ad3/large",
+      "repo_path": "auctions/1970/photos/9977/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 818713
+    },
+    {
+      "lot": "9977",
+      "index": 3,
+      "source_image_id": 10031872,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0a5e395b26fcccd4ea89/large",
+      "repo_path": "auctions/1970/photos/9977/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 675684
+    },
+    {
+      "lot": "9977",
+      "index": 4,
+      "source_image_id": 10031956,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cc4381e16b3937023d53/large",
+      "repo_path": "auctions/1970/photos/9977/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 692002
+    },
+    {
+      "lot": "9977",
+      "index": 5,
+      "source_image_id": 10032008,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/acd12a043db1dddb6175/large",
+      "repo_path": "auctions/1970/photos/9977/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 868433
+    },
+    {
+      "lot": "9977",
+      "index": 6,
+      "source_image_id": 10032044,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7ccef951040e25bdb320/large",
+      "repo_path": "auctions/1970/photos/9977/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 227208
+    },
+    {
+      "lot": "9978",
+      "index": 1,
+      "source_image_id": 10031701,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ec0479e1f0ecf323f7cc/large",
+      "repo_path": "auctions/1970/photos/9978/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 676705
+    },
+    {
+      "lot": "9978",
+      "index": 2,
+      "source_image_id": 10031784,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fbb371bd6bd63fefec8f/large",
+      "repo_path": "auctions/1970/photos/9978/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 655501
+    },
+    {
+      "lot": "9978",
+      "index": 3,
+      "source_image_id": 10031870,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f9b714981d0a2071b28/large",
+      "repo_path": "auctions/1970/photos/9978/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 458718
+    },
+    {
+      "lot": "9978",
+      "index": 4,
+      "source_image_id": 10031957,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/71f91c301a93df1f2df8/large",
+      "repo_path": "auctions/1970/photos/9978/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 753545
+    },
+    {
+      "lot": "9978",
+      "index": 5,
+      "source_image_id": 10032007,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e42d0458b18ca24b99f1/large",
+      "repo_path": "auctions/1970/photos/9978/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 609926
+    },
+    {
+      "lot": "9978",
+      "index": 6,
+      "source_image_id": 10032049,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2bcf0955608b3057f2f4/large",
+      "repo_path": "auctions/1970/photos/9978/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 792236
+    },
+    {
+      "lot": "9979",
+      "index": 1,
+      "source_image_id": 10031698,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e5844612462994bc7ab8/large",
+      "repo_path": "auctions/1970/photos/9979/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 551144
+    },
+    {
+      "lot": "9979",
+      "index": 2,
+      "source_image_id": 10031786,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/69774eba5c5d24cdb79e/large",
+      "repo_path": "auctions/1970/photos/9979/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 691451
+    },
+    {
+      "lot": "9979",
+      "index": 3,
+      "source_image_id": 10031871,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/baa8b3555bd6b5f007ee/large",
+      "repo_path": "auctions/1970/photos/9979/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 490522
+    },
+    {
+      "lot": "9979",
+      "index": 4,
+      "source_image_id": 10031962,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d5218e6f193d06a0bd6a/large",
+      "repo_path": "auctions/1970/photos/9979/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 507531
+    },
+    {
+      "lot": "9979",
+      "index": 5,
+      "source_image_id": 10032011,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ae77e5ae2a145d92aae8/large",
+      "repo_path": "auctions/1970/photos/9979/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 448693
+    },
+    {
+      "lot": "9979",
+      "index": 6,
+      "source_image_id": 10032046,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/73f733e837b4bcf84a68/large",
+      "repo_path": "auctions/1970/photos/9979/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 349728
+    },
+    {
+      "lot": "9979",
+      "index": 7,
+      "source_image_id": 10032080,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0b66cbc4ce20daac2c68/large",
+      "repo_path": "auctions/1970/photos/9979/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 490430
+    },
+    {
+      "lot": "9979",
+      "index": 8,
+      "source_image_id": 10032097,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/336832f200ad1451b8fd/large",
+      "repo_path": "auctions/1970/photos/9979/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 500579
+    },
+    {
+      "lot": "9979",
+      "index": 9,
+      "source_image_id": 10032108,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b77cba81f165a3c0dc29/large",
+      "repo_path": "auctions/1970/photos/9979/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 452868
+    },
+    {
+      "lot": "9979",
+      "index": 10,
+      "source_image_id": 10032121,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/603a65dfe59902d47d92/large",
+      "repo_path": "auctions/1970/photos/9979/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 396382
+    },
+    {
+      "lot": "9979",
+      "index": 11,
+      "source_image_id": 10032119,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c77fd65ff122a7c86a3b/large",
+      "repo_path": "auctions/1970/photos/9979/11.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 274069
+    },
+    {
+      "lot": "9979",
+      "index": 12,
+      "source_image_id": 10032127,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5934247dd0e855320d69/large",
+      "repo_path": "auctions/1970/photos/9979/12.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 504843
+    },
+    {
+      "lot": "9979",
+      "index": 13,
+      "source_image_id": 10032130,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/31a0a3fe5185d34b5ec0/large",
+      "repo_path": "auctions/1970/photos/9979/13.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 562130
+    },
+    {
+      "lot": "9979",
+      "index": 14,
+      "source_image_id": 10032133,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5036ce20344b5e481c51/large",
+      "repo_path": "auctions/1970/photos/9979/14.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 622713
+    },
+    {
+      "lot": "9980",
+      "index": 1,
+      "source_image_id": 10031700,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e2e28dbefd498d7b0de6/large",
+      "repo_path": "auctions/1970/photos/9980/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 549666
+    },
+    {
+      "lot": "9980",
+      "index": 2,
+      "source_image_id": 10031789,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7c90ecbd1e84bbdcba14/large",
+      "repo_path": "auctions/1970/photos/9980/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 646318
+    },
+    {
+      "lot": "9980",
+      "index": 3,
+      "source_image_id": 10031873,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/79ae14c35133920ad279/large",
+      "repo_path": "auctions/1970/photos/9980/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 512421
+    },
+    {
+      "lot": "9980",
+      "index": 4,
+      "source_image_id": 10031960,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f92d3fd7d70406154edb/large",
+      "repo_path": "auctions/1970/photos/9980/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 468266
+    },
+    {
+      "lot": "9980",
+      "index": 5,
+      "source_image_id": 10032009,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4d762f8acad8af7be842/large",
+      "repo_path": "auctions/1970/photos/9980/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 367231
+    },
+    {
+      "lot": "9980",
+      "index": 6,
+      "source_image_id": 10032050,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3d9ac45fd0a0065aa802/large",
+      "repo_path": "auctions/1970/photos/9980/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 245478
+    },
+    {
+      "lot": "9980",
+      "index": 7,
+      "source_image_id": 10032077,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/dd7ab0039606fbaa3d22/large",
+      "repo_path": "auctions/1970/photos/9980/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 178622
+    },
+    {
+      "lot": "9980",
+      "index": 8,
+      "source_image_id": 10032100,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b586874fbc1e136399b9/large",
+      "repo_path": "auctions/1970/photos/9980/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 742370
+    },
+    {
+      "lot": "9980",
+      "index": 9,
+      "source_image_id": 10032109,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8f61077c81e5285201e4/large",
+      "repo_path": "auctions/1970/photos/9980/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 486622
+    },
+    {
+      "lot": "9981",
+      "index": 1,
+      "source_image_id": 10031702,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/de7254f149d71dbff147/large",
+      "repo_path": "auctions/1970/photos/9981/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 582831
+    },
+    {
+      "lot": "9981",
+      "index": 2,
+      "source_image_id": 10031788,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f6673fadd2f61a19e84/large",
+      "repo_path": "auctions/1970/photos/9981/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 653441
+    },
+    {
+      "lot": "9981",
+      "index": 3,
+      "source_image_id": 10031874,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e2e8c24ad85070826190/large",
+      "repo_path": "auctions/1970/photos/9981/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 464778
+    },
+    {
+      "lot": "9981",
+      "index": 4,
+      "source_image_id": 10031959,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9599ee60303cbe01107c/large",
+      "repo_path": "auctions/1970/photos/9981/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 450269
+    },
+    {
+      "lot": "9981",
+      "index": 5,
+      "source_image_id": 10032016,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/664d2bb27252c2e17b5e/large",
+      "repo_path": "auctions/1970/photos/9981/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 547348
+    },
+    {
+      "lot": "9981",
+      "index": 6,
+      "source_image_id": 10032053,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d85a94634d8216e57c64/large",
+      "repo_path": "auctions/1970/photos/9981/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 514418
+    },
+    {
+      "lot": "9981",
+      "index": 7,
+      "source_image_id": 10032081,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1ad95f4d0387f7f21964/large",
+      "repo_path": "auctions/1970/photos/9981/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 466080
+    },
+    {
+      "lot": "9981",
+      "index": 8,
+      "source_image_id": 10032099,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/82456ed0f0942fe42fe0/large",
+      "repo_path": "auctions/1970/photos/9981/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 626465
+    },
+    {
+      "lot": "9981",
+      "index": 9,
+      "source_image_id": 10032116,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6f3584a3fcb7b51c22f7/large",
+      "repo_path": "auctions/1970/photos/9981/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 736447
+    },
+    {
+      "lot": "9982",
+      "index": 1,
+      "source_image_id": 10031704,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9a943593a909f60787e6/large",
+      "repo_path": "auctions/1970/photos/9982/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 511319
+    },
+    {
+      "lot": "9982",
+      "index": 2,
+      "source_image_id": 10031790,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f4991be87c9723858714/large",
+      "repo_path": "auctions/1970/photos/9982/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 538883
+    },
+    {
+      "lot": "9982",
+      "index": 3,
+      "source_image_id": 10031875,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e2a6d781639b28254fe4/large",
+      "repo_path": "auctions/1970/photos/9982/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 396381
+    },
+    {
+      "lot": "9982",
+      "index": 4,
+      "source_image_id": 10031958,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8f198b9e7462b2d2785d/large",
+      "repo_path": "auctions/1970/photos/9982/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 402897
+    },
+    {
+      "lot": "9982",
+      "index": 5,
+      "source_image_id": 10032010,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/151a4d3b22a79907bde3/large",
+      "repo_path": "auctions/1970/photos/9982/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 408654
+    },
+    {
+      "lot": "9982",
+      "index": 6,
+      "source_image_id": 10032051,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/9536a2dd3dbc9b04445c/large",
+      "repo_path": "auctions/1970/photos/9982/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 300499
+    },
+    {
+      "lot": "9982",
+      "index": 7,
+      "source_image_id": 10032082,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/29d3b2a061e9f26b04bf/large",
+      "repo_path": "auctions/1970/photos/9982/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 392069
+    },
+    {
+      "lot": "9982",
+      "index": 8,
+      "source_image_id": 10032101,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/90a978b1883de5f07b83/large",
+      "repo_path": "auctions/1970/photos/9982/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 597396
+    },
+    {
+      "lot": "9982",
+      "index": 9,
+      "source_image_id": 10032110,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8caa1121ad6ffc52d64a/large",
+      "repo_path": "auctions/1970/photos/9982/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 597114
+    },
+    {
+      "lot": "9982",
+      "index": 10,
+      "source_image_id": 10032126,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4ba99966f4231b84d544/large",
+      "repo_path": "auctions/1970/photos/9982/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 683661
+    },
+    {
+      "lot": "9983",
+      "index": 1,
+      "source_image_id": 10031703,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/51c05895ba256b322d8d/large",
+      "repo_path": "auctions/1970/photos/9983/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 478235
+    },
+    {
+      "lot": "9983",
+      "index": 2,
+      "source_image_id": 10031787,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1b18cebff37cb5323dce/large",
+      "repo_path": "auctions/1970/photos/9983/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 526036
+    },
+    {
+      "lot": "9983",
+      "index": 3,
+      "source_image_id": 10031876,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b81e3bef7394fb83a8e7/large",
+      "repo_path": "auctions/1970/photos/9983/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 352864
+    },
+    {
+      "lot": "9983",
+      "index": 4,
+      "source_image_id": 10031961,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1635ad9f503ef109e92b/large",
+      "repo_path": "auctions/1970/photos/9983/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 486887
+    },
+    {
+      "lot": "9983",
+      "index": 5,
+      "source_image_id": 10032012,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/76cf5555f4802d497e7d/large",
+      "repo_path": "auctions/1970/photos/9983/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 459306
+    },
+    {
+      "lot": "9983",
+      "index": 6,
+      "source_image_id": 10032054,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0e03f26470e6a5f8e11d/large",
+      "repo_path": "auctions/1970/photos/9983/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 623914
+    },
+    {
+      "lot": "9983",
+      "index": 7,
+      "source_image_id": 10032084,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/2d50819e118d295d2c28/large",
+      "repo_path": "auctions/1970/photos/9983/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 411384
+    },
+    {
+      "lot": "9983",
+      "index": 8,
+      "source_image_id": 10032098,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a71c26567cf4b132c979/large",
+      "repo_path": "auctions/1970/photos/9983/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 420211
+    },
+    {
+      "lot": "9983",
+      "index": 9,
+      "source_image_id": 10032115,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/63df59da501b8ba9a3d4/large",
+      "repo_path": "auctions/1970/photos/9983/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 532972
+    },
+    {
+      "lot": "9983",
+      "index": 10,
+      "source_image_id": 10032117,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e4a169818d854a925911/large",
+      "repo_path": "auctions/1970/photos/9983/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 394772
+    },
+    {
+      "lot": "9983",
+      "index": 11,
+      "source_image_id": 10032125,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c16f797a02a87cd3df71/large",
+      "repo_path": "auctions/1970/photos/9983/11.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 369572
+    },
+    {
+      "lot": "9983",
+      "index": 12,
+      "source_image_id": 10032128,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/727b5d11fdd5631111ec/large",
+      "repo_path": "auctions/1970/photos/9983/12.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 485230
+    },
+    {
+      "lot": "9983",
+      "index": 13,
+      "source_image_id": 10032129,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5286ae8953ee2bdd60c5/large",
+      "repo_path": "auctions/1970/photos/9983/13.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 492155
+    },
+    {
+      "lot": "9983",
+      "index": 14,
+      "source_image_id": 10032132,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e39a1d9fe6f85ff48de3/large",
+      "repo_path": "auctions/1970/photos/9983/14.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 439493
+    },
+    {
+      "lot": "9983",
+      "index": 15,
+      "source_image_id": 10032131,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d7dc67ba810522927e3d/large",
+      "repo_path": "auctions/1970/photos/9983/15.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 355622
+    },
+    {
+      "lot": "9983",
+      "index": 16,
+      "source_image_id": 10032134,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a1a79a3b4496f7da0689/large",
+      "repo_path": "auctions/1970/photos/9983/16.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 468288
+    },
+    {
+      "lot": "9983",
+      "index": 17,
+      "source_image_id": 10032137,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/56392e4f194af4723ee4/large",
+      "repo_path": "auctions/1970/photos/9983/17.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 341148
+    },
+    {
+      "lot": "9983",
+      "index": 18,
+      "source_image_id": 10032135,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a28522ff9afedaf03116/large",
+      "repo_path": "auctions/1970/photos/9983/18.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 231977
+    },
+    {
+      "lot": "9983",
+      "index": 19,
+      "source_image_id": 10032139,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/54f998c1d00c42c98d2b/large",
+      "repo_path": "auctions/1970/photos/9983/19.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 547303
+    },
+    {
+      "lot": "9983",
+      "index": 20,
+      "source_image_id": 10032136,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/53e49181ef5529a3df9b/large",
+      "repo_path": "auctions/1970/photos/9983/20.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 333685
+    },
+    {
+      "lot": "9983",
+      "index": 21,
+      "source_image_id": 10032138,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ffe36b32e7b4e4ba27f0/large",
+      "repo_path": "auctions/1970/photos/9983/21.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 540265
+    },
+    {
+      "lot": "9984",
+      "index": 1,
+      "source_image_id": 10031705,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/09e887908e10e6fc45bb/large",
+      "repo_path": "auctions/1970/photos/9984/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 654357
+    },
+    {
+      "lot": "9984",
+      "index": 2,
+      "source_image_id": 10031794,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/35da2f564fd54065d2d9/large",
+      "repo_path": "auctions/1970/photos/9984/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 797109
+    },
+    {
+      "lot": "9984",
+      "index": 3,
+      "source_image_id": 10031878,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cdc200daa0c71deac3d9/large",
+      "repo_path": "auctions/1970/photos/9984/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 567211
+    },
+    {
+      "lot": "9984",
+      "index": 4,
+      "source_image_id": 10031964,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/78ed6885ed414a21d3e7/large",
+      "repo_path": "auctions/1970/photos/9984/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 435837
+    },
+    {
+      "lot": "9984",
+      "index": 5,
+      "source_image_id": 10032013,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/cc60b90fa169635622f5/large",
+      "repo_path": "auctions/1970/photos/9984/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 473600
+    },
+    {
+      "lot": "9984",
+      "index": 6,
+      "source_image_id": 10032052,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/36ba2e8ca8e9fb87059a/large",
+      "repo_path": "auctions/1970/photos/9984/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 442532
+    },
+    {
+      "lot": "9984",
+      "index": 7,
+      "source_image_id": 10032083,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0d7afb4e8891be08b407/large",
+      "repo_path": "auctions/1970/photos/9984/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 285341
+    },
+    {
+      "lot": "9984",
+      "index": 8,
+      "source_image_id": 10032103,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0301680041dc08bce56e/large",
+      "repo_path": "auctions/1970/photos/9984/08.jpg",
+      "width": 1440,
+      "height": 1920,
+      "bytes": 529310
+    },
+    {
+      "lot": "9984",
+      "index": 9,
+      "source_image_id": 10032111,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a0c1a27951ff89e87dd1/large",
+      "repo_path": "auctions/1970/photos/9984/09.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 456862
+    },
+    {
+      "lot": "9984",
+      "index": 10,
+      "source_image_id": 10032118,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/19e672cfa8dc9dd42f94/large",
+      "repo_path": "auctions/1970/photos/9984/10.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 506903
+    },
+    {
+      "lot": "9984",
+      "index": 11,
+      "source_image_id": 10032123,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/497cf79cbcff327a5185/large",
+      "repo_path": "auctions/1970/photos/9984/11.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 240954
+    },
+    {
+      "lot": "9985",
+      "index": 1,
+      "source_image_id": 10031706,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1b510c7c2c6f340c3f96/large",
+      "repo_path": "auctions/1970/photos/9985/01.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 649561
+    },
+    {
+      "lot": "9985",
+      "index": 2,
+      "source_image_id": 10031791,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/76093b403219e4235db2/large",
+      "repo_path": "auctions/1970/photos/9985/02.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 491195
+    },
+    {
+      "lot": "9985",
+      "index": 3,
+      "source_image_id": 10031877,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8fdf4bae6429528a0478/large",
+      "repo_path": "auctions/1970/photos/9985/03.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 402759
+    },
+    {
+      "lot": "9985",
+      "index": 4,
+      "source_image_id": 10031965,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/4f644139fabfc98eeb91/large",
+      "repo_path": "auctions/1970/photos/9985/04.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 389614
+    },
+    {
+      "lot": "9985",
+      "index": 5,
+      "source_image_id": 10032014,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/6d354ed0e65a817ef873/large",
+      "repo_path": "auctions/1970/photos/9985/05.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 442776
+    },
+    {
+      "lot": "9985",
+      "index": 6,
+      "source_image_id": 10032055,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5c59a8a2e6d7df90a5c2/large",
+      "repo_path": "auctions/1970/photos/9985/06.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 444975
+    },
+    {
+      "lot": "9985",
+      "index": 7,
+      "source_image_id": 10032087,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d5e2d17916d5e4b0d151/large",
+      "repo_path": "auctions/1970/photos/9985/07.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 731183
+    },
+    {
+      "lot": "9985",
+      "index": 8,
+      "source_image_id": 10032102,
+      "source_url": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bb4306947949a1f7801c/large",
+      "repo_path": "auctions/1970/photos/9985/08.jpg",
+      "width": 1920,
+      "height": 1440,
+      "bytes": 370913
+    }
+  ],
+  "errors": []
+}
