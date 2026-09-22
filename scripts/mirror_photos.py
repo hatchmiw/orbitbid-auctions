@@ -15,7 +15,7 @@ Writes:
     auctions/<auction_id>/photos/README.md
 
 The original OrbitBid CloudFront URL is preserved in the manifest.
-Mirrored images are normalized to JPEG at up to 2048 px on the long edge
+Mirrored images are normalized to JPEG at up to 1600 px on the long edge
 to keep the repository usable while retaining enough detail for inspection.
 """
 
@@ -24,6 +24,7 @@ from __future__ import annotations
 import io
 import json
 import os
+import re
 import sys
 import time
 import urllib.request
@@ -32,8 +33,8 @@ from pathlib import Path
 
 from PIL import Image, ImageOps
 
-MAX_EDGE = 2048
-JPEG_QUALITY = 88
+MAX_EDGE = 1600
+JPEG_QUALITY = 82
 WORKERS = 6
 RETRIES = 3
 USER_AGENT = "Mozilla/5.0 OrbitBidAuctionMirror/1.0"
@@ -120,6 +121,12 @@ def clean(value) -> str:
     return " ".join(str(value or "").split())
 
 
+def lot_sort_key(value):
+    """Natural sort key that also supports non-numeric OrbitBid lot numbers."""
+    parts = re.split(r"(\\d+)", str(value))
+    return tuple(int(part) if part.isdigit() else part.lower() for part in parts)
+
+
 def main() -> int:
     if len(sys.argv) != 2:
         print("Usage: python scripts/mirror_photos.py <auction_id>", file=sys.stderr)
@@ -187,7 +194,7 @@ def main() -> int:
                     file=sys.stderr,
                 )
 
-    results.sort(key=lambda x: (int(x["lot"]), x["index"]))
+    results.sort(key=lambda x: (lot_sort_key(x["lot"]), x["index"]))
 
     lots_by_number = {
         str(lot.get("requested_lot_number") or lot.get("item_number") or lot.get("id")): lot
