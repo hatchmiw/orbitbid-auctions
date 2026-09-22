@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "auctions/${{ github.event.inputs.auction_id || '1970' }}/photos/*/contact.jpg"
+          git add "auctions/${{ github.event.inputs.auction_id || '1970' }}/photos/*/review.jpg"
           if git diff --cached --quiet; then
             echo "No contact sheet changes."
           else
