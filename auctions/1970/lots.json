@@ -1,6 +1,6 @@
 {
   "auction_id": 1970,
-  "retrieved_at": "2026-09-22T17:35:59.600Z",
+  "retrieved_at": "2026-09-22T19:58:06.087528Z",
   "lot_range": "9926-9985",
   "excluded_lots": "9900-9925 (conduit excluded intentionally)",
   "total_requested": 60,
@@ -8,7 +8,7 @@
   "total_errors": 0,
   "lots": [
     {
-      "requested_lot_number": 9926,
+      "requested_lot_number": "9926",
       "internal_id": 1738248,
       "id": 1738248,
       "item_number": "1-9926",
@@ -337,7 +337,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9927,
+      "requested_lot_number": "9927",
       "internal_id": 1738249,
       "id": 1738249,
       "item_number": "1-9927",
@@ -612,7 +612,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9928,
+      "requested_lot_number": "9928",
       "internal_id": 1738250,
       "id": 1738250,
       "item_number": "1-9928",
@@ -887,7 +887,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9929,
+      "requested_lot_number": "9929",
       "internal_id": 1738251,
       "id": 1738251,
       "item_number": "1-9929",
@@ -1162,16 +1162,16 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9930,
+      "requested_lot_number": "9930",
       "internal_id": 1738252,
       "id": 1738252,
       "item_number": "1-9930",
       "title": "Lot of (400) Chapin on/off 18\" drippers.",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 15,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 3,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -1437,7 +1437,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9931,
+      "requested_lot_number": "9931",
       "internal_id": 1738253,
       "id": 1738253,
       "item_number": "1-9931",
@@ -1712,7 +1712,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9932,
+      "requested_lot_number": "9932",
       "internal_id": 1738254,
       "id": 1738254,
       "item_number": "1-9932",
@@ -2005,7 +2005,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9933,
+      "requested_lot_number": "9933",
       "internal_id": 1738255,
       "id": 1738255,
       "item_number": "1-9933",
@@ -2298,7 +2298,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9934,
+      "requested_lot_number": "9934",
       "internal_id": 1738256,
       "id": 1738256,
       "item_number": "1-9934",
@@ -2591,7 +2591,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9935,
+      "requested_lot_number": "9935",
       "internal_id": 1738257,
       "id": 1738257,
       "item_number": "1-9935",
@@ -2902,7 +2902,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9936,
+      "requested_lot_number": "9936",
       "internal_id": 1738258,
       "id": 1738258,
       "item_number": "1-9936",
@@ -3231,7 +3231,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9937,
+      "requested_lot_number": "9937",
       "internal_id": 1738259,
       "id": 1738259,
       "item_number": "1-9937",
@@ -3578,7 +3578,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9938,
+      "requested_lot_number": "9938",
       "internal_id": 1738260,
       "id": 1738260,
       "item_number": "1-9938",
@@ -3889,7 +3889,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9939,
+      "requested_lot_number": "9939",
       "internal_id": 1738261,
       "id": 1738261,
       "item_number": "1-9939",
@@ -4200,7 +4200,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9940,
+      "requested_lot_number": "9940",
       "internal_id": 1738262,
       "id": 1738262,
       "item_number": "1-9940",
@@ -4529,7 +4529,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9941,
+      "requested_lot_number": "9941",
       "internal_id": 1738263,
       "id": 1738263,
       "item_number": "1-9941",
@@ -4876,7 +4876,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9942,
+      "requested_lot_number": "9942",
       "internal_id": 1738264,
       "id": 1738264,
       "item_number": "1-9942",
@@ -5259,7 +5259,7 @@
       "photo_count": 10
     },
     {
-      "requested_lot_number": 9943,
+      "requested_lot_number": "9943",
       "internal_id": 1738265,
       "id": 1738265,
       "item_number": "1-9943",
@@ -5642,16 +5642,16 @@
       "photo_count": 10
     },
     {
-      "requested_lot_number": 9944,
+      "requested_lot_number": "9944",
       "internal_id": 1738266,
       "id": 1738266,
       "item_number": "1-9944",
       "title": "(1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...",
       "subtitle": null,
       "description": "",
-      "amount": 35,
+      "amount": 40,
       "max_amount": null,
-      "bid_count": 8,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -5971,16 +5971,16 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9945,
+      "requested_lot_number": "9945",
       "internal_id": 1738267,
       "id": 1738267,
       "item_number": "1-9945",
       "title": "(1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...",
       "subtitle": null,
       "description": "",
-      "amount": 35,
+      "amount": 40,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 8,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -6300,16 +6300,16 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9946,
+      "requested_lot_number": "9946",
       "internal_id": 1738268,
       "id": 1738268,
       "item_number": "1-9946",
       "title": "(1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...",
       "subtitle": null,
       "description": "",
-      "amount": 40,
+      "amount": 45,
       "max_amount": null,
-      "bid_count": 9,
+      "bid_count": 10,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -6629,16 +6629,16 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9947,
+      "requested_lot_number": "9947",
       "internal_id": 1738269,
       "id": 1738269,
       "item_number": "1-9947",
       "title": "(1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...",
       "subtitle": null,
       "description": "",
-      "amount": 35,
+      "amount": 40,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 8,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -6976,7 +6976,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9948,
+      "requested_lot_number": "9948",
       "internal_id": 1738270,
       "id": 1738270,
       "item_number": "1-9948",
@@ -7251,7 +7251,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9949,
+      "requested_lot_number": "9949",
       "internal_id": 1738271,
       "id": 1738271,
       "item_number": "1-9949",
@@ -7544,16 +7544,16 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9950,
+      "requested_lot_number": "9950",
       "internal_id": 1738272,
       "id": 1738272,
       "item_number": "1-9950",
       "title": "Lot of (2) Emerson, hanging chain, approx. 18\" greenhouse fans, 1/15\" HP, 120V, in working condition...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -7819,16 +7819,16 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9951,
+      "requested_lot_number": "9951",
       "internal_id": 1738273,
       "id": 1738273,
       "item_number": "1-9951",
       "title": "Lot of (3) Emerson, hanging chain, approx. 18\" greenhouse fans, 1/15\" HP, 120V, in working condition...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 15,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 3,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -8112,7 +8112,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9952,
+      "requested_lot_number": "9952",
       "internal_id": 1738274,
       "id": 1738274,
       "item_number": "1-9952",
@@ -8405,7 +8405,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9953,
+      "requested_lot_number": "9953",
       "internal_id": 1738275,
       "id": 1738275,
       "item_number": "1-9953",
@@ -8716,16 +8716,16 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9954,
+      "requested_lot_number": "9954",
       "internal_id": 1738276,
       "id": 1738276,
       "item_number": "1-9954",
       "title": "Lot of (4) Green-Tek greenhouse fans, approx. 20\" diameter with a 1/10th HP motor, 120V, in working ...",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 25,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 5,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -9063,16 +9063,16 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9955,
+      "requested_lot_number": "9955",
       "internal_id": 1738277,
       "id": 1738277,
       "item_number": "1-9955",
       "title": "(1) Fasco 18\" hanging greenhouse fan, 1/15th HP, (1) Emerson 18\" hanging greenhouse fan, 1/15th HP, ...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -9446,7 +9446,7 @@
       "photo_count": 10
     },
     {
-      "requested_lot_number": 9956,
+      "requested_lot_number": "9956",
       "internal_id": 1738278,
       "id": 1738278,
       "item_number": "1-9956",
@@ -9793,7 +9793,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9957,
+      "requested_lot_number": "9957",
       "internal_id": 1738279,
       "id": 1738279,
       "item_number": "1-9957",
@@ -10086,7 +10086,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9958,
+      "requested_lot_number": "9958",
       "internal_id": 1738280,
       "id": 1738280,
       "item_number": "1-9958",
@@ -10361,7 +10361,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9959,
+      "requested_lot_number": "9959",
       "internal_id": 1738281,
       "id": 1738281,
       "item_number": "1-9959",
@@ -10654,7 +10654,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9960,
+      "requested_lot_number": "9960",
       "internal_id": 1738282,
       "id": 1738282,
       "item_number": "1-9960",
@@ -10965,7 +10965,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9961,
+      "requested_lot_number": "9961",
       "internal_id": 1738283,
       "id": 1738283,
       "item_number": "1-9961",
@@ -11240,7 +11240,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9962,
+      "requested_lot_number": "9962",
       "internal_id": 1738284,
       "id": 1738284,
       "item_number": "1-9962",
@@ -11515,7 +11515,7 @@
       "photo_count": 4
     },
     {
-      "requested_lot_number": 9963,
+      "requested_lot_number": "9963",
       "internal_id": 1738285,
       "id": 1738285,
       "item_number": "1-9963",
@@ -11826,7 +11826,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9964,
+      "requested_lot_number": "9964",
       "internal_id": 1738286,
       "id": 1738286,
       "item_number": "1-9964",
@@ -12227,7 +12227,7 @@
       "photo_count": 11
     },
     {
-      "requested_lot_number": 9965,
+      "requested_lot_number": "9965",
       "internal_id": 1738287,
       "id": 1738287,
       "item_number": "1-9965",
@@ -12574,7 +12574,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9966,
+      "requested_lot_number": "9966",
       "internal_id": 1738288,
       "id": 1738288,
       "item_number": "1-9966",
@@ -12885,7 +12885,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9967,
+      "requested_lot_number": "9967",
       "internal_id": 1738289,
       "id": 1738289,
       "item_number": "1-9967",
@@ -13214,16 +13214,16 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9968,
+      "requested_lot_number": "9968",
       "internal_id": 1738290,
       "id": 1738290,
       "item_number": "1-9968",
       "title": "(1) 1995 Woods RB51, 60\" back blade, 3 pt. hitch hook up, blade is bent, will need to be fixed or re...",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 35,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 6,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -13507,7 +13507,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9969,
+      "requested_lot_number": "9969",
       "internal_id": 1738291,
       "id": 1738291,
       "item_number": "1-9969",
@@ -13836,7 +13836,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9970,
+      "requested_lot_number": "9970",
       "internal_id": 1738292,
       "id": 1738292,
       "item_number": "1-9970",
@@ -14129,7 +14129,7 @@
       "photo_count": 5
     },
     {
-      "requested_lot_number": 9971,
+      "requested_lot_number": "9971",
       "internal_id": 1738293,
       "id": 1738293,
       "item_number": "1-9971",
@@ -14458,7 +14458,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9972,
+      "requested_lot_number": "9972",
       "internal_id": 1738294,
       "id": 1738294,
       "item_number": "1-9972",
@@ -14787,7 +14787,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9973,
+      "requested_lot_number": "9973",
       "internal_id": 1738295,
       "id": 1738295,
       "item_number": "1-9973",
@@ -15098,7 +15098,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9974,
+      "requested_lot_number": "9974",
       "internal_id": 1738296,
       "id": 1738296,
       "item_number": "1-9974",
@@ -15427,7 +15427,7 @@
       "photo_count": 7
     },
     {
-      "requested_lot_number": 9975,
+      "requested_lot_number": "9975",
       "internal_id": 1738297,
       "id": 1738297,
       "item_number": "1-9975",
@@ -15774,7 +15774,7 @@
       "photo_count": 8
     },
     {
-      "requested_lot_number": 9976,
+      "requested_lot_number": "9976",
       "internal_id": 1738298,
       "id": 1738298,
       "item_number": "1-9976",
@@ -16085,7 +16085,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9977,
+      "requested_lot_number": "9977",
       "internal_id": 1738299,
       "id": 1738299,
       "item_number": "1-9977",
@@ -16396,7 +16396,7 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9978,
+      "requested_lot_number": "9978",
       "internal_id": 1738300,
       "id": 1738300,
       "item_number": "1-9978",
@@ -16707,16 +16707,16 @@
       "photo_count": 6
     },
     {
-      "requested_lot_number": 9979,
+      "requested_lot_number": "9979",
       "internal_id": 1738301,
       "id": 1738301,
       "item_number": "1-9979",
       "title": "(1) 70' x 144' single gutter greenhouse, roof poly was replaced 1 year ago, manual crank up side wal...",
       "subtitle": null,
       "description": "",
-      "amount": 505,
+      "amount": 1000,
       "max_amount": null,
-      "bid_count": 25,
+      "bid_count": 27,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -17162,7 +17162,7 @@
       "photo_count": 14
     },
     {
-      "requested_lot_number": 9980,
+      "requested_lot_number": "9980",
       "internal_id": 1738302,
       "id": 1738302,
       "item_number": "1-9980",
@@ -17527,7 +17527,7 @@
       "photo_count": 9
     },
     {
-      "requested_lot_number": 9981,
+      "requested_lot_number": "9981",
       "internal_id": 1738303,
       "id": 1738303,
       "item_number": "1-9981",
@@ -17892,7 +17892,7 @@
       "photo_count": 9
     },
     {
-      "requested_lot_number": 9982,
+      "requested_lot_number": "9982",
       "internal_id": 1738304,
       "id": 1738304,
       "item_number": "1-9982",
@@ -18275,16 +18275,16 @@
       "photo_count": 10
     },
     {
-      "requested_lot_number": 9983,
+      "requested_lot_number": "9983",
       "internal_id": 1738305,
       "id": 1738305,
       "item_number": "1-9983",
       "title": "(1) 100' wide x 132' long 4-gutter greenhouse, 2 manual aluminum roll up sides, (3) 32\" exhaust fans...",
       "subtitle": null,
       "description": "",
-      "amount": 520,
+      "amount": 1000,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 5,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -18856,7 +18856,7 @@
       "photo_count": 21
     },
     {
-      "requested_lot_number": 9984,
+      "requested_lot_number": "9984",
       "internal_id": 1738306,
       "id": 1738306,
       "item_number": "1-9984",
@@ -19257,7 +19257,7 @@
       "photo_count": 11
     },
     {
-      "requested_lot_number": 9985,
+      "requested_lot_number": "9985",
       "internal_id": 1738307,
       "id": 1738307,
       "item_number": "1-9985",
@@ -19604,5 +19604,11 @@
       "photo_count": 8
     }
   ],
-  "errors": []
+  "errors": [],
+  "source_url": "https://bid.orbitbid.com/?items=all&auction_id=1970&display=grid&limit=60&page=1",
+  "total_discovered": 60,
+  "catalog_pages": [
+    "https://bid.orbitbid.com/?items=all&auction_id=1970&display=grid&limit=60&page=1"
+  ],
+  "last_price_refresh_at": "2026-09-22T19:58:06.087528Z"
 }

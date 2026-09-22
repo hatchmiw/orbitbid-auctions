@@ -1,8 +1,8 @@
 # OrbitBid Auction 1970
 
-- Retrieved: 2026-09-22T17:35:59.600Z
-- Included lots: 9926-9985
-- Excluded: 9900-9925 (conduit excluded intentionally)
+- Retrieved: 2026-09-22T19:58:06.087528Z
+- Source: https://bid.orbitbid.com/?items=all&auction_id=1970&display=grid&limit=60&page=1
+- Catalog lots discovered: 60
 - Lots retrieved: 60
 - Errors: 0
 
@@ -10,6 +10,8 @@
 
 ## Lot 9926 — (1) Netafim 12" center, double hung irrigation line, 200' long, winning bidder responsible for prope...
 
+- OrbitBid item number: 1-9926
+- Internal ID: 1738248
 - Current bid: $15
 - Bid count: 3
 - Photo count: 7
@@ -33,6 +35,8 @@
 
 ## Lot 9927 — Approx. (125) Chapin drippers, on only, different lengths up to approx. 24".
 
+- OrbitBid item number: 1-9927
+- Internal ID: 1738249
 - Current bid: $5
 - Bid count: 1
 - Photo count: 4
@@ -53,6 +57,8 @@
 
 ## Lot 9928 — Lot of (200) Chapin 24" long on/off drops.
 
+- OrbitBid item number: 1-9928
+- Internal ID: 1738250
 - Current bid: $15
 - Bid count: 3
 - Photo count: 4
@@ -73,6 +79,8 @@
 
 ## Lot 9929 — Lot of (350) Chapin on/off 18" drippers.
 
+- OrbitBid item number: 1-9929
+- Internal ID: 1738251
 - Current bid: $10
 - Bid count: 2
 - Photo count: 4
@@ -93,8 +101,10 @@
 
 ## Lot 9930 — Lot of (400) Chapin on/off 18" drippers.
 
-- Current bid: $10
-- Bid count: 2
+- OrbitBid item number: 1-9930
+- Internal ID: 1738252
+- Current bid: $15
+- Bid count: 3
 - Photo count: 4
 - End time: 1790121600
 
@@ -113,6 +123,8 @@
 
 ## Lot 9931 — (1) Netafim 120' long piece of irrigation pipe with 20" on center drops.
 
+- OrbitBid item number: 1-9931
+- Internal ID: 1738253
 - Current bid: $10
 - Bid count: 2
 - Photo count: 4
@@ -133,6 +145,8 @@
 
 ## Lot 9932 — (1) Netafim 120' long piece of irrigation pipe with 20" on center drops.
 
+- OrbitBid item number: 1-9932
+- Internal ID: 1738254
 - Current bid: $10
 - Bid count: 2
 - Photo count: 5
@@ -154,6 +168,8 @@
 
 ## Lot 9933 — (1) Netafim 120' long piece of irrigation pipe with 20" on center drops.
 
+- OrbitBid item number: 1-9933
+- Internal ID: 1738255
 - Current bid: $10
 - Bid count: 2
 - Photo count: 5
@@ -175,6 +191,8 @@
 
 ## Lot 9934 — (1) Netafim 120' long piece of irrigation pipe with 20" on center drops.
 
+- OrbitBid item number: 1-9934
+- Internal ID: 1738256
 - Current bid: $15
 - Bid count: 3
 - Photo count: 5
@@ -196,6 +214,8 @@
 
 ## Lot 9935 — (2) Netafim 120' long piece of irrigation pipes with 20" on center drops.
 
+- OrbitBid item number: 1-9935
+- Internal ID: 1738257
 - Current bid: $5
 - Bid count: 1
 - Photo count: 6
@@ -218,6 +238,8 @@
 
 ## Lot 9936 — (2) Netafim 120' long piece of irrigation pipes with 20" on center drops.
 
+- OrbitBid item number: 1-9936
+- Internal ID: 1738258
 - Current bid: $5
 - Bid count: 1
 - Photo count: 7
@@ -241,6 +263,8 @@
 
 ## Lot 9937 — (2) Netafim 120' long piece of irrigation pipes with 20" on center drops.
 
+- OrbitBid item number: 1-9937
+- Internal ID: 1738259
 - Current bid: $5
 - Bid count: 1
 - Photo count: 8
@@ -265,6 +289,8 @@
 
 ## Lot 9938 — Lot of (2) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9938
+- Internal ID: 1738260
 - Current bid: $10
 - Bid count: 2
 - Photo count: 6
@@ -287,6 +313,8 @@
 
 ## Lot 9939 — Lot of (2) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9939
+- Internal ID: 1738261
 - Current bid: $10
 - Bid count: 2
 - Photo count: 6
@@ -309,6 +337,8 @@
 
 ## Lot 9940 — Lot of (4) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9940
+- Internal ID: 1738262
 - Current bid: $15
 - Bid count: 3
 - Photo count: 7
@@ -332,6 +362,8 @@
 
 ## Lot 9941 — Lot of (4) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9941
+- Internal ID: 1738263
 - Current bid: $20
 - Bid count: 4
 - Photo count: 8
@@ -356,6 +388,8 @@
 
 ## Lot 9942 — Lot of (4) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9942
+- Internal ID: 1738264
 - Current bid: $30
 - Bid count: 7
 - Photo count: 10
@@ -382,6 +416,8 @@
 
 ## Lot 9943 — Lot of (4) Netafim irrigation line, 135' long per roll, 20" on center drops.
 
+- OrbitBid item number: 1-9943
+- Internal ID: 1738265
 - Current bid: $30
 - Bid count: 6
 - Photo count: 10
@@ -408,8 +444,10 @@
 
 ## Lot 9944 — (1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...
 
-- Current bid: $35
-- Bid count: 8
+- OrbitBid item number: 1-9944
+- Internal ID: 1738266
+- Current bid: $40
+- Bid count: 9
 - Photo count: 7
 - End time: 1790121600
 
@@ -431,8 +469,10 @@
 
 ## Lot 9945 — (1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...
 
-- Current bid: $35
-- Bid count: 7
+- OrbitBid item number: 1-9945
+- Internal ID: 1738267
+- Current bid: $40
+- Bid count: 8
 - Photo count: 7
 - End time: 1790121600
 
@@ -454,8 +494,10 @@
 
 ## Lot 9946 — (1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...
 
-- Current bid: $40
-- Bid count: 9
+- OrbitBid item number: 1-9946
+- Internal ID: 1738268
+- Current bid: $45
+- Bid count: 10
 - Photo count: 7
 - End time: 1790121600
 
@@ -477,8 +519,10 @@
 
 ## Lot 9947 — (1) Netafim Irrigation System, (2) 96' lines with valves, includes drops, irrigation line is 1 year ...
 
-- Current bid: $35
-- Bid count: 7
+- OrbitBid item number: 1-9947
+- Internal ID: 1738269
+- Current bid: $40
+- Bid count: 8
 - Photo count: 8
 - End time: 1790121600
 
@@ -501,6 +545,8 @@
 
 ## Lot 9948 — Lot of (2) Schaefer 12" greenhouse fans with mounting bracket, 1/10th HP, 115V, in working condition...
 
+- OrbitBid item number: 1-9948
+- Internal ID: 1738270
 - Current bid: $40
 - Bid count: 9
 - Photo count: 4
@@ -521,6 +567,8 @@
 
 ## Lot 9949 — Lot of (2) Green-Tek greenhouse fans, approx. 20" diameter with a 1/10th HP motor, 120V, includes mo...
 
+- OrbitBid item number: 1-9949
+- Internal ID: 1738271
 - Current bid: $15
 - Bid count: 3
 - Photo count: 5
@@ -542,8 +590,10 @@
 
 ## Lot 9950 — Lot of (2) Emerson, hanging chain, approx. 18" greenhouse fans, 1/15" HP, 120V, in working condition...
 
-- Current bid: $5
-- Bid count: 1
+- OrbitBid item number: 1-9950
+- Internal ID: 1738272
+- Current bid: $10
+- Bid count: 2
 - Photo count: 4
 - End time: 1790121600
 
@@ -562,8 +612,10 @@
 
 ## Lot 9951 — Lot of (3) Emerson, hanging chain, approx. 18" greenhouse fans, 1/15" HP, 120V, in working condition...
 
-- Current bid: $5
-- Bid count: 1
+- OrbitBid item number: 1-9951
+- Internal ID: 1738273
+- Current bid: $15
+- Bid count: 3
 - Photo count: 5
 - End time: 1790121600
 
@@ -583,6 +635,8 @@
 
 ## Lot 9952 — Lot of (2) Green-Tek greenhouse fans, approx. 20" diameter with a 1/10th HP motor, 120V, in working ...
 
+- OrbitBid item number: 1-9952
+- Internal ID: 1738274
 - Current bid: $15
 - Bid count: 3
 - Photo count: 5
@@ -604,6 +658,8 @@
 
 ## Lot 9953 — Lot of (2) Green-Tek greenhouse fans, approx. 20" diameter with a 1/10th HP motor, 120V, in working ...
 
+- OrbitBid item number: 1-9953
+- Internal ID: 1738275
 - Current bid: $15
 - Bid count: 3
 - Photo count: 6
@@ -626,8 +682,10 @@
 
 ## Lot 9954 — Lot of (4) Green-Tek greenhouse fans, approx. 20" diameter with a 1/10th HP motor, 120V, in working ...
 
-- Current bid: $15
-- Bid count: 3
+- OrbitBid item number: 1-9954
+- Internal ID: 1738276
+- Current bid: $25
+- Bid count: 5
 - Photo count: 8
 - End time: 1790121600
 
@@ -650,8 +708,10 @@
 
 ## Lot 9955 — (1) Fasco 18" hanging greenhouse fan, 1/15th HP, (1) Emerson 18" hanging greenhouse fan, 1/15th HP, ...
 
-- Current bid: $5
-- Bid count: 1
+- OrbitBid item number: 1-9955
+- Internal ID: 1738277
+- Current bid: $10
+- Bid count: 2
 - Photo count: 10
 - End time: 1790121600
 
@@ -676,6 +736,8 @@
 
 ## Lot 9956 — (1) Fasco hanging greenhouse fan, approx. 18", 115V, 1/15th HP, and (1) Ves 18" fan with mounting br...
 
+- OrbitBid item number: 1-9956
+- Internal ID: 1738278
 - Current bid: $5
 - Bid count: 1
 - Photo count: 8
@@ -700,6 +762,8 @@
 
 ## Lot 9957 — Lot of (3) Rainbird SST-600i, irrigation controllers, in working condition.
 
+- OrbitBid item number: 1-9957
+- Internal ID: 1738279
 - Current bid: $55
 - Bid count: 8
 - Photo count: 5
@@ -721,6 +785,8 @@
 
 ## Lot 9958 — (1) Dayton 24" shutter-mounted exhaust fan, model 4C269B, 115V, 1/4 HP motor, in working condition.
 
+- OrbitBid item number: 1-9958
+- Internal ID: 1738280
 - Current bid: $45
 - Bid count: 9
 - Photo count: 4
@@ -741,6 +807,8 @@
 
 ## Lot 9959 — (1) Dayton 24" shutter-mounted exhaust fan, model 4C359A, 120V, 1/3 HP motor, in working condition.
 
+- OrbitBid item number: 1-9959
+- Internal ID: 1738281
 - Current bid: $50
 - Bid count: 10
 - Photo count: 5
@@ -762,6 +830,8 @@
 
 ## Lot 9960 — (1) Econo Popper Plug Manual plug extrusion tool, plate is 20 3/4" x 11".
 
+- OrbitBid item number: 1-9960
+- Internal ID: 1738282
 - Current bid: $15
 - Bid count: 3
 - Photo count: 6
@@ -784,6 +854,8 @@
 
 ## Lot 9961 — (1) Sensaphone 1000 desktop environmental monitoring system with temperature probes.
 
+- OrbitBid item number: 1-9961
+- Internal ID: 1738283
 - Current bid: $5
 - Bid count: 0
 - Photo count: 4
@@ -804,6 +876,8 @@
 
 ## Lot 9962 — (1) EC Geiger Mista Matic propagation, 120V, in working condition.
 
+- OrbitBid item number: 1-9962
+- Internal ID: 1738284
 - Current bid: $10
 - Bid count: 2
 - Photo count: 4
@@ -824,6 +898,8 @@
 
 ## Lot 9963 — Lot of (2) galvanized steel funnels, 15" diameter.
 
+- OrbitBid item number: 1-9963
+- Internal ID: 1738285
 - Current bid: $5
 - Bid count: 0
 - Photo count: 6
@@ -846,6 +922,8 @@
 
 ## Lot 9964 — (1) Siebring Manufacturing Company Mist'r Drench, model MD83, S/N C993374, 3 gallons per minute, 120...
 
+- OrbitBid item number: 1-9964
+- Internal ID: 1738286
 - Current bid: $35
 - Bid count: 7
 - Photo count: 11
@@ -873,6 +951,8 @@
 
 ## Lot 9965 — (1) Dyna Fog Night Star pedestal fan, model 1901M, 115V, fan is in working condition, formulation co...
 
+- OrbitBid item number: 1-9965
+- Internal ID: 1738287
 - Current bid: $15
 - Bid count: 3
 - Photo count: 8
@@ -897,6 +977,8 @@
 
 ## Lot 9966 — (3) crates with assorted steel hooks, size approx. 6.5" up to 18".
 
+- OrbitBid item number: 1-9966
+- Internal ID: 1738288
 - Current bid: $10
 - Bid count: 2
 - Photo count: 6
@@ -919,6 +1001,8 @@
 
 ## Lot 9967 — Lot of assorted flexible natural gas line with pressure relieve valves, includes flexible duct work.
 
+- OrbitBid item number: 1-9967
+- Internal ID: 1738289
 - Current bid: $5
 - Bid count: 0
 - Photo count: 7
@@ -942,8 +1026,10 @@
 
 ## Lot 9968 — (1) 1995 Woods RB51, 60" back blade, 3 pt. hitch hook up, blade is bent, will need to be fixed or re...
 
-- Current bid: $10
-- Bid count: 2
+- OrbitBid item number: 1-9968
+- Internal ID: 1738290
+- Current bid: $35
+- Bid count: 6
 - Photo count: 5
 - End time: 1790121600
 
@@ -963,6 +1049,8 @@
 
 ## Lot 9969 — (1) ADP 400,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9969
+- Internal ID: 1738291
 - Current bid: $5
 - Bid count: 1
 - Photo count: 7
@@ -986,6 +1074,8 @@
 
 ## Lot 9970 — (1) Modine 400,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9970
+- Internal ID: 1738292
 - Current bid: $510
 - Bid count: 30
 - Photo count: 5
@@ -1007,6 +1097,8 @@
 
 ## Lot 9971 — (1) Dayton 150,000 to 300,000 BTU natural gas heating unit, unit is new old stock, never was used.
 
+- OrbitBid item number: 1-9971
+- Internal ID: 1738293
 - Current bid: $206
 - Bid count: 23
 - Photo count: 7
@@ -1030,6 +1122,8 @@
 
 ## Lot 9972 — (1) ADP 400,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9972
+- Internal ID: 1738294
 - Current bid: $15
 - Bid count: 3
 - Photo count: 7
@@ -1053,6 +1147,8 @@
 
 ## Lot 9973 — (1) Natural gas heating unit, unknown BTU, 20.5" wide x approx. 34" deep x 32" tall.
 
+- OrbitBid item number: 1-9973
+- Internal ID: 1738295
 - Current bid: $15
 - Bid count: 3
 - Photo count: 6
@@ -1075,6 +1171,8 @@
 
 ## Lot 9974 — (1) Modine 350,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9974
+- Internal ID: 1738296
 - Current bid: $470
 - Bid count: 36
 - Photo count: 7
@@ -1098,6 +1196,8 @@
 
 ## Lot 9975 — (1) Modine 400,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9975
+- Internal ID: 1738297
 - Current bid: $500
 - Bid count: 23
 - Photo count: 8
@@ -1122,6 +1222,8 @@
 
 ## Lot 9976 — (1) Re-Verber Air 250,000 BTU natural gas heating unit, in working condition.
 
+- OrbitBid item number: 1-9976
+- Internal ID: 1738298
 - Current bid: $360
 - Bid count: 27
 - Photo count: 6
@@ -1144,6 +1246,8 @@
 
 ## Lot 9977 — (7) rolling racks, approx. 91.5" long x 14" wide x 62" tall, some wheels will need replacement or re...
 
+- OrbitBid item number: 1-9977
+- Internal ID: 1738299
 - Current bid: $10
 - Bid count: 2
 - Photo count: 6
@@ -1166,6 +1270,8 @@
 
 ## Lot 9978 — Lot of (5) adjustable shelf racks, each is 43.5" x 44" x 83.5" tall, winning bidder responsible for ...
 
+- OrbitBid item number: 1-9978
+- Internal ID: 1738300
 - Current bid: $20
 - Bid count: 4
 - Photo count: 6
@@ -1188,8 +1294,10 @@
 
 ## Lot 9979 — (1) 70' x 144' single gutter greenhouse, roof poly was replaced 1 year ago, manual crank up side wal...
 
-- Current bid: $505
-- Bid count: 25
+- OrbitBid item number: 1-9979
+- Internal ID: 1738301
+- Current bid: $1000
+- Bid count: 27
 - Photo count: 14
 - End time: 1790121600
 
@@ -1218,6 +1326,8 @@
 
 ## Lot 9980 — (1) 16' x 96' greenhouse, 1 roll up side, plastic will need to be replaced, winning bidder responsib...
 
+- OrbitBid item number: 1-9980
+- Internal ID: 1738302
 - Current bid: $1000
 - Bid count: 17
 - Photo count: 9
@@ -1243,6 +1353,8 @@
 
 ## Lot 9981 — (1) 30' wide x 96' long greenhouse, manual aluminum roll up side, and 1 manual steel roll up side, w...
 
+- OrbitBid item number: 1-9981
+- Internal ID: 1738303
 - Current bid: $1000
 - Bid count: 5
 - Photo count: 9
@@ -1268,6 +1380,8 @@
 
 ## Lot 9982 — (1) 30' wide x 96' long greenhouse, with 1 manual aluminum roll up side, and 1 manual steel roll up ...
 
+- OrbitBid item number: 1-9982
+- Internal ID: 1738304
 - Current bid: $960
 - Bid count: 9
 - Photo count: 10
@@ -1294,8 +1408,10 @@
 
 ## Lot 9983 — (1) 100' wide x 132' long 4-gutter greenhouse, 2 manual aluminum roll up sides, (3) 32" exhaust fans...
 
-- Current bid: $520
-- Bid count: 3
+- OrbitBid item number: 1-9983
+- Internal ID: 1738305
+- Current bid: $1000
+- Bid count: 5
 - Photo count: 21
 - End time: 1790121600
 
@@ -1331,6 +1447,8 @@
 
 ## Lot 9984 — (1) 30' wide x 132' long greenhouse with a W Truss, manual steel roll up sides.
 
+- OrbitBid item number: 1-9984
+- Internal ID: 1738306
 - Current bid: $1000
 - Bid count: 11
 - Photo count: 11
@@ -1358,6 +1476,8 @@
 
 ## Lot 9985 — (1) 30' wide x 106' long greenhouse, no end wall on north wall of greenhouse, manual steel roll up s...
 
+- OrbitBid item number: 1-9985
+- Internal ID: 1738307
 - Current bid: $1000
 - Bid count: 7
 - Photo count: 8
