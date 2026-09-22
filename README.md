@@ -2,51 +2,55 @@
 
 Public working repository for OrbitBid auction research.
 
-## GitHub workflow
+## Normal workflow: one button
 
-The normal workflow now runs entirely inside GitHub. You do not need to open the OrbitBid site, use DevTools, paste JavaScript, download a ZIP, or manually move the export files.
+1. Open **Actions → Run OrbitBid Auction**.
+2. Click **Run workflow**.
+3. Enter the OrbitBid auction ID.
+4. GitHub renders the auction catalog in Chromium, exports the lot metadata, downloads the photos, and builds the per-lot review sheets.
+5. Permanent metadata is committed under `auctions/<auction-id>/`:
+   - `README.md`
+   - `summary.md`
+   - `summary.csv`
+   - `lots.json`
+6. Photos and `review.jpg` sheets are stored in a temporary Actions artifact named:
+   - `orbitbid-<auction-id>-photos`
 
-### 1. Export an auction
+The rendered-catalog exporter includes a mixed-auction safety check so a suspicious catalog result fails instead of silently committing unrelated OrbitBid lots.
 
-1. Open this repository on GitHub.
-2. Open **Actions**.
-3. Select **Export OrbitBid auction**.
-4. Click **Run workflow**.
-5. Enter the OrbitBid `auction_id` and run it.
+## Photo retention
 
-The workflow discovers the auction's actual internal lot IDs from the public OrbitBid catalog, retrieves the public lot records, and commits these files automatically:
+Photo artifacts are temporary.
 
-- `auctions/<auction-id>/README.md`
-- `auctions/<auction-id>/summary.md`
-- `auctions/<auction-id>/summary.csv`
-- `auctions/<auction-id>/lots.json`
+- The retention deadline is based on the **latest scheduled lot closing time in the auction + 7 days**.
+- It is not based on when the GitHub workflow was run.
+- **Purge expired OrbitBid photos** runs every six hours and removes expired artifacts.
+- It also removes any legacy `auctions/<id>/photos/` folders committed by the older workflow.
+- Permanent metadata and original OrbitBid image URLs remain after cleanup.
 
-Skipped public lot numbers and unusual lot numbers are handled by catalog discovery rather than by assuming a consecutive lot-number range.
+GitHub artifact retention is capped at 90 days. For auctions more than 90 days from closing, rerun the workflow closer to the sale if the photos are still needed.
 
-### 2. Mirror the auction photos
+## Refresh current prices without touching photos
 
-After the export succeeds:
+For an auction that has already been imported:
 
-1. Open **Actions**.
-2. Select **Mirror auction photos**.
-3. Click **Run workflow**.
-4. Enter the same OrbitBid `auction_id`.
-5. Run it.
+1. Open **Actions → Refresh OrbitBid prices**.
+2. Enter the saved OrbitBid auction ID.
+3. Run the workflow.
 
-The photo workflow reads `auctions/<auction-id>/lots.json`, downloads the public auction photos, normalizes them for the repository, and commits them under:
+This workflow reads the known internal OrbitBid lot IDs already saved in `lots.json`, refreshes the current bid/status data, and commits updated metadata only. It does **not** rediscover the catalog and does **not** download or change any photos.
 
-- `auctions/<auction-id>/photos/`
+This is the preferred way to update live prices for auction **1970** (Mid Michigan Greenhouses) or any other already-saved auction.
 
-### 3. Build contact sheets when needed
+## Troubleshooting workflows
 
-Run **Build auction contact sheets** with the same auction ID after the photos have been mirrored. It creates the per-lot `review.jpg` files used for faster visual review.
+- **Export OrbitBid auction** — older metadata-only exporter; retained for troubleshooting.
+- **Mirror auction photos** — rebuilds a temporary photo + review-sheet artifact from an existing `lots.json`.
+- **Build auction contact sheets** — legacy helper for photo folders already present in the repository.
+- **Purge expired OrbitBid photos** — can be manually triggered instead of waiting for its six-hour schedule.
 
-## What the exporter uses
+## Notes
 
-- OrbitBid's public auction catalog to discover the actual lot IDs.
-- OrbitBid's public lot GraphQL endpoint to retrieve titles, descriptions, bids, fields, timing, and image URLs.
-- No bidder login or personal OrbitBid account token.
-
-## Legacy browser exporter
-
-`orbitbid-exporter.js` remains in the repository as a fallback/debugging tool, but it is no longer the normal workflow.
+- No bidder password or personal OrbitBid login credential is stored in this repository.
+- The permanent `lots.json` snapshot contains original OrbitBid image URLs, allowing high-resolution source images to be revisited even after temporary mirrors expire.
+- `orbitbid-exporter.js` remains as a browser-console fallback/debugging tool; it is no longer the normal workflow.
