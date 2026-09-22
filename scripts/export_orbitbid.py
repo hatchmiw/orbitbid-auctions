@@ -79,6 +79,64 @@ def normalized_lot_number(item_number: Any, internal_id: int) -> str:
     return re.sub(r"^1-", "", value)
 
 
+def epoch_to_iso(value: Any) -> str:
+    if value in (None, "", 0, "0"):
+        return ""
+    try:
+        number = int(float(value))
+    except (TypeError, ValueError):
+        return ""
+    if number > 10_000_000_000:
+        number //= 1000
+    try:
+        return datetime.fromtimestamp(number, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+    except (OverflowError, OSError, ValueError):
+        return ""
+
+
+def append_price_history(
+    auction_dir: Path,
+    snapshot_at: str,
+    lots: list[dict[str, Any]],
+    snapshot_type: str,
+) -> None:
+    history_path = auction_dir / "price-history.csv"
+    new_file = not history_path.exists() or history_path.stat().st_size == 0
+
+    with history_path.open("a", encoding="utf-8", newline="") as fh:
+        writer = csv.writer(fh)
+        if new_file:
+            writer.writerow(
+                [
+                    "snapshot_at",
+                    "snapshot_type",
+                    "lot",
+                    "internal_id",
+                    "current_bid",
+                    "bid_count",
+                    "status",
+                    "live_status",
+                    "end_time",
+                    "end_time_utc",
+                ]
+            )
+        for lot in lots:
+            writer.writerow(
+                [
+                    snapshot_at,
+                    snapshot_type,
+                    lot.get("requested_lot_number"),
+                    lot.get("internal_id"),
+                    lot.get("amount"),
+                    lot.get("bid_count"),
+                    lot.get("status"),
+                    lot.get("live_status"),
+                    lot.get("end_time"),
+                    epoch_to_iso(lot.get("end_time")),
+                ]
+            )
+
+
 def build_session() -> requests.Session:
     session = requests.Session(impersonate="chrome")
     session.headers.update(
@@ -181,14 +239,27 @@ def fetch_lot(session: requests.Session, internal_id: int) -> dict[str, Any]:
 
 
 def make_summary(data: dict[str, Any]) -> str:
+    refreshed = bool(data.get("last_price_refresh_at"))
+    if refreshed:
+        status_lines = [
+            f"- Price refresh: {data['retrieved_at']}",
+            f"- Source: {data['source_url']}",
+            f"- Saved lots refreshed: {data['total_retrieved']}",
+            f"- Refresh errors: {data['total_errors']}",
+        ]
+    else:
+        status_lines = [
+            f"- Retrieved: {data['retrieved_at']}",
+            f"- Source: {data['source_url']}",
+            f"- Catalog lots discovered: {data['total_discovered']}",
+            f"- Lots retrieved: {data['total_retrieved']}",
+            f"- Errors: {data['total_errors']}",
+        ]
+
     lines = [
         f"# OrbitBid Auction {data['auction_id']}",
         "",
-        f"- Retrieved: {data['retrieved_at']}",
-        f"- Source: {data['source_url']}",
-        f"- Catalog lots discovered: {data['total_discovered']}",
-        f"- Lots retrieved: {data['total_retrieved']}",
-        f"- Errors: {data['total_errors']}",
+        *status_lines,
         "",
     ]
 
@@ -204,7 +275,7 @@ def make_summary(data: dict[str, Any]) -> str:
                 f"- Current bid: ${lot.get('amount') if lot.get('amount') is not None else ''}",
                 f"- Bid count: {lot.get('bid_count') if lot.get('bid_count') is not None else ''}",
                 f"- Photo count: {lot.get('photo_count', 0)}",
-                f"- End time: {lot.get('end_time') or ''}",
+                f"- End time (UTC): {epoch_to_iso(lot.get('end_time'))}",
                 "",
             ]
         )
@@ -255,6 +326,9 @@ def make_csv(lots: list[dict[str, Any]]) -> str:
             "status",
             "live_status",
             "end_time",
+            "end_time_utc",
+            "offer_end_time",
+            "offer_end_time_utc",
             "title",
         ]
     )
@@ -270,6 +344,9 @@ def make_csv(lots: list[dict[str, Any]]) -> str:
                 lot.get("status"),
                 lot.get("live_status"),
                 lot.get("end_time"),
+                epoch_to_iso(lot.get("end_time")),
+                lot.get("offer_end_time"),
+                epoch_to_iso(lot.get("offer_end_time")),
                 clean(lot.get("title")),
             ]
         )
@@ -277,22 +354,36 @@ def make_csv(lots: list[dict[str, Any]]) -> str:
 
 
 def make_readme(data: dict[str, Any]) -> str:
+    refreshed = bool(data.get("last_price_refresh_at"))
+    if refreshed:
+        status = (
+            f"- Source: {data['source_url']}\n"
+            f"- Last price refresh: {data['retrieved_at']}\n"
+            f"- Saved lots refreshed: {data['total_retrieved']}\n"
+            f"- Refresh errors: {data['total_errors']}"
+        )
+    else:
+        status = (
+            f"- Source: {data['source_url']}\n"
+            f"- Retrieved: {data['retrieved_at']}\n"
+            f"- Catalog lots discovered: {data['total_discovered']}\n"
+            f"- Lots retrieved: {data['total_retrieved']}\n"
+            f"- Retrieval errors: {data['total_errors']}"
+        )
+
     return f"""# OrbitBid Auction {data['auction_id']}
 
 Automated snapshot of OrbitBid auction **{data['auction_id']}**.
 
-- Source: {data['source_url']}
-- Retrieved: {data['retrieved_at']}
-- Catalog lots discovered: {data['total_discovered']}
-- Lots retrieved: {data['total_retrieved']}
-- Retrieval errors: {data['total_errors']}
+{status}
 
 ## Files
 
 - `summary.md` — readable lot-by-lot snapshot with source photo links
-- `summary.csv` — compact lot index
+- `summary.csv` — compact current lot index with readable UTC closing times
 - `lots.json` — complete structured data used by the photo mirroring workflow
-- `photos/` — created by the separate **Mirror auction photos** GitHub Action
+- `price-history.csv` — timestamped bid/bid-count history from exports and price refreshes
+- `photos/` — created temporarily by the photo workflow and one-button auction workflow
 
 This export uses OrbitBid's public auction catalog and public lot endpoint. It does not use a bidder login or personal account token.
 """
@@ -361,6 +452,7 @@ def main() -> int:
     )
     (auction_dir / "summary.md").write_text(make_summary(data), encoding="utf-8")
     (auction_dir / "summary.csv").write_text(make_csv(lots), encoding="utf-8", newline="")
+    append_price_history(auction_dir, retrieved_at, lots, "export")
     (auction_dir / "README.md").write_text(make_readme(data), encoding="utf-8")
 
     print(
