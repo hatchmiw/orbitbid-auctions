@@ -1,11 +1,15 @@
 (() => {
+  const params = new URLSearchParams(location.search);
   const CONFIG = {
-    auctionId: 1970,
-    firstLot: 9926,
-    lastLot: 9985,
-    idOffset: 1728322,
-    excludedNote: "9900-9925 (conduit excluded intentionally)"
+    auctionId: Number(params.get("auction_id")),
+    pageSize: 60,
+    maxPages: 100,
+    requestDelayMs: 250
   };
+
+  if (!Number.isInteger(CONFIG.auctionId) || CONFIG.auctionId <= 0) {
+    throw new Error("Open an OrbitBid auction catalog URL containing ?auction_id=... before running the exporter.");
+  }
 
   const endpoint = "https://oas3.oasbid.com/__graphql__";
   const clientToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwibmFtZSI6InB1YmxpYyIsImlhdCI6MTc5MDAwMjU0OH0.QAXWKPsNUMzLm-kGZh3V3UI_8Cn8Jzm2WqX02qZRcOY";
@@ -192,8 +196,72 @@
     return new Blob([...localParts, centralDirectory, endRecord], { type: "application/zip" });
   }
 
-  async function fetchLot(lotNumber) {
-    const internalId = lotNumber + CONFIG.idOffset;
+  function lotIdsFromDocument(doc) {
+    const ids = [];
+    const seen = new Set();
+
+    for (const a of doc.querySelectorAll('a[href*="/lot/"]')) {
+      const href = a.getAttribute("href") || "";
+      const match = href.match(/\\/lot\\/(\\d+)(?:\\/|$)/);
+      if (!match) continue;
+      const id = Number(match[1]);
+      if (!Number.isInteger(id) || seen.has(id)) continue;
+      seen.add(id);
+      ids.push(id);
+    }
+    return ids;
+  }
+
+  async function discoverLotIds() {
+    const all = [];
+    const seen = new Set();
+
+    for (let page = 1; page <= CONFIG.maxPages; page++) {
+      const url = new URL(location.origin + "/");
+      url.searchParams.set("items", "all");
+      url.searchParams.set("auction_id", String(CONFIG.auctionId));
+      url.searchParams.set("display", "grid");
+      url.searchParams.set("limit", String(CONFIG.pageSize));
+      url.searchParams.set("page", String(page));
+
+      const r = await fetch(url, { credentials: "same-origin" });
+      if (!r.ok) throw new Error(`Catalog page ${page} failed: HTTP ${r.status}`);
+
+      const html = await r.text();
+      const doc = new DOMParser().parseFromString(html, "text/html");
+      const pageIds = lotIdsFromDocument(doc);
+      const fresh = pageIds.filter(id => !seen.has(id));
+
+      for (const id of fresh) {
+        seen.add(id);
+        all.push(id);
+      }
+
+      console.log(`Catalog page ${page}: ${pageIds.length} lot links, ${fresh.length} new`);
+
+      if (fresh.length === 0) break;
+      if (pageIds.length < CONFIG.pageSize) break;
+      await sleep(150);
+    }
+
+    if (!all.length) {
+      const fallback = lotIdsFromDocument(document);
+      for (const id of fallback) {
+        if (!seen.has(id)) {
+          seen.add(id);
+          all.push(id);
+        }
+      }
+    }
+
+    if (!all.length) {
+      throw new Error("No OrbitBid lot links were discovered in this auction catalog.");
+    }
+
+    return all;
+  }
+
+  async function fetchLot(internalId) {
     const r = await fetch(endpoint, {
       method: "POST",
       mode: "cors",
@@ -210,11 +278,11 @@
     if (j.errors?.length) throw new Error(JSON.stringify(j.errors));
     const lot = j?.data?.lot;
     if (!lot) throw new Error("No lot returned");
-    if (!String(lot.item_number || "").endsWith(String(lotNumber))) {
-      throw new Error(`ID mismatch: got ${lot.item_number}`);
-    }
+
+    const requestedLotNumber = String(lot.item_number || internalId).replace(/^1-/, "");
+
     return {
-      requested_lot_number: lotNumber,
+      requested_lot_number: requestedLotNumber,
       internal_id: internalId,
       ...lot,
       photo_count: lot.images?.length ?? 0
@@ -225,28 +293,33 @@
     const lots = [];
     const errors = [];
 
-    console.log(`OrbitBid ${CONFIG.auctionId}: retrieving lots ${CONFIG.firstLot}-${CONFIG.lastLot}...`);
+    console.log(`OrbitBid ${CONFIG.auctionId}: discovering catalog lots...`);
+    const lotIds = await discoverLotIds();
+    console.log(`OrbitBid ${CONFIG.auctionId}: discovered ${lotIds.length} unique lot IDs. Retrieving lot details...`);
 
-    for (let n = CONFIG.firstLot; n <= CONFIG.lastLot; n++) {
+    for (let i = 0; i < lotIds.length; i++) {
+      const internalId = lotIds[i];
       try {
-        const lot = await fetchLot(n);
+        const lot = await fetchLot(internalId);
         lots.push(lot);
-        console.log(`✓ ${n} | $${lot.amount ?? "?"} | ${lot.bid_count ?? "?"} bids | ${lot.photo_count} photos`);
+        console.log(
+          `✓ ${lot.requested_lot_number} | ID ${internalId} | $${lot.amount ?? "?"} | ${lot.bid_count ?? "?"} bids | ${lot.photo_count} photos`
+        );
       } catch (e) {
-        errors.push({ lotNumber: n, internalId: n + CONFIG.idOffset, error: String(e) });
-        console.warn(`✗ ${n}`, e);
+        errors.push({ internalId, error: String(e) });
+        console.warn(`✗ ID ${internalId}`, e);
       }
-      await sleep(350);
-      if ((n - CONFIG.firstLot + 1) % 15 === 0) await sleep(2000);
+
+      await sleep(CONFIG.requestDelayMs);
+      if ((i + 1) % 15 === 0) await sleep(1500);
     }
 
     const retrievedAt = new Date().toISOString();
     const data = {
       auction_id: CONFIG.auctionId,
+      source_url: location.href,
       retrieved_at: retrievedAt,
-      lot_range: `${CONFIG.firstLot}-${CONFIG.lastLot}`,
-      excluded_lots: CONFIG.excludedNote,
-      total_requested: CONFIG.lastLot - CONFIG.firstLot + 1,
+      total_discovered: lotIds.length,
       total_retrieved: lots.length,
       total_errors: errors.length,
       lots,
@@ -255,13 +328,15 @@
 
     let summary = `# OrbitBid Auction ${CONFIG.auctionId}\n\n`;
     summary += `- Retrieved: ${retrievedAt}\n`;
-    summary += `- Included lots: ${CONFIG.firstLot}-${CONFIG.lastLot}\n`;
-    summary += `- Excluded: ${CONFIG.excludedNote}\n`;
+    summary += `- Source: ${location.href}\n`;
+    summary += `- Catalog lots discovered: ${lotIds.length}\n`;
     summary += `- Lots retrieved: ${lots.length}\n`;
     summary += `- Errors: ${errors.length}\n\n`;
 
     for (const lot of lots) {
       summary += `---\n\n## Lot ${lot.requested_lot_number} — ${md(lot.title)}\n\n`;
+      summary += `- OrbitBid item number: ${md(lot.item_number)}\n`;
+      summary += `- Internal ID: ${lot.internal_id}\n`;
       summary += `- Current bid: $${lot.amount ?? ""}\n`;
       summary += `- Bid count: ${lot.bid_count ?? ""}\n`;
       summary += `- Photo count: ${lot.photo_count}\n`;
@@ -288,12 +363,12 @@
     }
 
     const rows = [[
-      "lot","internal_id","current_bid","bid_count","photo_count","status","live_status","end_time","title"
+      "lot","item_number","internal_id","current_bid","bid_count","photo_count","status","live_status","end_time","title"
     ].map(csv).join(",")];
 
     for (const lot of lots) {
       rows.push([
-        lot.requested_lot_number, lot.internal_id, lot.amount, lot.bid_count,
+        lot.requested_lot_number, lot.item_number, lot.internal_id, lot.amount, lot.bid_count,
         lot.photo_count, lot.status, lot.live_status, lot.end_time, clean(lot.title)
       ].map(csv).join(","));
     }
