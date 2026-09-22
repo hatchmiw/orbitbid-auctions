@@ -6,14 +6,10 @@ on:
       auction_id:
         description: "OrbitBid auction ID"
         required: true
-        default: "1879"
+        default: "1970"
 
 permissions:
-  contents: write
-
-concurrency:
-  group: orbitbid-photos-${{ inputs.auction_id }}
-  cancel-in-progress: false
+  contents: read
 
 jobs:
   mirror:
@@ -22,89 +18,41 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Install Pillow
         run: python -m pip install --upgrade pillow
 
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+
       - name: Mirror photos
+        if: steps.retention.outputs.expired != 'true'
         run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
 
-      - name: Commit and push photos in small batches
+      - name: Build review sheets
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
+
+      - name: Upload temporary photo archive
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos
+          path: auctions/${{ inputs.auction_id }}/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Summary
         shell: bash
-        env:
-          AUCTION_ID: ${{ inputs.auction_id }}
         run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          photo_dir="auctions/${AUCTION_ID}/photos"
-          if [[ ! -d "$photo_dir" ]]; then
-            echo "Photo folder missing: $photo_dir"
-            exit 1
-          fi
-
-          batch=()
-          batch_bytes=0
-          batch_number=0
-          committed_files=0
-
-          push_batch() {
-            if (( ${#batch[@]} == 0 )); then
-              return
-            fi
-
-            batch_number=$((batch_number + 1))
-            git add -- "${batch[@]}"
-            if git diff --cached --quiet; then
-              echo "Batch $batch_number: no new files."
-            else
-              git commit -q -m "Mirror OrbitBid auction ${AUCTION_ID} photos (batch $batch_number)"
-              # A push that fails must stop the job. Retry transient server errors
-              # without downloading any images again during this run.
-              pushed=0
-              for attempt in 1 2 3 4; do
-                if git push origin HEAD:main; then
-                  pushed=1
-                  break
-                fi
-                echo "Push failed for batch $batch_number (attempt $attempt of 4)."
-                sleep $((attempt * 15))
-              done
-              if (( pushed == 0 )); then
-                echo "Could not push batch $batch_number. Earlier batches remain saved."
-                exit 1
-              fi
-            fi
-
-            committed_files=$((committed_files + ${#batch[@]}))
-            echo "Batch $batch_number complete: ${#batch[@]} files, cumulative $committed_files."
-            batch=()
-            batch_bytes=0
-          }
-
-          # Keep each push below both 120 files and 15 MiB of source images.
-          # This avoids a single enormous Git pack for auctions with thousands
-          # of photographs. Re-running skips files already present in GitHub.
-          while IFS= read -r -d '' file; do
-            if git ls-files --error-unmatch -- "$file" >/dev/null 2>&1; then
-              if git diff --quiet -- "$file"; then
-                continue
-              fi
-            fi
-            size=$(stat -c %s "$file")
-            if (( ${#batch[@]} >= 120 || (batch_bytes + size > 15728640 && ${#batch[@]} > 0) )); then
-              push_batch
-            fi
-            batch+=("$file")
-            batch_bytes=$((batch_bytes + size))
-          done < <(find "$photo_dir" -type f -print0 | sort -z)
-
-          push_batch
-          echo "Finished committing $committed_files photo and metadata files in $batch_number batches."
+          echo "Temporary OrbitBid photo/review artifact created for auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Delete after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
