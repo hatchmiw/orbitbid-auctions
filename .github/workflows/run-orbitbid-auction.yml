@@ -1,0 +1,114 @@
+name: Run OrbitBid Auction
+
+on:
+  workflow_dispatch:
+    inputs:
+      auction_id:
+        description: "OrbitBid auction ID"
+        required: true
+        default: "1879"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orbitbid-auction-${{ inputs.auction_id }}
+  cancel-in-progress: false
+
+jobs:
+  run-auction:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade curl_cffi pillow playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Export OrbitBid auction
+        run: python scripts/export_orbitbid_rendered.py "${{ inputs.auction_id }}"
+
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+
+      - name: Mirror lot photos
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
+
+      - name: Build review sheets
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
+
+      - name: Verify generated files
+        shell: bash
+        run: |
+          test -s "auctions/${{ inputs.auction_id }}/README.md"
+          test -s "auctions/${{ inputs.auction_id }}/summary.md"
+          test -s "auctions/${{ inputs.auction_id }}/summary.csv"
+          test -s "auctions/${{ inputs.auction_id }}/lots.json"
+          if [[ "${{ steps.retention.outputs.expired }}" != "true" ]]; then
+            test -s "auctions/${{ inputs.auction_id }}/photos/README.md"
+            test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
+          fi
+          echo "OrbitBid auction output verified."
+
+      - name: Upload temporary photo and review archive
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos
+          path: auctions/${{ inputs.auction_id }}/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Commit permanent auction metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Photos/review sheets are temporary artifacts and are intentionally
+          # excluded from Git history.
+          git add "auctions/${{ inputs.auction_id }}/README.md" \
+                  "auctions/${{ inputs.auction_id }}/summary.md" \
+                  "auctions/${{ inputs.auction_id }}/summary.csv" \
+                  "auctions/${{ inputs.auction_id }}/lots.json"
+
+          if git diff --cached --quiet; then
+            echo "No metadata changes to commit."
+          else
+            git commit -m "Run OrbitBid auction ${{ inputs.auction_id }}"
+            for attempt in 1 2 3; do
+              echo "Synchronizing with main (attempt $attempt/3)..."
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Auction metadata committed and pushed."
+                exit 0
+              fi
+              sleep 5
+            done
+            echo "Failed to push after 3 attempts." >&2
+            exit 1
+          fi
+
+      - name: Summary
+        shell: bash
+        run: |
+          echo "## OrbitBid auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Permanent metadata committed. Photos and review sheets are temporary." >> "$GITHUB_STEP_SUMMARY"
+          echo "Auction final scheduled close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Photo cleanup after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
