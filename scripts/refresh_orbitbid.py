@@ -83,6 +83,7 @@ def main() -> int:
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     (path.parent / "summary.md").write_text(base.make_summary(data), encoding="utf-8")
     (path.parent / "summary.csv").write_text(base.make_csv(refreshed), encoding="utf-8", newline="")
+    base.append_price_history(path.parent, now, refreshed, "refresh")
     (path.parent / "README.md").write_text(base.make_readme(data), encoding="utf-8")
 
     print(f"DONE — refreshed {len(refreshed)} saved lots; {len(errors)} errors.")
