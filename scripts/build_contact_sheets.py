@@ -4,8 +4,8 @@ from PIL import Image, ImageOps, ImageDraw, ImageFont
 import math
 import sys
 
-THUMB_W = 620
-THUMB_H = 465
+THUMB_W = 360
+THUMB_H = 270
 LABEL_H = 44
 COLS = 3
 MARGIN = 18
@@ -51,8 +51,8 @@ def main():
             sheet.paste(tile,(x,y))
             draw.rectangle((x,y+THUMB_H,x+cell_w-1,y+cell_h-1), fill=(245,245,245))
             draw.text((x+12,y+THUMB_H+10), f"Lot {lotdir.name} — Photo {i+1} ({p.name})", fill="black")
-        out=lotdir/"contact.jpg"
-        sheet.save(out,"JPEG",quality=88,optimize=True,progressive=True)
+        out=lotdir/"review.jpg"
+        sheet.save(out,"JPEG",quality=72,optimize=True,progressive=True)
         print(out)
         made+=1
     print(f"Created {made} contact sheets")
