@@ -32,7 +32,7 @@ def main():
     lot_dirs=sorted([p for p in root.iterdir() if p.is_dir() and p.name.isdigit()], key=lambda p:int(p.name))
     made=0
     for lotdir in lot_dirs:
-        photos=sorted([p for p in lotdir.glob("*.jpg") if p.name!="contact.jpg"])
+        photos=sorted([p for p in lotdir.glob("*.jpg") if p.name not in ("contact.jpg", "review.jpg")])
         if not photos:
             continue
         rows=math.ceil(len(photos)/COLS)
