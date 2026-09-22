@@ -8,11 +8,13 @@ Public working repository for OrbitBid auction research.
 2. Open DevTools → Console.
 3. Run the launcher below.
 4. The latest exporter is loaded from this repository.
-5. The exporter downloads:
+5. The exporter downloads one ZIP:
+   - `orbitbid-<auction-id>-export.zip`
+6. The ZIP contains:
    - `summary.md`
    - `lots.json`
    - `summary.csv`
-6. Put those files under `auctions/<auction-id>/`.
+7. Extract those three files and put them under `auctions/<auction-id>/`.
 
 ## Console launcher
 
