@@ -16,6 +16,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: orbitbid-metadata-writes
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
