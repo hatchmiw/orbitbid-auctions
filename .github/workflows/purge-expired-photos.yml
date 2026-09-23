@@ -9,6 +9,10 @@ permissions:
   actions: write
   contents: write
 
+concurrency:
+  group: orbitbid-metadata-writes
+  cancel-in-progress: false
+
 jobs:
   cleanup:
     runs-on: ubuntu-latest
