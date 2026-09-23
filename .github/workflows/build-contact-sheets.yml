@@ -1,11 +1,6 @@
 name: Build auction contact sheets
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/build_contact_sheets.py"
-      - ".github/workflows/build-contact-sheets.yml"
   workflow_dispatch:
     inputs:
       auction_id:
