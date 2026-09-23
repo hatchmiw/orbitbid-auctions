@@ -62,6 +62,12 @@ def main() -> int:
         if index % base.BATCH_PAUSE_EVERY == 0:
             time.sleep(base.BATCH_PAUSE_SECONDS)
 
+    if errors:
+        raise RuntimeError(
+            f"Refresh failed for {len(errors)} of {len(old_lots)} saved lots. "
+            "No snapshot or price-history rows were written; retry when the API is available."
+        )
+
     now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     data = dict(old)
     # Older browser-export snapshots (including auction 1970) predate some
