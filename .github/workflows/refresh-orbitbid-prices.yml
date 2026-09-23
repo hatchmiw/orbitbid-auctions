@@ -11,8 +11,9 @@ on:
 permissions:
   contents: write
 
+# Use one shared lock for workflows that write auction metadata.
 concurrency:
-  # Serialize every workflow that can write auction metadata.\n  # This prevents a price refresh from racing another writer to main.\n  group: orbitbid-metadata-writes
+  group: orbitbid-metadata-writes
   cancel-in-progress: false
 
 jobs:
@@ -23,6 +24,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -32,32 +35,45 @@ jobs:
       - name: Install dependency
         run: python -m pip install --upgrade curl_cffi
 
-      - name: Refresh saved lot prices
-        run: python scripts/refresh_orbitbid.py "${{ inputs.auction_id }}"
-
-      - name: Commit refreshed metadata
+      - name: Refresh and publish safely
         shell: bash
+        env:
+          AUCTION_ID: ${{ inputs.auction_id }}
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "auctions/${{ inputs.auction_id }}/README.md" \
-                  "auctions/${{ inputs.auction_id }}/summary.md" \
-                  "auctions/${{ inputs.auction_id }}/summary.csv" \
-                  "auctions/${{ inputs.auction_id }}/lots.json" \
-                  "auctions/${{ inputs.auction_id }}/price-history.csv"
 
-          if git diff --cached --quiet; then
-            echo "No price changes to commit."
-          else
-            git commit -m "Refresh OrbitBid auction ${{ inputs.auction_id }} prices"
-            for attempt in 1 2 3; do
-              git fetch origin main
-              git rebase origin/main
-              if git push origin HEAD:main; then
-                exit 0
-              fi
-              sleep 5
-            done
-            exit 1
-          fi
+          # An unrelated commit may land on main while bids are being fetched.
+          # Re-run from fresh main on rejection rather than rebase conflicting
+          # copies of lots.json, summary files, and price-history.csv.
+          for attempt in 1 2 3; do
+            echo "Refresh/publish attempt $attempt of 3"
+            git fetch origin main
+            git reset --hard origin/main
+
+            python scripts/refresh_orbitbid.py "$AUCTION_ID"
+
+            git add -- "auctions/$AUCTION_ID/README.md" \
+                       "auctions/$AUCTION_ID/summary.md" \
+                       "auctions/$AUCTION_ID/summary.csv" \
+                       "auctions/$AUCTION_ID/lots.json" \
+                       "auctions/$AUCTION_ID/price-history.csv"
+
+            if git diff --cached --quiet; then
+              echo "No changes to publish."
+              exit 0
+            fi
+
+            git commit -m "Refresh OrbitBid auction $AUCTION_ID prices"
+            if git push origin HEAD:main; then
+              echo "Published prices and history successfully."
+              exit 0
+            fi
+
+            echo "Main changed during publish or push failed. Retrying from latest main."
+            sleep $((attempt * 5))
+          done
+
+          echo "Unable to publish auction prices after 3 attempts." >&2
+          exit 1
