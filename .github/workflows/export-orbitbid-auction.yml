@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: orbitbid-export-${{ inputs.auction_id }}
+  group: orbitbid-metadata-writes
   cancel-in-progress: false
 
 jobs:
