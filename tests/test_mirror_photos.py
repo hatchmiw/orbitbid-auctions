@@ -1,10 +1,11 @@
 """Regression tests for mixed numeric and alphanumeric OrbitBid lot IDs."""
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from mirror_photos import lot_sort_key
+from mirror_photos import lot_sort_key, reset_photo_root
 from build_contact_sheets import lot_directory_sort_key
 
 
@@ -23,6 +24,20 @@ class LotSortTests(unittest.TestCase):
     def test_mixed_case_is_comparable(self):
         values = ["B2", "a10", "A2", "b10"]
         self.assertEqual(sorted(values, key=lot_sort_key), ["A2", "a10", "B2", "b10"])
+
+
+class PhotoWorkspaceTests(unittest.TestCase):
+    def test_reset_photo_root_removes_stale_content(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp) / "photos"
+            stale = root / "old-lot"
+            stale.mkdir(parents=True)
+            (stale / "01.jpg").write_bytes(b"stale")
+
+            reset_photo_root(root)
+
+            self.assertTrue(root.is_dir())
+            self.assertEqual(list(root.iterdir()), [])
 
 
 class ContactSheetSortTests(unittest.TestCase):
