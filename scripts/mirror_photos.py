@@ -123,8 +123,10 @@ def clean(value) -> str:
 
 def lot_sort_key(value):
     """Natural sort key that also supports non-numeric OrbitBid lot numbers."""
-    parts = re.split(r"(\\d+)", str(value))
-    return tuple(int(part) if part.isdigit() else part.lower() for part in parts)
+    # Keep numeric and text fragments mutually comparable, even for mixed
+    # lot numbers such as "12", "12-A", and "A12".
+    parts = re.split(r"(\d+)", str(value))
+    return tuple((0, int(part)) if part.isdigit() else (1, part.lower()) for part in parts)
 
 
 def main() -> int:
