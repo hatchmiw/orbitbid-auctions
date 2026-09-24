@@ -41,6 +41,10 @@ jobs:
         if: steps.retention.outputs.expired != 'true'
         run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
 
+      - name: Verify photo outputs
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/verify_photo_outputs.py "${{ inputs.auction_id }}"
+
       - name: Upload temporary photo archive
         if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
