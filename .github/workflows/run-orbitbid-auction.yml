@@ -34,45 +34,29 @@ jobs:
           python -m pip install --upgrade curl_cffi pillow playwright
           python -m playwright install --with-deps chromium
 
+      - name: Test lot-number sorting
+        run: python -m unittest discover -s tests -p 'test_mirror_photos.py'
+
       - name: Export OrbitBid auction
         run: python scripts/export_orbitbid_rendered.py "${{ inputs.auction_id }}"
 
-      - name: Calculate photo retention
-        id: retention
-        shell: bash
-        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
-
-      - name: Mirror lot photos
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
-
-      - name: Build review sheets
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
-
-      - name: Verify generated files
+      - name: Verify exported metadata
         shell: bash
         run: |
-          test -s "auctions/${{ inputs.auction_id }}/README.md"
-          test -s "auctions/${{ inputs.auction_id }}/summary.md"
-          test -s "auctions/${{ inputs.auction_id }}/summary.csv"
-          test -s "auctions/${{ inputs.auction_id }}/lots.json"
-          test -s "auctions/${{ inputs.auction_id }}/price-history.csv"
-          if [[ "${{ steps.retention.outputs.expired }}" != "true" ]]; then
-            test -s "auctions/${{ inputs.auction_id }}/photos/README.md"
-            test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
-          fi
-          echo "OrbitBid auction output verified."
-
-      - name: Upload temporary photo and review archive
-        if: steps.retention.outputs.expired != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: orbitbid-${{ inputs.auction_id }}-photos
-          path: auctions/${{ inputs.auction_id }}/photos/
-          retention-days: ${{ steps.retention.outputs.retention_days }}
-          compression-level: 0
-          if-no-files-found: error
+          set -euo pipefail
+          for name in README.md summary.md summary.csv lots.json price-history.csv; do
+            test -s "auctions/${{ inputs.auction_id }}/$name"
+          done
+          python - "${{ inputs.auction_id }}" <<'PY'
+          import json, pathlib, sys
+          path = pathlib.Path("auctions") / sys.argv[1] / "lots.json"
+          data = json.loads(path.read_text(encoding="utf-8"))
+          lots = data.get("lots", [])
+          count = data.get("total_discovered")
+          if not lots or len(lots) != count or data.get("total_errors"):
+              raise SystemExit(f"Incomplete export: {len(lots)} retrieved, {count} discovered, {data.get('total_errors')} errors")
+          print(f"Verified {len(lots)} retrieved auction lots.")
+          PY
 
       - name: Commit permanent auction metadata
         shell: bash
@@ -106,6 +90,37 @@ jobs:
             echo "Failed to push after 3 attempts." >&2
             exit 1
           fi
+
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+
+      - name: Mirror lot photos
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
+
+      - name: Build review sheets
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
+
+      - name: Verify photo outputs
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: |
+          test -s "auctions/${{ inputs.auction_id }}/photos/README.md"
+          test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
+          echo "Photo output verified."
+
+      - name: Upload temporary photo and review archive
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos
+          path: auctions/${{ inputs.auction_id }}/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
 
       - name: Summary
         shell: bash
