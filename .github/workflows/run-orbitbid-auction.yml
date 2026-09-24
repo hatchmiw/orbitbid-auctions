@@ -106,11 +106,7 @@ jobs:
 
       - name: Verify photo outputs
         if: steps.retention.outputs.expired != 'true'
-        shell: bash
-        run: |
-          test -s "auctions/${{ inputs.auction_id }}/photos/README.md"
-          test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
-          echo "Photo output verified."
+        run: python scripts/verify_photo_outputs.py "${{ inputs.auction_id }}"
 
       - name: Upload temporary photo and review archive
         if: steps.retention.outputs.expired != 'true'
