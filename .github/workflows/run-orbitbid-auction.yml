@@ -34,8 +34,8 @@ jobs:
           python -m pip install --upgrade curl_cffi pillow playwright
           python -m playwright install --with-deps chromium
 
-      - name: Test lot-number sorting
-        run: python -m unittest discover -s tests -p 'test_mirror_photos.py'
+      - name: Test auction photo checks
+        run: python -m unittest discover -s tests -p 'test_*.py'
 
       - name: Export OrbitBid auction
         run: python scripts/export_orbitbid_rendered.py "${{ inputs.auction_id }}"
