@@ -1,0 +1,118 @@
+name: Build source-verified auction review previews
+on:
+  push:
+    branches: [main]
+    paths:
+      - auctions/1879/review_requests.json
+      - .github/workflows/build-source-verified-previews.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orbitbid-metadata-writes
+  cancel-in-progress: false
+
+jobs:
+  previews:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --upgrade pillow
+      - name: Select requested lots directly from the current full snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path("auctions/1879")
+          original = json.loads((root/"lots.json").read_text(encoding="utf-8"))
+          request = json.loads((root/"review_requests.json").read_text(encoding="utf-8"))
+          required = list(map(str, request["lots"]))
+          if len(original["lots"]) != 487 or original["total_discovered"] != 487:
+              raise SystemExit("Not the verified complete 487-lot catalog")
+          if len(set(required)) != len(required) or not required:
+              raise SystemExit("Duplicate or empty requested lot list")
+          def number(lot):
+              return str(lot.get("requested_lot_number") or lot.get("item_number") or lot.get("id"))
+          selected = [lot for lot in original["lots"] if number(lot) in required]
+          if len(selected) != len(required):
+              raise SystemExit("Missing requested lot from current source")
+          if any(not lot.get("images") for lot in selected):
+              raise SystemExit("Request includes catalog lot without images")
+          original["lots"] = selected
+          original["total_discovered"] = len(selected)
+          original["total_errors"] = 0
+          target = Path("auctions/review1879")
+          target.mkdir(parents=True, exist_ok=True)
+          (target/"lots.json").write_text(json.dumps(original), encoding="utf-8")
+          print("Selected",len(selected),"current-snapshot lots")
+          PY
+      - name: Download only matching source photos
+        run: python scripts/mirror_photos.py review1879
+      - name: Build small contact sheets
+        run: python scripts/build_contact_sheets.py review1879
+      - name: Verify photos, lot IDs and source URL mapping
+        run: python scripts/verify_photo_outputs.py review1879
+      - name: Collect compact contact sheets, source provenance and lot index
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import hashlib
+          import json
+          import shutil
+          from pathlib import Path
+          source = Path("auctions/review1879/photos")
+          dest = Path("auctions/1879/review-previews")
+          full = Path("auctions/1879/lots.json")
+          request = json.loads(Path("auctions/1879/review_requests.json").read_text())
+          m = json.loads((source/"manifest.json").read_text())
+          if dest.exists():
+              shutil.rmtree(dest)
+          dest.mkdir(parents=True)
+          for lot in request["lots"]:
+              path = source/lot/"review.jpg"
+              if not path.is_file() or path.stat().st_size == 0:
+                  raise SystemExit("Missing requested lot review sheet "+lot)
+              shutil.copyfile(path,dest/(lot+".jpg"))
+          m["review_source_snapshot_sha256"] = hashlib.sha256(full.read_bytes()).hexdigest()
+          m["review_source"] = "Only current auctions/1879/lots.json"
+          (dest/"manifest.json").write_text(json.dumps(m,indent=2)+"\n")
+          lines = ["# Source-verified review contact sheets","",
+            "Thumbnails here were freshly downloaded using the CURRENT auctions/1879/lots.json.",
+            "No historical photo folder was reused. Every source image URL is",
+            "recorded in manifest.json and all mappings passed verify_photo_outputs.py.",""]
+          lines += ["- [Lot "+lot+"]("+lot+".jpg)" for lot in request["lots"]]
+          (dest/"README.md").write_text("\n".join(lines)+"\n")
+          print("Prepared",len(request["lots"]),"verified contact sheets")
+          PY
+      - name: Commit only compact source-verified previews
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add auctions/1879/review-previews
+          if git diff --cached --quiet; then
+            echo "No image changes"
+            exit 0
+          fi
+          git commit -m "Add verified current-source OrbitBid 1879 contact sheets"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "Verified review previews committed"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Unable to push verified previews" >&2
+          exit 1
