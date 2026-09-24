@@ -13,6 +13,11 @@ COLS = 3
 MARGIN = 18
 BG = "white"
 
+def lot_directory_sort_key(path: Path):
+    """Natural-sort lot folders without comparing text with integers."""
+    return lot_sort_key(path.name)
+
+
 def fit_image(path: Path):
     im = Image.open(path).convert("RGB")
     im = ImageOps.exif_transpose(im)
@@ -31,10 +36,7 @@ def main():
     if not root.exists():
         raise SystemExit(f"Missing {root}")
 
-    def natural_key(path):
-        return lot_sort_key(path.name)
-
-    lot_dirs=sorted([p for p in root.iterdir() if p.is_dir()], key=natural_key)
+    lot_dirs=sorted([p for p in root.iterdir() if p.is_dir()], key=lot_directory_sort_key)
     made=0
     for lotdir in lot_dirs:
         photos=sorted([p for p in lotdir.glob("*.jpg") if p.name not in ("contact.jpg", "review.jpg")])
