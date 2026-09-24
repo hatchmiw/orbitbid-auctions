@@ -63,6 +63,25 @@ def main() -> int:
         extra = len(actual_set - expected_set)
         problems.append(f"manifest photo mapping mismatch: {missing} missing, {extra} extra")
 
+    expected_files = {
+        photo_root / number / f"{index:02d}.jpg"
+        for number, index, _ in expected
+    }
+    missing_files = [
+        path for path in expected_files
+        if not path.is_file() or path.stat().st_size == 0
+    ]
+    if missing_files:
+        problems.append(f"{len(missing_files)} expected image files missing/empty")
+
+    # Detect unexpected old images even inside a still-current lot's folder.
+    extra_files = {
+        path for path in photo_root.rglob("*.jpg")
+        if path.name != "review.jpg" and path not in expected_files
+    }
+    if extra_files:
+        problems.append(f"{len(extra_files)} stale/extra image files")
+
     actual_dirs = {p.name for p in photo_root.iterdir() if p.is_dir()}
     if actual_dirs != expected_dirs:
         missing = sorted(expected_dirs - actual_dirs)
