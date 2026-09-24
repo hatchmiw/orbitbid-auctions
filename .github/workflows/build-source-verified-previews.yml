@@ -70,12 +70,12 @@ jobs:
           import shutil
           from pathlib import Path
           source = Path("auctions/review1879/photos")
+          request = json.loads(Path("auctions/1879/review_requests.json").read_text())
           batch = str(request["batch"]).strip()
           if not batch.isdigit() or len(batch) != 2:
               raise SystemExit("review request batch must be a 2-digit string")
           dest = Path("auctions/1879/review-previews") / ("batch-" + batch)
           full = Path("auctions/1879/lots.json")
-          request = json.loads(Path("auctions/1879/review_requests.json").read_text())
           m = json.loads((source/"manifest.json").read_text())
           if dest.exists():
               shutil.rmtree(dest)
@@ -102,12 +102,12 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add auctions/1879/review-previews/batch-02
+          git add auctions/1879/review-previews
           if git diff --cached --quiet; then
             echo "No image changes"
             exit 0
           fi
-          git commit -m "Add batch 02 verified OrbitBid 1879 review contact sheets"
+          git commit -m "Add next batch of verified OrbitBid 1879 review contact sheets"
           for attempt in 1 2 3; do
             git fetch origin main
             git rebase origin/main
