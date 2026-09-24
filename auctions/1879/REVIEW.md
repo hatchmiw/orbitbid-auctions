@@ -1,13 +1,18 @@
 # OrbitBid 1879 — auction review checkpoint
 
-**Pass completed:** all 487 catalog descriptions categorized and annotated. 87 lots have **provisional, description-based** illustrative gross resale ranges and conditional maximum **hammer bids**. Original snapshot retrieved September 24, 2026, at 17:32:58 UTC. Bids may have changed; use price-history and live site for current prices.
+**Pass completed:** all 487 catalog descriptions classified and annotated; 87 lots conditionally priced; 40 priority lots have now had every current-source photo inspected in verified contact sheets and their values/caps revised. The original snapshot is dated September 24, 2026, 17:32:58 UTC; no new price refresh performed.
 
-**Not completed:** a photo-by-photo inspection of all lots, condition verification, and lot-specific sold-comparables validation. **Do not treat this as a completed full appraisal or photo audit.** The photos/review sheets are retained in the temporary GitHub Actions artifact `orbitbid-1879-photos`; original source links for each image are preserved in [summary.md](summary.md). These temporary photos are intentionally not committed to permanent Git history.
+**Not completed:** current-source image review of the remaining 445 photographed lots, in-person checks, and broad lot-specific sold comps. Two lots have no source photos. These 40 contact-sheet reviews are visual inspection of reduced-size images, not physical verification of condition. A true 487-lot visual audit is not yet complete.
+
+## Latest inspection batch
+
+- [visual-review-batch-01.md](visual-review-batch-01.md): 40 lots with all current-source catalog photos visually examined, revised caps and specific findings.
+- [review-previews/README.md](review-previews/README.md): permanently accessible verified contact sheets and source-image hashes for this first batch.
 
 ## Files
 
-- [catalog-review.csv](catalog-review.csv): all 487 lots, one record per lot; source photos, catalog bids, review flags and individually assigned catalog-category notes. Empty valuation fields mean **unpriced**, not worthless.
-- [provisional-watchlist.csv](provisional-watchlist.csv): 87 preliminary candidates, conservative provisional caps **subject to image, condition and comparable-sale review**.
+- [catalog-review.csv](catalog-review.csv): all 487 rows; corrected originally blank description/category/internal-ID fields; 40 visual status and findings columns, conditional estimates and verified preview links.
+- [provisional-watchlist.csv](provisional-watchlist.csv): 87 conditional candidates including 40 visually reviewed lots, with updated image findings.
 - [all-lots-review.md](all-lots-review.md): readable per-lot review table for every lot.
 - [summary.md](summary.md): original unabridged descriptions and every source photo link.
 - [price-history.csv](price-history.csv): existing timestamped price history (not altered here).
@@ -18,14 +23,13 @@ Gross resale ranges are illustrative used-market **working-condition scenarios**
 
 ## Photo integrity
 
-The earlier photo contamination has been addressed by separate image-manifest verification in the workflow, but **this review has not independently inspected the full archive**. The absence of committed photo folders is expected under the current temporary-artifact retention policy. There are two entries with no catalog photos: 18284, 18583.
+The earlier photo contamination has been addressed by separate image-manifest verification in the workflow, but **40 selected lots' current-source images have now been examined, but the full archive has not been visually inspected**. The absence of committed photo folders is expected under the current temporary-artifact retention policy. There are two entries with no catalog photos: 18284, 18583.
 
 ## Resumption checkpoint
 
-1. All 487 catalog rows are retained in `catalog-review.csv`; do **not** redo the import or accidentally replace it with a smaller partial set.
-2. Open `provisional-watchlist.csv`, inspect **every image** for each candidate using `summary.md` or the latest verified Actions artifact, and document image findings in `catalog-review.csv`.
-3. Verify sold comps and exact models for high-priority candidates; adjust all rough valuation ranges/caps. Update bid prices independently closer to sale.
-4. Only after 487 image reviews (or explicit not-reviewed exceptions) should this be called a full visual review.
+1. **Done:** all 487 descriptions triaged; 40 current-source lots (all their catalog photographs) inspected via verified contact sheets, findings and revised caps committed. The old photo-contamination issue is bypassed by rebuilding from current source URLs.
+2. **Next:** continue visually inspecting the other 445 photographed lots and cross-check sold prices for the strongest resale opportunities. Do not mark an unviewed lot 'photo reviewed'. Two lots have no source images and need on-site confirmation.
+3. **Then:** independently verify operation, calibration and transport; update price history just before bidding.
 
 ## Catalog group counts
 

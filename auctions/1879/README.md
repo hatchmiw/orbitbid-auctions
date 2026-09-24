@@ -10,6 +10,9 @@ Automated snapshot of OrbitBid auction **1879**.
 
 ## Review files
 
+- [visual-review-batch-01.md](visual-review-batch-01.md) — 40 completed contact-sheet visual inspections, condition-based revised bids and selective market references
+- [review-previews/README.md](review-previews/README.md) — 40 permanent source-verified lot contact sheets
+
 - [REVIEW.md](REVIEW.md) — catalog-review coverage, limitations and resume checkpoint
 - [catalog-review.csv](catalog-review.csv) — entire 487-lot first-pass review, including image links and conditional ranges where provided
 - [provisional-watchlist.csv](provisional-watchlist.csv) — preliminarily priced candidates and conditional maximum hammer bids
