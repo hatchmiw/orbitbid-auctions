@@ -25,6 +25,7 @@ import io
 import json
 import os
 import re
+import shutil
 import sys
 import time
 import urllib.request
@@ -129,6 +130,17 @@ def lot_sort_key(value):
     return tuple((0, int(part)) if part.isdigit() else (1, part.lower()) for part in parts)
 
 
+def reset_photo_root(photo_root: Path) -> None:
+    """Start each mirror from the current snapshot only.
+
+    Historical photo folders cannot be trusted because OrbitBid lot numbers can
+    be reused for different items between catalog snapshots.
+    """
+    if photo_root.exists():
+        shutil.rmtree(photo_root)
+    photo_root.mkdir(parents=True, exist_ok=True)
+
+
 def main() -> int:
     if len(sys.argv) != 2:
         print("Usage: python scripts/mirror_photos.py <auction_id>", file=sys.stderr)
@@ -147,7 +159,7 @@ def main() -> int:
 
     lots = data.get("lots", [])
     photo_root = auction_dir / "photos"
-    photo_root.mkdir(parents=True, exist_ok=True)
+    reset_photo_root(photo_root)
 
     tasks = []
     for lot in lots:
