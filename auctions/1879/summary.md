@@ -1,6112 +1,10560 @@
 # OrbitBid Auction 1879
 
-- Retrieved: 2026-09-22T18:58:20.405802Z
+- Retrieved: 2026-09-24T17:16:54.386854Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1879&display=grid&limit=60&page=1
-- Catalog lots discovered: 162
-- Lots retrieved: 162
+- Catalog lots discovered: 487
+- Lots retrieved: 487
 - Errors: 0
 
 ---
 
-## Lot 1 — 2009 Chevrolet Impala LT Sedan V6 engine, automatic transmission, cloth interior, dual-zone automati...
+## Lot 30-1332 — 5 boxes of truck and equipment lights, grommets, etc
 
-- OrbitBid item number: 1-1
-- Internal ID: 1779301
-- Current bid: $405
-- Bid count: 48
-- Photo count: 42
-- End time: 1790118000
-
-**Description:** &lt;div&gt;&lt;p&gt;** This unit is being sold out of Martinsburg, WV, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2009
-- Make: Chevrolet
-- Model: Impala
-- Trim: LT
-- Type: Sedan
-- VIN: 2G1WT57N791323326
-- Odometer Reading: 179500
-- Titled Status: Clear
-- General Description: V6 engine, automatic transmission, cloth interior, dual-zone automatic climate control, steering wheel-mounted audio/cruise controls, remote start, keyless entry, wood-grain interior trim, AM/FM/XM radio. Odometer reads approximately 79,500 miles. GVWR 4,566 lb.
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/928a08212fc5a0f782eb/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f459e1339aae7d2b678b/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/374fd860dbffa5776f54/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d24b819daee4177e4af7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/44e21611fbc3c9b29737/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e1601eb39632738c62a/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a74bacd739b04d52d449/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/276bcd1da5c1220b623e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f31f6fa60ae8c82b815/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4853bfeb8c7588572d3c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1ac1da50b127523439e/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb0243496ee843c27ebc/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9128d35b411c64874d2a/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/b691d02a759e39acff19/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1787ebea849fff03368/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/dac7828407a8aa6d670f/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/be27a928b85bd197afd4/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/7fcc63211d5482f7741d/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/85a50765491612d19ca4/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a5e80e52b2c2ebc8539/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/931ebef9d00409d0b4fb/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/663ba7d682a95d8665a4/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/9efffac660ddde6a9ece/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/8537f537d05ca2ec1d0d/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/75b09b23b1fbd87e468d/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5428d36669fc8948a3c/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/24b969ec3895b946d2bb/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/e75131aec265db609d8c/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/95d0f50f30315b161b51/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed2928b9fd95b5fe8311/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bd3250848dd324c20a3/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/b118b4513fe7db85a356/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/90a1bdc1452e31da7b38/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4b53669978fee059d12/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c557d8250df979cc2e1/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c3c9b44d1c2d1741d74/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dce2292ca646206f923/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/889a0e20b91987073434/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0ae5addb49e84910be3/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/b38ed0cfcaf0bdd26c27/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd8082cbd8627e0ff0e9/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/09b45a25f38cc05aaa66/large)
-
----
-
-## Lot 2 — Toyota 52-6FGCU30 LP Gas Cushion-Tire Forklift, 3,800 lb. capacity @ 20" load center (3,500 lb. @ 24...
-
-- OrbitBid item number: 1-2
-- Internal ID: 1779302
-- Current bid: $775
-- Bid count: 13
-- Photo count: 22
-- End time: 1790118000
-
-**Fields:**
-
-- Make: Toyota
-- Model: 52-6FGCU30
-- General Description: LP Gas Cushion-Tire Forklift, 3,800 lb. capacity @ 20" load center (3,500 lb. @ 24", 3,350 lb. @ 30"), FSV 2-stage mast, 187" max lifting height, solid cushion tires (21x8x15 front / 16x6x10.5 rear, Sumitomo brand), rear-mounted LP tank, 12,050 lb. approx. truck weight, 3837 hours, SN: 61577 (asset # 526)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c15e94f36ed172c9a95/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c90f72f81230e46b263c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a77b3c8976ca145265a/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/43dfa7ebbfaf880ce390/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/54b9782fe009c2410891/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/94073b21d10fd6d8593d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6d4b4eb9863fb20d4e0/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/256229d028273d19fb78/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5bceae78896d0638aaf/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc2933f9dab156fe06ca/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/196faf023b00031cb0dc/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/154c46011568590290c6/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/879f34ff8df2d6025dfe/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/bad073ee6960875b0cb0/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/707ced92a78f9236a89c/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/143017a879af03960d36/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/642d01f29509f022a5fb/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/77dedb852ee92f943cf2/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/027de8c81bcf2079dfa6/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a2b1e27b098afd7237d/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4e6903aefac516c8ed5/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e83b906af2d478443e2/large)
-
----
-
-## Lot 3 — Lift-Rite Lot of (2) Electric Walkie Pallet Truck — Battery-powered walkie pallet truck, onboard bat...
-
-- OrbitBid item number: 1-3
-- Internal ID: 1779303
-- Current bid: $5
-- Bid count: 1
-- Photo count: 3
-- End time: 1790118000
-
-**Fields:**
-
-- Make: Lift-Rite
-- General Description: Lot of (2) Electric Walkie Pallet Truck — Battery-powered walkie pallet truck, onboard battery compartment with red disconnect switch, straddle-style dual handle controls, missing batteries (asset # 703)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/37f4f64c9f16dd4f253b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/56df825347f488610776/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9484d077f87f29a281a3/large)
-
----
-
-## Lot 7 — Hyster S120FTPRS LP Gas Cushion-Tire Forklift, 42" carriage, DuraMatch transmission, multi-function ...
-
-- OrbitBid item number: 1-7
-- Internal ID: 1779307
-- Current bid: $425
-- Bid count: 5
-- Photo count: 23
-- End time: 1790118000
-
-**Fields:**
-
-- Make: Hyster
-- Model: S120FTPRS
-- General Description: LP Gas Cushion-Tire Forklift, 42" carriage, DuraMatch transmission, multi-function clamp hydraulic controls, 18x8x16 cushion front tires / 18x8x12-1/8 cushion rear, approx. 21,410 lb. truck weight, max load height 238.2" (185" w/ 4,700mm mast), 26" load center, approx. 2339 hours, SN G004V04539G (asset # 1107)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/417eefcc55a40f7590fe/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d43dde64a22bb96cc8e6/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6856a6a7a663e0504526/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/996276d163baf28ed4aa/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a95d4bb0e3a4ae103bc4/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c5e85903b75de68518b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbccef19fc5281febee4/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/984b777042601b13f3d4/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/046f45646345d154c2b8/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f27b7bd060220d2e1672/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f7dc19fe2fc6805acd5/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9e224382b3175826dfe/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/11f3f8fddb443d23ab0b/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/f18b41b006cdece92e13/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/f67ba6fee8e83bc1292d/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a70dfcb76397fc14427/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/38b1d11c24ce6221c19e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/30098cc54cbba2b28a12/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d8d5f6aefe4ecf5e8ec/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/63f6c949655e5d101091/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/e070d8b076eaed92e811/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d114f14db1b270cdc2c5/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/f627f1966422505cd7c2/large)
-
----
-
-## Lot 9 — Yale GLC120MJNGAE100 LP Gas Cushion-Tire Forklift w/ PRS Aux Counterweight + 42" Carriage, 22x12x16 ...
-
-- OrbitBid item number: 1-9
-- Internal ID: 1779309
-- Current bid: $405
-- Bid count: 3
-- Photo count: 20
-- End time: 1790118000
-
-**Fields:**
-
-- Make: Yale
-- Model: GLC120MJNGAE100
-- General Description: LP Gas Cushion-Tire Forklift w/ PRS Aux Counterweight + 42" Carriage, 22x12x16 cushion front tires / 18x8x12-1/8 cushion rear, truck weight 20,860 lb. (9,460 kg), tread width 43.9", back tilt 6.0°, rated capacity 8,800 lb. @ 26" load center, max load height 208.7", SN D818V02835D (asset # 1402)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d7e1c7b704cad5fd709/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/40686a852bbea10024df/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ccc836e6e16786a7ea8/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0c057ef52e721765b0d/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f638237250089d791857/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2158056e9d2be51e1e7c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5de125421a1dfbd8f3a1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/10898f39e874a0987de4/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c77289c037b84f8a5179/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c512c672df0370d70754/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3c87a108873db6841e3/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdd76fddfdc14c0cb34c/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/da2d07bd33bb05c2c94f/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/b33e74772aeb2c41d4a6/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad830fa903f267ca9245/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/35e18b930741b4a45cdb/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/f17e9f5b08c3050bf145/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cd0ab5377782f529ace/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/668fec80677ce071e6b9/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d95b1288deecd1a52d47/large)
-
----
-
-## Lot 12 — Toyota 8FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid f...
-
-- OrbitBid item number: 1-12
-- Internal ID: 1779312
-- Current bid: $405
-- Bid count: 3
-- Photo count: 19
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 8FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,570 lb. (3,890 kg), rated capacity 4,500 lb. @ 24" load center (3,900 lb. @ 30") — hood/side panels removed exposing engine bay, radiator, and wiring for parts or repair, SN 34234 (asset # 1196)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c2a2fc8c1327b69683f/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/403f667b01c49424cac7/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b76209a0048e1b19342/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8301bf3cff916c976faf/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/471df6134eae62976345/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/04f35f23eca03c3c2cb1/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f73f9a775739ab2a4e49/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/03b2c4b5269ba5a40a74/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/098d0f924d5c1746943a/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0605eb7cde71cdcf8540/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/fff073dfbfa03aea0a77/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/8502c97f41c810b6bbdf/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/b309b1d087d829d7acdc/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/169eb9d66d65587292e1/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/3889d2eab57983cd395b/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c3146791e7e45f8fd0c/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4340d4c83076b960bf6/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c8c8d1670cfe129c5ef/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a27eba27400556ac0a3/large)
-
----
-
-## Lot 14 — Toyota 8FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid f...
-
-- OrbitBid item number: 1-14
-- Internal ID: 1779314
-- Current bid: $255
-- Bid count: 3
-- Photo count: 23
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 8FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,550 lb. (3,880 kg), rated capacity 4,500 lb. @ 24" load center (3,900 lb. @ 30") SN 50290, (asset # 1876)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f18261a98ba8781b0e1/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe5e00a6d5bc0e0732f3/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b81b1409fbb921fc8032/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3774e9eb9a9f76615713/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b43c6d8c34baf62be88/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4e2673868e8cc652bb7/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c69de254582a60c2b4e7/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b04bdff94b5b11ffc58c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/00a4a709f1eda9d4c71b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/39fa62b9e7c6bf18e400/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/46ef50e60d586d07c330/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b30c7b9ac66b5444232/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e17fadba1812d74903b/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/99cac1894f057341f04e/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/e42d4ef78b3f2a02b13f/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/59f584f4d6f467414f3f/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/95621f8af536d0e5da83/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2d844c6f11a586b28be/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/5508e583f5b957a61ef1/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2d2a619ffe8013f9d34/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea59ab63c036f76aeece/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c8d5d4d0d7f7fc1100f/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2191279a6736f090a4c/large)
-
----
-
-## Lot 16 — Toyota 8FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid f...
-
-- OrbitBid item number: 1-16
-- Internal ID: 1779316
-- Current bid: $255
-- Bid count: 3
-- Photo count: 27
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 8FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,420 lb. (3,820 kg), rated capacity 4,500 lb. @ 24" load center (4,050 lb. @ 30") SN 20315 (asset # 1108)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a408ac4f7d75fdf03838/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/94473ecd30e17a2b4166/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d1da14a7a9d844de375/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c8d133d9c49b7af7c4c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2715e20cd57f9b3f1b29/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7029ebc253fb108c985/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/97f1d2b69b8b60b40ba3/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3898acecbb3c645c302f/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b1473250ef5e08446af/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/00b906a15420602e0386/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/8964349742536b1eb355/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fdceb5cc8a96d3413a4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/c18fe2177d518b64c2e5/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0e349b9c00e401186bc/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d5f6c3be76e8bda91af/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/72bdc4285897d4fb6ec7/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/43636ecfe6e246a5014e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/172a1f333ed6c7e70046/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb5542f6b808b62b689b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/117a8774f49b0bdb9a94/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/47f9a4de32dd1a39db7a/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/425367bc7006bda5189b/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e945a504e1b42e39a87/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/efa9b66feab09d50d769/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/037f9197a2312a00e60a/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd75171f76e17d8cf1b8/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/03a5f7aa47ace69c79d3/large)
-
----
-
-## Lot 17 — Toyota 7FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid f...
-
-- OrbitBid item number: 1-17
-- Internal ID: 1779317
-- Current bid: $405
-- Bid count: 3
-- Photo count: 25
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,790 lb. (3,990 kg), rated capacity 4,500 lb. @ 24" load center (4,050 lb. @ 30") SN 99591 (asset # 1833)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b78d7e7a9e834881ed36/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2532c97cf133fee292f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6212d3b708a9dc729a54/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fe69bb7af9946f066d8/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/39ec7836c1c9d6b5a652/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d46e7da80cc116c0a2c4/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b122d7bbfa7ea8e5625a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7f2d1e2c70ae007633a/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ad4ac4b1ad7cdec8cce/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc05d4e83a2ed2779d04/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d3b233ca414a6b97137/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ccf8514312f358c213f5/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4f02eb38ee69a729254/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/025380c80bd6a0bc4e61/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/28cedbeeee36522e2b94/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/a10510c1818175de8f8c/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3eeeb945474730d085d/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/fac1fc02dd5ea56e0943/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/74cc49c453d23aa21531/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfe7beb69f0e67dcffc8/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/69834c9493be274275f7/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1d21c092c7b91d15bcc/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/38c3dbf1829050742d22/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/227d0fa58c5279295090/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/0afc94f37d9e988cd55a/large)
-
----
-
-## Lot 18 — Toyota 8FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid f...
-
-- OrbitBid item number: 1-18
-- Internal ID: 1779318
-- Current bid: $510
-- Bid count: 5
-- Photo count: 25
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 8FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,540 lb. (3,870 kg), rated capacity 4,500 lb. @ 24" load center (3,900 lb. @ 30") SN 50325 (asset # 1877)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/224d650041b5814c4475/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4182dae93b4e2e2aac8d/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/878810465aa0dc410685/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/806603e33513c09cd355/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ecb43d04f845d8d9d8e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/184980f92613a84702ec/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/071b860ade88ea966999/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8a925717428b69cac25/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/09849ec1813405203cc0/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3fd0a239367ef9c03b0/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ecbca2e1707d2f2d4593/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/0aecf149a67d5dc98031/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6fd6590082575c76a21/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc4470f1940ec4413ccd/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/60881236f9bdb74015a9/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/1847ce727caeadfa1c22/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/465b71b1d6a68a7803b6/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/be0936676739c5fedec5/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/991d0a978d6a24273b64/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5600e98a42b2ba28b030/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/52b5e2f1bfb42ff375c4/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/da1ba944cde146739953/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/22e09f7744c697e89348/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/09daf908087fb36dd69f/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/406c836cbce6a700ba58/large)
-
----
-
-## Lot 19 — Toyota 6FGCU20 LP Gas Cushion-Tire Forklift w/ Side-Shifter, LP mast type, 35" front tread, 21x7x15 ...
-
-- OrbitBid item number: 1-19
-- Internal ID: 1779319
-- Current bid: $510
-- Bid count: 5
-- Photo count: 29
-- End time: 1790119800
-
-**Fields:**
-
-- Make: Toyota
-- Model: 6FGCU20
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, LP mast type, 35" front tread, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, max lift height 189", rated capacity 4,050 lb. @ 20" load center (3,500 lb. @ 24", 3,200 lb. @ 30") SN 82068 (asset # 564)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/16a5f633ffe4643840c8/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ac34b723f43f94de1aa/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7dbfcc7fa1841215687/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d338c5ce95cf046cad61/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad8c4dee64810bcb44e7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ba3b2376df5b238d54e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/40d204e0e0aa2f8abe87/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/dac91b96c5d58b495941/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7bf4dd2e597f67caed1/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/8abfd52f7609d4879c8f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f24b0b561ebf98fbfad/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4159a7af914c52be40c4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7f04123b2649c4efdda/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/62057616df9f450c2231/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/c37e78874e9606d51091/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbaf0ec9731cea6971a6/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/627d966997c81db582f5/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c7f62c6f71f6d2ce519/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6ff1557326c218b1738/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe7ea6d547f3edbdcc1c/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/b32b41b83f01f4fe4d17/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd2c4ca92ccf37ad9060/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/8017255cde5090840665/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab220d20caa5831bec0e/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/91ded6e54c94668a0d35/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba60e8b40acb082cb453/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cf89ce2f4ea6914d5c3/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/796547a4e4b35b39e8e3/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/7265d1891393501a2156/large)
-
----
-
-## Lot 23 — Yale GLC050VXNVSE083 LP Gas Cushion-Tire Forklift, sit-down rider, 21x7x15 cushion front tires / 16x...
-
-- OrbitBid item number: 1-23
-- Internal ID: 1779322
-- Current bid: $105
-- Bid count: 2
-- Photo count: 16
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Yale
-- Model: GLC050VXNVSE083
-- General Description: LP Gas Cushion-Tire Forklift, sit-down rider, 21x7x15 cushion front tires / 16x5x10.5 cushion rear, 35.1" tread width, 5° back tilt, 38" SS carriage w/ 42" forks, overhead guard, Techtronix 100 transmission, rated capacity 4,650 lb. @ 24" load center (4,800 lb. @ 24" load center at lower 171.3" height), max lift height 189", truck weight 8,850 lb. (4,020 kg), SN A910V17944J, (asset # 1252)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed59bbb7eeb4568c123b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c9a118a3954210746e9/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5c6a308f0adb6eed1d3/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/08753d4be1685dafde59/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/33f424e3a6c0d4513cf1/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b13c3424ca0fb6b5f6d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f44cf3a53c9e77d96cec/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/420720ad8a86b637acd6/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ecf355e3e01ccb8fb93/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/657f2b8f2e04ebbbbf2a/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/07eb0c79dd3f3ed02a19/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c588a9884826309f1cde/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a436d23315d3c55555ed/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6b6153ffe122059b597/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/05fcb8ef9f4c6fc0caf2/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/b860f525f217654ae665/large)
-
----
-
-## Lot 24 — Yale NR045EANM36TE119 Electric Stand-Up Rider Reach Truck, AC power, dual mast w/ wire mesh overhead...
-
-- OrbitBid item number: 1-24
-- Internal ID: 1779323
-- Current bid: $100
-- Bid count: 1
-- Photo count: 15
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Yale
-- Model: NR045EANM36TE119
-- General Description: Electric Stand-Up Rider Reach Truck, AC power, dual mast w/ wire mesh overhead guard, side-shift carriage w/ 42" forks, 31" ISS carriage, 36V electric system, base width 52.25", wheelbase 59.40", rated capacity 4,500 lb. (2,040 kg) @ 24" load center up to 228.6" lift height (4,150 lb. @ 24" load center up to 266" lift height), truck weight 6,220 lb. (2,824 kg) less battery, SN C86N02744G, (asset # 0133)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/29d039db3a010fe83661/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed5f555946c3233d09ad/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/729081d8565b26fc6ec9/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5da1aeb9ef5001e0d5b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/284b4d4c1eb3bd4c9c3a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/861151ae52f811c35b7d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/aaae2538a5d5b6d1861e/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8bf21ae776a81d50d933/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fb9efeeb48f1ef5366c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa51691d7721621e0f49/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/61b3c59da76815b9ddd6/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd5c2a2e1268e460d663/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/faaf8b109765bd3d6722/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/73da8d0de4e0fe2521a7/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/7121825d0aaae3081d4c/large)
-
----
-
-## Lot 25 — Toyota 7HBW23 Electric Walkie Pallet Truck w/ tiller handle control, keypad start, 24V DC electric s...
-
-- OrbitBid item number: 1-25
-- Internal ID: 1779324
-- Current bid: $100
-- Bid count: 1
-- Photo count: 8
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7HBW23
-- General Description: Electric Walkie Pallet Truck w/ tiller handle control, keypad start, 24V DC electric system, dual battery pack (Discover Dry Cell), rated capacity 4,500 lb. (2,041 kg), truck weight 640 lb. (290 kg) less battery, drive tire size 10.0 x 5.0, load wheel size 3.25 x 4.5, SN 7HBW23-40708, (asset # 502)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/876a19d80b75ecfed0f0/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0422e05b0d287e87111f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/202cbdd0d179300e56e3/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c874408ebdfa9e9c4d1f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dcd032f090de7ee7419/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e70993aebf9aa392c1fe/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/daa5bcb68afc40f47ff5/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d513fc1e8f64956c5fa/large)
-
----
-
-## Lot 27 — Toyota 7FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread...
-
-- OrbitBid item number: 1-27
-- Internal ID: 1779326
-- Current bid: $110
-- Bid count: 3
-- Photo count: 18
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,480 lb. (3,850 kg), rated capacity 4,300 lb. @ 24" load center (4,050 lb. @ 30"), max lift height 189", SN 98244 (asset # 958)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1f6c60e732f7d8c9fcf/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ad62a0dd630f98b2e7e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/44e2f05a2114b1b56bba/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/13b193f9b9186f0dc382/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/717f67c488ed02dae4bd/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c41834c1736742a2fd9b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4476d95ba5dba0675947/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffa0ea794386e862b5ee/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a9c59dee3270f0dce88/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/53dd50739b54287fb700/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d0e23e5db9419b941f4/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/15991d9ccd01801eb9b4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d3a6a177eb45800b0c0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/43fa9a72e269dc7044f4/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bba9501f6b7177b4567/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e18ea21dc3a62f031c7b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/127be307324eb4e4aeec/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/35cddf16d64096c24bdf/large)
-
----
-
-## Lot 28 — Hyster S50FT LP Gas Cushion-Tire Forklift "Fortis 50" w/ sideshifter, overhead guard, 21x7x15 cushio...
-
-- OrbitBid item number: 1-28
-- Internal ID: 1779327
-- Current bid: $105
-- Bid count: 2
-- Photo count: 22
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Hyster
-- Model: S50FT
-- General Description: LP Gas Cushion-Tire Forklift "Fortis 50" w/ sideshifter, overhead guard, 21x7x15 cushion front tires / 16x5x10.5 cushion rear, 35.1" tread width, 5° back tilt, 38" SS carriage w/ 42" forks, rated capacity 4,700 lb. @ 24" load center (4,850 lb. @ 24" load center at lower 171.3" height), max lift height 189", truck weight 9,030 lb. (4,100 kg), SN F187V15535G, (asset # 2011)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/96984f2f814d6fa77174/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a02330a463d60c661f7e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a78b470ce680f4fd2dd/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8fc31fd40d521d0288c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d4a798b8183be0d45be/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4ba2ce96ae05b0e583c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/91bffa88a22522f165d6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf62e49607b87ee5e654/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfeb8871769bacec7e4e/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c551b3199fa78a483673/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e034043b99f5a91f56e1/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f153561b766fca90864e/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a958317029e2dc17beab/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f10108ca30d3042f50b/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/43f28a92a5044ac1766d/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/96b6814ec0097807d7f1/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2c6d420d7be1d6d7aa8/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/a922c1906db1d7c37988/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5ab28f15263c9d31efb/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d335fe42db35f219845d/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a182c22336ef0c746e8/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c22bd988ec946a15034/large)
-
----
-
-## Lot 29 — Toyota 7FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread...
-
-- OrbitBid item number: 1-29
-- Internal ID: 1779328
-- Current bid: $110
-- Bid count: 3
-- Photo count: 18
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,510 lb. (3,860 kg), rated capacity 4,500 lb. @ 24" load center (4,050 lb. @ 30"), max lift height 189" SN 98090 (asset 965)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f84bb3747a881fd9d7c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/08efac87382370994ef3/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a3af8cc9cdb82c09520/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3cc7cb1e22b49e09f8e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/02d8a08ab9038b5127f4/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/44969f9a147869be902c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/77e5b7b190d4a563995b/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b5000520edff58a0968/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3ca25b0b479e199a554/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f969fa29b182edad42ef/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/13be7bd149d60ac82e62/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cb5dca5b98c05d70311/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e699e935c2e493f81ade/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ada58d351fa40ebc33b/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/efa83edf5eb38cb9a53f/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fd5d473399a50ff9999/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b5c7ea6cfc61981619c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b66071e4d1cfd3688f93/large)
-
----
-
-## Lot 30 — Toyota 7FGCU25 LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread...
-
-- OrbitBid item number: 1-30
-- Internal ID: 1779329
-- Current bid: $110
-- Bid count: 3
-- Photo count: 21
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7FGCU25
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, FSV mast, 5° back tilt, 35" front tread, 21x7x15 solid front tires / 16x5x10-1/2 solid rear, truck weight 8,480 lb. (3,850 kg), rated capacity 4,500 lb. @ 24" load center (4,050 lb. @ 30"), max lift height 189", SN 83795 (asset # 766)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/696f8be000bf098553ba/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8df8b994052470860a8/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2abdb88ccb3cb410c8cc/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/744b5ace5d7ab43e0fb3/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0cc9cd6506bdcea54365/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c38104206773200366a/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb15126efca7526c6082/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0cb7632f5291332cdc25/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/eacea8831da591d346f8/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb38d8c9dcd1657387d6/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6afe67e0004903959d9/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/710125f897a1d9e5e42b/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0da2472428f1c4ad181d/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e0ecb64e5804849557a/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d82e804b8dc4a59586a8/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/0227aafc49aadd94e772/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4947d933afc631aa217/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b61012fc59d462382f10/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/19296fd42ee27a285f7b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/857c8f4df1071f50cc6d/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/da2c7f0c64ab0fee8a22/large)
-
----
-
-## Lot 31 — Toyota 7FGCU25 (unconfirmed) LP Gas Cushion-Tire Forklift w/ Side-Shifter, similar spec to other 7FG...
-
-- OrbitBid item number: 1-31
-- Internal ID: 1779330
-- Current bid: $110
-- Bid count: 3
-- Photo count: 19
-- End time: 1790121600
-
-**Fields:**
-
-- Make: Toyota
-- Model: 7FGCU25 (unconfirmed)
-- General Description: LP Gas Cushion-Tire Forklift w/ Side-Shifter, similar spec to other 7FGCU25 units in this lot — serial number illegible/unconfirmed from photos (asset # 984)
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a64a4ce5fcca1e5c3042/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6afab66b22671a99c319/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/00cbefc441a365d752ed/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/68d07d622fbf9b3d7975/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd89f543745d670092da/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7522e90ccb3de71e13c0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/292a88762730276fac25/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f3ffd9a1be97d19a464/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c2e31db9b8ab54179b0/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/31006421bba16459984e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/84a1badae73b05799a69/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5354b22c2bf8342a0da8/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/14136203152b9c56f5c5/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/277c9e209c7d348a444c/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3d033e6d4eb5cd6ed62/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/dcc1f5d83b0ee2dc9bff/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d028f9233c908eb7010d/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7b3e7c8df1f9c46cc7a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a2e9052bd0f8f2311e6/large)
-
----
-
-## Lot 32 — Electrical: 460V / 3-Phase / 60Hz, Min. Circuit Ampacity 16A, Max. Protective Device Rating 20A Max...
-
-- OrbitBid item number: 1-32
-- Internal ID: 1779331
-- Current bid: $55
-- Bid count: 5
-- Photo count: 11
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: Electrical: 460V / 3-Phase / 60Hz, Min. Circuit Ampacity 16A, Max. Protective Device Rating 20A Max. Air Pressure: 230 psig (16 barg) Max. Refrigerant Pressure: 363 psig (25 barg) Max. Air Inlet Temp: 150°F (65°C) Ambient Operating Range: 40°F–120°F (5°C–49°C) Refrigerant: R134a, 159 oz (4.60 kg) IP Rating: IP64 Fan Motor: 0.39 Hp, FLA 0.65A Compressor: RLA 5.69A / LRA 63A Largest Motor FLA: 11A Shipping Weight: 771 lb (350 kg) SN: 1016SA00686
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/75c1c95ae8ce5f9a6bf3/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2ac3b95731e8b0edb71/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f074e5c60b600761f6b6/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd8fb1df4c851779162d/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4924b79667fa8861989c/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffb38eec22f7c5381ee1/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/25e6841958ad49694151/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/82f4200ff1528f6c6170/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b848488c5950c86b4b3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/7679d04ffa502d70a0d8/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef6258cb47b3b31df357/large)
-
----
-
-## Lot 9774 — (1) John Deere 7000 6-row planter, dry fertilizer, row markers
-
-- OrbitBid item number: 1-9774
-- Internal ID: 1808173
-- Current bid: $5
-- Bid count: 0
-- Photo count: 18
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) John Deere 7000 6-row planter, dry fertilizer, row markers
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/83f51aa5027b83e6bb7d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/841f82bd9792ea713a50/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/75d32ee2cfa2b5412a20/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a75d4e2b24f087b210f7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cade480155d4ba67858c/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8d9fb27017dbe108a5d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b174a4cbdcf7bed758d/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/38a869f6b9d648e57dd4/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/dafdd7abae1081c8c0cc/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/01c6c4667035b15221a1/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a43072eaf5a3a10a1858/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/49c418015067695e59a5/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc8c9320f87d7bf82143/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/03fa56ee3c9d5635c907/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d739c1e030bd08aeac2/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea765c98501a0022ac6d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/412aad3233000bac1c00/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2293748efb60351aa17/large)
-
----
-
-## Lot 9784 — (1) Kicker wagon with Kory 6278 tandem running gear, 18'
-
-- OrbitBid item number: 1-9784
-- Internal ID: 1808141
-- Current bid: $50
-- Bid count: 0
-- Photo count: 10
-- End time: 1791325800
-
-**Fields:**
-
-- General Description: (1) Kicker wagon with Kory 6278 tandem running gear, 18'
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e66df68781db70e9bb4d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7a48eb10c4b19834341/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e4173b1dfa8e2dea256/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/98f78ca381a883ca3595/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/558f5646eb285efe6064/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/330d4f61622eb489fee3/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fd912d12b0fb2276087/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/348bf2c2661c05186b3f/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3dff5cd73813cfc48d4a/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d6b488cafe8f57549de/large)
-
----
-
-## Lot 9793 — (1) Vintage bottom plow on steel wheels
-
-- OrbitBid item number: 1-9793
-- Internal ID: 1808150
-- Current bid: $5
-- Bid count: 0
-- Photo count: 8
-- End time: 1791325800
-
-**Fields:**
-
-- General Description: (1) Vintage bottom plow on steel wheels
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b036c5a51ae3a83105c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/99795a64c83000a4cf3e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb26c48aca00f08d759f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fc44ed3cd9158f8a76a/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/782e4280fbeccca931cf/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/57337a2fb32a21b93c65/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1eace3e0bca503727f3a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5b5aba3a388fbc22290/large)
-
----
-
-## Lot 9796 — (1) Kuhn GA4101GT Hay Rake, 540 PTO, SN 950086
-
-- OrbitBid item number: 1-9796
-- Internal ID: 1808153
-- Current bid: $5
-- Bid count: 0
-- Photo count: 10
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) Kuhn GA4101GT Hay Rake, 540 PTO, SN 950086
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbdcb14535e527d93283/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/62d59a1af87d65648f52/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3831c0cbebaeda582752/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a539d8f69f149505d289/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0b6e99d58a2b54b5d92/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7dfa98d90acb414eca3/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/25c63aa30efdbe6ae0e4/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/12822d6440ede6e15469/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/34e388cd85b501f59f66/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/629c33ffc43dda955361/large)
-
----
-
-## Lot 9893 — John Deere 4010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 4102 hours ...
-
-- OrbitBid item number: 1-9893
-- Internal ID: 1808101
-- Current bid: $100
-- Bid count: 0
-- Photo count: 20
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 4010 Tractor
-- General Description: Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 4102 hours showing, SN: 21T55978
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d569301942d7222f654b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3806366674c698984f5b/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/598d3a2101638bb61a15/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/692480669f016277fb4b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d629a7b13396ac9fe2e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/63369d5d418dc938a7ac/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1db31007c17a35980298/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd6592b29f667805e90c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/843c639179b2c90cafa2/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5903f1493001d6582a37/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/764b2d69cfb019b92288/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1fabb2f0c6469f99296/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/34a940315ef526806cd1/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/da97f9a0771a498026b5/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2c9719860a938d1cb68/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae266f0cab70d8cd185d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/f49ce31cf8ce3502dcb1/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/229ed024456f88902165/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/a099e5a61a8370536241/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/e369f5dc77d92ad9835c/large)
-
----
-
-## Lot 9894 — (1) Bush hog SQ84T Brush Hog, 84" 3 PT, SN: 12-02930
-
-- OrbitBid item number: 1-9894
-- Internal ID: 1808102
+- OrbitBid item number: 1-30-1332
+- Internal ID: 1799881
 - Current bid: $5
 - Bid count: 0
 - Photo count: 5
-- End time: 1791324000
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Bush hog SQ84T Brush Hog, 84" 3 PT, SN: 12-02930
+- General Description: 5 boxes of truck and equipment lights, grommets, etc
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6eddf0dad15a19c8b97/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b17ff58b6bcef7d0dbea/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc2362e40f35e335ae42/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/22b5e39342d3bc64737a/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/15137fe3e4417563bdc7/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/68584d177d94b3975ad1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3f00bc831316e012aaf/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a57e8b03b0312836afb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/579accb6f149557f900e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1715644b4ac812034be/large)
 
 ---
 
-## Lot 9895 — John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires...
+## Lot 18100 — Set of scaffolding, including (17) 60" x 60" upright, approx. (25) individual approx. 8' cross brace...
 
-- OrbitBid item number: 1-9895
-- Internal ID: 1808103
-- Current bid: $100
+- OrbitBid item number: 1-18100
+- Internal ID: 1705100
+- Current bid: $5
 - Bid count: 0
-- Photo count: 26
-- End time: 1791324000
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- Make: John Deere
-- Model: 3010 Tractor
-- General Description: Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires, 1625 hours showing, SN 1T15425
+- General Description: Set of scaffolding, including (17) 60" x 60" upright, approx. (25) individual approx. 8' cross braces, (10) various wood plates ranging in size between 8' and approx. 16' long, (1) 28" x 72" wood plank, and miscellaneous other equipment.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/40da401feab3cb61a1cf/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c8f0f109fba148c43bf/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8148cac234c353d7552/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/06d6776a33c9e4ec7d4b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/37bce56eed42e1a6dc7f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9a0164017a4e9575208/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/762c3d76b55d18f61cb0/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c63d93190762ad17f26/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b432ec2d11b15ae6ac63/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/97c4532fb8c20c1cd4cd/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/da923333434b68f9c4b1/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/037650c5e051edfcb899/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5d3fb903f4d8b49ffe8/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/02ff536679490321d5e5/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/009d0a9f136fa662b7fc/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/f71685e1fd9d6bff903b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5db54c7fe31b9d37140/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/46cca191c99be13535b2/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb3aecec4a9b8f05fdf3/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3826aa906ed0ce4a29c2/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d6b2e999c82fac827d3/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae09bb902d3b11f9e44e/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/347b2c9a78b7885c1a1e/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/39f1455f18d725338cf6/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/7213b2bdd781cf00c03e/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d0a8416af199dce9818/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/950b384e773e7bcce024/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4093679971229d33af1e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc1cabeb7017ff65d383/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1730d3cf806e833b40b2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/251b6d2ec99948b9b151/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/44b6d7fd808e435a3ebe/large)
 
 ---
 
-## Lot 9896 — John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 225 hours showing,...
+## Lot 18101 — (1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular b...
 
-- OrbitBid item number: 1-9896
-- Internal ID: 1808104
-- Current bid: $100
+- OrbitBid item number: 1-18101
+- Internal ID: 1705101
+- Current bid: $5
 - Bid count: 0
-- Photo count: 22
-- End time: 1791324000
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- Make: John Deere
-- Model: 3010 Tractor
-- General Description: Diesel, narrow front, 3 PT, no top link, PTO, one remote, 225 hours showing, 15.5-38 rear tires, SN 11T1044
+- General Description: (1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular bar stock, C-channel, steel tube, solid round stock, rebar, and miscellaneous other metals, winning bidder responsible for proper disassembly and removal.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6357e1b2571b102fbc0e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5da206d5c70cbcd7fb8e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a276a84912b263149a8/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e431e0ba44c1916a81a5/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e078bc883e95b5ffeedd/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8851f130ad1aa3d14590/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c928e71419209eadeed7/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8feef7b2eb5615f8d63/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9eb70347cd2e17d1a803/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdd1573185bebb20a46c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0aa32071dc15ac914d63/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f66151e1bb4f4348bff9/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e011a0aa8e69ce05f739/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/65712476f9a679f6944a/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4e5f7e8a9ab5e6c741e/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4007d0f3cbefc9197df/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/041b16a670b440f8ce77/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/32fb3439a624db0cb721/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/458f8bcf9c55e64a9ba0/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d047100c64e0205e04d3/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/6217e2f71e88aceaa3de/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcc80850b71889e65474/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/55fca3457791cf2e3463/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/adebc9ff251111dada44/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c73f6040b260a8d10445/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/357c5ff54511757b24c0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce02b5f08fb982a500c8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/56aa5bcac05ca6fd7084/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/89c6a63add8da7a252b9/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a8f219e7cf1fba4aca1/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d52c2f62b9f710088df/large)
 
 ---
 
-## Lot 9897 — John Deere 6400 Tractor with John Deere 640 Loader, MFWD, Cab, 86" bucket, 3 PT, no top link, PTO, t...
+## Lot 18102 — Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-...
 
-- OrbitBid item number: 1-9897
-- Internal ID: 1808105
-- Current bid: $100
-- Bid count: 0
-- Photo count: 40
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 6400 Tractor
-- General Description: with John Deere 640 Loader, MFWD, Cab, 86" bucket, 3 PT, no top link, PTO, two remotes, 13.6-28 front tires, 18.4-38 rear tires, 3536 hours showing, SN: L06400V102124
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/daa22737f3f8cda8dadc/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9aebf38cdd3b1654a64c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/450b3ec660333c78987d/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce6ba5f9686886a0e43c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f00dc7b050a99cd4a873/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e19b42d1ce4057305d0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/30f4b0a64a1ef43f1497/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bce928468eb2cf68693c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa7d3ad62d9446a5324f/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba85f6e63979cfe69315/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/81dbc7417367e411c9c9/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0980a032aaaf341eba8/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3c91aa6738797944de4/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/31dbd74a88e2e262cc30/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/0665c28ddfa0fe015269/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/396c4058a54af7712869/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/a017d4ebc6b270153b58/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/f19050707fb8384b810a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd850aa9df509def1870/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/208df65f409f42fc18bb/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/92852b4c0e3224d8af02/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/911f27a0a02b5f1ec73a/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/49ae8d7aed43edeb66be/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/03137ee4a560bd414fef/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/b21bc1d0a8ad8ffb0812/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c95e42eb16104bcc746/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/76545e7d5a72dae5bbd8/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/6be886a9e3f22a04dfc2/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6ac9892a4f4820de77d/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/6964434afd94179a88b9/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/7767ef5bb067ac0e2de2/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5263fa7c9bc6de7c840/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9731c138693f04c9e87/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/f952542937c75ab8e220/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a4fcffb6786cf5ee9d6/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf2c529499e993975b52/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/ead71fdda86a119f9243/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/741d69ef20ab8724e361/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9771999732f18f92364/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe473150222e643b19d1/large)
-
----
-
-## Lot 9898 — John Deere 4400 Tractor Diesel, 4WD, Sync reverser, commercial 60" mower deck, 3PT, PTO, two remotes...
-
-- OrbitBid item number: 1-9898
-- Internal ID: 1808106
-- Current bid: $100
-- Bid count: 0
-- Photo count: 25
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 4400 Tractor
-- General Description: Diesel, 4WD, Sync reverser, commercial 60" mower deck, 3PT, PTO, two remotes, 25x8.5-14 front tires, 15x19.5 rear tires, 362 hours showing, SN LV44005141580
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/133df1ef7a724f7eab2a/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a61e2d86e69384fb747/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b904d0c0cddf2d824a80/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5489e5ba7d2a141795c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ebb165bd236cb51c6ec/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8697995e3894c2373c9d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/99dc0f4a79f8b2a7eb07/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/746eb86b3b87c6f2daec/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a511723732f01a4445b4/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f6dda38bbe5805eaef4/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff70ca38df1a16e46729/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/919ee5479a05e3532d66/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/22de97198bf49fbfc88b/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e83d13df26e6bc7f38d4/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/87e0f576ec67eeb0b9c3/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e121eacfd376c3bea5d5/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c067b4b203ad3ff81a1/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7d99b5ee601d147fe4e/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/78181f1a881fd5bcb190/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce6f8481373b788699d8/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/236e5e55f7ec055d96c3/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/a57d5a2755d3662098cc/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdeb5890445b2f845952/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfad4a442d0760de2eb3/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/50892690c438593d4142/large)
-
----
-
-## Lot 9899 — John Deere 3010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours ...
-
-- OrbitBid item number: 1-9899
-- Internal ID: 1808107
-- Current bid: $100
-- Bid count: 0
-- Photo count: 18
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 3010 Tractor
-- General Description: Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours showing, SN: 11T18209
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1e6e02f9f5961f0d8c1/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c817037f71568b00c495/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/50e778f658df9ddd6b32/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6117bc29911432929525/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dfc8277202f3089e858/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1013bc8d8262710e7a61/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc39476dcbcf8dbf1b06/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/58fc906922b1c4d31158/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6d395e55134e58f178c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/934ef3d3e6f51c6331fb/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d168cfead821895560d3/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/89c304209fbc6faa65c2/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9241c01d71ba0b472920/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bdd959ab94c18bbf474/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/aed423d69c4472c0d1c7/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/bab205b670bc427a9d6c/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1a62cc1eeedc94fd201/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/56a23fa240058eb74354/large)
-
----
-
-## Lot 9900 — (1) King Kutter II TG-60-Y Rototiller, 60", 3PT, all gear driven, SN LV44005141580
-
-- OrbitBid item number: 1-9900
-- Internal ID: 1808108
+- OrbitBid item number: 1-18102
+- Internal ID: 1705102
 - Current bid: $5
 - Bid count: 0
 - Photo count: 7
-- End time: 1791324000
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) King Kutter II TG-60-Y Rototiller, 60", 3PT, all gear driven, SN LV44005141580
+- General Description: Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-channel, steel grate, and miscellaneous other items, winning bidder responsible for proper removal.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/608f60756a085875c1ff/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/051ae0854ec39b74d6ac/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb922a48e989f991b381/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/af45fa93f8a513711953/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4692091f8cdc346d8893/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4322ce8ec6b60c5ea5d0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b3990c81194ce51a7e1/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/460833fbcbb9faeddb44/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/db8dc94dfe6919656c5a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cae11a5d761729831363/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/360d1811c6be3cfcffc6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d3a0c4c9e55d3f089e8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/822eb2eb9f5a2e43cd84/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0bf821d89feafc633fa/large)
 
 ---
 
-## Lot 9901 — John Deere 40 Tractor Gas, narrow front, 3 PT, PTO, 11.2-34 rear tires, SN 62429
+## Lot 18103 — (1) 65" length x 33" height x 30" depth wood work bench with assorted scrap steel, steel cuts, plate...
 
-- OrbitBid item number: 1-9901
-- Internal ID: 1808109
-- Current bid: $100
-- Bid count: 0
-- Photo count: 21
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 40 Tractor
-- General Description: Gas, narrow front, 3 PT, PTO, 11.2-34 rear tires, SN 62429
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/07488c57faab92119874/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd093a46a3ddf0c1163a/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c29df2cd9ca3f83b2bd/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c0bb524a52a2f541242/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a367b06ea8ac2fd110f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fa5f77a85c4dbe91c61/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e406c11894efbd5ed576/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bd46255210073a6d0c0/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3412a190b8283af4454e/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ef1de2a019abe40dad5/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7997017c599e152025f4/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4839c35d52fd9a23930d/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/67ff1efcf06b6821bd29/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1aea7c1d4da2d7f76a1/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2313e1b0580aea494c9a/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/b453f1aaa5e1383c3ef7/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/772bb74683fba12b0735/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/befc9d1182cdeacd3b3b/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d452ef63bcd54fca7e7/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/9bb9feca66de2e62aa81/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/441f0c4a02f958a9ade2/large)
-
----
-
-## Lot 9902 — John Deere 8630 Tractor 4WD, 8-wheeler, 20.8R-38 tires, 3 PT, PTO, (3) remotes, 7577 hours showing, ...
-
-- OrbitBid item number: 1-9902
-- Internal ID: 1808110
-- Current bid: $100
-- Bid count: 0
-- Photo count: 39
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 8630 Tractor
-- General Description: 4WD, 8-wheeler, 20.8R-38 tires, 3 PT, PTO, (3) remotes, 7577 hours showing, SN 8630H 008547R
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/22d8f39669e984751790/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d73119175a0a65574be/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e616d6950a8f710f1baf/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7dfbfedcedb689e42cd6/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/34230f2908127e012dff/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/110522239901493c5834/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8639890b576d6b2cb9c6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d654edb63ecb210b7928/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce7c0d637fd01b6b9d88/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b21424f839daee9e57d/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/aba567fecf7ecacd2feb/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0cc50f25a6df08caeee/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/230c14c77793f8b8cc38/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/b390eb8a362609acd7e6/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f14af5ed1a61202cc32/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf05d6a29e4723ef3c05/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/e83b09bc6f1adeadc8c1/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/85a8ff352cdc55469741/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a0edc8fc3bd4ab8a2b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fce451b3610b79f1a882/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/51ec65c809d252b34f05/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/18221d53d4640a048aaf/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1ca9bc7c33adaccc449/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/85114a7ad23e236ddf82/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/1525ae77ce3bc9e8d5fc/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b61fe81a95bbac0b747/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/c38517b5ede101ca033f/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a57626d3e3b51316b51/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/48ba14ea938b56b35efa/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c9c73f43ecab033e4ce/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/84f38bab303c87d18d6b/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/e89bda353acf53ff117f/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc34d3ac6130292c63c6/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b21d4d8ad6176f792a/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cdb1b0bba2ea05c3b55/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c63fad894ee89f5bff8a/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/89668f969d3d8a4dbd8d/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/58dd6faf7b39331ddf70/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4c98f2c09024bfc54ea/large)
-
----
-
-## Lot 9903 — John Deere 8650 Tractor 8-Wheeler, 4WD, 23.1-34 tires, 3PT, PTO, (3) remotes, 778 hours showing on 4...
-
-- OrbitBid item number: 1-9903
-- Internal ID: 1808111
-- Current bid: $100
-- Bid count: 0
-- Photo count: 41
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 8650 Tractor
-- General Description: 8-Wheeler, 4WD, 23.1-34 tires, 3PT, PTO, (3) remotes, 778 hours showing on 4 digit odometer, SN: RW8650H002091
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3d425e6325bfde57a10/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a074802c1d4dea834e74/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2a103e667ca737abaf0/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1326caa9cad328c1bd9/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/695ee92a33eddded4ea7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b9887d0029afc95d3c2/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/66179721894c250c19df/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a7dbb39fa3b4c018fa8/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/51171ea3ab1b726b9d8a/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e5d500d88ee3f3c0e03/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/696ad938470430a59292/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/65d6bbb3914b85fb5745/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf94454cdea8a80072ee/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a68c5ca1b5d301067cb/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/283c24f6dd6bdf3aef19/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/26737ff49733704dbbb2/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/aac265f973a281f37073/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd39f1f77b6b44e8a11a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/59da3ec06bcc60e20f0d/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8115ccbc9811bc2d3d1/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/c91f29edd77de01f5227/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/76d18fa3643533348808/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/4766ed8d183a2d1b1072/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/a94b930b4e1d31e51881/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/c01fb8c17c51289e274c/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/5431092adbfcda805e33/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/e044d40ce67b917c06c2/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/30734c18bf083829b209/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/e83dc4bf96fb474eac32/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ce45ac92e7b26c909c1/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b20ac94122ad30e928/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/f578f395bf2cb04c7196/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3328627fb6b1d047583/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/478308d93ad232783289/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebbdef1ddb29d68b3c26/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/e49ce5982aa36597b0d3/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/915f3520794882dec802/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/336fe792e2a235a710d3/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/65c0dac00b360a839c43/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fd21510d6d73d7d04f0/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae1c35c4e2893752470e/large)
-
----
-
-## Lot 9904 — John Deere 4040 Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 ...
-
-- OrbitBid item number: 1-9904
-- Internal ID: 1808112
-- Current bid: $100
-- Bid count: 0
-- Photo count: 28
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 4040 Tractor
-- General Description: Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 rear tires, 6243 hours showing, SN: R4040H 001000R
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5bb0a5c2ba5d322802e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/64e05ac0388b2299668f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f9a800d16a86cd095e9/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/045258b224ba587c2939/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe69a0850435e7df5f25/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ceb3daa89c6ba70d1c69/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc0cedfdabcdbc687b34/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/900096961dddf1fad167/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/363367b05f1856919db3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba98db9fdda911dd4055/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a814aee9d2c762e762fc/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca765e83e4684fa00de3/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6547513f76d0b6383060/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c7b672a358252269eb4/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/b17b39aa2125a401a7c1/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/593d6858b3e216b16767/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/95cf68118871c59c07b0/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/48c5437311eec81d8c78/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/0788794fe54d1c767a9f/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1a47daacd9ba17637fa/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/21dea03605cbc8d3866d/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/e48d9b29b56cc21ccb0a/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab7212bc836002de09ec/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/d95c22cf3dbb3194e9f5/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b6dbac467da7fd26765/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/45016e161796615e7e3e/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d5df649a4a21d9878f8/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/44869693e4a0fea269dd/large)
-
----
-
-## Lot 9905 — John Deere 4440 Tractor Diesel, 2WD, wide front, cab, 3 PT, PTO, (2) remotes, 18.4R38 rear duals, 70...
-
-- OrbitBid item number: 1-9905
-- Internal ID: 1808113
-- Current bid: $100
-- Bid count: 0
-- Photo count: 0
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 4440 Tractor
-- General Description: Diesel, 2WD, wide front, cab, 3 PT, PTO, (2) remotes, 18.4R38 rear duals, 7029 hours showing, SN: 4440H034164R
-
----
-
-## Lot 9906 — John Deere 3020 Tractor Diesel, wide front, 3PT, no top link, PTO, (1) remote, 6280 hours showing, S...
-
-- OrbitBid item number: 1-9906
-- Internal ID: 1808114
-- Current bid: $100
-- Bid count: 0
-- Photo count: 59
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 3020 Tractor
-- General Description: Diesel, wide front, 3PT, no top link, PTO, (1) remote, 6280 hours showing, SN: 11T59303
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fbb40a9c38d5b4f855e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/833c893fde5ac5901c45/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/891d5bdf99d75757b163/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8721553d288b74894eb9/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1162afb02de3a9e036b/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d36d56091ea3838a57e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f573fe5af7df49fbe5d/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbb188befb945560b695/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ab2985427af616076cd/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4505b4e3146f5a30f661/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/8273bb59b7101967d00d/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/902e4ee8255dfbd2f655/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/05624e66562115cf5aba/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cddcc31f9cbfdb333c1/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d97d3948963053de8baf/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/c72f624e78116abc2e3d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/f79cb37b8d0324de4e0e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a2f8a3da157c0b93ecb/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/759fe284246acb7aba34/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbf16c3bdd85c3866b8c/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a34cfc3e28e15945761/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/58fca85e144df3bf3e23/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/c36658a92bb90052809f/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/24bbacd681c24d7d1f88/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/e311a9d567ba91b3d201/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/af5c9fc1fb0562ab69cf/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb94bca09f8c035590a3/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/328a0fe27f11e2266189/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/17333f5c8cffbf83808b/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/34f7102d574244e53eb0/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d439d8cc2ecd49a2c1d/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1eec293e789e80ac0d6/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/23233963ce5625ee7f0b/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/65414cde7b78ff8e3d6d/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/d983a424126adddf9e01/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/db1f1889f61cfef29ee1/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ce4ade236a417ac3b34/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/08eaec45b710c12d9d09/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/54df71d0bbd57c5cd61b/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/94cc8f3cec41d65e2dfa/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0f0efadd1c94b43cd68/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/463e99e944c33006ab96/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/c05d7b546c4f39aed0a3/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/2669e72cd77f186d2120/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/fef71ea6a4a4ec6c06ea/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/7fdd93b9a895650cf600/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/41583b3fabc4367229ec/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa681e0a4e01019a0ded/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2f3a7237afe5e76cfe9/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f78369996d3d069171c/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a34cdada83c4f9f8db3/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/274014b44de881b67980/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/3019f2f9d1ffe36a7ec4/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/690b3b2768df630d616f/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/6736904a0d3c3618fac9/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/30c93af883d39161a6d9/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d463d10fc0ab2f15a92/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9332e874149fe709789/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab914c66b56a0753210b/large)
-
----
-
-## Lot 9907 — John Deere 544E Wheel Loader JRB 4-in-1 bucket, 101", cab, 20.5-25 tires, 10245 hours showing, SN: D...
-
-- OrbitBid item number: 1-9907
-- Internal ID: 1808115
-- Current bid: $100
-- Bid count: 0
-- Photo count: 41
-- End time: 1791324000
-
-**Fields:**
-
-- Make: John Deere
-- Model: 544E Wheel Loader
-- General Description: JRB 4-in-1 bucket, 101", cab, 20.5-25 tires, 10245 hours showing, SN: DW544EB521511
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8124f6e3290aa6b74f88/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0bc814f883aa6e0dd09/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/05927d2768920564beaa/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fecf6671b2909ec7b94/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/37e7e765271d7fadcd00/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/76d1a18eb484f2e47f3d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/81b4cbd4f843bf62e091/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc6adb7950b8241f7549/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/09ef4930b93821121d00/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce49eed119a4f7c1824f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c449ad282adb60f32519/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa1ae263d827b3001717/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d532534d7ca3491663cb/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b76ef421335e69f3fec/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb846f2e30a128a9ffa2/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/6df0283f1d132c07999b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/02ba08edd755dccd8fda/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbd433035a2e3c7028a3/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2fd52d68db1d798b97e/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/c783ee7c34f6bc6567bc/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/51e11b2630ca140c8073/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/67f084d3f83189045eaa/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc609bcdde9cf119ac42/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/d80c8f678aa79cff1337/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/614324acb8b64618f4ba/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0d5013e96d51c5e8d42/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/b97bf0d522193242f3b0/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/0416357c36b7e0652484/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0a2b9f8c20c009835dc/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/c78d8304c3cd96ea97ba/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f033dea59dcddbd67c0/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e947ffba285b3e0b648/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b50476f608afe0f69ea/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/77fe8c2fd273c00ebda3/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab619365269dc2193592/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c075aeacdfd4f5bc7537/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/687bc6c4a07db7add3de/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcc5ec20b6807171896b/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/199224d43ba21176e8a3/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/df1120740a9c424357cb/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3564a1e951e27357390/large)
-
----
-
-## Lot 9908 — Military M816 6X6 Wrecker 5-Ton, B-L-H Corp M543 Wrecker Body, rear winch, front winch, front and re...
-
-- OrbitBid item number: 1-9908
-- Internal ID: 1808116
-- Current bid: $100
-- Bid count: 0
-- Photo count: 44
-- End time: 1791324000
-
-**Fields:**
-
-- Make: Military
-- Model: M816 6X6 Wrecker
-- VIN: 05D-50071C12711065
-- General Description: 5-Ton, B-L-H Corp M543 Wrecker Body, rear winch, front winch, front and rear air, 400 Cummins Diesel engine, 5 speed manual with Hi-Lo, 40986 hours showing
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bcddc472e0f569faca9/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/de3e8cf7fcc85120b513/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d8d8b1ba353ac10b133/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/26a2e0bec84ddf473f0d/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7769b9a5420024c7e138/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/43a6c9272aeb25be5a3c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/270cddf31d5dc2e0fb7e/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f68b842179313b23c8c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d92b8e86fb0b3f78334/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9af3ec98261ee6ef0859/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/2654eabd87a74341d6df/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/869b1333555ff6314622/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d809ac5f480cf03fc7d2/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3ab80e46b83cdaa7345/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f11b62e6be1bccf4873/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf496d3d1e63ae75823d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/c44030ee4381beb4850f/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/950fe6e023c4e66cc95a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/415f6f5a97008bf042f5/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd867cb0b4888e6adbc6/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0f0017b261a8aa925d9/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b19a9c58807e09e3cfbf/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/b69287ce3140cb86ebbf/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/7be04b5bb31c792849f5/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/95019aedc8ba8232b395/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/a676955ede7acca4c30d/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa179f263bbfb366970a/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/121f45b73758397d3822/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e02282085b98f264b5c/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b828e93e5cc0f4b690a/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/142e5c4c00a33914a034/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/eab96ca14c5c8d70fe51/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/de7c8067e245b1e09228/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/98be60a3aaf6cf067269/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/48447faeafb35619bf7f/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/82763ca2a5d7a84c35c8/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/1afc0bee9882006adc46/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/57a42b051fcf93147c0c/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b8b5f179d7cc12fed85/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/15c9678089f75f39cd9d/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/547c1ba43d060e29f0ed/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/7062988f6d3cf210edd2/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/64a92a8c3b5fac6583f1/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5a6b55bfccc3a9723d0/large)
-
----
-
-## Lot 9909 — (1) John Deere 235 Disc, hydraulic wing fold, approx.16' Reminger 3-bar spike tooth drag, SN 013113A
-
-- OrbitBid item number: 1-9909
-- Internal ID: 1808117
+- OrbitBid item number: 1-18103
+- Internal ID: 1705103
 - Current bid: $5
 - Bid count: 0
-- Photo count: 10
-- End time: 1791324000
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 235 Disc, hydraulic wing fold, approx.16' Reminger 3-bar spike tooth drag, SN 013113A
+- General Description: (1) 65" length x 33" height x 30" depth wood work bench with assorted scrap steel, steel cuts, plate steel, and miscellaneous other items, winning bidder responsible for proper removal.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/15a8b2783f6ef3ba2e61/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a37a75c364fcf4d8efa9/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4add546d376f52efbba8/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7f015d57e8c04ea7c22/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3b3ba47c4a2beedd7de/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/75e81a3d57232a60aea5/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5617cabb96c3c6e3e3b/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0f86bc7263fcdfda9da/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/753dfdb23c0c855e41e5/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1617bdd56cdf0323c29/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2057903e80f8f0892f6d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/061294f8dcafd5a2fee1/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/082d9dd34fdc7937f2fb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c84f946bfef3d3ff1f6c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e0c3532cead18852ed8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dce097efde6f90dbb6b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/733960c5b2349de42693/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0de8db1979dec271540b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2a9a66c9665ff2dac47/large)
 
 ---
 
-## Lot 9910 — (1) John Deere 230 Disc, hydraulic wing fold, 18', 3 bar spike tooth drag, SN 021097
+## Lot 18104 — (1) 48" length x 34.5" height x 24" depth, 2-tier steel cart, (1) plastic step stool, (1) 26" length...
 
-- OrbitBid item number: 1-9910
-- Internal ID: 1808118
+- OrbitBid item number: 1-18104
+- Internal ID: 1705104
+- Current bid: $100
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) 48" length x 34.5" height x 24" depth, 2-tier steel cart, (1) plastic step stool, (1) 26" length x 5" height x 11" depth steel cart, (1) approx. 86" tall light stand, and (1) custom built 24" tall shop stool with a 16" diameter top.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2879d22bb6b7068cb6c8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6032102703a377657cb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f50e8e0edef29392905/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6169c4f845b9c90feeb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ed64f5932109bb50788/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/06e60d9aa49b0a9fcc03/large)
+
+---
+
+## Lot 18105 — Lot including (1) Lisle Jeepers Creepers, and (1) Pro Gear automotive creeper, and (2) approx. 6-ton...
+
+- OrbitBid item number: 1-18105
+- Internal ID: 1705105
 - Current bid: $5
 - Bid count: 0
-- Photo count: 15
-- End time: 1791324000
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 230 Disc, hydraulic wing fold, 18', 3 bar spike tooth drag, SN 021097
+- General Description: Lot including (1) Lisle Jeepers Creepers, and (1) Pro Gear automotive creeper, and (2) approx. 6-ton capacity jack stands.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e9f2d05c85c294e309c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac4fcc44f4077ce529eb/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f86e9efe11ee60498625/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4633e329a8e8ebb6b854/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/97aca61e9927bb1a0ddb/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/491ee0b86c2beb530545/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fdac500d2e6f165f86c/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4201145309f7b5cfcf6e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/8298d045565498269dfe/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4d8d0967a54f7cf9712/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/af1e691e57f1678bafc3/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/78fe27b6eb7d425e1645/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/648f233e7b720e6013b5/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/21c2dfc68cb2c533e157/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/102b55320204a171ef7b/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/139062a0dec7a1036c4e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/91b19bbd0dec92abede3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/19fbab0ef1a7ef89a1b7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b73b7b27b2bd10f144b6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/573316738dd45a1222f3/large)
 
 ---
 
-## Lot 9911 — (1) John Deere 8300 Grain Drill, 23 hole, was used in early August and cylinder went bad, sell with ...
+## Lot 18106 — (1) Crewline automotive creeper with (2) approx. 6-ton capacity jack stands.
 
-- OrbitBid item number: 1-9911
-- Internal ID: 1808119
+- OrbitBid item number: 1-18106
+- Internal ID: 1705106
 - Current bid: $5
 - Bid count: 0
-- Photo count: 15
-- End time: 1791324000
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 8300 Grain Drill, 23 hole, was used in early August and cylinder went bad, sell with no cylinder, SN 025967
+- General Description: (1) Crewline automotive creeper with (2) approx. 6-ton capacity jack stands.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a10ec6159c1e7467739b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/976e05cba6676d9e392e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/641bf9c52a5cb931dc6b/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a68debc496b0144523c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebe3de1c5c8a9dd9468e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/acc305b73eb404357204/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a49ce2a5c36206c9c34/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/667a2d9261895f8e8a76/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/fce7f07a57a35ff92537/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a519e649a28a18af1558/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fe0e5db650b4b968df8/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/11c14cedfbe86f27a5f8/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d55db0e68e209d8dd7dd/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b7baca9ecbbb6be2e54/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/61466bdc8f662198d96b/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/356a0796802f76166264/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ba85fa3da5112309cc0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd243a79adc73058b8cd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a28595369db5fba18740/large)
 
 ---
 
-## Lot 9915 — (1) Bradford Industries gravity wagon, model 220 deluxe, extendable tongue, bin extensions, SN 19219...
+## Lot 18107 — (2) NAPA Blue-Comfort, item #BK 815-6219, automotive creepers.
 
-- OrbitBid item number: 1-9915
-- Internal ID: 1808123
-- Current bid: $50
+- OrbitBid item number: 1-18107
+- Internal ID: 1705107
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (2) NAPA Blue-Comfort, item #BK 815-6219, automotive creepers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cba191df30077fe82dfb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/99eae1e985f252eeaf24/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/74c5c99e92fb0bf11501/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/82b0808b15faa228c976/large)
+
+---
+
+## Lot 18108 — (1) make and model unknown automotive creeper with a 30" length x 33" height x 16" depth, 2-tier ser...
+
+- OrbitBid item number: 1-18108
+- Internal ID: 1705108
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown automotive creeper with a 30" length x 33" height x 16" depth, 2-tier service cart with drawer.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/85f5e2745cadddc08707/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fce72a8050080c317b6b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/44a698ece5d8dd02a211/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0be267ac7fa76d61dda1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/48ee0145c3a85d9fb1d0/large)
+
+---
+
+## Lot 18109 — (1) 32" width x 57" height x 19" depth, 2-sided rolling display rack with contents, including variou...
+
+- OrbitBid item number: 1-18109
+- Internal ID: 1705109
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) 32" width x 57" height x 19" depth, 2-sided rolling display rack with contents, including various equipment tires, automotive fluids, WD-40, Fast/Medium reducer, and miscellaneous other items, all items are partial/used.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/07c3334544819c9dbe2e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8f938a7584985265f84/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/46a46d4adc02a15fa90b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/40b73c0b529798a3c9df/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c82812665041eda7e021/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c97e77ceb6257fed08a5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/27332d9a548209daf9ad/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c35de6f8a68e3421ecc/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/460582da3832e5958ce9/large)
+
+---
+
+## Lot 18110 — (1) Blue Point 30" width x 32" height x 16" depth, 2-tier steel shop cart, and (1) Blue Point 30" le...
+
+- OrbitBid item number: 1-18110
+- Internal ID: 1705110
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Blue Point 30" width x 32" height x 16" depth, 2-tier steel shop cart, and (1) Blue Point 30" length x 33" height x 16" depth tool cart with built in tool box, and 15" side tray.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/67e94e19779bbc513582/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ade386c53a2d71a22854/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/264de000db510644ef8e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d2ccd95b6cc6f2872b1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e816a9c327869dd2e91c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e808858540209dff1245/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfe04a563331596490a5/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/00757dd06973e8ce31c0/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e926cc40295c56e01bfb/large)
+
+---
+
+## Lot 18111 — (1) skid of assorted pump hose.
+
+- OrbitBid item number: 1-18111
+- Internal ID: 1705111
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) skid of assorted pump hose.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/63af03de33deee26861e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc1e986b8544ff612a90/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/932d07ccd48449553974/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d87eaa3987069e3325b6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5baaea722812c4eadc81/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c40ce55a209364a9aaf/large)
+
+---
+
+## Lot 18112 — (1) Gorman-Rupp portable centrifugal pump with a Wisconsin, model AENLD, gas engine, S/N 5076635, wo...
+
+- OrbitBid item number: 1-18112
+- Internal ID: 1705112
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Gorman-Rupp portable centrifugal pump with a Wisconsin, model AENLD, gas engine, S/N 5076635, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f323d3f12d9d4cf06be8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b086bfb3aa48d332d83/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8aab7e293360c10ab72/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/70809b6107addc2fe5ca/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ead55dee3b66fea9974c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f412a2d9cfa201415433/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/842310920e3d7d3b45c0/large)
+
+---
+
+## Lot 18113 — (1) Homelite portable trash pump with a make and model unknown gas engine, engine is seized, does no...
+
+- OrbitBid item number: 1-18113
+- Internal ID: 1705113
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Homelite portable trash pump with a make and model unknown gas engine, engine is seized, does not pull through.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcca1276c4f2a1b76f8a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8ca545255ba06ea80d6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8798a55dbfd2e9f7bbc1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3749a5cb80cc5dd4de7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcfaf6125e2f73129205/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/760935d9dc5d0b922923/large)
+
+---
+
+## Lot 18114 — (1) Hobart, model 6-261, portable, tow-behind generator (250 amp, 40V), HP illegible, S/N 120W-45251...
+
+- OrbitBid item number: 1-18114
+- Internal ID: 1705114
+- Current bid: $5
 - Bid count: 0
 - Photo count: 13
-- End time: 1791324000
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Bradford Industries gravity wagon, model 220 deluxe, extendable tongue, bin extensions, SN 192193
+- General Description: (1) Hobart, model 6-261, portable, tow-behind generator (250 amp, 40V), HP illegible, S/N 120W-45251, working condition unknown, equipped with a 4-cylinder gas engine, size 6.50-16 tires, pintle style hitch, and approx. 20' of ground cable, tool box mounted to front of fame, and includes additional 17" width x 16" height x 12" depth rolling steel caddy with single shelf.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/742daebf753b3a55ee05/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0b083740b46a7db01d2/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/45821c752e6f283c7391/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/693c8d4fad9e7e4e477a/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c055eb3ef656a16ba91/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ca16f5199df69db7ffa/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e349a075cc8217f76994/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd6e2558eea11378085e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f85ad62eedaa26aca21/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f27d40b82f540f29a160/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f147e85af81ed3a9321c/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/3689575dd0f52d848ccb/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e1adfb6537a657d160f/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/45254336113cb53992b3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97a3711d55665bed26f0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f3c18250adab57d994e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/513d0c2de88913508977/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/748b9ee73f5c00613827/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c979a3ba6b94a41d3755/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f196d09b9215f3b728e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4a70bfe03dedaee8a45/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/62d573808d00c7d71efb/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3fd6e1fa385c6c7d8c8/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3f5c2ceb8abaa21be3e/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3987119b5dda5f6e054/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/90907a2443ab62c268dd/large)
 
 ---
 
-## Lot 9918 — (1) John Deere 920 moco disc mower conditioner, 9'9" cutting width, rotary disc, impeller, 540 PTO, ...
+## Lot 18115 — (1) gas powered 20" x 16" compactor with a Honda GX140, 5 HP gas engine, engine pulls through and ha...
 
-- OrbitBid item number: 1-9918
-- Internal ID: 1808126
+- OrbitBid item number: 1-18115
+- Internal ID: 1705115
 - Current bid: $5
 - Bid count: 0
-- Photo count: 14
-- End time: 1791325800
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 920 moco disc mower conditioner, 9'9" cutting width, rotary disc, impeller, 540 PTO, SN: E00920X977390
+- General Description: (1) gas powered 20" x 16" compactor with a Honda GX140, 5 HP gas engine, engine pulls through and has compression.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6367fc6ae2171ebb31c6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b732ea2d76bbaa27395/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5cc9fda855cfcab37d0/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4362d9bfcedc14b223e1/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c79f22d4e99580f1bcb/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/45ed8cbbbeff0edf7f73/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/305bc3b12bb1627f0a95/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/816c629df4292accb420/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/041bd5d99a727ec81b88/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a017e5d687e6251b2dc8/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/70ab45586ea9e4db9f3f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b938d6b06c419e26dd8/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbfa59c1910a9be71f51/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/9784f0c753b044dd3373/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/61f5d58e192ea7e82abe/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f207142e9caabf9c9a24/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e15eddbd3dbf67df51de/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9435539b8fbfa8df3b3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/682f0382dd3024fbe76f/large)
 
 ---
 
-## Lot 9921 — (1) John Deere 74 5-bar hay rake, SN E00074G102820
+## Lot 18116 — (1) 20" x 16" gas powered compactor with a 212cc Predator gas engine, engine pulls through and has c...
 
-- OrbitBid item number: 1-9921
-- Internal ID: 1808129
+- OrbitBid item number: 1-18116
+- Internal ID: 1705116
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) 20" x 16" gas powered compactor with a 212cc Predator gas engine, engine pulls through and has compression.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0eb562583d9513d6fb9c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97dd097f096a56d2ce2b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d488e1da5624d0c85ff/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/813fa297ca9ee5d34ba5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/008ab33d0f02d5978dab/large)
+
+---
+
+## Lot 18117 — (1) Stone, model 938, 20" x 16" gas powered compactor with a 212cc Predator gas engine, engine pulls...
+
+- OrbitBid item number: 1-18117
+- Internal ID: 1705117
 - Current bid: $5
 - Bid count: 0
 - Photo count: 8
-- End time: 1791325800
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 74 5-bar hay rake, SN E00074G102820
+- General Description: (1) Stone, model 938, 20" x 16" gas powered compactor with a 212cc Predator gas engine, engine pulls through and has compression.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/80e766295d601c65071c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf3888a4557e502fec77/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/af7d16f544f205f63efe/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8206e09582ba6d62db64/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cab09dc0fcf897330027/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c92ad345e8043d4f334/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4761c5257283c56035e8/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec902b00a0e172bc8e90/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/634a5a14d6059378b0b9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b5b2a2192939ed6f506/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a6197944a3ea8c9da06/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4b7c74e44c7a903dc46/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/94340a0f46772819fc41/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/da1b5a31148d31990268/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7791bd039113ffe06b14/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c916727cd73742584e8/large)
 
 ---
 
-## Lot 9958 — John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5...
+## Lot 18118 — (1) Ramco Shop Hand 5000, 5000 lb. capacity engine hoist with extendable arm, and RM8000 long ram ja...
 
-- OrbitBid item number: 1-9958
-- Internal ID: 1808177
-- Current bid: $100
-- Bid count: 0
-- Photo count: 41
-- End time: 1791329400
-
-**Fields:**
-
-- Make: John Deere
-- Model: Turbo 8820 Combine
-- General Description: 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 514635
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ef053ed6510cc34b7d3/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8f3310ad11465a9b4ed/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/90602f804932e6cbbf73/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfe22c220aa738da8d7f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/038376e82809388805e1/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff6ff1082ecfd53d4c8e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7be114fa548e47266e1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/adb6edccac533f6af2fb/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/18fdb4fc7febebd75df7/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/04c08cdf7d4e44f4ce89/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb3f38f98a45d0c9007c/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/adfd1a01a250e79b1c18/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/85ea6dd55e3baa1a5553/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/1556faf5d1211d57bb8c/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe9104514f0843adc2c3/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c67c8e0ab589b80c348/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff7bf6f053e33016c928/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/88eec08d53e126df517d/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa3e46d6c653355281f/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/8eed26cd355dce8bc1d3/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/a692363af68cfb0050e7/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/78fca3ec6049620c58ed/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad5f05a6ee3109a528e9/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e2583237d819b2c332e/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/28d813cdb1e5b0c4bfc6/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/5791a17c7896319d5cc2/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/0550f5412167b8aa858d/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a7e73b55c7aa482f300/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/8843bc7ff1fffa7d7e7b/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/914a6f413182d36d9dc5/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/121b7601f5d6f042b853/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/0330f489c699936a2831/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d844572c0fb4a8b699a/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d530f4458a9d258f41c/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/81448794bae3ebcc1f46/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/6937debda961662c2b41/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/6984314bd796a451bb2b/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/8089c96e6870e037c92a/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/77e246ca66d9911a3af1/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c19f7cbb68bee15c7a7/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e2f35540930d718ab89/large)
-
----
-
-## Lot 9959 — (1) John Deere 920 grain head, SN H00920E661671
-
-- OrbitBid item number: 1-9959
-- Internal ID: 1808178
-- Current bid: $5
-- Bid count: 0
-- Photo count: 11
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) John Deere 920 grain head, SN H00920E661671
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/820674786cbd7bf63b86/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1e6935ee9537f7b1785/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f53166f8122b2ce3848/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3258f076006c0937ddbb/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1ae11697ca103cf25b0/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1e5a24f6ff6816d5981/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fec102e9a9b2f06e6906/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/71dcf3ae68333193829d/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8724967642caf653269/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fecc37e404915dd24489/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f3ed744ac027f2e723c/large)
-
----
-
-## Lot 9960 — (1) John Deere 216 grain head, 16', SN NA
-
-- OrbitBid item number: 1-9960
-- Internal ID: 1808179
+- OrbitBid item number: 1-18118
+- Internal ID: 1705118
 - Current bid: $5
 - Bid count: 0
 - Photo count: 7
-- End time: 1791329400
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) John Deere 216 grain head, 16', SN NA
+- General Description: (1) Ramco Shop Hand 5000, 5000 lb. capacity engine hoist with extendable arm, and RM8000 long ram jack.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/661f0cbeaaf572599cd5/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdb77beaf7f9f1efeb08/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff4be4634b6d7a9b317d/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/712fa2cd2b2876e6c1f9/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c656eed88558a276597/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ce7d5802adaf4a8ea8b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b221f1a135bba26fb546/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6df141850ebf2aa14f85/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2c101add9db07d69638/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/23f74cf0ca58a2585261/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dd19ad4f93d04aee9a3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8611d8f70dc08a03bd10/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9088cb41227d425d85b5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/91f80b3f79f67069ffba/large)
 
 ---
 
-## Lot 9962 — John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n...
+## Lot 18119 — (1) Ramco, model RS-90P, metal cutting band saw with approx. 16" x 10" cut area, S/N 12386, equipped...
 
-- OrbitBid item number: 1-9962
-- Internal ID: 1808180
-- Current bid: $100
+- OrbitBid item number: 1-18119
+- Internal ID: 1705119
+- Current bid: $5
 - Bid count: 0
-- Photo count: 14
-- End time: 1791329400
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- Make: John Deere
-- Model: 80 Tractor
-- General Description: Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, non-running, 3153 hours showing
+- General Description: (1) Ramco, model RS-90P, metal cutting band saw with approx. 16" x 10" cut area, S/N 12386, equipped with chip tray, 1 HP, 115/208/230V electric motor, working condition unknown, includes an adjustable height steel material stand.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b5d0196be199b5785d1/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/28f0cb3812ee9a100178/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/075d16938aea3a4d8733/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c7de1e64d0197134c31/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bad11066b9f706b531b1/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f72200e87fd7e382c9d2/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0092c4b4cf477b3c3209/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d4c8d87a906d2679a12/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/395d93dfe1fd52394206/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/01adebaeb790f6da033a/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/75e527869c0d058ff516/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/79a1cb3224802019881d/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/424288f0b979396201c0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd5cfcc725dc15851d84/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f4aecd1ea6d1013be6e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dd66a494585e6d3d79d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c34c7485cf798e5bda1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7adce28e2cd3660bfef3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/75c95504561b51f18150/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe3f646efd71c341b635/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c72e5abd2a620a746ad2/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5996533484e05b54d236/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/947a16704b3b5db68f05/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe88dd0848d74cd0db04/large)
 
 ---
 
-## Lot 9964 — (1) Siebring Manufacturing Company Mist'r Drench, model MD83, S/N C993374, 3 gallons per minute, 120...
+## Lot 18120 — Large lot of assorted extension cords, work lights, and surge strips.
 
-- OrbitBid item number: 1-9964
-- Internal ID: 1738286
-- Current bid: $35
-- Bid count: 7
-- Photo count: 11
-- End time: 1790121600
+- OrbitBid item number: 1-18120
+- Internal ID: 1705120
+- Current bid: $5
+- Bid count: 0
+- Photo count: 3
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Siebring Manufacturing Company Mist'r Drench, model MD83, S/N C993374, 3 gallons per minute, 120V, hose reel, approx. 100' of hose, includes guns with gun extension, pump has approx. 55-gallon drum, includes Cat pump, model 2SF29ELS, with 1.5 HP, single phase motor, pump was recently rebuilt, in working condition, winning bidder responsible for proper removal.
+- General Description: Large lot of assorted extension cords, work lights, and surge strips.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6580ffd87cddaf72fbd5/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d505442d351e4f0e2d25/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/009d560e3d73a8b1990f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/35f9e70f36e255779a6c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/966077246044717f0aa8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/23ee73d8103287b846c3/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a284d6a32debc2f1ba35/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cac3cec8fbae3ea6924/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/08f756ad19b89ebf0e81/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3427f43a255c670eeda/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f0e21c0cd961d7b1859/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/69a320fcfe333dfae853/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d3458ad39347cf62b4d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1d2f78ea52416bee255/large)
 
 ---
 
-## Lot 9965 — (1) Dyna Fog Night Star pedestal fan, model 1901M, 115V, fan is in working condition, formulation co...
+## Lot 18121 — (1) 22" width x 35" height x 18" depth heavy duty steel cart with contents, including (1) hydraulic ...
 
-- OrbitBid item number: 1-9965
-- Internal ID: 1738287
-- Current bid: $15
-- Bid count: 3
-- Photo count: 8
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) Dyna Fog Night Star pedestal fan, model 1901M, 115V, fan is in working condition, formulation container is cracked, flush container is missing lid, fan is in working condition, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2624f184b5612e54c60b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/092054cadf787a7a7a87/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/02427c39c765f09cf6de/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf108ebe153f9da5c1b7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/80f3e0995307b557dc57/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/97673c50497f0d11d1b2/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8e841cf2fa9e3059bb1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5dfe0d2681d2e9ca6e63/large)
-
----
-
-## Lot 9971 — (1) Dayton 150,000 to 300,000 BTU natural gas heating unit, unit is new old stock, never was used.
-
-- OrbitBid item number: 1-9971
-- Internal ID: 1738293
-- Current bid: $206
-- Bid count: 23
+- OrbitBid item number: 1-18121
+- Internal ID: 1705121
+- Current bid: $5
+- Bid count: 0
 - Photo count: 7
-- End time: 1790121600
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Dayton 150,000 to 300,000 BTU natural gas heating unit, unit is new old stock, never was used.
+- General Description: (1) 22" width x 35" height x 18" depth heavy duty steel cart with contents, including (1) hydraulic Ram equipment, and (1) small tool box with hydraulic hoses and gauges.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a92b495a5232c8d8dfa9/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/915867cd88b7d22c40bb/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c63ad7a40e93e127970/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a18151b1b8d958c2ffb5/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b02c65cdf795044b66/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4eb9d916914ca10ad54e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6187b6e2e3822cc8c2a/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfd72c56ccf8d6b2a940/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9db29b6adbb1bbe0e409/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0279681ef689de232129/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/79ff33a2f97051cd4e0b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab5bb294c4e6736dac2c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddd5949d7ba6c2d0f253/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fb45c5e24f6f9c8efe1/large)
 
 ---
 
-## Lot 9975 — (1) Modine 400,000 BTU natural gas heating unit, in working condition.
+## Lot 18122 — (1) 22" width x 34" height x 30" depth steel tool box with assorted hand tools, includes adjustable ...
 
-- OrbitBid item number: 1-9975
-- Internal ID: 1738297
-- Current bid: $500
-- Bid count: 23
-- Photo count: 8
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) Modine 400,000 BTU natural gas heating unit, in working condition.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/764c154f5b35625336da/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2527e739d26d02d74307/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f743a64058d3603e1aa/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1eed8765b5ba3702d193/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a274978b44cc7f854d84/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/feb58249c65b5341f875/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b02d74dc5447976ab164/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2355299ae087de522270/large)
-
----
-
-## Lot 9979 — (1) 70' x 144' single gutter greenhouse, roof poly was replaced 1 year ago, manual crank up side wal...
-
-- OrbitBid item number: 1-9979
-- Internal ID: 1738301
-- Current bid: $1000
-- Bid count: 27
-- Photo count: 14
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 70' x 144' single gutter greenhouse, roof poly was replaced 1 year ago, manual crank up side walls, roof poly is Wirelock, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5844612462994bc7ab8/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/69774eba5c5d24cdb79e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/baa8b3555bd6b5f007ee/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5218e6f193d06a0bd6a/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae77e5ae2a145d92aae8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/73f733e837b4bcf84a68/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b66cbc4ce20daac2c68/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/336832f200ad1451b8fd/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b77cba81f165a3c0dc29/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/603a65dfe59902d47d92/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c77fd65ff122a7c86a3b/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5934247dd0e855320d69/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/31a0a3fe5185d34b5ec0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5036ce20344b5e481c51/large)
-
----
-
-## Lot 9980 — (1) 16' x 96' greenhouse, 1 roll up side, plastic will need to be replaced, winning bidder responsib...
-
-- OrbitBid item number: 1-9980
-- Internal ID: 1738302
-- Current bid: $1000
-- Bid count: 17
-- Photo count: 9
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 16' x 96' greenhouse, 1 roll up side, plastic will need to be replaced, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2e28dbefd498d7b0de6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c90ecbd1e84bbdcba14/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/79ae14c35133920ad279/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f92d3fd7d70406154edb/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d762f8acad8af7be842/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d9ac45fd0a0065aa802/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd7ab0039606fbaa3d22/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b586874fbc1e136399b9/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f61077c81e5285201e4/large)
-
----
-
-## Lot 9981 — (1) 30' wide x 96' long greenhouse, manual aluminum roll up side, and 1 manual steel roll up side, w...
-
-- OrbitBid item number: 1-9981
-- Internal ID: 1738303
-- Current bid: $1000
-- Bid count: 5
-- Photo count: 9
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 30' wide x 96' long greenhouse, manual aluminum roll up side, and 1 manual steel roll up side, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/de7254f149d71dbff147/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f6673fadd2f61a19e84/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2e8c24ad85070826190/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9599ee60303cbe01107c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/664d2bb27252c2e17b5e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d85a94634d8216e57c64/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ad95f4d0387f7f21964/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/82456ed0f0942fe42fe0/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f3584a3fcb7b51c22f7/large)
-
----
-
-## Lot 9982 — (1) 30' wide x 96' long greenhouse, with 1 manual aluminum roll up side, and 1 manual steel roll up ...
-
-- OrbitBid item number: 1-9982
-- Internal ID: 1738304
-- Current bid: $960
-- Bid count: 9
-- Photo count: 10
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 30' wide x 96' long greenhouse, with 1 manual aluminum roll up side, and 1 manual steel roll up side, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a943593a909f60787e6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4991be87c9723858714/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2a6d781639b28254fe4/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f198b9e7462b2d2785d/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/151a4d3b22a79907bde3/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9536a2dd3dbc9b04445c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/29d3b2a061e9f26b04bf/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/90a978b1883de5f07b83/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/8caa1121ad6ffc52d64a/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ba99966f4231b84d544/large)
-
----
-
-## Lot 9983 — (1) 100' wide x 132' long 4-gutter greenhouse, 2 manual aluminum roll up sides, (3) 32" exhaust fans...
-
-- OrbitBid item number: 1-9983
-- Internal ID: 1738305
-- Current bid: $1000
-- Bid count: 5
-- Photo count: 21
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 100' wide x 132' long 4-gutter greenhouse, 2 manual aluminum roll up sides, (3) 32" exhaust fans, overhead irrigation, roof poly has been upgraded to Wirelock, roof poly is 1 year old (poly is good for 4 years), does not include contents shown in photo, greenhouse only, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/51c05895ba256b322d8d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b18cebff37cb5323dce/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b81e3bef7394fb83a8e7/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1635ad9f503ef109e92b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/76cf5555f4802d497e7d/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e03f26470e6a5f8e11d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d50819e118d295d2c28/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/a71c26567cf4b132c979/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/63df59da501b8ba9a3d4/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4a169818d854a925911/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c16f797a02a87cd3df71/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/727b5d11fdd5631111ec/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/5286ae8953ee2bdd60c5/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e39a1d9fe6f85ff48de3/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7dc67ba810522927e3d/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1a79a3b4496f7da0689/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/56392e4f194af4723ee4/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/a28522ff9afedaf03116/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/54f998c1d00c42c98d2b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/53e49181ef5529a3df9b/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffe36b32e7b4e4ba27f0/large)
-
----
-
-## Lot 9984 — (1) 30' wide x 132' long greenhouse with a W Truss, manual steel roll up sides.
-
-- OrbitBid item number: 1-9984
-- Internal ID: 1738306
-- Current bid: $1000
-- Bid count: 11
-- Photo count: 11
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 30' wide x 132' long greenhouse with a W Truss, manual steel roll up sides.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/09e887908e10e6fc45bb/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/35da2f564fd54065d2d9/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdc200daa0c71deac3d9/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/78ed6885ed414a21d3e7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc60b90fa169635622f5/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/36ba2e8ca8e9fb87059a/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d7afb4e8891be08b407/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0301680041dc08bce56e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0c1a27951ff89e87dd1/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/19e672cfa8dc9dd42f94/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/497cf79cbcff327a5185/large)
-
----
-
-## Lot 9985 — (1) 30' wide x 106' long greenhouse, no end wall on north wall of greenhouse, manual steel roll up s...
-
-- OrbitBid item number: 1-9985
-- Internal ID: 1738307
-- Current bid: $1000
-- Bid count: 7
-- Photo count: 8
-- End time: 1790121600
-
-**Fields:**
-
-- General Description: (1) 30' wide x 106' long greenhouse, no end wall on north wall of greenhouse, manual steel roll up sides, W Truss, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b510c7c2c6f340c3f96/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/76093b403219e4235db2/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fdf4bae6429528a0478/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f644139fabfc98eeb91/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d354ed0e65a817ef873/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c59a8a2e6d7df90a5c2/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5e2d17916d5e4b0d151/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb4306947949a1f7801c/large)
-
----
-
-## Lot 10000 — 2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,...
-
-- OrbitBid item number: 1-10000
-- Internal ID: 1761139
-- Current bid: $100
-- Bid count: 0
-- Photo count: 51
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2006
-- Make: Volvo
-- Model: VNM
-- VIN: 4V4NC9GHX6N423830
-- Type: Day Cab
-- Odometer Reading: 934214
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,000 lb. GVWR, 12,000 lb. front axle, each rear axle is 20,000, power windows, locks, and mirrors, cruise control, Volvo VR400 radio, heated mirrors, suspension dump, air slide 5th wheel, 29575R225 rear tires and rims, single aluminum fuel tank, 27580R225 front tires and rims, emergency stop light stating check ECU, stains on interior, wear on floor board, rust on rockers, and bottom doors, missing trim piece on passenger side under headlight, rust on passenger door, door is currently held with strap. Unit #218
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/79b1d5c7b80afce4ef62/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c7e2d7cd63115d3adab/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6170b40b9713699371ca/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/14629397d988f2f0e27f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fc8148f67202ca48581/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/eddb3d3c5e17f127b4aa/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d971fdd551af7a4290b/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a7fa813e0a7811936ac/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/cafef6f62cad97208700/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a221bc8bfb5b13585f18/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8bf4ab561f4282c7667/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a207dea8b445ade7815/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/de6bdf529dfa1eb1dfa0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bd5197b0b66011445ac/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c4504bc7c00d81da644/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/c336203d1e4c72436b0d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/bea6d8d0f93c244f43e2/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bfaa8e7ed84253a7986/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fc28e42625904177be1/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/a283cd69d3c1f5f0fd97/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/da1bfa9b6799c23c2189/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b807eb66ac2d903dbccf/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/6075c4523e165688614f/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/b78d97daff46fbdf8b8a/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/80fea652a0116fbb7928/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e4df8ad498a1d4c9fc5/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/88e1e16f6d3b8b7509b0/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb13917de887a159108b/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/a91a858c13637c8b6d27/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/2782582eef087e45b923/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/d77116252a3715872d3f/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/209c4d9b1d9ad8c46456/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/3867fca31d2970c3f926/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/29aa92fc68feb5636987/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/81c5941497a420f32256/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/d04d557573e37a87997e/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3f50c8a1637cd1b1274/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/862dfe687693a0d5b072/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d7366bbf42ec5d691e0/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d6aeeb865d1ccf35f55/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc62b6b87e4acc430587/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/2afc277ce90bc7fc7473/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc1a37faeb8d3c637589/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f4b94019d8258a5d509/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/c32eab9d45ebe6b34acd/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/38f427b3cd34d3c104cd/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/48efa1320a0b8e2535b3/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ad9f2796737573ad551/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/79fbe36c309fce9b39e3/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc148450d36e85d11040/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/350be652385a8ff2da8a/large)
-
----
-
-## Lot 10002 — 2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng...
-
-- OrbitBid item number: 1-10002
-- Internal ID: 1761141
-- Current bid: $100
-- Bid count: 0
-- Photo count: 46
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2007
-- Make: Volvo
-- Model: VNM
-- VIN: 4V4MC9GF87N397188
-- Type: Day Cab
-- Odometer Reading: 662894
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, power passenger window, and mirrors, suspension dump, A/C, CD player, air ride seat, 29575R225 rear tires with aluminum rims, air slide 5th wheel, dual fuel tanks, single stack, rust on driver's door, scratches on driver's side fender, cracks in fiberglass hood, missing trim piece on passenger side hood. Unit# 221
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8db037468c9cf6681b6d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f41c9f0ddb03bbaddf8/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8154ce24f4e6f38e14f0/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a876fbe6005b21977a64/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e2703b3f30330d2a55a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e7b0326fe9aa610ad8f/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1bc92c76f1922c68963/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/77520e04b7056a7e1bec/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/48b00503a260e35ddcb7/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbb85dcbda1089d0968d/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a6bb66997275ec85bde/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5b0493dbe4bf879a488/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff4821528c6e30a3b4c6/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/51fb23b83391050dc1f8/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f8d953cfdc05a3cc61d/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/918f8eeec04116d3b1dd/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad64ace5ff735c7bfb0e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/09fdc24bdb61811f1026/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/013392cf150d796da5a2/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/9901ff240623ebc0929f/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/34916a56cdc5fe4e1bf1/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/22c481fe98aa0f81303d/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/76838f286be9be8f941f/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/593d1067a38e18c41c4d/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/69b86a7b3ad4e9b7140d/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/bae15a5fbdc6e1b8fe0d/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/05809f7338fc764f9e1a/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/17034881905e5f258e2e/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1cca402904f6cdee902/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/d441e347de348322ca44/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/69d9a2524e3ff5bb4ac2/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ab7d4450006accda964/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/04c57fe0f1cb47521927/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/745f13f3420d824ccb7e/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a4fd32beace68b83119/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3b9edf4895986c12a1d/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/52e2af7fbd115831ffc8/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/34abeb6428de6b64234c/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/43a2e60232d7cc46c817/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/525111748f47d65cb653/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b3b59dae8069c6f07da/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/37978b08f576138415a2/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/23221c2a6cb8c7531019/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/4584040712191c4395b0/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1321a21d03af855077d/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8e08a41c201b8d9eb1a/large)
-
----
-
-## Lot 10005 — 2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ...
-
-- OrbitBid item number: 1-10005
-- Internal ID: 1761144
-- Current bid: $100
-- Bid count: 0
-- Photo count: 70
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2013
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9EHXDN137962
-- Type: Sleeper Semi Truck
-- Odometer Reading: 584313
-- Titled Status: Clear
-- General Description: tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo D13, 425 HP diesel engine, power passenger window, air ride seat, traction control, air dump, air slide 5th wheel, DIF lock, A/C, CD player with MP3, check engine light is on, 50,350 lb. GVWR, 12,350 front axle, 19,000 lb. rear axles, 27580R225 tires with aluminum rims, dual 100-gallon fuel tanks, air suspension, air ride, various paint fading and peeling on hood, crack in front bumper, rust on back panel, miscolored front bumper trim piece. Unit #224
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/621f2242f9a60b06f207/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d4e047b9ecc3ddc4e17/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6123a84774cb077c33ce/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/29c7b84ae720d54e23a3/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/47042c275d49c9bf5fe1/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f421fbb9acc8d9f6caf/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b38394386cf7e6f7a082/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba54bac4f535cf984ea3/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a90312fcb37991c45c45/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fe0fe522efcb2b17f2a/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9bd5cc59eed95bcfdd7/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac3bf60657317e477eb4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3fb5312c79ce19ca9e1/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/eade81183859f87d278c/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/80543a21bad7bd370733/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/73c9a6d96353cc3777e7/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/4fa3aee39197fad1c66a/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/882d7f28d1949cc40ca7/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea2b7a4858381d1b0310/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d9ec5ab36a7bc3bce21/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/adb9fba34fc862c9a012/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/11efb28aa27cda8f9979/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d32984005c20143918d/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/675a606b5e702f56d76e/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea350ec354b86443e287/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/1775647e921367131373/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/8bc57a060fbc54a4555e/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/1607253f49bbd6e920e6/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/727e235ca52f63a55e60/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/3df1aab3600fd7d8ab50/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1eff27460c56e55cb58/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfdbe8d9661a3554fe61/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/3af4a29fb1e2597a5315/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/d96ffafe19c4e8a3e983/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/c93ca409c3452771d683/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/30d4aee645ac446f980a/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9c52bfbfe999bc1139e/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e38712c825e4ed3b09b/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9ecb4df8d07837c4ab2/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/76f778ef0acb3beecdaf/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/4772a9904cc84467cdcb/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/461b24f2b333d154e5f9/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c001027188be9aa9220/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7175bcac482cea84e3f/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/8767ca72346157dcc6ee/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bfe09555a899642e8f0/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f903626b8e42c215d4c/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d542076f4cabd138c78/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/334a24970ee28614025c/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/b366ff1a806b122d5de0/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/c291f72a7263a6697f83/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d94a88584f040c2893e/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/441ca76ec3a1636cffa0/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/06abba3c242d2ff21539/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/093cd1cdf455a9d39a91/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/95ca8fbcf46a25c0d01f/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/48170b8e32689d00d01e/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/088736b47d8c600107e0/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4fa2db0d04967251cf3/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce4391b395cd33883ce2/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/98ed23b7814d86b4cdc5/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/3df0cd6deec4d69729a0/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/1cf2b36b37b7259b7d5c/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/4134a3de1221ccacde74/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/30d7582c08e1f5fec087/large)
-- [Photo 66](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8943295a3012c14fa34/large)
-- [Photo 67](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c5157e66a7ee4a196c0/large)
-- [Photo 68](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6037032889edd5c44ba/large)
-- [Photo 69](https://d1ljvnrgb7j023.cloudfront.net/files/1/de66603a0540a78d1fb6/large)
-- [Photo 70](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e3b700645043eabf2d7/large)
-
----
-
-## Lot 10006 — 2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles...
-
-- OrbitBid item number: 1-10006
-- Internal ID: 1761145
-- Current bid: $100
-- Bid count: 0
-- Photo count: 64
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2013
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9EH4DN132711
-- Type: Semi Truck
-- Odometer Reading: 410948
-- Titled Status: Clear
-- General Description: tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles, Volvo D13, 435 HP diesel engine, Eaton ATO 26112D automatic transmission, power mirrors and windows, air slide, air suspension, traction control, 29575R225 rear tires with outside aluminum rims, air ride cab, various scratches and chips, crack in hood, dent in front bumper, scratches on passenger side wheel well, check engine light is on. Unit #225
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e17500c0e8897984593/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/865008c3e7c09677a454/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/993471b63f9c64555732/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2d3586e459a4bac8e59/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/97c88b8b3d135807b261/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a25dfb977a463613fc3d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/39e4a5105506aed2531e/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/051074988877da139f13/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cc906ce7fbdb43aa9ce/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7c23cdb93b797a96548/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/53c1ef93700362dc9407/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/e088e77e9074887b7eee/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/278b9c0c03cc5004d63f/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f8a6d517475fcc676a9/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/10c155c2cd7842b091cf/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bf829cb116e58cf80c1/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/267f33ac98cc29b6d25a/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/36eb8513ab09cae42886/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/6984534842c226d6102c/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7bdfe13bf68ea939888/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3221bd49083108f47b7/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8559af3351ad184d8d6/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0f1cad4bd26890a1fc4/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bb3d7cb92e69cc7690b/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/35e9ff498903bcb15176/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a7169d469f98ce38de8/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/33556e2e8bab503c8a65/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef4e7b799c6086fa5fbc/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbeb6bbcc316c46e8220/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa970183ed42ab11233b/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6ec416d4be31a704859/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/92d01a2441eed6b3559d/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb4d7d7450c5258de6e6/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/70ebeade276d4ed5ef1b/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfeea3a27525800b5759/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7683f8549e905c91486/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/d44f6756fbd21969ea91/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbec8e218ec15f4b20a2/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/71cb96521d8d0d91fee2/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5e67a4fb5dae617eb5f/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/811d20e7e456e8dd0cdd/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3ae7928a5e5d21eead3/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a05a582b9de4dbacf47/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/92e440ec7488d3c9637c/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/904693aeb5a60dc02b37/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/0148cf6dfcbdea6f8815/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/376961e2e5b6cc4cd707/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f4f4cf3559d8141da86/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e64b446e5fda85a25e3/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c7b6e58fd1aed5ec8e6/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/071391b8c50448851e25/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5310f36697446b9e24d/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca692cb8e1a75eac3840/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/01bbb15041d9a77b1caa/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/38d2a26d1812cb231189/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/9654507778a04773af78/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8b45f710a3e1924f9db/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/6db01d32331446a2ecb9/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fd1d9a5fdca8cd5be09/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/804282d1c097059238a1/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6b5f914f312b472bd83/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/912ef178ba6f284181a0/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/af79dede2a80da7e6e02/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d335625234011354a7a/large)
-
----
-
-## Lot 10007 — 2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, ...
-
-- OrbitBid item number: 1-10007
-- Internal ID: 1761146
-- Current bid: $100
-- Bid count: 0
-- Photo count: 80
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2009
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9TG89N268695
-- Type: Sleeper Semi Truck
-- Odometer Reading: 845665
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, Cummins ISX, 400 HP diesel engine, power passenger window, power mirrors, air slide 5th wheel, air suspension, CD player with MP3, GVWR 50,350 lbs., front axle is 12,350, each rear axle is 19,000 lbs., air ride seat, 29575R225 rear tires with all aluminum rims, dual aluminum fuel tanks, single stack, rust on cab and door bottoms, paint chips and scratches on hood, front grill is broken, rust on passenger door, check engine light is on. Unit #217
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3aa8a8679fc9445de59c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9a360842daf0a300677/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cccfa9e06309505cc30/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9510db57ca61d35eef3b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4041195e29019c4011d1/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bac0b2a5398da8cf8dc/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c4acb16c9daeb9beece/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/df4b9f04f995610645dc/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7745184beb18216117c7/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9d653ecec40e7639f80/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e380b725c117ede6668e/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dd61accef6cd8a30d8f/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/067656f8789d03b31d61/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/1594b36a78689a24ac87/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e4fcb8b15f7580c0880/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac3e01d5c5963af0fbb3/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/aac037e682a7c9a5223b/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/618b0c4523040de9122a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/045d4756a6013c50f853/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/801a0f42f1ff5df34300/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8dba50721164e370a83/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/035b4e64318ff73270e2/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e0a79764f75db850941/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/407dbf20dc9fc9a21f24/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/4959fa5aa9b558b95610/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/389a346887dafc83dbd3/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/a338dc8024502cf6cd6b/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d1a878d82edb04536df/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7c0f944b368c3215b89/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ceb396658f6e63e3cf1/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/04e916e818b9b472a526/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/568f63394abb267f14de/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/b07f383f1991a11680f9/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/65a673a2743494812b1e/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/920b2598a67f04f0286f/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/f38693f8dff0b92a6144/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/28f78379b36be813ee3f/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/e508b5d37f5713d58f3d/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1a813995bae62f1d404/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/91f94e548998d5058b67/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/f00879a8174986caa2f5/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c1702c136d526e6091c/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4f1588b65fc5700c3b4/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/9875154ef29cc692623a/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/e018e0e270f16ae3af61/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/3daf536662a17d387074/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/688db06f8216911bba0c/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc8ad696d8cb237cef55/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d8dad7b417bfcbaae2d/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/58d6cd8760746ed70b83/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f8db893ff44a6de0aaa/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/2764310e3323abc03b16/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/8384862e55569af4dc9e/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e745158bca2da1b00ab/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c1138cc999771a81006/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/2aa6de1d73556f59ce4a/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/67777ce71072a64ead99/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/27e061dc937b737df849/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/ced28012a60a230bb103/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/94267503d0ea664c786b/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/87e674807c325aa9e60a/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/52ef0c0887004cfbc4c2/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ec68643132fde0004be/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/59a24ea83aaa53d7d0b7/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fd144939ca4049231e8/large)
-- [Photo 66](https://d1ljvnrgb7j023.cloudfront.net/files/1/47353fdbbe819e1ae448/large)
-- [Photo 67](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6d78a339dcc27143f4b/large)
-- [Photo 68](https://d1ljvnrgb7j023.cloudfront.net/files/1/e78029b29ef0dcbfb236/large)
-- [Photo 69](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f8694dcc46bf3a6bc28/large)
-- [Photo 70](https://d1ljvnrgb7j023.cloudfront.net/files/1/7859787fc456268a7883/large)
-- [Photo 71](https://d1ljvnrgb7j023.cloudfront.net/files/1/24132dd170ccf18f7c25/large)
-- [Photo 72](https://d1ljvnrgb7j023.cloudfront.net/files/1/1383bd00f576834f3b87/large)
-- [Photo 73](https://d1ljvnrgb7j023.cloudfront.net/files/1/d003a0c6b5c6d02da6bb/large)
-- [Photo 74](https://d1ljvnrgb7j023.cloudfront.net/files/1/8edcd7fd3e38f49f54e3/large)
-- [Photo 75](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ee843ac0ef0efb8b247/large)
-- [Photo 76](https://d1ljvnrgb7j023.cloudfront.net/files/1/0282a015a44c4ddd0310/large)
-- [Photo 77](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e3b333293b5a235deff/large)
-- [Photo 78](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3a61c835a7f96ab7260/large)
-- [Photo 79](https://d1ljvnrgb7j023.cloudfront.net/files/1/406fdb8620db275c46d5/large)
-- [Photo 80](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e0f12ecae25e023a764/large)
-
----
-
-## Lot 10008 — 2015 Volvo VNVNL Sleeper Semi Truck tandem axle, Eaton Fuller 10-speed transmission, Volvo D13, 475 ...
-
-- OrbitBid item number: 1-10008
-- Internal ID: 1761147
-- Current bid: $100
-- Bid count: 0
-- Photo count: 85
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2015
-- Make: Volvo
-- Model: VNVNL
-- VIN: 4V4NC9EJ9FN189900
-- Type: Sleeper Semi Truck
-- Odometer Reading: 664345
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller 10-speed transmission, Volvo D13, 475 HP diesel engine, power passenger window, heated mirrors, power mirrors, air slide 5th wheel, air suspension, air seat, air ride, CD player with MP3, cruise control, 11R225 tires with all aluminum rims, dual fuel tanks, single stack, cracks and scratches on bumper and hood. Unit #226
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/72c469f305e0796414f4/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d1588cfe9d37f86722b/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c0f1302978467bc579f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4963c4ed5dc6593b7dc2/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/63b433af3714c2373d69/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/378b95bd8a1b938bad36/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/99c6c8f4d89f809eeed8/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9eb24ec259ce38b0d2a5/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f75d71fe743ffddf7d85/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7a10a406e7a87d15cd6/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/df05db2ad7b0d1a1d243/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/024addb636592e4a7f72/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9012d5ca8ea475a26ad0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfa55dabb022340c4593/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe40e9e712642d98dc60/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc2ee5987806b55c8889/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ee59d6439ecdc998cc7/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/5592e0424abd6750dafc/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad74dea6495d330efa31/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/54086c73f7ce2ca14fe9/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ccb813c711e9e2f5dfa/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d88e72e382ebf7a7ead/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/f72b0c8c995ec50343e0/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/aebad4f3e2eed2e57b21/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cf4654ea18b93a22839/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/6142b37faea9fad1c0d3/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7bc202a94435b161ddc/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/6de5ee5908e30c1b8c2f/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/4afb6a47060132a576eb/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/152c287fd03c4483964f/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/6db48a4bf8c7c7e732f3/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebff3123e7e8c9221793/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/5041cbe737b861aff5f9/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/46ffe2a26c5655295973/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/98ba23d8b57cfaae1e87/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/36b19b0b7e6f667563d1/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d0083bd67377dd460cf/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2c1907b405b0ffd0af5/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/a98eefb700e4b8db0ef6/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/e14f165dc962ccc92ac4/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0451c7946a8f19de2bc/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/6901ee1986d44707e20a/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/7284cf93a9f8212c2ab0/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d7a34e4191fb87515c6/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a848742995a6cba9134/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa5e8074b0b2840d46d1/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/4feb3ec53f079194336c/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e4e796b6a051ec4135e/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/29f23066df5760420db9/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d42d54cabb0531abbbd/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed099d6d8f318d0982ca/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/316afff7ad22c187dad1/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/43862b2166a6f77bf942/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/afdf1b976d084c182a35/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca0cceda5076702c2911/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/058b4b89dcb441faf77f/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc77ebe952991777a051/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/5164cdca8e0481259618/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aba1a8a24cf6756656d/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/f18ae2c51af4e0911cad/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb73e07e735de3023db0/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/6884dc9a0df249c96ab3/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/e39ffcebda182ccc8648/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/b01972f795621fcfb24f/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdaf6d95d4bf7adcdbc4/large)
-- [Photo 66](https://d1ljvnrgb7j023.cloudfront.net/files/1/9818e62b0d8ae05916c8/large)
-- [Photo 67](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dc8aa2ad344e345d86b/large)
-- [Photo 68](https://d1ljvnrgb7j023.cloudfront.net/files/1/29c13d58936adb3a137a/large)
-- [Photo 69](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7d15f8677839a5f9e44/large)
-- [Photo 70](https://d1ljvnrgb7j023.cloudfront.net/files/1/42412cb9023ebadef6db/large)
-- [Photo 71](https://d1ljvnrgb7j023.cloudfront.net/files/1/220ad14590be70596797/large)
-- [Photo 72](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a4b8926ea047c42aba7/large)
-- [Photo 73](https://d1ljvnrgb7j023.cloudfront.net/files/1/8044c9510cd0904331aa/large)
-- [Photo 74](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e2c22703cf3a374604b/large)
-- [Photo 75](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0023c01799319ac2309/large)
-- [Photo 76](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1c61c482e896440124e/large)
-- [Photo 77](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b9c65c931fec5ca4400/large)
-- [Photo 78](https://d1ljvnrgb7j023.cloudfront.net/files/1/124bb20755465794e147/large)
-- [Photo 79](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab3cad4fc00ac4b1f5d5/large)
-- [Photo 80](https://d1ljvnrgb7j023.cloudfront.net/files/1/37223883e5d75395dfd8/large)
-- [Photo 81](https://d1ljvnrgb7j023.cloudfront.net/files/1/3def8eee59df32ec8251/large)
-- [Photo 82](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdafa222efd4375acca4/large)
-- [Photo 83](https://d1ljvnrgb7j023.cloudfront.net/files/1/ded5854f40bcdcc0256e/large)
-- [Photo 84](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1a2a7ccf17092c20da3/large)
-- [Photo 85](https://d1ljvnrgb7j023.cloudfront.net/files/1/89ebf20330afc15c2c63/large)
-
----
-
-## Lot 10009 — 2020 Volvo VNL Semi Truck tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP di...
-
-- OrbitBid item number: 1-10009
-- Internal ID: 1761148
-- Current bid: $100
-- Bid count: 0
-- Photo count: 76
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9TG5LN253496
-- Type: Semi Truck
-- Odometer Reading: 217490
-- Titled Status: Clear
-- General Description: tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, 19,000 lb. each rear axles, dual power windows, power mirrors, cruise control, Bluetooth CD Player, air suspension, air 5th wheel, traction control, 29575R225 rear tires with all aluminum rims, dual aluminum fuel tank, single stack, air ride, air seat, scratches and chips on hood on driver's side. Unit #227
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/15b10900c7d9eb773c70/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/caa206105727c0734419/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cac6db77b11377ddc215/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d04251cbd2573de594f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a012266f17b73c8a616/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8eb599982b40650b53a4/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b705af5fb0744c33944/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/23af4e0b3d8f9bda45e4/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/692c26d84aad676ca31a/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3aac88e7ba02299f322/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/09b04bd010cee8c0ef4f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/67ab00accf46a9e9faca/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d8f3cfcdc2048ecb577/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/741fb331e2aeedddf20d/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/26b4206deba58731a355/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/117481bc0fc1f84eed8b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/65ac0fe9119d01f34f18/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/354a396cae299f225f83/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd9ff00f8c41f8f51021/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d14206cf34cd2c958cf/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd45f4434f9e21b09653/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/de66806e40f6ce95b106/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/729d7dfb96fdf2008459/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2dba5bb092228f7921d/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7b75e2f14e3b3529b3c/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/07c987ab973678caba71/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/ade63e27f4e0e0b43d20/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/10798220bca9eefc6c6e/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/72d58ca747f9207b9751/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb33e6906a4a107bc587/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/9931e5496b45802cc914/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/8627b06252a5a30d0194/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/78484137e79f4f18e7db/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd7ed75c3175abcf0921/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/48f83ad09edefb9fd79a/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c210794fa1b875093473/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd4e18b2331f8574dd16/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/6852458ab9c26d099a05/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/b00a313e271b7231310f/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ab27747506acba432c8/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/939eb3a53c5d7264abdd/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/a64a0b3c097d34da9c4d/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/58c706452e4104c042f5/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/db50a38b58019c2a721b/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff98d6c16b3267df1df2/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ae58ce75cc7edbfaf19/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/45d1996f8101c9cacf5d/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/b36f106fbc8b2870b8e4/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/606d25aa33bba8a3943d/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/7de096947761e1a84a10/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cce00562b9d791b9646/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/c051d05754f4af22580b/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/dcb386f92940e2e0e501/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/43dde179f1a7f60b8966/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/0775b4267508ce799797/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2089e1beec156021095/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/324520bc25facb9d6e30/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/d351f5439a17968c8682/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/507f2e462e10714afeb4/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/8808f98aeedd47169540/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/770ec98c41094daedd0b/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/688e2cabbe706881b570/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/c35e15c812fa661b8234/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/e96cd342832f80422e48/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ab67029e4b764eb63cd/large)
-- [Photo 66](https://d1ljvnrgb7j023.cloudfront.net/files/1/d46a3c37754479381547/large)
-- [Photo 67](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d3d993f6c9754b83ba5/large)
-- [Photo 68](https://d1ljvnrgb7j023.cloudfront.net/files/1/da83d910715945a0e7d0/large)
-- [Photo 69](https://d1ljvnrgb7j023.cloudfront.net/files/1/431f80f74d6f464053c1/large)
-- [Photo 70](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f9e8db0feaa26fecd3e/large)
-- [Photo 71](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b533f3af42ef01c1cc0/large)
-- [Photo 72](https://d1ljvnrgb7j023.cloudfront.net/files/1/814df83fac0c49292f76/large)
-- [Photo 73](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1a30f792bafe1001113/large)
-- [Photo 74](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4a9b40d25196a20731b/large)
-- [Photo 75](https://d1ljvnrgb7j023.cloudfront.net/files/1/92f7f70dea1fcd8a47cb/large)
-- [Photo 76](https://d1ljvnrgb7j023.cloudfront.net/files/1/6534b8940a39814a5f5a/large)
-
----
-
-## Lot 10011 — 2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo...
-
-- OrbitBid item number: 1-10011
-- Internal ID: 1761150
-- Current bid: $100
-- Bid count: 0
-- Photo count: 71
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9TG0LN253504
-- Type: Day Cab
-- Odometer Reading: 297416
-- Titled Status: Clear
-- General Description: tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, scratches on driver's side fender, crack in hood on driver's side, runs and drives. Unit #229
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/83c9e36778dedb824c3d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0890b672e9eda46bc08/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/db987cf30eb0cf902f6d/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/62c3a982d4dad1fbbf2e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/12395cc373d420541f54/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/18ddef3131823543aaac/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fde695e55a99b109f24/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/a36597573df9caaf5e28/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd08fa01dd7f59f95cc3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e410d66c07046dcd2384/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c184a8d09ca1188d313b/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/221fd6c4d40b25783c2e/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e32c62e22d223d3c6408/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/738b3260ad27e1a566e8/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/52a15df779162a5a4b51/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7f672c254ee87c1572b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d85323491aaf234e6b3c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/ceef848196c21db3e943/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/d790c93bc7028b0c759a/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dd2c55423cb3391ad40/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/39023199239ab631a5a9/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e4fe9c2810eb4cf1244/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/27723b37478aa564abfe/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f5360a344883a479293/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dff348735bcabd18706/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d4ec8fe8f4fda835650/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/799dec2b2856d2ea1c49/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/be592316b68bb8f7d19c/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/351e1891582416cd373e/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/c307227cb8db360fc82c/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddea330132b34c0170d2/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab75c5d22b1ca8e8f0eb/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/4513864c46c3ca60d0a1/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/af16e0563388b1285405/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/3907e5f9d5954841f51a/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/d658eba82672b5cfb550/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bd81e4685b75e67fa2f/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a7870dd5bed58bd87f1/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/66214c82021f20f15436/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/f069a22d3268cfade9a2/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2877ae5881af1715786/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6e2130ac243fab9662e/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/6761f927d0bb84acc5ed/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/be637c851c7ae0d382e6/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b950d0dc4b4eb88c3d6/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/91542312cdb2788ee4bf/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/c77b26db81f18d500da4/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/503b6667b2fa75173b3c/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/3165f2a70edb718e0435/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e44012d7420aed3897f/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/a165895eadc2826461e1/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/e38e82ed03867f908cc3/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf3cc55c5c9843f30e7f/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/052294b78c10b5e9bc8e/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/b918000eaeac8b5dab5f/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfb45224f1202a43728c/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/3719aed9f203b1141794/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b55d3557fdef0099249/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/93558e57174672326d6b/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/24e75ee2938ace6e7c90/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a4cc3f057d96166ea4b/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/d85d637b2c29863fa742/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/9254acc8873f75a207ec/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/e45b228c0e27cedf9be3/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/f20db65765a4a817a39c/large)
-- [Photo 66](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c7d984073cae29b8a12/large)
-- [Photo 67](https://d1ljvnrgb7j023.cloudfront.net/files/1/21adbf4218e964edb45c/large)
-- [Photo 68](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f7807a357c477314501/large)
-- [Photo 69](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfb43af4057093f613a0/large)
-- [Photo 70](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5e54e5a8a04934b31a4/large)
-- [Photo 71](https://d1ljvnrgb7j023.cloudfront.net/files/1/9988b7839111cc32b3b3/large)
-
----
-
-## Lot 10013 — 2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D...
-
-- OrbitBid item number: 1-10013
-- Internal ID: 1761152
-- Current bid: $100
-- Bid count: 0
-- Photo count: 63
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2021
-- Make: Volvo
-- Model: VNL760
-- VIN: 4V4NC9EH8MN287763
-- Type: Sleeper Semi Truck
-- Odometer Reading: 249594
-- Titled Status: Clear
-- General Description: tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D13 425 HP diesel engine, 51,200 lb. GVWR, 13,200 lb. front axle, 19,000 lb. rear axles, dual power windows, power mirrors, CD player with Bluetooth, air suspension, traction control, air slide 5th wheel, 29575R225 rear tires with aluminum front rims, dual 150-gallon aluminum fuel tanks, air ride cab, air suspension, dent on passenger side panel, scratches, crack on skirt on passenger side. Unit #231
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab74f84917a84c176229/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2e2f48c9f7444913105/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/da7036bb48e0a93f0b20/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/05ecbb2085506a9af4dd/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffb26478f51c9b919ab8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3294140dec646ce07898/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a23083fead3dccb3b878/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/43f04379393514c02e30/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/db562a42c227bdcfd064/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/192e1f1a5b7fcfd16eea/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9224e6e2de50d272d82/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/205474d46d21a267c779/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b4099bf036acb677f3d/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e40260c96cb47a8d4c2e/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/393fefddd2166e63a83a/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/55dcb7fa36f280c322cd/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/172d2af56c695cc5fc11/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/53aced3de30ab1cbf13d/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc04af7baf1b83edb0a7/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/1eb67b2c8b1ebf5c0f22/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe4b33adfd6b30dc610f/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/f619f4b210d85c5eb71d/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/653b29b74bed4fa6909f/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4d69bf0f0423b01e831/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/e52cc68f7524e5e8ea7f/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/faf65a0205028bec8336/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/276c4572510d783347fd/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/10082d46ba2f085ed8a3/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7cd61c0e08a99cb2a2e/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f8f9ab1a569502314b6/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ebb8e460cf607520a5f/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a626cc04b8dc1f2b516/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/3de5be4f11db9440296a/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe9bd197c933e515c9dc/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b30c23578259d15fc4c/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/7776c2e964e7baf5498b/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/b72aebec9adfdde8b01c/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/daa9e03b2a02de20b6c5/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fc48905e8d220db927e/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/074f4b83e0f2005f1913/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/23db447332bd257e2404/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea102525a8470eeff4b6/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/b67344cbb2854b7e03b0/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/69d1188fe0cfaf66fe93/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/f845cf874e44643adaa9/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a43583b468f1b389c92/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce99d4f0c5290f56a4ac/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/2981cd196bb6a461754b/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/347ca2033c630d2f9c54/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/cecf436971a20de467f2/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/4de45a38b6affec98171/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/9531208fd5019d4c4168/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc4f999e6a2ed98a5ed5/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b1a9e8ca870c9172661/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/84ad636360f55f3a7e62/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/361221d29d05f1d10bc3/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8d1133b1d3cad2beef8/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/983d5143134f3db721b9/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/889063524103bdf176b0/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b9fe0fd82e3937d6088/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/081b76fa2ec8699c9a6d/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8981041e4d500522275/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac1a4fa9ccbaa31c718b/large)
-
----
-
-## Lot 10016 — 2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese...
-
-- OrbitBid item number: 1-10016
-- Internal ID: 1761155
-- Current bid: $100
-- Bid count: 0
-- Photo count: 62
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: International
-- Model: LT625
-- VIN: 3HCDZAPR6LL139500
-- Type: Day Cab
-- Odometer Reading: 243517
-- Titled Status: Clear
-- General Description: tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diesel engine, power windows, power locks, heated power mirrors, PDL Lock, suspension dump, air slide 5th wheel, Regen, Bluetooth audio with USB, GVWR 53,200 lbs., front axle 13,200 lbs., each rear axle is 20,000 lbs., 11R225 rear tires with all aluminum rims, air suspension, air ride, chrome brush guard. Unit #233
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/84006d5fd3888567e9a7/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/747d88aeab0e289783c5/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/73465edac99770a7ddab/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f01bfb2423a6d666ba7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5238617e25f77b6a9c0/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d22fc4df45d5a83f69ed/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4db8e148a96511e18beb/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6106ab32c8c6da6dc348/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e51ebe92a6f36db5aa7d/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/13c1892693c075082941/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d5f7afdc19e4f33c7f4/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/8705c62593a5fcbf8128/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/215e8ebcdd9511b03c1c/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3b82db97ea84ffc37bf/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/76c6d5ac5f0bf387a2fe/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ba155480c169a1047ca/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/8572bf58c46c06d2ff82/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3e5274f267c96c5212c/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/9568608f2e145e3df977/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5490deffe80767a2e493/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b6864f0776205572c2e/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/51399c5b1ff264c7ae33/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd5a6e651b4b1e65b219/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/7503d2f2b9d9650d28e1/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb368f6e180589aff4da/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/81eee17840aa09bae0f5/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/802331161f0050d54489/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/119f0882985e938dfd3e/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/298cc287041747334ca8/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/9407521ac78a919b28f1/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fc3f32e95dd6461c01f/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/379d8498f6ef899fe1a3/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/f258875a1c386d137bd9/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/29af95aa0a5b858eb82f/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/f525090f92eb0a52e476/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4c7afe7b9d3cb25df1d/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/67b8ae700757ae0dc342/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bcac75a7a6fd7c6faad/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/198ab8ddccd431b26f19/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5d0af2f082554c5cac0/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/443b14bb5408f3ce3a3b/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/346a4dde9b3de7674587/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/144ca17dfcd3c10b7eac/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbe3aaddbe4bf3602810/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/ecbbd25cd9a7ca51e775/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5c8287956a576a3a65e/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/38d9b238c25b32b96080/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/619637fa5528a8d73297/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/75ed9f57709eebdcf5b5/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/4834f8eaf4e5c6469968/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e87dbed9b387dd452e9/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/00396f0b1b9d265c77a5/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/e95a0702ae880eb41cc0/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/1171fb2012e68ad4105a/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/539be9709c00a0d1edc0/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0b1e3d62f18ccd41e79/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/f749d8b36b6648bab987/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd051edc18171c22dcda/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/97a6b98c72da5cd914ed/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/44faa106f3e2e3863801/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/987c9a37f51cd6c67eac/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b080f0e1bbba7070dc6/large)
-
----
-
-## Lot 10017 — 2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis...
-
-- OrbitBid item number: 1-10017
-- Internal ID: 1761156
-- Current bid: $100
-- Bid count: 0
-- Photo count: 65
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2021
-- Make: Volvo
-- Model: VNL760
-- VIN: 4V4NC9EHXMN287764
-- Type: Sleeper Semi Truck
-- Odometer Reading: 312605
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmission, D13 425 HP diesel engine, 51,200 lb. GVWR, 13,200 lb. front axle, 19,000 lb. rear axles, air slide, traction control, suspension dump, Bluetooth CD player, dual power windows, power heated mirrors, steering wheel controls, cruise control, 27580R225 rear tires with outer aluminum rims, dual fuel tanks, air ride, air suspension, air seat, 29575R225 front aluminum tires and rims, crack in passenger side grill and fender area, scratches on passenger side. Unit #232
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/224a993cd6bccbaa4391/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c44ab98264c8efbbad21/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab87ec62ceab32a0930f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/11ce533041adbaa96b3f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/593aa8644484b8c6e087/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/82ca4fd5d4ac8f64d51b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c79b430c1f10fe89bc49/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/96db4e29a55ae0467435/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e2036cfc4d7872142d1/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/3af06d789d5dbfc9e0bf/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/81019de414d0b1bb3a39/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/558745675b59595f47a3/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8dca739274bc665ffd1/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a3f1f8e6d9f41fca831/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d843a9f90a1125c5aa5f/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0cef4da306296661312/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/500792fb27038d572199/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/163377a74b79d5f58f90/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/90060383633053266358/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bb41671d73f8be6fa40/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/86448edc1d15f5fbd1c9/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ddf1675ce088ac76aa6/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/04fd9075a40f1635282f/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f6e050fb1a797403773/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa385cacfeae64d47b59/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/01144514bf0a9c0a183e/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a4f491acf091d6d34be/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/b216c745d4343b7ce4b8/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9aaad8e89cd9c7c956a/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9131c8219ffd3b6a846/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d3d954fbe9c640cada8/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3825c196e087efcd330/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3323afdfcdb4afcf3d1/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/89b76ef51692a2684e8c/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ad2543d49ebedbea2c8/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/528684e5887f3b25db8b/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/53a1b9497ba594eefa73/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4e5ab05496d25db9899/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4e869ac6c639b9599a5/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/05dc13ec46f9d04de793/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/50714deed5bc87d652a9/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/0eaf3868a00f9ec24d40/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cc2959bd339b21fb618/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/18095319f85dbff861b1/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e96a3a12c47ec0b6ced/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/1cb9ccca60c1f802ebdd/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/0fe5fb59084ec20e8833/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/c77ad6d8aa0c52b6aa0d/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/d79a26f044abeaf1639e/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/e74ab538d481c46b43ee/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e6842883055bfcf43a8/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/77d4dc43a57aadffefd5/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cdd17d5c008bde87492/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/da794da9045dbe63003a/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a9fcc792f7d53b7bec9/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/47a1f50a983f68863e22/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c075652d840600bdad8/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/2779770e75ba31090230/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d160b1505685ae08fd1/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/d988fb751512dc0cf2f8/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f5a2641450d5d8aadc8/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/715938bf20ce6973254e/large)
-- [Photo 63](https://d1ljvnrgb7j023.cloudfront.net/files/1/73b580a6305c6cab3523/large)
-- [Photo 64](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb3aa332b56f051929aa/large)
-- [Photo 65](https://d1ljvnrgb7j023.cloudfront.net/files/1/d12397226746732ef886/large)
-
----
-
-## Lot 10018 — 2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis...
-
-- OrbitBid item number: 1-10018
-- Internal ID: 1761157
-- Current bid: $100
-- Bid count: 0
-- Photo count: 49
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2006
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9GH06N400895
-- Type: Sleeper Semi Truck
-- Odometer Reading: 797174
-- Titled Status: Clear
-- General Description: tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmission, model FRO-16210C, Volvo VE D12, 465 HP diesel engine, 50,351 lb. GVWR, 12,350 lb. front axle, 19,000 lb. rear axles, power passenger window, heated mirrors, traction control, DIF lock, air suspension, air 5th wheel slide, Panasonic aftermarket CD player with aux., cracks in front dash, check engine light is on, light control module, 11R225 rear and front tires and aluminum rims, dual aluminum fuel tank, single stack, air ride, air seat, rust on bottom side of driver's door, cracks and scratches on front bumper. Unit #211
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a13455005068357cb5af/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4746d6e63a1fe6d6b9a/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce2b42ac30c558c0b464/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a999450c79b9098e78c4/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/25f69d80ccc9daf92ac5/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b1f2be0bf5091e36dba/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7602c6ea72310e197dc5/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c30038f8b1c119bae74e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/abfb1d3dccf056438e6b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/196453a0820f71b1d0e7/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/81887592886f48410c75/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6c5e216ef2737bdd67e/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9573bde8101bf773977f/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/df8272ae688a10648f40/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfc64f09ac6c7b39ac72/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/09bfe44753c20a29dc89/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddd6fb912dc92affec8e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8061a04bee4bd206a06/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/254c108e3ad4e384e1a6/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/c14ef28ef6b3fa6555e2/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/78dea3aa09a4e89375be/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b00800b422d41170f63c/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e31e6241bf8201995a8/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d01f8abcc2fa33508cb/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/27730b759bb568aabed0/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/418ccfecf373a190547f/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f3ce69685655c49c644/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdc4d74580bc2783d8a3/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd2d90218797e38e38f5/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/0723d82a179b2047307b/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/04f6092c5b9bdac2603d/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/f74c547bd5be2d9792d4/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff2ed63a584cce362189/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/9224d54631f3463e5307/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c4254c52295d178a661/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/795f05881db1d156ec83/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/10ee0a1a2ea0ae7b8e1f/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/10e0de42220f89b1581c/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/be44dbd8ce08a391b0ac/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1ba4d4fc05203a06cf0/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fa6c11163f63b6f47a5/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/7280b65faaa72008893a/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/59dcddfa759095a2a363/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c0c075fa3b005ae7629/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ff79e670c72a4a388ff/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/119229c9ba01c5603886/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0d54248adb4988e3106/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/72f11729f220e806a67d/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/69de4a69ee224073c0d5/large)
-
----
-
-## Lot 10019 — 2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummi...
-
-- OrbitBid item number: 1-10019
-- Internal ID: 1761158
-- Current bid: $100
-- Bid count: 0
-- Photo count: 62
-- End time: 1791324000
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2009
-- Make: Volvo
-- Model: VNL
-- VIN: 4V4NC9TGX9N268682
-- Type: Sleeper Semi Truck
-- Odometer Reading: 864876
-- Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummins ISX, 400 HP diesel engine, 50,351 lb. GVWR, 12,350 lb. front axle, 19,000 lb. each rear axle, power passenger window, dual heated power mirrors, CD player, traction control, air ride, air 5th wheel slide, suspension dump, DIF lock, cruise control, 29575R225 rear tires with all aluminum rims, dual aluminum fuel tanks, single stack, cracks in hood on driver's side, rust on passenger door, rust on rear wind jam. Unit #216
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3bebdb02fdef8eb491b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/af092afc14a9e9cc564d/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0848696d73847a55c88/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/581bf89de8da7353ed87/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/02e39941257fda6d482e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/668f0b148e2ee40c8c7e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/63a853163eafcc535fa8/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/692be76c935826fcb614/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2e9b4d084d46abc7a70/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/29fa375890a3dfa6146f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb1555121438d69efb62/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/7473bfac289d12ee139d/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2e21e014f5baff370a5/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/38b35759aba102ac240a/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/cad845fee1d424f18edb/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/387bdb451340db41e188/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/578f3ef7294e3c99eb01/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/1624e34accf27bf7f960/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a31349257e1f02399e0/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf5a8f7691e6681f7fdc/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdf70eb4e4332a9b5f10/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/02987e3457b27f424226/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ff3730ba6491068cfaa/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/67dc93e564bcb3a5fcb8/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/c695445d705bd19fc2a8/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1f48853e0a6865383f4/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/15a98a32b04fc79f9cb7/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/710dfb6756232cc4f4c2/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a2b2c30cd1e3be1e273/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/47f85ca2fd5229d79cb0/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/a843eb26813bd83b1f2f/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ea4f198fb86d2f2b81b/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/0fef56104c032c0b0a16/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff11be85bcba2de0be38/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd7427868099c7e3cbbb/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2ea34f8cf8b127d7082/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6346f04fec7dabbbeb9/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ed2c6df628eda938e1f/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef93fb992cdb271aac20/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5903f47783e11401851/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bf03ad05b05a0642f8b/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4d97182c9f227239d72/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe129adcc0ad10b3a51c/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf39ba43cd7adfc15df7/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/a13457b860b8d94946f4/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc8946168aa34e33ce61/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b49dd38b159a8b502b3/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/952b5981ae302f2dd1b9/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/984a0fcd37bf609ad9dd/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf60df42364feed15e7d/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d4c1f2f2b4484fbb2d2/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/c15b70df534f4713dc0e/large)
-- [Photo 53](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ab5f97585ffcf3566f8/large)
-- [Photo 54](https://d1ljvnrgb7j023.cloudfront.net/files/1/b76e57565baf7132c383/large)
-- [Photo 55](https://d1ljvnrgb7j023.cloudfront.net/files/1/38cacfa2731fbd87ab1a/large)
-- [Photo 56](https://d1ljvnrgb7j023.cloudfront.net/files/1/b414080a3f2d069032ee/large)
-- [Photo 57](https://d1ljvnrgb7j023.cloudfront.net/files/1/25e74e20ff550b91e221/large)
-- [Photo 58](https://d1ljvnrgb7j023.cloudfront.net/files/1/58da2fa92456a368c02a/large)
-- [Photo 59](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f918f43e47bfa6f011a/large)
-- [Photo 60](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e7b5f910f90aae3c1e2/large)
-- [Photo 61](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc6fcedf5c03fea2306d/large)
-- [Photo 62](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ab08a905dd79396a34a/large)
-
----
-
-## Lot 10020 — (1) 2011 New Holland L223, rubber tire skid steer, 716 hours showing, enclosed cab, A/C, heat, Siriu...
-
-- OrbitBid item number: 1-10020
-- Internal ID: 1761159
-- Current bid: $100
-- Bid count: 0
-- Photo count: 33
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) 2011 New Holland L223, rubber tire skid steer, 716 hours showing, enclosed cab, A/C, heat, Sirius Satellite radio, foot pedal/joystick controls, 2-speed, includes 72" general purpose bucket, 12-16.5 NHS tires and rims, 4-cylinder, turbo charge diesel engine, PIN #JAF0L223PBM434907, push button start. DELAYED REMOVAL, please contact auction manager for removal time.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1068c5c7b079e22c1ef4/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1bc9e77881d23b62ae2/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/49422a7be8a6a26cc4f1/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d63a641eb85d61dc87c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8be34e98082bd9a6161f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3382fb793595c21f9fb/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbe19419ead76d130e72/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f34151238e28f8091410/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/18f1f2e60eeb2c0002b2/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f71df3b3038be548ac32/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/6afd02eaf533f8fcbab2/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/823e5689a7b2177d0abb/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d130b16a513f1c473fa2/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7014939b89befe4e01a/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/343c0092cb54ca6eb6a7/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/21a97fbba672c8176065/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfe38314fe580e9800a2/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b889020cc0908122fa1e/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/022aa616a4cbc6ca9390/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/246f4d522c6371aa9e86/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/01c63f58f692fe397f5a/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/92e66644d73973c25b83/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/65ca0216597430251e37/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/59d764ec047240ae7ea4/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc9e0afe853d5562427c/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e7a569ec7b40ac21ac1/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/10da6d08f91f440959e2/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/cebf5dad3eff5161a06a/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/d874f4b93437a91a259d/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7c5747b741eb03a238e/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b09e3baeaa3a1dbbf2/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/b361689ededbc0c11c62/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd5e523b47f4beffb0a3/large)
-
----
-
-## Lot 10050 — 2020 Hino 268A 24' Box Truck Allison automatic transmission, power windows/locks, CD player, Air rid...
-
-- OrbitBid item number: 1-10050
-- Internal ID: 1761119
-- Current bid: $100
-- Bid count: 0
-- Photo count: 43
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: Hino
-- Model: 268A 24'
-- Type: Box Truck
-- VIN: 5PVNJ8JT3L5S59843
-- Odometer Reading: 356486
-- Titled Status: Clear
-- General Description: Allison automatic transmission, power windows/locks, CD player, Air ride seat, GVWR 25,950 lbs., front axle GAWR is 10,000 lbs., rear axle is 19,000 lbs., Morgan 24' box with Palfinger rear lift gate, rear roll up door, leaf suspension, 11R225 front and rear tires, Hino J05E-TP diesel engine. Unit #1720
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f4da4b67e51d5df43c5/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9889387d4fff9b517ff0/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ae191e74560a447441d/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7345a7afad70a33d569/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/99dc29977fbc0750e8b8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea4b101f357670673c49/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d3078d3a18728ef3d4d/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/42870338e46dd7d83564/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1870b6f923e2e778b3a3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a78842c8c334da2171f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c490f034dcdf43a9738f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e74cf0c0ab513419156/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/b05865fa679dd08f890a/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/b62ff21a2441898ecb47/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/003c5b17e446b16332f4/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/9246ba0e2071dc428551/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/32a3a3987c10616a8c03/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/967845f5cfff1a98c1d8/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ca7e9bc69606f50e745/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/85ae4ed0f2728f64c404/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/741491998b54624f47d6/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbcd96cc1512162f7851/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/f813acaa02a9ef825bd8/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/9934ba98e0079d53a1a0/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/673909d8ede7e2ba74ae/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee489658ba42ed6b2d56/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fec8ee9535e41cda52e/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dc8d3a9f43046e05437/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/50b6cc653a87f9862e96/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/c11de5d8dd60df22c833/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/53ace963e3ec5e5692b1/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/92a4d2a42c4564c0fe23/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/d298052b99265077f7d8/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e15bf8b31135a1c4444/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7a2f3a177ad67b87a4c/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc1181c56d2872434d9e/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/c88b0cb85d6d53aed0fb/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe0c19287f0efd851964/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/e221261a6fda323a92a5/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c8b89efdc593ca4c624/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae21a679717b6ce446b3/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/19ab1f9679592c242824/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/8aff9b5c8bfcd66abad0/large)
-
----
-
-## Lot 10051 — 2007 International 4300SBA4X2 24' Box Truck Allison International DT466E transmission, 25,999 lb. GV...
-
-- OrbitBid item number: 1-10051
-- Internal ID: 1761120
-- Current bid: $100
-- Bid count: 0
-- Photo count: 43
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2007
-- Make: International
-- Model: 4300SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMAAM37H561563
-- Odometer Reading: approx. 949,773
-- Titled Status: Clear
-- General Description: Allison International DT466E transmission, 25,999 lb. GVWR, Morgan, model GVSD09724FT, box body, spring suspension, rear roll up door, 27580R225 rear tires, light rust on rockers, cracks on hood, engine light is on, ABS light on, paint fading and chipping. Unit #9107
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c23dddf009c223015151/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/38614f789f69b590cd01/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/678fbb7f4a3a1c568be3/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ada5aac26fecd3765d26/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f34da042929b8db320/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d03a5d9f0c5483ab439b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5760093ec293c2fd8598/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ced7a0f3189393bdd6e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f487f39e7eb0ab866810/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9aedf9400495e64b78cc/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a7b215552b0c4d261f3/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/54d192ce8c2d0cdd3561/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d26e2f3bf6dfbce3b29/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/462e2245e84b665aa950/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bf6cccbbe2c1c13ecc8/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/223df69abfceb0d085a6/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbd18eefd7d95f416696/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/84fb7deacafc0f02c582/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4a1c3f0bb7794945209/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/7afc253acd4803340779/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/51c71ba38730ebb2723b/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/a00bec5164132d5ab8c5/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d4b4d1c4a7cf5b160fd/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bd42b680a951efd402b/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5dbb7f535c65251a87d/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/54d176a41bf94083bf71/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/df55a1c19184c794ea46/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/093349629afc281b73ca/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/a824fa948ff8976495b2/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/7557d0814ef51a4fcc93/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/5911cda43007f587fd6a/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/f44f3a9ba10363fd0a66/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/61510237e90db6241798/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/344879bc5259fec5480c/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d657506aa2e6de55ca9/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/56b94eeb36d2152d7d7d/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/9756abb9b33f7116cf03/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fc3323d1c7c1cc64af8/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/af908523e8375ab0605d/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/e39ebc1d7fd42a3523ec/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/848259eb586133739a5d/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/858e7b9467527d8b7906/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fadd744e0a4de46cb9a/large)
-
----
-
-## Lot 10052 — 2014 Chevrolet 16' Box Truck Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/...
-
-- OrbitBid item number: 1-10052
-- Internal ID: 1761121
-- Current bid: $100
-- Bid count: 0
-- Photo count: 39
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2014
-- Make: Chevrolet
-- Model: 16'
-- Type: Box Truck
-- VIN: 1GB3G4BG8E1158232
-- Odometer Reading: 108310
-- Titled Status: Clear
-- General Description: Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/FM, manual windows and locks, Goodall, Start-All 12V, model 601, with a 9 HP Subaru gas engine, includes a Speedair cast iron series, 12 HP Kohler gas engine, air compressor with air and oil hose reel, includes a 72" mounted steel work bench, and 6" Central Forge bench vise, GVWR 12,300 lb., front axle is 4300 lbs., rear axle is 8600 lbs. 22575R16 tires and rims, small scratches. Unit #ST45
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c950e41f65296940547/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d266b8a1e73c3d85c5ec/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1992e56eddbbee41cf59/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/efcacb517392a3243a02/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4252ead0795aee69e1e8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b61f9c022640f3d71ab5/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/68d0f7be8584d8c088a8/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f0fe8992f0d98db1d0d/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fc28753824a3086c2f5/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/63d608f46aea9be7d91c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c2821339fa5b6caef57/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/1454e13f41e9bd0017a7/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f76c4b516cfae1e9702/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/2af1975eda6c886a94da/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa226bab14acc98f8957/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c894c85433296ec5028/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/525b3d9e33d10131c197/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cc1734bfef10b98799a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d3d8779a5ca085f48c5/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/b71bd146e65c012e72f3/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/609638061676fa9263ca/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d05e9028f7d101f3cc74/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b3ed6914adb686a64c4/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/386bd1195a2ee57de3e8/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f9874e47be6c227f58c/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/55d157f2c8c8dfd10bad/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/c31a7d6c2bf55246452a/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/188e4efe42ad9d431aff/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/855d530d67c1c9639f65/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/2592f28d4a32bd7d295e/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/91583019d08dd22816a7/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/6915cea99dfb604c6774/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/432150f55ffc55b12103/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/2353d6c4c01e0c676a54/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f0615dbcca9e26ce6fb/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d2d22df1e899682bac9/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c82e6e62ec796b600c2/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5f20d217c0eb3f9239a/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2e6db0459c86efb88b6/large)
-
----
-
-## Lot 10053 — 2020 Hino 195-20 12' Box Truck with lift gate, Seiki Toyota automatic transmission, Hino J05E-TP die...
-
-- OrbitBid item number: 1-10053
-- Internal ID: 1761122
-- Current bid: $100
-- Bid count: 0
-- Photo count: 35
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: Hino
-- Model: 195-20 12'
-- Type: Box Truck
-- VIN: JHHRDM2H0LK010345
-- Odometer Reading: 79843
-- Titled Status: Clear
-- General Description: with lift gate, Seiki Toyota automatic transmission, Hino J05E-TP diesel engine, roll door, 3-passenger, GVWR 19,500 lbs., front axle 7,270 lbs., rear axle 13,660 lbs., US Truck Body box, S/N 2006-08916, 22570R195 front and rear tires, cab over, power windows, mirror and locks. Unit #1920
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/31bdf683a490991e5563/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eebf50fad1be7a7e57a2/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1557c9cd776886f40607/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5d5f8e27437f40bdf88/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a623fd3bd5c4b72f235/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c33a0499e3a233e8a99/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f9dd899802ccb3b0b78/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6953dac2642fec81e80d/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e8dfb1a6d8efdb3862d/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f125c80213dec3ed0951/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/6819f0d3277c24d0befc/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/86d6f0f3f11eb8cdce29/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/70051e8b9986856f01ae/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/171f478bd23b2cc46b53/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/e74770308375544f74cc/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/26596829b35290d4d7f1/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/57c75e8bd7cb4cffd266/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/128408b881c54558571e/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/f64baf97b8a83b20c391/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f35c715341b4c5e74a6/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/05a03ff0e9386446a5f5/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd5156cf090484b79f6b/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb3a921c8635ea857b60/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/75a7bc337d60bfbd91c9/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/50b61c6b05b005965d08/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a9b0a3b15b07ca4f8ff/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/628b84c322a413c1d4b6/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/e00bdf88bc2149e7373d/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ce17af1273fe201ad28/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/34a628191eae454f6b2b/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b816d5f0b40e5542101/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/146436e64b42b6e0ce23/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/9102ffaa25132bfabe2f/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/0920a455add5fe8caebc/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/448bfb783b226856f0e3/large)
-
----
-
-## Lot 10054 — 2008 Freightliner M2106 24' Box Truck Allison 2000 automatic transmission, Cummins ISB diesel motor,...
-
-- OrbitBid item number: 1-10054
-- Internal ID: 1761123
-- Current bid: $100
-- Bid count: 0
-- Photo count: 45
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2008
-- Make: Freightliner
-- Model: M2106 24'
-- Type: Box Truck
-- VIN: 1FVACWDT78DZ96103
-- Odometer Reading: 479971
-- Titled Status: Clear
-- General Description: Allison 2000 automatic transmission, Cummins ISB diesel motor, 26,000 lb. GVWR, front axle is 10,000 lbs., rear axle is 20,000 lbs., Morgan, model GV008724086, box body, leaf suspension, 29575R225 front and rear tires, tear in driver's seat, missing plastic cover over steering column, rust on cab, various scratches and dings on hood, rust bubbles on passenger door. Unit #9608
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ad7427916dd94fe7272/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d39b1ca9f55f4f4c924/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/49baf6232ca3ee2acc8e/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffc4788ea26cdac12a54/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddb38d925a61ed2a0709/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/664bbd2e0458fc1617d8/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/03fa52722ff0f82a5d69/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe1b8516e32b7823dd23/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f12e08101d760daf106/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/65bae914c6d6f6407d5c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f79c90b03141dc11f08/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f05ac3be0be74322f16b/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/2508bb85a98da7e465de/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/92af82d1020503407fa7/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd06601b9445e6684fd3/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b3c2b268c5c0441db48/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1fefc4fd3e55dca18b7/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e620e568403ddd40575/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/499405d6f1b8cca738e2/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/509e86d8b3d3300fb9f0/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/0afbd445d95f117974a4/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8b9a03e1413bfa85dfc/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/1784e22a80e6ce1b29e6/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/de9bf861124736f7f115/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/77fee3cc8b1dbceaddc0/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ee6583c40f73c75cc35/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b18ff29a86d805837a4/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/45a2d8e4a1d9e11a4557/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a45541cd70411e4fc38/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/39aeac88b7c8c2728dc5/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/f087e7e7414ceabb8e39/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/7858e70711eb4e2de970/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d879721f6b1ab7f9eb9/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/beec7787be423057d573/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/20a4e078f2cd60ee0ff5/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/af1e44565d1e3a7b4919/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec4c0d1dff34c64a6867/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3ebd2493ecaab368f85/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ff056716a6d36214aea/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/28bbed140d852be24d51/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dd32bed03b92172da7d/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c8db1056d028f538326/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/e272e3f844f2a1bce567/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/362c6d7c2c2d07bfe0ab/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/874d10cb3a0aa00962eb/large)
-
----
-
-## Lot 10056 — 2006 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International DT466E di...
-
-- OrbitBid item number: 1-10056
-- Internal ID: 1761125
-- Current bid: $100
-- Bid count: 0
-- Photo count: 47
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2006
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMAAL16H33A251
-- Odometer Reading: 550306
-- Titled Status: Clear
-- General Description: Allison automatic transmission, International DT466E diesel engine, rear roll door, 25,599 lb. GVWR, 11R225 front and rear tires, air ride seat, leaf suspension, US truck body box, 50-gallon dual aluminum fuel tanks, chip in windshield, crack in fiberglass hood, grill is lose, paint chipping on hood. Unit #8906
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd15eb5ff4285fe97def/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/da6b99f462e852192b14/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e16cf65647b14d6878a2/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5487da5529734729f931/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c034adda53286e7ea77e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b27775721beff52df8b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7a223d017c22d5b8d74/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0cd4abd0e1b7a6a99cc7/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c666371fb90ae6ec11f2/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/54cb4943ab50d7c6054e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/2447736f7a426fa41387/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0c8fee945dcd8aaaad5/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/de60c9b6f1bd169b0a1f/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd375f9b84ae847b4f2e/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b26d91e1b582cb24ce0/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/fecb89579b1a380cb184/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd88766ba34418a2f652/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5ef0ab1076acb870777/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4000ff5373a4bf5a272/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5174c42ed18a00d48c26/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/359076f2f4cf5bce91ad/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/98fd7a2e565db844c81a/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd3296570f028b8bfede/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/5729d27020364a9adcc9/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1f75a799023fc5d5882/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/20f18da91640525cff1f/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/a98388b32b5b0fda3ab5/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/95a6a49e3957fbe06167/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/62784b8a619801519cd2/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/33f44990546b82a3bc8e/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/70f45e460f588b03bc79/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/3729568432f2f67a74db/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/8977a9a05fd8f97f953e/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/a523859cbb2d9f137fdc/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f258c6490f22b58ca53/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/51400dc5d08a5acff3c5/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b8091e0cb7ee6c760e5/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/59cd6154275fc6c96e00/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d1306686fa13b0ebd83/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b7525db3e1d114f1829/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/d320626dd8ab86c71f6f/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f61f5546c613cdd7482/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/8764bceca03c8873e4df/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c8d8f7de381da4695b5/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/50bbdb0eb9734887529f/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/842da4a241f7aeef654e/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/25e0f9eb6a8f43a9d15b/large)
-
----
-
-## Lot 10058 — 2006 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International DT466 E d...
-
-- OrbitBid item number: 1-10058
-- Internal ID: 1761127
-- Current bid: $100
-- Bid count: 0
-- Photo count: 43
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2006
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMAAL36H338249
-- Odometer Reading: 780210
-- Titled Status: Clear
-- General Description: Allison automatic transmission, International DT466 E diesel engine, 25,500 lb. GVWR, front axle is 8,000 lbs., rear axle is 17,000 lbs. US Truck body 24' box, roll up door, manual windows and locks, AM/FM/Cassette, dual aluminum fuel tanks, 11R225 front and rear tires, rust on doors, small scratches on hood, cracked grill pieces, crack by passenger side tire. Unit #8806
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca3016c31e146e769317/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5f79a145466d7bd6d23/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/01b7e6caa027c6af8afd/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/03e76377a689e9506439/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b5516fe2e8fe1759e18/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0533c599bbcee11151aa/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/789803c8108580c1f8ef/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/93eef2c007393a6c18ac/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6d9fa6b8581c76497be/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5b1c14e9ef412cd700b/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/74044efbb3c00d83e52e/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/43c2129909bebfdcfa61/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/32889137807560182547/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e6d4c0a96e675c33b22/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca90013b82a3c8bd20b0/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/921d561e3f6464bb2ea3/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/6418396b25ea509d3c53/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a690a7629eaa570cd33/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7f10c1c5260a47c93e8/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/f41cc86a8d8d2e9dfded/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce14464fcb6451555b5c/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/e868d5276438845a15a4/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/606c173c5f44eabd9610/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/afec2ee98440422c99f9/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd90eab989e4be9cf59a/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b1b2a272c1f76e7c598/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/791ccffedb19864a2359/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9301d4b7e3e047f8cc5/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f15f3651fbafdc6bf1a/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/796de31bece82178c52a/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/da8cffa1f371036b3c0f/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6703e1bf7250b8d7eee/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/6da74babac021426d39d/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b88526f0690a1b2d11d/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e2c14b7d33de45e697a/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/f09b9e6b5360d1caae1e/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/a42d9671b5f765d010fc/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/657763d26f1f2fd61963/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/e146f59a6dd15b5214a4/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/07d1b14f373d06438f52/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e09208d21f2782afce0/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b309d59299bd132eeec/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9f76377d39a9d5aa8f6/large)
-
----
-
-## Lot 10059 — 2016 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-WU diesel engine, 24' ...
-
-- OrbitBid item number: 1-10059
-- Internal ID: 1761128
-- Current bid: $100
-- Bid count: 0
-- Photo count: 49
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2016
-- Make: Hino
-- Model: 268A 24'
-- Type: Box Truck
-- VIN: 5PVNJ8JTXG4S56305
-- Odometer Reading: 300017
-- Titled Status: Clear
-- General Description: Allison automatic transmission, Hino, model J05E-WU diesel engine, 24' Morgan box body, model GVMD0924096, with lift gate, aftermarket CD, power windows, locks, and mirrors, cruise control, 25,950 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, 11R225 front and rear tires with aluminum rims, single aluminum fuel tank, side access box door, chip in windshield. Unit #2116
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/00dd78dbdaa15a90cc7f/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/92f527a7d2f0cfca7f1c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f85967a7e3a22f4d504/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/22d62ebff5b23a074d0e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/de2ec05b71480f0a69f7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed34a334bb6d7d4efdfb/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7183ab930c7705694a57/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/90301dcc86022e08daae/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bc3e5c969792ea5c359/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa965e5d6584353d1887/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd097e26017fa07db488/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/898615884c4817df1665/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9d5aad0b2ec2145d77/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/44398548ae09adf0e0ed/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd1d7af8be59bc515e18/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bb71c869daece30339d/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/3067a727c7e1676da7ae/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/8082259d114a82f4c88a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/acae4709d0d420d76435/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b94930d8ee9355b7096/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/844b56f676c5433021b0/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a83ec550c8156790e21/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/529e68688c873b564caa/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/227bc9460edb5bfd1115/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/82d47d09935e83ed4712/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0ebd05c5aaf09af6cf2/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/493e0315aff00e99f806/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/6549bb8a772db4dcffda/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e8421a1025bea54f14b/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/163128d789aabf23f492/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9efbed80935b5d20944/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4e19a1ca6e6edf51259/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/d33fdfd469ca36513eed/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/04b2533a7930de489907/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/4242323df02bfa3d5324/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/e622376be09512cb5190/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/0269971d80c9b209f8f0/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0ab59f5ce61dd096016/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/382f0207c04f74e10fdd/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1299d5c20c2c82acf23/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/3639a6c1f8a12dd9d2d1/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/625bfd3e0cec7adb92b3/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/b385046d9402dc6f83c2/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b6c671600287193654b/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/daa01ef70b94e3430cba/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5d85420c40d6faebb79/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/a20d14ad03b19f5883ea/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0a005d01281e6b6a351/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/7732e739010f0729e435/large)
-
----
-
-## Lot 10060 — 2020 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-TP diesel engine, rear...
-
-- OrbitBid item number: 1-10060
-- Internal ID: 1761129
-- Current bid: $100
-- Bid count: 0
-- Photo count: 46
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2020
-- Make: Hino
-- Model: 268A 24'
-- Type: Box Truck
-- VIN: 5PVNJ8JT5L5S59844
-- Odometer Reading: 201356
-- Titled Status: Clear
-- General Description: Allison automatic transmission, Hino, model J05E-TP diesel engine, rear roll door, 24' box with lift gate, power windows, and locks, CD player, 25,950 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, single fuel tank, 11R225 tires and rims. Unit #1820
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcb6d53d803a57d4720a/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97a2e561ba8fe78df9d5/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/286d6cb2182d9c75ac07/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2da0cdd2f1349bea6b2/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/69066b57f5884cf72d9e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/82d805bff5bdf8477d61/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc91e8b25a0ab0ff59d1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5fb003048a260f5b97c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7ccda5661e8c657483e/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6b0449eb6e590c4c212/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f69d79ba4b4c59c7c321/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/d689cf5624bcd479cc14/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a59a62f67ee1a6bf2eab/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/da996387d771c1ee7712/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/39d0117fd07fab8918b9/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/806248923e265f5e6f63/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/548117015e5346d68fea/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/e25b1291a4681866daa3/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/15c1301eedce2a8b765f/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/38f8e07d9ce4db1ee512/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7fcf25152309ef3a601/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5830ff70945e01d78ee/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe09d5fa5124ceb6856e/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/feab541a5e8f79444319/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/33c7825d634e6e2349df/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c64796b05000cb323cd/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/5616591d81952377c1a4/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb969d32c34fa40fdcb3/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/d13ab396a3715cc7c2eb/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c9308bc53c045cb228d/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/75e3af93232e76e48f51/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/35165e31142e23426a0b/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a77f2eaae7b4b24f985/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee8912f1260b03b0f945/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/3613e4f81c56e86540fb/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/017b3773b20f006232bc/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/33ec02718c66e70bf3c9/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ab9e547b829a7bb5866/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/33d2179d13b37383bd3d/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a98beca3d73c1177331/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/346f25f7427ab15a5632/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/7906ae570036175973bf/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/87070a0ee9bd26650eb9/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/534bbd29da1da837f7bf/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/82134d41ef84041f40c0/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e988314171b1088f0a8/large)
-
----
-
-## Lot 10061 — 2012 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Max For...
-
-- OrbitBid item number: 1-10061
-- Internal ID: 1761130
-- Current bid: $100
-- Bid count: 0
-- Photo count: 52
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2012
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMAAL4CJ549075
-- Odometer Reading: 446507
-- Titled Status: Clear
-- General Description: with lift gate, Allison automatic transmission, Max Force diesel engine, rear roll door, 25,999 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, Morgan, model GVSD10326102, box body, 11R225 tires and rims, single fuel tank, dent in front bumper. Unit #9712
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/db6b5cb51e17088414e6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e119cb37de161c9fde43/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b3c02facd265d0b70a8/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfa741543e35c2d17f84/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/62079f8c5ae4c9404b23/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8fe6aeed04e0c2f3d0e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/90e045d37ff16414f2e6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f619b017954e2154319/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e2ce4ca4bbca1a075f3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f038f50ccb8435182691/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5e090f5930047ce57aa/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/62802aa257947dd5a669/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ca11d2455fe5051120a/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/eba406ccd1288f8e72e5/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e34e978795112d8772f/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ff9f4dc4fc0f6d21785/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/884e5a3315911d39b44c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d08eea8295a7b3010c51/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/245bf32a86077dcf3f85/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d38b1c24c5536910e204/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/d77366da188bb42cf1df/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c01babaf1330b95dd78/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/e087d7988681b8a87ea3/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/485a400f9c5583b20163/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/f52c617e95eda7806941/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6d2220a3014b4b9daa7/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/d57a7836fbd673d2e12e/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/03d036bb290295f6898e/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/a504904f31082d8c674a/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/92521abd2ba93269cb5d/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/efbc1c980e3324db3758/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/bab75a9cd777220c9dba/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/133e6a8d455848b56f9e/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a1cbe0ac5e6063d927b/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/98d48d0ee3d9381f95cf/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/123f50ad472aede6d000/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/77a378a321e2e97ab82b/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd3cbd2a291c2c372998/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/38a8c238b36eb9f56fc3/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/c834048519406f2927f5/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b94d2cda2b34a9c7883/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/acc114d3983c8930d675/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb36a28ce7d790cda6dc/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe6b333330a9d80ceb02/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/a828eae74a152177bcdd/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/e75ede7a84ae5601026f/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc7c78d88b0b2cb4fbd0/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/6752a1e260821886756d/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/91fc78a6159e680351f0/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fd39c05276f32a958c7/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca6d2461b2ff3ef93590/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2220e2a6c5f28e2d35b/large)
-
----
-
-## Lot 10063 — 2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins...
-
-- OrbitBid item number: 1-10063
-- Internal ID: 1761132
-- Current bid: $100
-- Bid count: 0
-- Photo count: 48
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2018
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMMML8JH341170
-- Odometer Reading: 456780
-- Titled Status: Clear
-- General Description: with lift gate, Allison automatic transmission, Cummins ISB diesel engine, rear roll door, manual windows and locks, cruise control, 25,999 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, 254" wheel base, Morgan, model CS6009724102FT, box body, 11R225 tires and rims, single fuel tank, patch on box on driver's side, scratches on front hood, paint peeling on roof. Unit #1518
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/682a4f1466b608ea39cc/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef01cf6d2e0d2807c378/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e05caafd21de64801912/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dcfb9ee88cbc0c8a4b56/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5382db09a3efc1dc045a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/59624aa32e6af22a0731/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/59f34ab2f423bc0bc2dc/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/373b071bac69e187ae86/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f45a6e29778d0dcc1d27/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4472e8b55d38305d444e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6b98dc8f0f26285a73f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e018633d2975c3772fa/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3993897e954783acca2/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/70646fe952dbf338cc40/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/11eb6cac0bec5797e033/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/04c534fa4d1312468a40/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcd83ef88163b0e0c17c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/e90402ecdee5ba69c8d1/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/b16ab5a0c97624921f7e/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5407e8d944ccb421d67a/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/57d7bc460e1bb71bce68/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/09aa95d2281a2894ecdf/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc7db921a014d2aa0116/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dd8161a408a7e1fbde8/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/2833a360e0a960afe89e/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/f19c41ff16d417494930/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/24e142525282c6b2fbf5/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/c68e740b7f468c82e76f/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/97f4bf73ac048d914f47/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9f0b7212b98a624e8e0/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/26692772ada28a6ed970/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/79ae3d77dd696e9c35c8/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/786b66c081f31ed9d74f/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fff6a3fecc6dc46cfc8/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/6966de9ed5b144970215/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b292198d1cd12b46a74/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3b7f75bd1c9995a2cae/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ffa96f229ecf93b88f2/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/107d1ca221ff69d76ebf/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/20e1c44f07bb1cc10318/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0bb4af4bb9ff165c356/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a12d259a3dd46060df6/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/e529330d82e0b29f25b5/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7f5071d604069d8fc90/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f4d3873b1529b100e00/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f8e596c77526c8183a8/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/eac81ea398e41e341110/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3f95f5c04defc7ad549/large)
-
----
-
-## Lot 10065 — 2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins...
-
-- OrbitBid item number: 1-10065
-- Internal ID: 1761134
-- Current bid: $100
-- Bid count: 0
-- Photo count: 47
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2018
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMMMLXJH341168
-- Odometer Reading: 458535
-- Titled Status: Clear
-- General Description: with lift gate, Allison automatic transmission, Cummins ISB diesel engine, rear roll door, 25,999 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, 254" wheel base, manual windows and locks, Freightliner AM/FM radio with aux. port, cruise control, air ride seat, single fuel tank, Morgan, model GVSD09724102FT, box body, 11R225 tires and rims, rust on front bumper, box cab corners have tape on top, passenger side hood mirror is partially taped on. Unit #1318
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8d84219f1f69c17d2c7/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97646c3de4540e3d8fc8/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0305d85d6728cb878193/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/796f1d994b83da16c8dd/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc96f607b3c4d18899ee/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/be548add2d67dd2719f3/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/527cc0d85d3db836071a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce09f7336a0ca9eb8f1b/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bfb602127b9cc378d55/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c822d2c08f5bc606a19d/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d15fe0eb42830292c08/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/b57b6a7a244176d74e5d/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/162b9c504e40d6ffcfa9/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/4415328351ba0ae8e9f2/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/9089bf0356b0cd583fda/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c43f50bebdccdaf843e/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/0551b6882e5a8ae8812c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb91fc24784f535a2cb5/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c234a9f7a1d17541f1b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d2d7fbd691417429f72/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ce000061e646e24bdd1/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b12664b686af93ed17d4/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa6d966e5f3675f01d6d/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef92dfeeadaa7d002235/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/32d2218777f943c36652/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a65015945756a90fcb6/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/64a62fd73a6866b6a28d/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/10ff4cd0aaeb9eb60865/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/aebed27ce46da2bb5190/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/76019d3e705b5f22203a/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1dd2e261d47f164f8d8/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/f92ccf859011de355567/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/ece23167326cc35e3d20/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/f826a0d77cf333a995c7/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/011e8196e9c78289b095/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/208df214db6618f7191f/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/70985631a8350030526c/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7ccdac181d7bd63577c/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/887b7cfd22a5b5747ed2/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/65d4d69cbf875153bb56/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/7daf84a896dda9e1ffc2/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/8574b606cc6e78575269/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/343f805313982cc26990/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/8cf7e650831f5e618dfb/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/fee59ff10e2acd49827d/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb52698105bd1708a3b4/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c28eabd8988b68d65df/large)
-
----
-
-## Lot 10068 — 2017 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins...
-
-- OrbitBid item number: 1-10068
-- Internal ID: 1761137
-- Current bid: $100
-- Bid count: 0
-- Photo count: 52
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2017
-- Make: International
-- Model: 4300 SBA4X2 24'
-- Type: Box Truck
-- VIN: 1HTMMMML9HH463398
-- Odometer Reading: 429995
-- Titled Status: Clear
-- General Description: with lift gate, Allison automatic transmission, Cummins ISB diesel engine, 25,999 lb. GVWR, 10,000 lb. front axle, 19,000 lb. rear axle, 254" wheel base, manual windows and locks, AM/FM radio with aux. port, cruise control, single fuel tank, 11R225 tires and rims, Morgan, GVSD09724102F2, box body, scratches on driver side box, scratches on fiberglass hood on driver's side, crack by headlight and hood. Unit #1017
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5208cf2209abef778eae/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c887f61058e428afe11f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1820684931c1c1ffebfc/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/23aec9574f951c96d139/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/17b7e2146c5ffafd3e4a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6b67b74d3221aa69dc5/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c69f2a4688618c6a0ba0/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/211b47d43b05606d65c3/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f5fd67765a527ea44ea/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9d44097aeb900ed620d/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/68ed3866b17e1847993c/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5dfdf266a3a6d810a159/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/47ad4e98c037a7148217/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3e52b496e9a4d7abc83/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/db17544e168878cdafc4/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/16081652033a26360fb6/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/67300d2a6f272f2cdd9c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/14083ed15b9ba0b7826d/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/df75e72a4dadf0cbdac0/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3eab7767c17b5b5dfa3/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d0108dd2be133d6aded/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/489e14a25ed2330df2ee/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ec62795d149de93384b/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/1afb460e526baffa5f13/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/c19aac9ac98ce28b2ad4/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/ccfb473a0f9cf6cf81f9/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/72e5e5ea83d15ac37332/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8eb7ee7979ce4f56e96/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/669b8a00a4de9f58a314/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/6896ba31af08e2d7e521/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/395f24b95f8534ca9290/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/0804543b023511cbce92/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/82315e2b27e4cf7e1090/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/82544f66975cb913b86e/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f68e80c1fc634e3f6d4/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/97c32172bb8ee3023bd8/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb41fae1858d4e2d7d12/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/df261f635223ef3933ee/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/23cced3bfcb7310dc15b/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a70cba7c74338a83d63/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/87e23a2339959ab04fe0/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c262a8e89df7aa182b9/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f4c2ee986c1b34a824d/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/d675e6a3e6f8d56d5410/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4b074910656d2cc184c/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/233ceb6d01c5ca2a95c4/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc2eed69d80f29023d9c/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7bea31055961794b453/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/faaf231c4236287e49f9/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/5daba9b2af6574e10132/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/968816b799e411787fdf/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/f206d7ff01f371a7ad48/large)
-
----
-
-## Lot 10069 — 2001 International 4900 4X2 24' Box Truck 15,778 hours, 6-speed transmission, DT466E diesel engine, ...
-
-- OrbitBid item number: 1-10069
-- Internal ID: 1761138
-- Current bid: $100
-- Bid count: 0
-- Photo count: 44
-- End time: 1791325800
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2001
-- Make: International
-- Model: 4900 4X2 24'
-- Type: Box Truck
-- VIN: 1HTSDAAM41H309769
-- Odometer Reading: 367473
-- Titled Status: Clear
-- General Description: 15,778 hours, 6-speed transmission, DT466E diesel engine, 25,500 lb. GVWR, side access door, dual fuel tanks, crack on wheel well on driver's side, crack in front of grill, damage and tape to cab corners, cracked headlight. Unit #148
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/999f2b60b4a017e839e0/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/63389b9d5c3c1c65ba4e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/379f69b064018c23a707/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8ca47082e4e1e981d2b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdb7cb8526c2b1cf916d/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cce3f32bc2e80bc238fa/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4eeaa9b9d9e9810965f/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/249f1af87bff5bd67c1c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/500ae148dbe8527f3969/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a64f5c35f0d91d1f9aa/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bad0f57858a6e6808b7/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/da6e2cf6f8dd2c3afe6f/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ad380f2f8b7090a0905/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/6064bc65c6a8dace5211/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/744820d8d8e32358480e/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/1347159ae648345aec45/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/38bd3b47cf5ce0f15458/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/48e8461e79f85e8b47d6/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/49190db792469c5640e4/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e13224659d3bfd6e47a/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/efbbb01de8e96df6b671/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a49ff628e7cfdebc11b/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/8678be31bd193b3f1fb5/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb6593fd738ba10ef71b/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff6c5ca331fbce9dde53/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/abe5c3343ec4ecb22998/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0b2ca9c06729584bf55/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2e3f0fc645b44246220/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/22fc248e3197ba88f2a6/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/42cc64f3485ddb88c03b/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8220ab63732869618b3/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/e44ac6e4544fb72e1b07/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ae75a1eb633cac817f1/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6f858f946e14575b342/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a9a48071aec32427e93/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/504ba30ba6bd3ae199dc/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd73f661523ee0414828/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/12a12eab6bfbc6573ead/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/87594eb4eca2cd9842a6/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae353791698cbb921a84/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a2312c4d5fd9d91e724/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4b6d713f253c7529382/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f15b7fc61ca408a2c49/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc33b9df95d904ac6096/large)
-
----
-
-## Lot 13276 — Tandem Axle Dump Trailer 14' x approx. 84" wide, rear swing doors, 23580R16 tires and rims, 2 5/16" ...
-
-- OrbitBid item number: 1-13276
-- Internal ID: 1810605
-- Current bid: $100
-- Bid count: 0
-- Photo count: 18
-- End time: 1791325800
-
-**Fields:**
-
-- Model: Tandem Axle Dump Trailer
-- General Description: 14' x approx. 84" wide, rear swing doors, 23580R16 tires and rims, 2 5/16" ball, manual landing gear, Pro Mariner Sport 12 heavy duty, dual bank onboard marine battery charger, outside push button controls, Diamond Plate tool box, no visible ID tag, said to be in working condition, some rust and holes.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/41ee35d1946b44457b1a/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97effad8d9b2d90f06d2/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bb549eca134f7006b43/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/25589d087dc962919d35/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/92ab8fadab9ab41df485/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/21b2999f77e273da87a7/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/565ea38c68d286f74b55/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/01e9554060810e30eb5c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b9452b59ec87f7b3e66/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a610fe7a2dd424e108a3/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/aaac5191bcfc3e7bee1a/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/455a3df85fd0e98531cf/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/48b071e78498f49d3a86/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/126d328f17254bde8914/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfcb440d74f86e925a9c/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/45eacf8a78c980254166/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d43e1738d3d58dffcb8f/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/463f322f542397649832/large)
-
----
-
-## Lot 13277 — 20' Enclosed Tandem Axle Trailer 2 5/16" ball, manual landing gear, rear fold down door, side access...
-
-- OrbitBid item number: 1-13277
-- Internal ID: 1810606
-- Current bid: $100
-- Bid count: 0
-- Photo count: 18
-- End time: 1791325800
-
-**Fields:**
-
-- Model: 20' Enclosed Tandem Axle Trailer
-- General Description: 2 5/16" ball, manual landing gear, rear fold down door, side access door, rear door does not have springs, side access door is bolted shut, trim pieces missing on front of trailer, no visible ID tag, 22575R15 tires and rims.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a263db1a92e5a261d9aa/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fa021da1d1a18f46b39/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1c8f89b55f91b0a96b4/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f226e05dacc66aaaa87/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/987aab253190fba6207f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc0d46a3e0de567142d6/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f7764e4cb448b7acf19/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f80a5eaa41e41e89f079/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9354390a09604824f7c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/df3cc1d3338d00b45ff3/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c03bc5771c1db27dd69/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7ef2dfe97263ce1c7dc/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a47a43154d61cb79fbcf/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/00b05891377360b54d4d/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a53e77e1ddd87467ea0/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d0d261821b02ad25304/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/90f14685a115eccf7c57/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/69dd2e9685f8cece6176/large)
-
----
-
-## Lot 13278 — Ace Tandem Axle 20' Enclosed Trailer 2 5/16" ball, manual landing gear, rear fold down door, side ac...
-
-- OrbitBid item number: 1-13278
-- Internal ID: 1810607
-- Current bid: $100
-- Bid count: 0
-- Photo count: 21
-- End time: 1791325800
-
-**Fields:**
-
-- Make: Ace
-- Model: Tandem Axle 20' Enclosed Trailer
-- General Description: 2 5/16" ball, manual landing gear, rear fold down door, side access door, wood deck, V-nose, 20575R15 tires and rims, 2 tires are flat, some damage to side of trailer, no visible ID tag, does not include inside contents, trailer only.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/204daf07644af95f7d59/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab38b49d050208bdb7c8/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d54bdbb8f0ce25b8b910/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6250a3e60e562b09564f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/945f55457af50a656302/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2974a1c98aa9771f2b0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/af8c3bf818f5e8f127a3/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a6731e82d46b37e0da1/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa3a9eb868db83ebeea3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4387eb925f82fa64630f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a71e8204c1ed6577395a/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/76629b86590a1099d5e5/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd7df5b2094ee441c185/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7a4c27ec18fe6415ed2/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/90da44c36fda2efa6d58/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/533f5b254902b004221c/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d37673f95170b50bd6ae/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0413670eee47d952d1a/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c589909a43fe66121af/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/281ef45e0561262ce391/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9bfcf40cd4e3cc93957/large)
-
----
-
-## Lot 13284 — (1) Bobcat MT55 tracked mini skid steer, 1633 hours showing (subject to change), S/N 538711747, Kubo...
-
-- OrbitBid item number: 1-13284
-- Internal ID: 1810613
-- Current bid: $100
-- Bid count: 0
-- Photo count: 14
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) Bobcat MT55 tracked mini skid steer, 1633 hours showing (subject to change), S/N 538711747, Kubota 3-cylinder diesel.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1616715790797abfcd2e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/12c92516dc12e571c784/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdbb93818400f4e49c2e/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/78d479b31fe68ce0d69f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc92923af13ad538c570/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e83a5961b4a075e5a47/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e19a007b2d56db328e6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef91415b2ac8e5480c8e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b9763b8109330bb3d2f/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c281091362b2e16ad3b9/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/734a077aaa5df818d3c3/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f41f390b71134a15a6e7/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa6ffe6595d5c7789139/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/73aecbfb034891148a99/large)
-
----
-
-## Lot 13286 — (1) Kubota tractor, 714 hours showing, rear wheel drive, Curtis cover (is ripped), includes Kubota B...
-
-- OrbitBid item number: 1-13286
-- Internal ID: 1810615
-- Current bid: $100
-- Bid count: 0
-- Photo count: 22
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) Kubota tractor, 714 hours showing, rear wheel drive, Curtis cover (is ripped), includes Kubota B2781A, 48" snow blower attachment, 540 PTO, 3 pt. with Kubota ROPS canopy, 12-16.5NHS rear tires, 23x8.50 front tires, Kubota diesel, condition unknown.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3307644b5a842d927bcb/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c02f3700aaca893f1e3/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d57dbf016798b02d8bd/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ca96da53fb0db90f657/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c04c34eb207c49c1cbb5/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d61222fa2056fc56efb/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ead38463e3ad77ddb10/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/45220cd06f10fda425c8/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fab2362ff1204b44b9b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce48da6d4be4dbab8856/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9a7933e8024428ebec8/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0a9c8dc849b5b4174dd/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a1ae858e983696e1faa/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/136cf8e59a731bf7d636/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab3492b9597d616dbf12/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce0e23000ad8a8842e68/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff3501412b5047db5d71/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1559ec1d8bdcff7c772/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/66d8207ce2f7d616ee54/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc6d979149e1bb7b514e/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/a806f737b50e71848971/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/eee42f19a46e441e7168/large)
-
----
-
-## Lot 13289 — (1) Scag V-ride, walk-behind mower, 52" deck, 1874 hours showing, runs, but does not currently able ...
-
-- OrbitBid item number: 1-13289
-- Internal ID: 1810618
+- OrbitBid item number: 1-18122
+- Internal ID: 1705122
 - Current bid: $5
 - Bid count: 0
 - Photo count: 8
-- End time: 1791327600
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Scag V-ride, walk-behind mower, 52" deck, 1874 hours showing, runs, but does not currently able to move, missing filter cover, Kawasaki FX730 V-23.5 HP gas engine.
+- General Description: (1) 22" width x 34" height x 30" depth steel tool box with assorted hand tools, includes adjustable crescent wrenches, Allen wrenches, combination wrenches, sockets, ratchets, breaker bars, and miscellaneous other tools, (1) 30" length x 30" height x 16" depth, 2-tier steel cart with a milk crate of assorted hand tools, including vise grips, hammers, ratchets, and misc. other tools, and (1) small tool caddy seat with metal base.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b23fe183b2b99874b187/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/37efe781fedad5a7b5cd/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e27b7206fb9a9e6d4e79/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/704cfb875a9d22251700/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5544e6f15149534227c/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/760d37eaa750f91c5388/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a58d0fe32752a5cddb5/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f80d7be33960dda82fc/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/92f2f49ae39079b5871f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dfc6769eb04149ee39e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a8f98bba37584f0d3eb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/61be7c7bd2f2fa239e83/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/abe8abd04e0ebb938af0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f16f5339c3aaa42702b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a14a1f94a130a492a89/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd6b8b7ac2bd44c61b27/large)
 
 ---
 
-## Lot 13290 — (1) Scag V-ride, walk-behind mower, 52" deck, 515 hours showing, Kawasaki FX730 V-23.5 HP gas engine...
+## Lot 18123 — (1) Miller, model AED-200LE, constant current AC/DC arc welder/generator, S/N JH202466 (120/240V-5 K...
 
-- OrbitBid item number: 1-13290
-- Internal ID: 1810619
-- Current bid: $5
-- Bid count: 0
-- Photo count: 14
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) Scag V-ride, walk-behind mower, 52" deck, 515 hours showing, Kawasaki FX730 V-23.5 HP gas engine, in working condition.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2223eb72f5cbb31910d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/80be25fb3624d6bbc6ef/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/05a12d4d40fb148f333f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/74dc657f1dddd9897edf/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2cdc6e5be240599b82a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/885392825d188144e795/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/03cbb3a58ba4861b0fe5/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8849d21c66811d539642/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/60a8a35dbea75cc6170c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f2ce9bed26fea527821/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f32ac3dced1ef53529ee/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/85c02c084db90ded5569/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d67a3c7b1161a456b8f2/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5194d5115e080c389f4/large)
-
----
-
-## Lot 13301 — (1) 1953 Oliver 66 gas tractor, S/N 425505C660, 6-forward speeds, 2-reverse speeds, live PTO, Row-Cr...
-
-- OrbitBid item number: 1-13301
-- Internal ID: 1810630
-- Current bid: $100
-- Bid count: 0
-- Photo count: 21
-- End time: 1791327600
-
-**Fields:**
-
-- General Description: (1) 1953 Oliver 66 gas tractor, S/N 425505C660, 6-forward speeds, 2-reverse speeds, live PTO, Row-Crop, 12.4-38 rear tires, 5.00-15 front tires, runs and drives, appears to have a newer battery.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/41b00627a8b84c17a616/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/494b0e09bdd7b678ebc4/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8f7c94dfe1cb5284e9c/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/16d7ebb971b41be8dc2d/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/03e0143a30f29f2beeee/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf491784b13dc2f32aa4/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce0bb07e99ab22be5ee5/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba657a33dbd66b700945/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/837e6b9116a3e3bbdfd7/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/88f0dfd168eda042f693/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc1fbbe5e841b7b34b8f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/59cd9b8ba82d0aa6b07a/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0149e25c21d8f31f1d15/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/48151f8a2e7d896fd9d4/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce586cb6683928e74667/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/85faf3a4c6ee7831559b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffe67e97fb393de8bd7a/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aa350a545bbb92defd1/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/879c07b4ecf0b9d96f46/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/9596537514dbc650cbdb/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/e516ae4fc1052fc0a887/large)
-
----
-
-## Lot 13312 — (1) ExMark Laser Z, model LZX993EBV606X1, zero turn mower, 56" deck, E22-77 X Series, 1525 hours sho...
-
-- OrbitBid item number: 1-13312
-- Internal ID: 1810641
-- Current bid: $5
-- Bid count: 0
-- Photo count: 14
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) ExMark Laser Z, model LZX993EBV606X1, zero turn mower, 56" deck, E22-77 X Series, 1525 hours showing, Kawasaki gas engine, ROPS bar, missing front tire, S/N 411496349.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cef880db0d54bdeec3c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3e9f80eb4b2ad593f1f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1177d1b832188773a339/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3fa0f102e5a247210b9/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/418ab0528491923998ba/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/64c05e68c6d540b57237/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/814742a0dd8aead506c3/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7176fec5fe5332301bae/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/eeedc0c8fa89f104053c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb5ee5f015d0208ceb2e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b4f2d930cd7906c6b1a/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/a03b203587be439358b6/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/3eed1c4308ef78284bcd/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/53bff96c4b636d0ca6d9/large)
-
----
-
-## Lot 13313 — 2018 PJ
-
-- OrbitBid item number: 1-13313
-- Internal ID: 1810642
-- Current bid: $50
-- Bid count: 0
-- Photo count: 11
-- End time: 1791329400
-
-**Fields:**
-
-- Year: 2018
-- Make: PJ
-- VIN: 3CVU81411J2575071
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2a7603518e137966c84/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf73fea6cd54aa131825/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3219bc9afdf8b45db23e/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d69b000c64ddd69f83ad/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff80f740495f935b93d7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/41dcf43854c295afc9e7/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/992dd1967ab65726c35d/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/577238836c59c3cba7e5/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1afef102d03f0846c217/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/484a04caf9e4733657ff/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/93848048de51b8111481/large)
-
----
-
-## Lot 13315 — (1) Cotech, model EXTDEC-6-10-A, telescopic/extendable snow plow attachment, 3 pt., range from 6' to...
-
-- OrbitBid item number: 1-13315
-- Internal ID: 1810644
-- Current bid: $5
-- Bid count: 0
-- Photo count: 8
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) Cotech, model EXTDEC-6-10-A, telescopic/extendable snow plow attachment, 3 pt., range from 6' to 10', S/N CC-200923-08-01.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/347f23d23a7526f0b8ed/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/33ce47619199f9f8d23c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9222af472760f4d7dd34/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/78f8daaee286c521bed8/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5c74858c7f38c108a8f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/37e2e441239e262321f0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3c253193d70ca8879bc/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/83ddb2dce038bbdd87b0/large)
-
----
-
-## Lot 13321 — (1) ExMark Turf Tracer walk-behind gas mower, model TTS600GKA483E0, S/N 316622433, Kawasaki 600V gas...
-
-- OrbitBid item number: 1-13321
-- Internal ID: 1810650
-- Current bid: $5
-- Bid count: 0
-- Photo count: 11
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) ExMark Turf Tracer walk-behind gas mower, model TTS600GKA483E0, S/N 316622433, Kawasaki 600V gas engine, 2328 hours showing, pistol grip controls, 48" deck, runs and drive, may need key.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/50802ea67db8b59f7b14/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/575f763938d0a34fa85d/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/71962f0b923cf04820aa/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0f2571730fcc0a3b353/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/da10d963df65ac14bef7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f4ba7c2bf26c611f981/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1c0e43e0546f2a12c12/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b95f2ad8d408261c3733/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae225d93e740d1684a1d/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/7357bbcd9a3d21a33066/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a97856a43969b546c090/large)
-
----
-
-## Lot 13322 — 2008 Freightliner Business Class M2 (1) single axle dump truck, air brake, manual windows and locks,...
-
-- OrbitBid item number: 1-13322
-- Internal ID: 1810651
-- Current bid: $100
-- Bid count: 0
-- Photo count: 43
-- End time: 1791329400
-
-**Fields:**
-
-- Year: 2008
-- Make: Freightliner
-- Model: Business Class M2
-- VIN: 1FTPW14V07FB89183
-- Odometer Reading: 189664
-- General Description: (1) single axle dump truck, air brake, manual windows and locks, automatic transmission, over drive, cruise control, 14' steel dump body, headache rack, fold down sides, dual tire axle with 11R225 front and rear tires, leaf suspension, Mercedes Benz diesel engine, paint is faded on hood, front bumper on passenger side is cracked, minor scratches and nicks, runs and drives.
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5896a680e4be700d0753/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3949b98055eb80145dd4/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4fdf5a0877f85675ac70/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/28a4f3c582b1269d52f7/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ff5452b6f12707646f6/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc9eabbf9740b4f5e02f/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/348e337ccb62ed750087/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc8c8b50adbadf021195/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d6ffb2da9e68d5b94de/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/6020ef335bf2224ca5b8/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/073dcd497fcf47d363e8/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6e4c8dfb2e7ca19dcc2/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/7abf8340ad175555af2d/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad39cd05becba43ba250/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/d401f9ef5e8ac94eb8cf/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/915ae2094a297a7a41b9/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f4e801ce1a3ff0d20bb/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/16e73b4ae557cdca67d7/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/942e28873e06eda1946c/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a0bcee2111eee4356f4/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/108f535830bb15b06c2c/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f60162e67e566bba26d/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/df1f9e9c35b8dbf5569a/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/090c08c86de07aca7f38/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ccf31c7fc92893c9c0b/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/045a6e5603345c0d81f4/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/43034b6b57efd710255c/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/b71160c5334ac37aec72/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/d29df1c0d3bec9435c01/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/726de7ff893b887df678/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/88c57b225c9f8065e1ef/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7ed04b12da8358dc06b/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/16d5d470796e266ecc67/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/457a0852b506ebca29e1/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/7078e6ecefa6de996354/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/b159fb8322cfcb40e5d3/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b398f3bcf5eaef552ff/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4e71379c414a71863b2/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5ba47d1721ba6b493db/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/64188e30dfae05daebb5/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdd8b91ceda1c2975955/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fe534a7629e37c8b355/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/692d66700c9148ae7f9b/large)
-
----
-
-## Lot 13323 — 2012 Chevrolet 2500 HD (1) 4-WD pickup truck, crew cab, 6.6 liter Duramax diesel with Allison transm...
-
-- OrbitBid item number: 1-13323
-- Internal ID: 1810652
-- Current bid: $100
-- Bid count: 0
-- Photo count: 30
-- End time: 1791329400
-
-**Fields:**
-
-- Year: 2012
-- Make: Chevrolet
-- Model: 2500 HD
-- Odometer Reading: 206810
-- General Description: (1) 4-WD pickup truck, crew cab, 6.6 liter Duramax diesel with Allison transmission, power windows and locks, heated power seats, folding mirrors, trailer brake control, air conditioning, dual climate control, after market CD player, OnStar, V71, spray in bedliner with rails, 6.5' bed, damage to tailgate and rear bed, various rust, nicks, and scratches, trim pieces are lose, missing driver's side door panel, check engine light on, runs and drives. Will require jump to start.
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2c2d9cad38caf46a2da/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/db192a344e6095ef6287/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/604cfc605f5348f0fc80/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdcee3c755185249c8e4/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a326a03642dbf5e663c/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cff2d337747993ded938/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/83b040fd076707fc9b6b/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bd102558302a44bdc7c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9361da662be6cb7d662b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/77c9c8de0be174564467/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6f7b86a352d77ea7ff4/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/68a615e91d24bb38a129/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/64bbd12aa99e306d2133/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a67bb7b4612bcc7e70d/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/3389c6a462c8b9235523/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/51d9138880c19e75fcc4/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/22d70d0cb7ec5a2af0f8/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/df75837132652701b8d0/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b6fd63a4c2b83efb092/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe15c76d145622358a58/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4c13514034ac6b1fcd1/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d18502e6b3864aa34cd3/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fac6bc0b33aea936886/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/34e03e7c7c1e4b1c4618/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d759ab57b8530f4d7b2/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/374d1d0380c025a7fbd4/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/d25c516a54a3a8bf02b8/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/ccd132991300bd1aab22/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/517d97304f91e69e6fb6/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b160dfc1d61db8133e9/large)
-
----
-
-## Lot 13326 — 2008 Ford F150 Lariat (1) 4-WD pickup truck, automatic transmission, power windows, locks, and mirro...
-
-- OrbitBid item number: 1-13326
-- Internal ID: 1810654
-- Current bid: $100
-- Bid count: 0
-- Photo count: 36
-- End time: 1791329400
-
-**Fields:**
-
-- Year: 2008
-- Make: Ford
-- Model: F150 Lariat
-- VIN: 1FTPW14V07FB89183
-- Odometer Reading: 189664
-- General Description: (1) 4-WD pickup truck, automatic transmission, power windows, locks, and mirrors, leather interior, dual climate control, aftermarket Kenwood CD player, heated seats, steering wheel controls, power windows, locks, and mirrors, moon roof, 2-way driver's memory seat, leather interior, adjustable pedals, 6' bed, plastic bed liner, keyless entry, rear sliding window, running boards, 5.4 Liter Tritan gas engine, various scratches, nicks, and dents, appears to have frame damage, brake light on, air bag light on, rust on rockers, runs and drives, may need repairs.
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6ca8ac253aaff853e4c/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce8ceded493306dc2b3f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7707eb94f73575109b72/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/25849b2fa5706e332960/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f735fbdabdeee32feb2/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/12747a43716606cb2d22/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/01973b9e3b714ac17d7c/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/07bcf46d7e10de18d768/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8faac748a6fe068b61c/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a494126ce4c733f0a24/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb39ed6891fb6b8c6329/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/38d8ecde79cbec95777a/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dec54eb6838ab94ad21/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/c549ead9e9081ae167e9/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d32dc0501ae5354b19c/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/55e33d88c8eb652f6277/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/df0a7c75a308bdca9787/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/de245352bdeed82d1bfb/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb9751c2b47b34609edc/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/dff4464881ddfa7fbc75/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f81e36eca6ab78700b6/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5b401c6d89e550d1d92/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/51b9b6172f74fda52bc0/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/c17eb2e39c8f802ee74c/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0c94413b4f3bb30cd1f/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2569bc5150019111102/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/134dc7597f6ae36a7011/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/82ae8457fd43df7b4f72/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/7aba4b0ddaf9ea633488/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ecdad5602bcb2715e8e/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/8107907b0a0debbd645d/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/c147523251a0bebe644c/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/688e12d3ff7c62b9cb1f/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e14d27f960b6f4994a7/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e7636baadf9494c391e/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/3002ac3d92ac545cc77d/large)
-
----
-
-## Lot 13327 — 2011 Chevrolet 3500 HD (1) 4-WD standard cab, long bed pickup truck, automatic transmission, 6.0 gas...
-
-- OrbitBid item number: 1-13327
-- Internal ID: 1810655
-- Current bid: $100
-- Bid count: 0
-- Photo count: 32
-- End time: 1791329400
-
-**Fields:**
-
-- Year: 2011
-- Make: Chevrolet
-- Model: 3500 HD
-- VIN: 1GC3K0CG5BZ346544
-- Odometer Reading: 159371
-- General Description: (1) 4-WD standard cab, long bed pickup truck, automatic transmission, 6.0 gas engine, power windows, locks, and mirrors, OnStar, steering wheel controls, trailer brake control, Boss V-Plow controls and mounting bracket, side mounted Weather Guard tool box, damage to rear bumper, rust on wheel wells, various rust, scratches, nicks, and dents, cracked windshield, check engine light is on, runs and drives, runs rough, traction control light is on, ABS light is on, windshield is cracked, needs constant jump to remain running.
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0673a68ccadd7220bcf9/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bdd4e85c089cb7477d6/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/280686a41c0143d45cf6/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7c7237dc746ec78e523/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cabc499926cd8646203e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c334f302e4a0c3293ae1/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d627f081306b54b1d539/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c46a83ccaab1d7b7b37a/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5309cfa4ecb652435477/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e70c36ed8c7d11b06dc8/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/482407df5e8fbf69f9a0/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/92032b8cfafd5bfe2bf4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/b05fd6b8d31a50ee6544/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a9e0a71530546b32eb2/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/1efcdb1581741d36f6d9/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/8bf3de8de8f292b23619/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d65ffb422aa2b47e0623/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f1f1d9bb32fc3c21bb4/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cd7e9b02321c15ada1d/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/447df99793e4afed4d59/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/d373ea6fa9d9f97ccd8b/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/a46f5693c609b451304f/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/89b5cb671c1e58a6ffe5/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffc6f7de7a956f419a26/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd8b3295f87b8a810732/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/076f01a1b72cf65e73de/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/9461719d720ae617451b/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8b5a9ac5cfccb8afcfd/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b09921e644634d518dc/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/876fcb9d66396d777bee/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/e947de53819dd6be021d/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/4269fd9e81280f8a9eb1/large)
-
----
-
-## Lot 13328 — (1) Caterpillar 257D tracked hydraulic skid steer, S/N CAT0257DLEZW01984, enclosed cab, heat and A/C...
-
-- OrbitBid item number: 1-13328
-- Internal ID: 1810656
-- Current bid: $100
-- Bid count: 0
-- Photo count: 32
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) Caterpillar 257D tracked hydraulic skid steer, S/N CAT0257DLEZW01984, enclosed cab, heat and A/C, Satellite radio with USB, front windshield, back-up camera, 15" wide tracks, diesel engine, 2 counterweights on left and right-hand side, joystick controls, 2457 hours showing.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8787bca0ddb0df3f8704/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cca7d7c9a458d8bde51/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bfff76bd23ce9be33b1/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/377b79f9f6871f01cffc/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ad012293ffe558010f8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e68e948c05caab77e955/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6919ba7e373c88ed6b71/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/23f2db0c22a83b95e6ed/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/980627fa7e024b57a852/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7e6b8648b33dab36e66/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/912aeb166466aaef29e8/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a985d664e15cafe3ed4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/52398b8f6c02b9f06ca9/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5958200a8fb4fc0a0ae3/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/f201a214ce0a861b0a49/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c4b7f98b37c9d2afb03/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/deb5b878417579473c31/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3958244a852871d8769/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/976dcb03ce35ee78607b/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d04482a80dc9ee34d25/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1a6fc81f9e3b81b4409/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8946747dca09c8d553a/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/82dfc5ad2cb663e4d571/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad0b58d64e2d443f36c8/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/b10a729fd568c0ec027f/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/37579a92c4bd581dc784/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/90637f8aebc3b7666749/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ea16e3aaa885dbd8367/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/b91d79fa58c6e1e7087c/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd9da42829fe0d71a1c4/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/3483dc5945623232e641/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c83d8421686c9d34ab6/large)
-
----
-
-## Lot 13329 — (1) John Deere 317G rubber track hydraulic skid steer, PIN #1T0317GJJLJ373992, 15.5" rubber track, e...
-
-- OrbitBid item number: 1-13329
-- Internal ID: 1810657
-- Current bid: $100
-- Bid count: 0
-- Photo count: 28
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) John Deere 317G rubber track hydraulic skid steer, PIN #1T0317GJJLJ373992, 15.5" rubber track, enclosed cab, 1340 hours showing, Satellite radio, heat and A/C cab, joystick controls, quick release, high flow auxiliary hydraulics, diesel engine, runs and operates.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/713ae7450ff27111c567/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/78c982adc3cabd93875d/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe079bd08979b9f77fc8/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d45a367863c924f7030/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4b9e467b11c09c5e5c4/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cfb664b183362e7b829/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5eb1251570ba73edd135/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0fc0de27b83b19b8eb69/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/dad57d31d3c623a1c0a1/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4da10af44b217dedff0c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b6b1090f204b36b19b2/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/50f12fc15d55db2636f7/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5140853ae33c53d921d/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/08f0c94829639b279979/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/e95f9cbe4700541bcd2b/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/684c29c3cc6f0f1aeb90/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/83df578e5e2dd0e16b2c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8400497afcdecf8f577/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/715466cdc159cb7b486d/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bf080b4f9c491684c61/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/ecea11654256b98114f0/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/682faebcfe9decc4fac5/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfea6d1c5b860e4c6469/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/da97ba3186f37ee63499/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/919e17ace87345378532/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddc4f0f114bbcd74de67/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/8193c069c7420cdebe5d/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3170a8eb6d37b9b4806/large)
-
----
-
-## Lot 13330 — (1) Cat 262D rubber tire, hydraulic skid steer, 2-speed, PIN #CAT0262DTDTB09592, enclosed cab with h...
-
-- OrbitBid item number: 1-13330
-- Internal ID: 1810658
-- Current bid: $100
-- Bid count: 0
-- Photo count: 29
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) Cat 262D rubber tire, hydraulic skid steer, 2-speed, PIN #CAT0262DTDTB09592, enclosed cab with heat and A/C, AM/FM/auxiliary CD player, back-up camera, work lights, front windshield, joystick controls, quick attach, 12-16.5 tires and rims, diesel engine, 2754 hours showing, condition unknown.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f83c869051e33deedae/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/34493759f50c1e8dce66/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/580730b50b7c13e1f844/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f99512d39ef4dcad36cc/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcd3ae32998c75a9005f/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/aed6ca79bcbc994d1834/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc151c4278b3e847111b/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/24dd2423c06793516d3d/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/748fb658c4f37b29c4c2/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4457457e6abab44d7c2/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/240e43fa95722e672210/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb8080afa254e1abddb7/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f6a9b2c209d6ad3114f/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8273bfe2dda85ad1a8a/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/1234ee76370268d523d0/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ae4115e8056326af583/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5f6fbe877733bd90ce0/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/20b14cc19e83786c21fd/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/5875097f5dda4ecc64ee/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/2091ed2b39e1bfabfad7/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c196ceaa86a32da49b9/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/f187ca857fb02dc5e0fe/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/887227ccac6799c83905/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/57427662b76a9b6d66ae/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/54f825c9f8f575352a15/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/63120ce92fbdd4ea36bf/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/4715f551032a456f903c/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/3775dc7069db9dfc45a1/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/5214821c8f5e3bd0a50a/large)
-
----
-
-## Lot 13331 — (1) Kubota, model R530, articulated frame loader, enclosed cab, heat and A/C, joystick controls, 337...
-
-- OrbitBid item number: 1-13331
-- Internal ID: 1810659
-- Current bid: $100
-- Bid count: 0
-- Photo count: 36
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) Kubota, model R530, articulated frame loader, enclosed cab, heat and A/C, joystick controls, 3373 hours showing, 74" front multi-purpose, 1 cubic yard bucket, 36.5/70R18 tires and rims, Kubota diesel, S/N 10342, engine #8FE4304, work lights, missing windshield wiper, runs and operates.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dda1ac1e690431d07294/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/00f4a143f44664a5b228/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/61e5193e678c075e1a31/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/703fa473675a252e09db/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/330f6a9abba5a8bc8bab/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ba76f69d848d64811a4/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/38ed9c23cf7e4aabb1e2/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/51fab3ce97dfbf2cfe6a/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bff34a86b9a1f46d4fc3/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/71b800aba7cc355f529e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/8244538eb77eebd65b33/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6794d0c735e7338dcaa/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6764623e4cc1a4928763/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c1b71a13acbd076d72d/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/0738d3e6d26478f29bf1/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce4fe68cf29aadb4c220/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/14f3175c80a2a224bc18/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/baa172852a322688b770/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e2b6db09045d26ccdcb/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/3372c23559cfe85a8670/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/06b8fac7018637decef2/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/b89a331b27b7ec4d4336/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e2737f8387c7e653f39/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fe775196929408a63d1/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/38e25bc8dcfd8525a52a/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b089b2aa9b802352b4e/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7a606cb839fadbf46ef/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6095155b38cafd691c5/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/738ab142ec7005a5450e/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e2a1c0d8354bcda92ac/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f68d6b129b0de86a8bf/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/814f4bbc3db00f649b79/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a204c7f31ee2f5639f7/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7ab7b3aa092f0b6de98/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed7f6c83362b88c4daac/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/8af3693abe9beb4bb996/large)
-
----
-
-## Lot 13332 — (1) New Holland L225 rubber tire skid steer loader, S/N JAF0L225HEM478843, joystick controls, closed...
-
-- OrbitBid item number: 1-13332
-- Internal ID: 1810660
-- Current bid: $100
-- Bid count: 0
-- Photo count: 11
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) New Holland L225 rubber tire skid steer loader, S/N JAF0L225HEM478843, joystick controls, closed cab, XM radio, currently in non-running condition, does not sell with bucket shown in photo, check engine light and engine protect lights are on, running condition unknown, winning bidder responsible for proper removal.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/deb8efdc67c564e60cf3/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/320a1a06bb033a1aa330/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/17dba49a30be14ed8c03/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef8616aea0b5cd12c31c/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8171a5b2561772e30447/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/20ed32462cb78f90992d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4da13304ebb68901424a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/31def9b073ec6b1d9d45/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/42de7944225b47bfcdfb/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d97dfb07c36ec7d1d63/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/844e5fbe7be3cd6adf39/large)
-
----
-
-## Lot 13333 — (1) Cage Snow Plow System, patent #7,654,016, 151" length, model KBSS12, S/N 131-2183.
-
-- OrbitBid item number: 1-13333
-- Internal ID: 1810661
-- Current bid: $5
-- Bid count: 0
-- Photo count: 11
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) Cage Snow Plow System, patent #7,654,016, 151" length, model KBSS12, S/N 131-2183.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/16745aaa3a3ea9dfb8fa/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/afd63ae4556d5061c141/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/000865e19fc3a0e9cb72/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8ac4b943800612e32f2/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/451f0d1ad1eeb901af28/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/761b7c5d628af0824077/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/85fa19a25202a209f65a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/a16e697bf5f455dda3ff/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a03f418246fbc4b158ae/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b3de4724df4fee453c6/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/189dbbb0378c616ef62e/large)
-
----
-
-## Lot 13334 — (1) John Deere 6130M, 4-WD tractor, 1080 hours showing, enclosed cab, A/C and heat, 427/70R24 front ...
-
-- OrbitBid item number: 1-13334
-- Internal ID: 1810662
-- Current bid: $100
-- Bid count: 0
-- Photo count: 24
-- End time: 1791329400
-
-**Fields:**
-
-- General Description: (1) John Deere 6130M, 4-WD tractor, 1080 hours showing, enclosed cab, A/C and heat, 427/70R24 front tires, 480/70R38 rear tires and rims, 3 pt. PTO, 3 remotes, hitch, rear and front windows with wipers, diesel, VIN 1L06130MTGG847075, runs and operates. Does NOT include plow, tractor only.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7d71b0b67516840168d/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b57162b23173ec9ade1/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/baec6a7623f79c9b1a0f/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/409658429bdeb85c2d32/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/01665448cab4c048a860/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/080868c6988aded6b4c7/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9064bfd2f92fc1a6b9/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f57003f5203e52eca5a/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/817af89e1e4c8f6351be/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdcec402931703c5c955/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8133631aca396c50cc5/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7a6578f90a13069fa93/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/030749c0d3dcf589053d/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4f740dd855258650f6c/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dd47f04dae60d6929fc/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/060fdff01822c88beaa3/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/a869ae290eb3d0d94665/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/1aaaa0fefed97d464b4d/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1b01b9e2ca935ad28f9/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/983de4a491c1ff1c93dc/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce52fd174699cb21bf0a/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae28a4f35f883619a4d7/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/034bbe1037f886d982b8/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbb737374f009a4925f6/large)
-
----
-
-## Lot 17105 — 2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 734.
-
-- OrbitBid item number: 1-17105
-- Internal ID: 1761068
-- Current bid: $100
-- Bid count: 0
-- Photo count: 43
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2005
-- Make: Wabash
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1JJV532W35L900060
-- Titled Status: Clear
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- General Description: rear roll up door, air ride suspension, tandem axle. Unit 734.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c522c6df26a4fc7bb1e0/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/290351e38252a2f8f1a0/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ceb8770f50bd85d86d6e/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7dd1517c1fb63e2fd02f/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf59fc326cb962687e73/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3e8f042915820c03a62/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b39fd463b0f51739991f/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ed88b805dee162b5fd4/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ea87486739ca4b0601f/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee5fa8beb5d742607518/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/968b0d7405ada6a7b6b4/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/f465666d7f8ff2b18d07/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/1285528aa1096304cfcd/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/ada54dbc6d0baf01e469/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/97be056bd143129b289b/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e420004aa83096fa49c8/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbe4bf3d5fb3e46ee483/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/10ecc58aa310ce8c2009/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfe82722a1fcd37c7455/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/8130eeebb4513a730cd7/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b0037827ad62227977c/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/606b80e9133e99433160/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/165cddebc18dbea26046/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/eee396ac9ae029737542/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/12f2ccd4d52562fa2daa/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1dd06c35e4f8a9442f6/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/3105dce4be88350cd192/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/01424244ec6d8239cfb5/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a5cf6a78bab97796007/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/70cbd14991d0e503d1ec/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e21a25653a0bd09c629/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1da355f178ce7d6718b/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/f794ebdb0235c2eda8e7/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/47cc9aaa00f6414f8216/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/df24a7eddaabff2abaad/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/701d94bd4efb4cc9bc0a/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c0201de0d7621e02512/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/1df99c6fe47ee9cc3229/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/c238e98e5ee0de81ebf6/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf0f89607ba2f88f4eae/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/45ea826aeb5f7a7a8c4c/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/48a37879c9393b5d6d9b/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/a46c03c8408162262eab/large)
-
----
-
-## Lot 17108 — 2010 Great Dane 45' Dry Van Trailer tandem axle, rear roll up door, air suspension. Unit #745.
-
-- OrbitBid item number: 1-17108
-- Internal ID: 1761071
-- Current bid: $100
-- Bid count: 0
-- Photo count: 36
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2010
-- Make: Great Dane
-- Model: 45'
-- Type: Dry Van Trailer
-- VIN: 1GRAA9021AB701407
-- Titled Status: Clear
-- General Description: tandem axle, rear roll up door, air suspension. Unit #745.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/383aeb4a7dd4ad1f2e05/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/48a0dae1fb31c221cb1c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2ab1150cd9ed67e9165/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/72434a55d54ad6200975/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8958115c917ab4f0e8a/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb292d5b1b69580d4912/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/83c2e2a252053fab72d7/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e0bf8515970d19b0e6c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/506a1147ca46a1a6609d/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d25837c1485d0a5742c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ebf6c5a9e5e4763af0d/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/a92241068df74d2f5a62/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/11c0443818bc7c879bdd/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e5f45601fa00601b1d8/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/75a99c151199c9fd8b12/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc34e52b30fdd11f9404/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/58aab5ef30b3a6258ff2/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/332548d0250b0a228592/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5c269186a75b7266ba0/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/44b04fa8c5fe39be60e0/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d1d57c0aea262c83336/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/154f97b4f142863c9d98/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/470be64d6ccbb36ccc11/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/4243869b365b92e7f2f9/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/77b4a37b03c3d8ea19d0/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/8962834ca2851d0e4893/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/44c79df780c24d25cbe6/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd516277b62b709d0423/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9ccec3c534daaddf4fc/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b31e877d873d24dfbd0/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdd400327033136896a7/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6aebcc68873395e7c28/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/62d17b74d31e1539d475/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/df23174e48a6920d5576/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/63c8284e05e083bf29d7/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/585053e522fa4a8d9b1c/large)
-
----
-
-## Lot 17111 — 2008 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, 70,000 lb. G...
-
-- OrbitBid item number: 1-17111
-- Internal ID: 1761074
-- Current bid: $100
-- Bid count: 0
-- Photo count: 41
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2008
-- Make: Stoughton
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1DW1A53238B039221
-- Titled Status: Clear
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- General Description: rear roll up door, air ride suspension, tandem axle, 70,000 lb. GVWR. Unit 742.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef02bda832d79ba5d2c8/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1f96ec50ef0d1ee834c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/eedd4e76ffad73809ca6/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dfd23654ed541732d51/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d13e5b9eb83f9fa68dcd/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3edddcfa769d3a0d7d1b/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f7de169339545e847aa/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8fa0248958b836f3f32c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/14d4828f00483ba2ad38/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/070d13376184bc12047e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e89f7ae170d9918d685/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2ba62b2202e68b448c4/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ee1a8769c9435562a67/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/5638adbbb0f75b658f6b/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/adf29f2ba0436c4edcbf/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/54e5e114643cb8584717/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/977d825d76bfa8e167a3/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/079a4ffd2a7ab51056bb/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/6155d4060b717d08d376/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/5768b2c50a5bb28f2518/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/be9891e3b8fc642785b9/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cf79b2d314da08a0eb3/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/1eade8f2079c6fee852d/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea70202c913737756cc0/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b9bf530fb1f7d4b0435/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f5ef283917dce31b12a/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1f5936eadca8d64212d/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac1502c885d0508ad175/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac895f14a9989b5bfbcb/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5ec19a444996821dcf8/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/75372789ff369df136bd/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/52c5c260cf4d5b0f32c7/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/033c9500dbeea0657749/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e4d5e39e1c1efdb046f/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/1eb210d5ceba1a3d4ae0/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9ca8cc4514d9252e642/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2956900c27b1252df52/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1554a700f11864f6112/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/298947f05d5f1511e530/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9bfff24e98479ff0396/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/3026e678d5a694ae3cee/large)
-
----
-
-## Lot 17112 — 2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, tandem axle, 70,000...
-
-- OrbitBid item number: 1-17112
-- Internal ID: 1761075
-- Current bid: $100
-- Bid count: 0
-- Photo count: 35
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2015
-- Make: Stoughton
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1DW1A5327FB558110
-- Titled Status: Clear
-- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- General Description: model ZGPVW-535T-S-C-AR, air ride suspension, tandem axle, 70,000 lb. GVWR. Unit 750.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/93eeba019db5164cc0d6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/543746c72d7572a66305/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a47cb6e66e443102164/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/72eee9f5d191fb6f0185/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa663c59d931f9651389/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/450ad8ab3a7aa7487f3f/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd12b621555127adb328/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d88f062d10f75fddfa6/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ca8f663660399024587/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea0646ad6ed57d32dff5/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1ad8101f31e1e447148/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f257aef9cfee1172d7d/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb2a708db5836a447c8b/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/130aa478878cc82b51fd/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/33860700bfe44e84077f/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/d462efb26ed4342d8a8a/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/06d6ac5e46b8411060be/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/db14cf8e959fb4e10ccc/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dc2393438d34b6704d6/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c8a84b2c30d6553c5d7/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/147a22dd5f7b096b4b12/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac390b17e95a7eae9885/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/39db8cac69fa702bb351/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/c85ec591b3246979735a/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/182396c300d843292247/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/5efde695b7ede23d22fb/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bb722602e9ddefbe162/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d873674bde8dc9bd4be/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3aa560248d352447ac4/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/66f9d6ff48ff11159a99/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/635c25d100491be76cba/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/284cc083d2921db067a8/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a5bcc7e9962e22a0788/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/116f3c7b8fd9ac585b87/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed3930ca94aef51a7bbc/large)
-
----
-
-## Lot 17116 — 2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,...
-
-- OrbitBid item number: 1-17116
-- Internal ID: 1761079
-- Current bid: $100
-- Bid count: 0
-- Photo count: 31
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2015
-- Make: Stoughton
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1DW1A5326FB573746
-- Titled Status: Clear
-- General Description: model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,000 lb. GVWR. Unit 746.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c003a238b75d7795df55/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d01f84d5f2f1afc52a03/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b9a658e24acaec48351/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/49decbe935233fff941e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4828b9b8896d739abcf/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbcaeccf79b9e3e08791/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/60605b24fe4c9b5b6d2d/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0aee4ba1408bee24cfe/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4d72423a4fafbd58788/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/87005d9b4269c2b71616/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b0e4d1126abec9eb94f/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b43b15a594b2b12d59c/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/abe08aef6f233a6c9dab/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/2647749fc2ca04e2ee91/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/899d84e4b438c105285a/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e6c366dc11b75343703/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d79361325b6c513c6d59/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbdd4b6edabcd95e6733/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/01a7466d68c5cc2e99cf/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce1ae5d7b19886976f9e/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/aab35ed8275a7ade5e07/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/f21b5fb49f3b30c1184e/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7608bcfb92f80bbfe08/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/404b3e7bcaff64693678/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/ecd0b40ca7ca2ab80c27/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/7fff1da84124276b88bc/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb614c3636088be58bf7/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/0bf77ce1f246bbfb95ee/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d745fbd7fb068965e85/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/78eece99c64c2994c790/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/60c0f3262f101c742fe2/large)
-
----
-
-## Lot 17117 — 2001 Utility 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle. Unit 741.
-
-- OrbitBid item number: 1-17117
-- Internal ID: 1761080
-- Current bid: $100
-- Bid count: 0
-- Photo count: 32
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2001
-- Make: Utility
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1UYVS25371P483544
-- Titled Status: Clear
-- General Description: air ride suspension, rear roll up door, tandem axle. Unit 741.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d83921e10fc2f8d68e8/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dba29f3decfe85a9e11/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3718a3c34c83e54292b7/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd9952b0e1a143befe04/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3510c564f1cf606622ab/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5f35119697474238af8/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e91d60ee0b0139f2f3a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c61039d969d2ecac556/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/608f9fc8b981363a00d8/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/08235416139df9a8cd3e/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a40edb05b3e2d1bfcd19/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9530621f39d947c576/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e37c456dd8d7361ae9e1/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/27276b9c2ce67c0d499f/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2209f642f4d50d8bc479/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e20c013fa5e1b5a67811/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aefc26dfd4dee0c90eb/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/59af28301ab0deb4e9a6/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c23257551d8a63911bc/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe1f6f66a47abd6a1a89/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b6c7f6cf5510a06d078/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e0bd3fe1cf916a50b7f/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/9088bbc1cdf9f77405db/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/4651d02e5ddf6b9fe5ba/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6f6e68f48a10abc7854/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae84a30e5f4ef4b9cd5e/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/a77807ee60e1cfc96b6f/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa8c0914a73f939f782e/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ddd92f095de0eb00e50/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/5481b178e77e90c675c1/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/e51a094ce90cb4b683d1/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/c275740a8a19354db8e0/large)
-
----
-
-## Lot 17120 — 2005 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, 68,000 lb. GVWR. Unit 733.
-
-- OrbitBid item number: 1-17120
-- Internal ID: 1761083
-- Current bid: $100
-- Bid count: 0
-- Photo count: 34
-- End time: 1791327600
-
-**Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-
-**Fields:**
-
-- Year: 2005
-- Make: Wabash
-- Model: 53'
-- Type: Dry Van Trailer
-- VIN: 1JJV532W65L944294
-- Titled Status: Clear
-- General Description: air ride suspension, rear roll up door, 68,000 lb. GVWR. Unit 733.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7534c0d504dba60e0557/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2d689175ccc6f868b5c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/111df93b3704ae35e6ab/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cf67a9ccc442ea18e1e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/654075e7b80f078e106b/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1f54650f935e580f2af/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/082cff3497e1bb15b33a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/11b73f6b838e36aae8f5/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b72f83069be3da884c13/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d31d90f057d4202feba/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a48641c9732a4e472813/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a409277a005b0903a45/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/4fb38535e8e28d3bdf0e/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/68987655811fdba2b2dd/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc3c58a8527c2d6eebb7/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ca5662ed4828a7e8684/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/715d6d24ce247e98ab65/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d391e5ac2247f84af858/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c89fdbbc745e1d03433/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4b3becdc5cdab58504c/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a6d14f1f20ebb0427b4/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/124a8c98c2c04af0a28a/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/aaf42445dd258b2d840e/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e2edb5cf5d456318fbb/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5f67a072b5fd62c0b9f/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/70e443396a66be6ba6dd/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/824207d33342ab48cdcb/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/94bd5f607bb1e3c0dc18/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1e3b2cbf3e905ec89d8/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6705cbef62d4568235b/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/22dd619be47238ca2032/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/aad7f83276cd8ef2561c/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f73f07965d7b64fdf46/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d54e26a217d33f78ee5/large)
-
----
-
-## Lot 18209 — (1) Jet, model JWP-15H, 15" planer with 230V, single phase, 3 HP electric motor, S/N 010428, in work...
-
-- OrbitBid item number: 1-18209
-- Internal ID: 1801615
+- OrbitBid item number: 1-18123
+- Internal ID: 1705123
 - Current bid: $5
 - Bid count: 0
 - Photo count: 10
-- End time: 1790719200
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) Jet, model JWP-15H, 15" planer with 230V, single phase, 3 HP electric motor, S/N 010428, in working condition, includes a 21" wide x 15.5" tall x 20.5" depth steel stand, bolted to a wood pallet, includes extra belts and blades, in working condition.
+- General Description: (1) Miller, model AED-200LE, constant current AC/DC arc welder/generator, S/N JH202466 (120/240V-5 KVA power output), includes cart, equipped with an Onan, model 548M-GA018/4381, gas engine, working condition unknown, untested.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/93d43a9610a31cc8a983/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ebaf37d5a29020b78d1/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc1a87cc6d3518a180d9/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/11d6ddbb02a2fe76721a/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b6228c71d00b9e37f03/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd2df1e92f3ddf10dfed/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/41deaf5dd4a786923191/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/34d8e508503afe12c8d5/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/756dce0988c0cc12d6a4/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5734187a895cc1bfbcef/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd76125f5a383defb445/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/47b88ec624316c0e59b4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f162aafcccb786e6344c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d876a68b87261a3b9e7d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe30ff8a1d3a1b987dd7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dd2cc0db11423cccb1d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d22b2df8d2157886b154/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5daaaffbd5bd065e30e/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b781e27863b844fb6a5c/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/409268c50a03b5ad401e/large)
 
 ---
 
-## Lot 18216 — (1) single axle spray trailer with a 3 HP Briggs &amp; Stratton, 4-cycle engine, in working conditio...
+## Lot 18124 — (1) Miller, Millermatic 300, 3 phase MIG welder power source with Tweco MIG gun (no tank).
 
-- OrbitBid item number: 1-18216
-- Internal ID: 1801622
+- OrbitBid item number: 1-18124
+- Internal ID: 1705124
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Miller, Millermatic 300, 3 phase MIG welder power source with Tweco MIG gun (no tank).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c5abad3d85675fd6bb0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e032c211bbcec40c0ec/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/833677f54d872d6c55ae/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/35f3bd0d3c22e2a65ca1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfdf6e9ccda989e4b21e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/23c29d0ab6bb6f7f36f9/large)
+
+---
+
+## Lot 18125 — (1) Lincoln Ideal Arc 250 arc welder, 230-460V input, S/N AC390125, working condition unknown, inclu...
+
+- OrbitBid item number: 1-18125
+- Internal ID: 1705125
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Lincoln Ideal Arc 250 arc welder, 230-460V input, S/N AC390125, working condition unknown, includes leads and gun.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/212ff48ddb96b7b852cb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e3868fa3a6b57676dae/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a22d258b65929faea59b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/58667eb9948a99f87595/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd331fe849d9db3476df/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7fa9f09eccb87e5e0dc/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/718b6583d5880edae99c/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ed2125256adcc76ef77/large)
+
+---
+
+## Lot 18126 — (1) make and model unknown portable engine hoist with a RM8000 long Ram jack, and extendable hoist.
+
+- OrbitBid item number: 1-18126
+- Internal ID: 1705126
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown portable engine hoist with a RM8000 long Ram jack, and extendable hoist.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/407385c6985e3739a320/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1badba9c58c8b1d6e068/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca0536aaeb3c481f9597/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5898d393885b37a16313/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa8a27c20cf584b8ef0b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee22f86a1cc57b03f7b1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c697a189f867d18a1a2/large)
+
+---
+
+## Lot 18127 — (1) oxygen/acetylene torch cart set up with approx. 20' of hose, built-in tool box, approx. 16" diam...
+
+- OrbitBid item number: 1-18127
+- Internal ID: 1705127
+- Current bid: $5
+- Bid count: 0
+- Photo count: 3
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) oxygen/acetylene torch cart set up with approx. 20' of hose, built-in tool box, approx. 16" diameter wheels, does NOT include acetylene tank, only oxygen tank.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e92d4897cb04bb3d269c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/378f4f0764e758bfa24d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e2824d353bdfda1c26b/large)
+
+---
+
+## Lot 18128 — (1) oxygen/acetylene torch cart set up with approx. 20' of hose, 8" diameter solid wheels, face mask...
+
+- OrbitBid item number: 1-18128
+- Internal ID: 1705128
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) oxygen/acetylene torch cart set up with approx. 20' of hose, 8" diameter solid wheels, face mask, gloves, torch, and regulators, does NOT include acetylene tank, only oxygen tank.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfa1dd367cb03550efc9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/78e1a65fbad994871887/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7aef96b429665ffc1a80/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f53431f3494d4cbdce41/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd3b386c1b52f53cafe1/large)
+
+---
+
+## Lot 18129 — (1) custom fabricated, heavy duty engine stand on wheels.
+
+- OrbitBid item number: 1-18129
+- Internal ID: 1705129
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) custom fabricated, heavy duty engine stand on wheels.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/18ab009c91e65fb8b800/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a364b2b4148122e4e27a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf1ee72a6dc57e535c12/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6144c717eabdaab6829c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a37aa80c9c3cb0505952/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc53b27db1f88d695164/large)
+
+---
+
+## Lot 18130 — (1) Miller Dimension 650 CC/CV/DC arc welding power source, S/N KF790082, 230/460/575V, 3 phase inpu...
+
+- OrbitBid item number: 1-18130
+- Internal ID: 1705130
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Miller Dimension 650 CC/CV/DC arc welding power source, S/N KF790082, 230/460/575V, 3 phase input, with built-in cart, extension arm with Miller 24V constant speed wire feeder, welding apron, additional spool, various other components, and partial roll of welding wire. Does NOT include tank.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/77320c933d62090896af/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4452c758f89f9bf47dee/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b7c48c335b3d435692c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a115860363180b136cb9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dcfb96cf03d59d69fea/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f97e9c492d1c22ae725/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d06cb4db0914e42ebac/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e194c1bd161439f0ef4/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6412e4a4ea3ace8e0ed2/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/1cb2a0b5bf169dc1126e/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c7ecb56cf286cb52e18/large)
+
+---
+
+## Lot 18131 — (1) skid of assorted welding wire.
+
+- OrbitBid item number: 1-18131
+- Internal ID: 1705131
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) skid of assorted welding wire.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6361d124050647d1b2ca/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb016b9c264475ff22f4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf1f5268fc77d7f4974f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2f68eec873ee14d8dec/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/45d5089ca5c09cef6dec/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f85116743c21ae10219/large)
+
+---
+
+## Lot 18132 — (1) Buffalo Tools extendable 3/8" air hose reel with assorted lengths of various air hose.
+
+- OrbitBid item number: 1-18132
+- Internal ID: 1705132
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Buffalo Tools extendable 3/8" air hose reel with assorted lengths of various air hose.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/11e153156cdfd947f661/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4875fe741eade19a4045/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0fc825ae4a7796885ab4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/203b47030d4dbfd4dbb0/large)
+
+---
+
+## Lot 18133 — (1) new Predator Engines 212 CC OHV horizontal shaft gas engine in box, unopened.
+
+- OrbitBid item number: 1-18133
+- Internal ID: 1705133
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) new Predator Engines 212 CC OHV horizontal shaft gas engine in box, unopened.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9523db230d4876fe16cc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/839a29a019724fcb7e2f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e07fb0fdc40d145e1029/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/91fe61fb94121d05e8be/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8dee3fa3ff5d047559c1/large)
+
+---
+
+## Lot 18134 — Lot including (1) approx. 20 gallon capacity grease can with 4-wheel base, and a Lincoln Engineering...
+
+- OrbitBid item number: 1-18134
+- Internal ID: 1705134
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) approx. 20 gallon capacity grease can with 4-wheel base, and a Lincoln Engineering air powered pump, and (1) 5-gallon grease dispenser with hand pump.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/170f3073ee3a90727ddb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/58e5618fcaf126df50f5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c1765432367dad9424b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b939fe9a6170c1de40e4/large)
+
+---
+
+## Lot 18135 — (1) Kendall, partially full 55-gallon drum of NS-MP HYPOID gear lubricant SAE85W-140 (approx. 1/4 fu...
+
+- OrbitBid item number: 1-18135
+- Internal ID: 1705135
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Kendall, partially full 55-gallon drum of NS-MP HYPOID gear lubricant SAE85W-140 (approx. 1/4 full), with ARO air powered pump and grease gun.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2b3fc6a090f5a2e6dcf/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9edbaeb0da11ff6a0300/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d2c95a3ef800a1122c4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/23e1467ebbf7692d18a0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc563acf7879dcaa907d/large)
+
+---
+
+## Lot 18136 — (1) Craftsman 16-gallon capacity wet/dry vac, and (1) Master Mechanic approx. 6-gallon capacity, 1 p...
+
+- OrbitBid item number: 1-18136
+- Internal ID: 1705136
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Craftsman 16-gallon capacity wet/dry vac, and (1) Master Mechanic approx. 6-gallon capacity, 1 peak HP, wet/dry vac with detachable blower, assorted hoses, and parts.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c352c0f998cb996e6139/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/83544a5dbbd2be3b7fd5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c590e64aacabffe06a7b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0101633db5f8d4eedd4a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/00ff005f6c9c0de68aaa/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b0fc482387c2d497463/large)
+
+---
+
+## Lot 18137 — Lot including (1) McCulloch gas powered chain saw with 20" bar, bar cover, engine pulls through and ...
+
+- OrbitBid item number: 1-18137
+- Internal ID: 1705137
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) McCulloch gas powered chain saw with 20" bar, bar cover, engine pulls through and has compression, and (1) McCulloch gas powered weed trimmer, engine pulls through and has compression, includes approx. 3-gallon capacity fuel can.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b989cdf2ea6819791bd8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc8236312201349e21b7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e63cd4d578bd80ebc4c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/22755e31943cc8e0d398/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1685bac69e088b9a5f8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/71b65bd274b1a6238d15/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdfadbbc88b363ec9df0/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4c1b8885918d37d1ab3/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/97b66c0ede103fd92846/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9403c5a48144fe3583e/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbcb1ea3df8f2e8bac10/large)
+
+---
+
+## Lot 18138 — (1) Stihl, model unknown, gas powered 14" concrete saw, engine pulls through and has compression, wo...
+
+- OrbitBid item number: 1-18138
+- Internal ID: 1705138
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Stihl, model unknown, gas powered 14" concrete saw, engine pulls through and has compression, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/79ef331fc0bb2b6f58ff/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a7427e7ed79aeb58d33/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0152d91a6fb5bcde5bd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd4bfda996a8406289fd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea978e4b542b2db320e7/large)
+
+---
+
+## Lot 18139 — (1) Partner, model K700, Active III, approx. 12" diameter gas powered concrete saw, engine pulls thr...
+
+- OrbitBid item number: 1-18139
+- Internal ID: 1705139
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Partner, model K700, Active III, approx. 12" diameter gas powered concrete saw, engine pulls through and has compression, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7049e3edcc3dc4075fb2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff7c49e295225188811c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/51f5d3394284ddeb5b37/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec4a049984b7d7222519/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/af31a2038856b5341c89/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc38932374ee2633d8dc/large)
+
+---
+
+## Lot 18140 — Lot including (1) Ridgid 36", (1) 24", and (1) Fuller 18" pipe wrench.
+
+- OrbitBid item number: 1-18140
+- Internal ID: 1705140
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Ridgid 36", (1) 24", and (1) Fuller 18" pipe wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc370598b21c65f10d20/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ca373db1e9bf1c5a6df/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0f56d530050b401d127/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5272d7e14ac0e9cd818/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee3c4e79d897b9e57e03/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/397363d9195d89917631/large)
+
+---
+
+## Lot 18141 — (1) approx. 16", (1) Pipe Master 14", (1) Ridgid 14" (handle was broken and is welded), and (1) Till...
+
+- OrbitBid item number: 1-18141
+- Internal ID: 1705141
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 16", (1) Pipe Master 14", (1) Ridgid 14" (handle was broken and is welded), and (1) Tillson 14" pipe wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a40d5849d648b0e99504/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3881c2c855c8eefb0f26/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ba990348a23b43f377b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f392db0a2601d9183e6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f04557ea7934c24f644d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/35b2bee8dbabe2f0f54b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/785d0b9d98384c74bdfb/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ba8e70be4835f699843/large)
+
+---
+
+## Lot 18142 — (1) Ridgid 36" pipe wrench, (1) Ridgid 36" (handle is broken to 12"), and (1) Ridgid 18" pipe wrench...
+
+- OrbitBid item number: 1-18142
+- Internal ID: 1705142
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Ridgid 36" pipe wrench, (1) Ridgid 36" (handle is broken to 12"), and (1) Ridgid 18" pipe wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e5c9386bd35806fecd5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bd5f1eb87b042264fd6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e30581a9d408141b091e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/64d22d23478f89336cda/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/096aeafb19e0409b5ceb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a7961b5e09d45b990ac/large)
+
+---
+
+## Lot 18143 — (1) approx. 32" pipe wrench, and (1) heavy duty chain style pipe wrench.
+
+- OrbitBid item number: 1-18143
+- Internal ID: 1705143
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 32" pipe wrench, and (1) heavy duty chain style pipe wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4052ceade82b556e9d46/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/148e958d2c8376ed9b28/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ee92449f8c2872527ed/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c05ef62725571110da7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0adcace387eb1d819f47/large)
+
+---
+
+## Lot 18144 — Lot of (3) various sledgehammers with wedged end.
+
+- OrbitBid item number: 1-18144
+- Internal ID: 1705144
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) various sledgehammers with wedged end.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/52487d63efe00b405a80/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a88dc55f12772d1fec6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/54c5815bf08ddd92ad65/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d4ef0288f3d21ae2684/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e2a71c30d1945f49467/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a00bf93dc9ba5a162c2/large)
+
+---
+
+## Lot 18145 — Lot of (5) various sledgehammers.
+
+- OrbitBid item number: 1-18145
+- Internal ID: 1705145
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (5) various sledgehammers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba62956127c0cf7fe612/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/85037d5c87b724225bfc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f6e5214d21200a08c1c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb98bce95c0fbe7fb444/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/aaa981f2d8dd83235cb7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/267bd39df3036af103d4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d2471a5165785b57774/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7364f3ff9b789bf0776b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0b8ced8802050226011/large)
+
+---
+
+## Lot 18146 — Lot of (2) approx. 8 lb. sledgehammers, 1 with wedged tip.
+
+- OrbitBid item number: 1-18146
+- Internal ID: 1705146
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) approx. 8 lb. sledgehammers, 1 with wedged tip.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6370108975822c06a8d2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c915f899c84e38ca458/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2522afe4c78518fa54ef/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/64e533e93d025a2ab068/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/67171ccc19baaa064cfc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/eed4c1c960c716ff73b2/large)
+
+---
+
+## Lot 18147 — Lot of Bessey bar clamps, includes (2) approx. 12", (8) approx. 12", and (3) approx. 8", some have b...
+
+- OrbitBid item number: 1-18147
+- Internal ID: 1705147
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of Bessey bar clamps, includes (2) approx. 12", (8) approx. 12", and (3) approx. 8", some have been modified, sizes vary slightly.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/67e9dd9351ae3b301a03/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/be660cd27a21a807af26/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/be692132df14039b0762/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e22bb6f21e7a98ff352/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ce0811d1b5ff21e91cb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/124439520d38bc2d4f14/large)
+
+---
+
+## Lot 18148 — Lot of assorted C-clamps, includes (3) 3", (11) 4", (3) 5", (3) 6", (1) 8", and (2) 10" C-clamps.
+
+- OrbitBid item number: 1-18148
+- Internal ID: 1705148
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted C-clamps, includes (3) 3", (11) 4", (3) 5", (3) 6", (1) 8", and (2) 10" C-clamps.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc9bb959de28c9cafd21/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b482300d3cb5d811fb9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7abc66916da3020da0c5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa9b8f75148a863f5a3f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a60b356a836ff099af32/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e0d2535143c92b216e4/large)
+
+---
+
+## Lot 18149 — (1) Power Pull 48" mechanical lift jack.
+
+- OrbitBid item number: 1-18149
+- Internal ID: 1705149
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Power Pull 48" mechanical lift jack.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd408a7be2fede7c6a7b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8aa8b52bce9380ba690e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/61a62315255cc773cd35/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ee176697ce02a3047d3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/456279766bef323cc4a6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/30a526a48326f83b5d58/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f30d4859fa713cb20ff/large)
+
+---
+
+## Lot 18150 — (1) approx. 9' long, 4-leg steel wire lift sling.
+
+- OrbitBid item number: 1-18150
+- Internal ID: 1705150
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 9' long, 4-leg steel wire lift sling.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/215cf1a7dff87ef9bfd1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b7ad882195d321909e7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e8d1af5f79e7aa032e4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5626a01e7f20a8fece5b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/33c5eff0e0f8100525c7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/05d9332888ff8f097e92/large)
+
+---
+
+## Lot 18151 — Lot including (3) approx. 20' long chains with 3/8" hooks, (3) 2" tow straps (2 approx. 20' long, 1 ...
+
+- OrbitBid item number: 1-18151
+- Internal ID: 1705151
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (3) approx. 20' long chains with 3/8" hooks, (3) 2" tow straps (2 approx. 20' long, 1 approx. 10' long), and (1) grease gun.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ef372ddfc3da4bb5ae1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/354c611d1565819366cc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe226153fd9d0831882d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d10e30ffdcdf5af69ff0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf4bfdbd27b2f755f118/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7762d25efe6f50dab98/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b0575d26cccf63a9bf7/large)
+
+---
+
+## Lot 18152 — (1) Makita, model 9306, 120V, single phase, 4" bench grinder, working condition unknown, unit is unt...
+
+- OrbitBid item number: 1-18152
+- Internal ID: 1705152
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Makita, model 9306, 120V, single phase, 4" bench grinder, working condition unknown, unit is untested.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddf77c401ee84fd98671/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a46f69d60729e5d9cc6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/85e6b6dcb1cfdaa158b0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae958fd85e2f7ba63755/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/96e5823a05cd30c2f966/large)
+
+---
+
+## Lot 18153 — (1) RN, model 52PY 6/12/24V battery charger-100/80/50 amp, S/N 7241, includes jumper cables, working...
+
+- OrbitBid item number: 1-18153
+- Internal ID: 1705153
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) RN, model 52PY 6/12/24V battery charger-100/80/50 amp, S/N 7241, includes jumper cables, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8bed59489cc72812945/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c67184388b70bba17e35/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa0851b145d5fb45288e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c2b7a0f609ab6fc1ba5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cbd12e0eaa172446cae/large)
+
+---
+
+## Lot 18154 — Lot of assorted hammers, mallets, and sledgehammers.
+
+- OrbitBid item number: 1-18154
+- Internal ID: 1705154
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hammers, mallets, and sledgehammers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/290b204ee4e6049fc012/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b937207379cdb52e6a9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/19544d9140b982aaaab6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9e74ccc1673ffb8595b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d834793a9aaae7d75976/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/64eb733e791b41d44d2d/large)
+
+---
+
+## Lot 18156 — Large lot of assorted pipe threading and cutting tools, including dies, pipe cutters, (1) reamer, va...
+
+- OrbitBid item number: 1-18156
+- Internal ID: 1705155
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted pipe threading and cutting tools, including dies, pipe cutters, (1) reamer, various handles, and miscellaneous other equipment.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9db441f4f94e83fbed/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/edd97eac583ad0b9a699/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c81b51d8d0dcdbcfd6e1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f64f8b5a999546a3350/large)
+
+---
+
+## Lot 18157 — Lot of assorted torch related items, includes (1) pair of Radnor insulated welding gloves, item #640...
+
+- OrbitBid item number: 1-18157
+- Internal ID: 1705156
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted torch related items, includes (1) pair of Radnor insulated welding gloves, item #64057664, various regulator parts, torch tips, (1) Victor, model 00-W, welding nozzle, (1) oxygen/acetylene torch, and miscellaneous other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b80ac8f2fc33e45fd20/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5d7eb23568d56837c1e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/56841232c2370bab069d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ca51486adb326e33af0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/44d59899934a000d1051/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d876e10035d9565a70a4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd4e7cae1ec534218075/large)
+
+---
+
+## Lot 18158 — (1) Craftsman, model 113.29943, 10" table saw (120V, 3 phase input) with a 40" width x 27" depth tab...
+
+- OrbitBid item number: 1-18158
+- Internal ID: 1705157
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Craftsman, model 113.29943, 10" table saw (120V, 3 phase input) with a 40" width x 27" depth table, fence, guard, and angle tool, working condition unknown, unit is untested.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4fd4049eabfedb853e5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b63f86285b3ee476767d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/35d0170ea75d4af60a03/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/460c92a334f567fae9b0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/91f11e56dadc7b278ce0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8714a17237a80202d97/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfc5c1808d9b798e3f52/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9331d14e006a92f63c17/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b97a421b1e813ad1dd4/large)
+
+---
+
+## Lot 18159 — (1) make and model unknown air powered, portable truck jack, capacity is unknown (label is illegible...
+
+- OrbitBid item number: 1-18159
+- Internal ID: 1705158
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown air powered, portable truck jack, capacity is unknown (label is illegible).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/14b9cc4929e50955bd28/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8b91b51e7802acecc83/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b7553fe8281260e6f84/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/de27787455b85a6305d4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac77def1cec4db891c51/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bf3956099ae666c596d/large)
+
+---
+
+## Lot 18160 — (1) 30-gallon grease pump with ARO air powered pump, and hose (no grease gun).
+
+- OrbitBid item number: 1-18160
+- Internal ID: 1705159
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) 30-gallon grease pump with ARO air powered pump, and hose (no grease gun).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0c2134d98974b7dc375/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ba2729f854989a76fdc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/512ddd3058ff3cc40aaf/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/50237735a22fe8722f21/large)
+
+---
+
+## Lot 18161 — Lot of (2) approx. 30-gallon grease pumps with (1) ARO air powered pump, and (1) make and model unk...
+
+- OrbitBid item number: 1-18161
+- Internal ID: 1705160
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) approx. 30-gallon grease pumps with (1) ARO air powered pump, and (1) make and model unknown crank-style pump, includes cart.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d38aea8bf7cb90f35f7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5d02de9bd07b84f0687/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/da64e4156fcf0e54bd0b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/94b00711598f54cbe451/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf6066fc13258f937a47/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/95bcdc6803ebed44609b/large)
+
+---
+
+## Lot 18162 — (1) make and model unknown portable blast pot with nozzle, and approx. 10' of hose, working conditio...
+
+- OrbitBid item number: 1-18162
+- Internal ID: 1705161
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown portable blast pot with nozzle, and approx. 10' of hose, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e827b0c9c1b90910f8c9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/032d8e477834b1bebc5c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb2fbc0ca8004f442705/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/56eea54003c5fdf03f2d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0f9fce6dceb6b82327e/large)
+
+---
+
+## Lot 18163 — (1) Multiquip, model GA-6RZ, 5500 watt, portable generator, with a Wisconsin, model WI-390, gas engi...
+
+- OrbitBid item number: 1-18163
+- Internal ID: 1705162
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Multiquip, model GA-6RZ, 5500 watt, portable generator, with a Wisconsin, model WI-390, gas engine, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e96efcc06e25b8c7553/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/401812a762c20c2d4119/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/60a27ebf7a52f879028d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a4413da4e805238f8f7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/15650da06326859ca210/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d742811242e352895d4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ca55e7ccd9ff90f779e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf143827b07255135c2f/large)
+
+---
+
+## Lot 18164 — Large lot of assorted chain, includes (2) buckets of tire chains.
+
+- OrbitBid item number: 1-18164
+- Internal ID: 1705163
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted chain, includes (2) buckets of tire chains.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8dd9111b8c7d59853ed/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bbebaec26f052972deb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b099365c4c71377e949f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f08f7b53aa71877a285/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a18498cc2736b7fd1e5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d29abe4d8ed58e114260/large)
+
+---
+
+## Lot 18165 — Lot of power tools, includes (1) Rota-Speed 230/9" metal cutting circular saw, (1) Ramset Dyna Drill...
+
+- OrbitBid item number: 1-18165
+- Internal ID: 1705164
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of power tools, includes (1) Rota-Speed 230/9" metal cutting circular saw, (1) Ramset Dyna Drill, model 325, and (1) make/model unknown heavy duty electric hammer drill with steel case and assorted bits, working conditions are unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ec43313ab7fd0a70f1b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e29c74fdd35a4d781310/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b23a259fcf5f6797102e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee97883ed0a830e68b78/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd34c3d4c8ff880b4f88/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e07e0426232afcdd18b6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e66dff039e55a8f62b3/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcd134fdeed8bd461280/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec7c2c76d8c56f70c915/large)
+
+---
+
+## Lot 18166 — Lot including (1) Harrington 2-ton capacity, (1) Haul Master 3/4-ton capacity, and (1) Yale 1.5-ton ...
+
+- OrbitBid item number: 1-18166
+- Internal ID: 1705165
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Harrington 2-ton capacity, (1) Haul Master 3/4-ton capacity, and (1) Yale 1.5-ton capacity Shop King lever hoist.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/657d4cc707ae1a52359d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/25dec81ef8558b6cfc22/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9a7cf2020902ca490c7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f40e4dabf8143a342379/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1aa0d97b0b540ea4e58a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a17cc1338d6368a7a54a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5dfe373a14454248509/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ec76f9751252bde6112/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7957250f1602fb0b73a6/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c924a1e644f873876e6/large)
+
+---
+
+## Lot 18167 — Large lot of assorted heavy duty lift hooks, shackles, (1) block pulley, and miscellaneous other ite...
+
+- OrbitBid item number: 1-18167
+- Internal ID: 1705166
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted heavy duty lift hooks, shackles, (1) block pulley, and miscellaneous other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f0684d28fb637a2c090/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b6d8318ee3f0487fbbc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ccd95c5bf25f31c06abc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/03791b0fdc4e1c1ba030/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3445578b53113b94bc9e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd4f292ef8d1c341f084/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a08395a28fb8d3501b3e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffea24036f737219b76d/large)
+
+---
+
+## Lot 18168 — Lot including (6) various ratcheting chain binders, and (5) mechanical chain binders, also a block p...
+
+- OrbitBid item number: 1-18168
+- Internal ID: 1705167
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (6) various ratcheting chain binders, and (5) mechanical chain binders, also a block pulley, and assorted chain.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/855c24ce3d3deb278ae8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/309d3b6a8a8c74acaa23/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/eae42da3aa18a217ce6c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e5bddb7b4e6910a2db9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a4607871aa891fba0c6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d3c82e197312e13e026/large)
+
+---
+
+## Lot 18169 — Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+- OrbitBid item number: 1-18169
+- Internal ID: 1705168
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/887b8e57c72eabe9ae99/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3e09b43f8857f61d66f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e042da40e37da11e731/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/39c8db8bd4b61c75d0ed/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/01546a0e1f5dee613d45/large)
+
+---
+
+## Lot 18170 — Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+- OrbitBid item number: 1-18170
+- Internal ID: 1705169
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/92884200907b4f9fb30b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce34ee0f86eb3c76b370/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/eaf2607a8cad305c8be0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b72b09ac0127e33a24b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/88974e72c268053d09ae/large)
+
+---
+
+## Lot 18171 — Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+- OrbitBid item number: 1-18171
+- Internal ID: 1705170
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/226c9c2402951161ffaa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6674bb6c85ca7728a0dd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/245316d8028b8654becf/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/85f434238bf9158267b8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4399e4e165a21677694b/large)
+
+---
+
+## Lot 18172 — Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+- OrbitBid item number: 1-18172
+- Internal ID: 1705171
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) unused 20' sections of chain with 3/8" hook on either side.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/34b7069f2d81c03d3198/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fda8a36280ef9fe49cfb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c359d96c61497bcb0fd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2cf521ab1774d76417b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b38f00ffbe2fe588d9d5/large)
+
+---
+
+## Lot 18173 — (1) DeWalt, model DCGG571, 20V, rechargeable, cordless grease gun with (2) battery chargers (batteri...
+
+- OrbitBid item number: 1-18173
+- Internal ID: 1705172
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) DeWalt, model DCGG571, 20V, rechargeable, cordless grease gun with (2) battery chargers (batteries not included), and (1) case of Shell Gadus S3 V46OXD2 multi-purpose grease.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/911ea87ba926c5e3b797/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eddb9b301406466ee00d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/89bfff68d8dd75c611a1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/44334b90ec9f309262eb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1e828a17b086aadc606/large)
+
+---
+
+## Lot 18174 — (1) CLS Super Mite rotary laser level with a rod eye, and (2) model 9907 Accu-Sensors, includes alum...
+
+- OrbitBid item number: 1-18174
+- Internal ID: 1705173
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) CLS Super Mite rotary laser level with a rod eye, and (2) model 9907 Accu-Sensors, includes aluminum tripod, and measuring stick, and (1) Apache Bullseye 3 Plus with measuring stick, and case, working conditions are unknown, units are untested.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3079ddc7fddd25bf95dc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb4228a7ea25cf9d70a6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/38a78c03bd0a4c7c624d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/42b91cf2ede51ad0dd44/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9975e5b8cc9fd60c6d70/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2054034694a0604cf56/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/00c5ef013fe6b36dee67/large)
+
+---
+
+## Lot 18175 — Lot including (1) Lasco Auto, model L1-A5, rotary laser, and (1) Lasco, model L2, rotary laser, both...
+
+- OrbitBid item number: 1-18175
+- Internal ID: 1705174
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Lasco Auto, model L1-A5, rotary laser, and (1) Lasco, model L2, rotary laser, both with cases, working conditions unknown, includes measuring stick and aluminum tripod.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/633fe36193ac9aa4b99a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/93c756b4790e35c33ad9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/28e92315727944beeb57/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5da4caeda4d14d566dd7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/42917bfff97b79c2a878/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbe9ff47db8b0689da19/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8781796488cfa89ba40f/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a7a42034ebf0dfc51d4/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/016be39030cce42477fc/large)
+
+---
+
+## Lot 18176 — (1) Leica Rugby 280DG rotary laser with padded case, aluminum tripod, and measuring stick, lot also ...
+
+- OrbitBid item number: 1-18176
+- Internal ID: 1705175
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Leica Rugby 280DG rotary laser with padded case, aluminum tripod, and measuring stick, lot also includes a Rugby MR remote, and a Leica rod eye plus receiver.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/67141a08ee70e5dab56b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/58f2ef38b3ce24ed04aa/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3abff8a3abe4faeb3e95/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae00c602e56a142a9378/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1358de73998a997c0c9/large)
+
+---
+
+## Lot 18177 — (1) vintage brass and bronze surveyors transit with (2) wood leg/steel frame tripods.
+
+- OrbitBid item number: 1-18177
+- Internal ID: 1705176
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) vintage brass and bronze surveyors transit with (2) wood leg/steel frame tripods.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dcc0d0600af61dd5a8b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/31f66366043997a41142/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d1d3197c0950f8fc7af/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/841aea54994f7eeff9e3/large)
+
+---
+
+## Lot 18178 — (1) make and model unknown surveyors transit with wood case, (1) wood tripod, (1) aluminum tripod, a...
+
+- OrbitBid item number: 1-18178
+- Internal ID: 1705177
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown surveyors transit with wood case, (1) wood tripod, (1) aluminum tripod, and (1) measuring tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/036486880cf6f4fe20c7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/07c6df895d3fd50b738e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/119ef40f0be1522777a7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ddd43f6d0ffe7120e113/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fabe9e82de81f8a6e0dd/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/64a176bbbd8773b4a50d/large)
+
+---
+
+## Lot 18179 — (1) vintage brass and bronze surveyors transit (cracked glass) with wood case, aluminum tripod, and ...
+
+- OrbitBid item number: 1-18179
+- Internal ID: 1705178
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) vintage brass and bronze surveyors transit (cracked glass) with wood case, aluminum tripod, and measuring stick.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dea95bc06ad83c82da42/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdb238229ba29f25fd48/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb3a9725865e5aaca744/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/350bd9999536ae673f5d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b3900d1bf0109a114fd/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c188ab7ac5b6dc238375/large)
+
+---
+
+## Lot 18180 — (1) Laser Alignment, Inc., laser receiver with mounting bracket and case, in working condition, (1) ...
+
+- OrbitBid item number: 1-18180
+- Internal ID: 1705179
+- Current bid: $5
+- Bid count: 0
+- Photo count: 18
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Laser Alignment, Inc., laser receiver with mounting bracket and case, in working condition, (1) Apache Bullseye III laser receiver, for parts only, with case, and (2) measuring sticks.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/88976300bcab665102c3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0bc1586b0baf5c4e1c25/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/86345d5e4c258488f4b3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f5139ea5bfb7477726d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ce64fb5af884ba88137/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffa030e9dfe37dab9ee9/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ed676b9e3ccf3f746e3/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac5bbdfe3afb75947b50/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/8400cca0b6b83cbf3274/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/56a89933caa31054c823/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/110dba81cd5db7423859/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/406fecf15f366679c81b/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c21a3b390022df5c44a/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/e818b107c60b11a00550/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/56333bed48067ee1d8e7/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/737655d0ed2e17927625/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdb375300c0b17d770db/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d39aa4fbdd48d3b2f1f0/large)
+
+---
+
+## Lot 18181 — Lot including (3) approx. 22" diameter, 10-lug rims, (5) 22" x 12" rings, and (1) 18" x 3.5" ring.
+
+- OrbitBid item number: 1-18181
+- Internal ID: 1705180
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (3) approx. 22" diameter, 10-lug rims, (5) 22" x 12" rings, and (1) 18" x 3.5" ring.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/11fc7b5da23016626276/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffa8beb575c262b03c3a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0e73392db57e4435ecc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/95a4341b4c09a6aef797/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b47da69922f4fc7ba92c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8730e1bd97e2565ccd27/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c34fab9b0fd949dca86a/large)
+
+---
+
+## Lot 18182 — Lot of (4) various size 385/65R 22.5 tubeless tires with 10-lug rims.
+
+- OrbitBid item number: 1-18182
+- Internal ID: 1705181
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) various size 385/65R 22.5 tubeless tires with 10-lug rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1ee8d6f730b39399ce4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7020f1a893757d9105d2/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/569ba67a50bf763085fe/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2e6001accf7d78b1b50/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4c2cd31f68030ebb41d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b230051eaa5fb31d120/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e6ceb0e67ded7e997c6/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3515eee0c0245899cc54/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e2dad29fc2c8fd1b52d/large)
+
+---
+
+## Lot 18183 — Lot of (3) various size 285/75R 245, and (1) size 10.00-20 tires with rings.
+
+- OrbitBid item number: 1-18183
+- Internal ID: 1705182
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) various size 285/75R 245, and (1) size 10.00-20 tires with rings.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/88e309b6423f2b62f294/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ee43f8d244a9736eed7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a65ab9f7b1300079e3dd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/13065d4349db66755efd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/67e77e605fd7041d7d08/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/271f4fcdb6f83dc4fd02/large)
+
+---
+
+## Lot 18184 — Lot of (5) various size 275/70R 22.5 tires with 10-lug rims.
+
+- OrbitBid item number: 1-18184
+- Internal ID: 1705183
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (5) various size 275/70R 22.5 tires with 10-lug rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ff8ce630e28bacf0ecc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7406bde402417e264a61/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d8a301ade023b211bc5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef0089cde5db581bf341/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6aa8806ce551a808287e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2417892c9986598e9b7b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed25a99d7e5edc8f74c5/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/30af91225c3f438c7378/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb38804f33b6a7a2a3ff/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/488a6fbd04714603b857/large)
+
+---
+
+## Lot 18185 — Lot including (1) size 8.25R 15TR tire with ring, (1) size 235/85R16 tire with 8-lug rim, (1) size 9...
+
+- OrbitBid item number: 1-18185
+- Internal ID: 1705184
 - Current bid: $5
 - Bid count: 0
 - Photo count: 12
-- End time: 1790719200
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) single axle spray trailer with a 3 HP Briggs & Stratton, 4-cycle engine, in working condition, 55-gallon capacity poly tank, quick connects, and hose and sprayer (1 7/8" ball for towing).
+- General Description: Lot including (1) size 8.25R 15TR tire with ring, (1) size 235/85R16 tire with 8-lug rim, (1) size 9.50-16.5LT tire with 8-lug rim, and (1) size LT245/75R16 tire with 6-lug rim.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc3e043401630762884b/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/23d4a12086fc702704db/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa96726635ad571f9839/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9765cfa030d2370d4551/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/81031dacd2dec92469d4/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/206e0e4a4c8c3b605739/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d7f7f33d7042a09ae30/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca43b0da5a658bd78f9b/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a20ede7d6892b56cc3b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/3901881910cfa55c238f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a9e354643f7c707384a/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/3dc8390d12a194e1394c/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/489ead164e57560494e8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8195f75d8c1151c2c04b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0672454968708eb7c94/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb863269d6294d232bc1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c7eb5c6d52078eefbdc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca04e24569cc1b4e5c93/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/515bc184311ac9a9f703/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/832af4a1522f5d0e6c2c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b05d6ab3321229a891d/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a76af2b9d21f0b44f524/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/77832840518f6538d90a/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bbc950878207fb29baa/large)
 
 ---
 
-## Lot 18264 — (1) make and model unknown, bench top lathe with approx. 10" swing, 30" between centers, tool post, ...
+## Lot 18186 — (1) hydraulic portable wheel cart, appears to be in working condition.
 
-- OrbitBid item number: 1-18264
-- Internal ID: 1801670
+- OrbitBid item number: 1-18186
+- Internal ID: 1705185
 - Current bid: $5
 - Bid count: 0
-- Photo count: 15
-- End time: 1790721000
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
 
 **Fields:**
 
-- General Description: (1) make and model unknown, bench top lathe with approx. 10" swing, 30" between centers, tool post, belt driven, approx. 3/4" diameter thru hole, collet chuck (120V, single phase input), and 60" width x 34" height x 30" depth steel bench with wood lower shelf, 4" diameter 3-jaw chuck, 8" diameter 4-jaw chuck, backing plates, steady rest, live centers, drill chucks, and assorted other hardware, winning bidder responsible for proper removal of all items.
+- General Description: (1) hydraulic portable wheel cart, appears to be in working condition.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce8c8627f06e52d5a48e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c713ff819c432617454/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b7ce9572436662add22/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b270d89dfe03ee82b204/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef517c98793870ed8fc7/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8995f20991ddba6c89b2/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c7c33f802063a8065a6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2021f6074f5d1a91f18e/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5a5f9705cbda70a017b/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4dcd8e697d33f06e722f/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef72f3c0848f9a1d0f40/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/edd3fb85203573797a28/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c166a184fa003bb5b58/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/a31cc5c9fb790cbd1297/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/368eb9796c013e2741b9/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/60f947a8c7eb4ac3ef49/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/07fe3ec9d62a593a666f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/db9a13c391bc09c379a0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f819d4f2085576cba40/large)
+
+---
+
+## Lot 18187 — Lot including (1) Bosch 120V angle grinder with wire wheel, and (1) Bosch, model unknown, 8", 120V s...
+
+- OrbitBid item number: 1-18187
+- Internal ID: 1705186
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Bosch 120V angle grinder with wire wheel, and (1) Bosch, model unknown, 8", 120V sander.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/49e36d27cf927e14c6d6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/66166572b827a80d3d96/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/93dab5b0bd170400bdce/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb08be84afd63b453b2c/large)
+
+---
+
+## Lot 18188 — Lot including (2) make and model unknown 3/8" capacity electric drills, (1) Black &amp; Decker, mode...
+
+- OrbitBid item number: 1-18188
+- Internal ID: 1705187
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (2) make and model unknown 3/8" capacity electric drills, (1) Black & Decker, model 7358, 7 1/4" circular saw, (1) Makita, model GE0600, 115V grinder with 1/4" collet, (1) Milwaukee, Cat #0244-1, 1/2" Magnum hole shooter electric drill, and (1) Milwaukee 115V, 1/2" reversing drill.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b822614f2dfedde1d85d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7e6d1add72ffcb0f696/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a82e45508a073f0196b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/83736519f99b369ee00b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/309e7809d474ef91fbb8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/eacfecfdb466bf5fbaf5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea2045077a9b9f019d52/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f52d46b75764634fc18/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea9dc39f55add76cb883/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bfb929218615a47735f/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4b498ca06f1befb19f9/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d7faa9b8136050c6969/large)
+
+---
+
+## Lot 18189 — Lot including (3) Matabo, 120V angle grinders, (1) Makita, model 9508BH, 4.5" disc grinder (switch n...
+
+- OrbitBid item number: 1-18189
+- Internal ID: 1705188
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (3) Matabo, 120V angle grinders, (1) Makita, model 9508BH, 4.5" disc grinder (switch needs repair), and various changing tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa786e68b380fca46263/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5af0c71ae02cb2771e67/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5848a32ffd51e9057ff8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e3d151202835565f385/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/634958161c2d383a83bc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/495d83890f0a6ff60a23/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa64bf99bd71ce9d65c2/large)
+
+---
+
+## Lot 18190 — (1) Radnor, model 250M123035, 250 amp Tweco style MIG gun with 12' hose.
+
+- OrbitBid item number: 1-18190
+- Internal ID: 1705189
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Radnor, model 250M123035, 250 amp Tweco style MIG gun with 12' hose.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdbbd389a82a931d2ae5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/18f5d4f6f16a6a2e5a44/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/547653ef61809c0afb25/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/17551c9185b273d4940c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cda35d6af048ef077e2f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa35be547e9a3d33933/large)
+
+---
+
+## Lot 18191 — (1) K.R. Wilson, model 6050B, flat head cylinder head cutter valve, 1940S with wood case and paperwo...
+
+- OrbitBid item number: 1-18191
+- Internal ID: 1705190
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) K.R. Wilson, model 6050B, flat head cylinder head cutter valve, 1940S with wood case and paperwork.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a7fa8e812607cd79283/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfeb3c3263c476e065da/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb4ff2ddd54f279dfef2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/08b25322713671cebbab/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4c71b8b3c7759221a67/large)
+
+---
+
+## Lot 18192 — Lot including (1) Milwaukee Sawzall with steel case, and (1) Milwaukee, Cat #5211, 120V grinder.
+
+- OrbitBid item number: 1-18192
+- Internal ID: 1705191
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Milwaukee Sawzall with steel case, and (1) Milwaukee, Cat #5211, 120V grinder.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a9789c7990dde74a3df/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d7c15b16e7ab77a9a4e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1896f0aac3d1e96271d2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a04c5a5e57fe8ad864e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae741360891432237d7e/large)
+
+---
+
+## Lot 18193 — (1) Milwaukee, Cat #1675-1, heavy duty hole hawg drill with steel case.
+
+- OrbitBid item number: 1-18193
+- Internal ID: 1705192
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Milwaukee, Cat #1675-1, heavy duty hole hawg drill with steel case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cbbfea023c534dfc57a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/506ccea0f21bff5c7431/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d975f1d6953fdc35d6b4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/33778abaa283603d0761/large)
+
+---
+
+## Lot 18194 — (1) Bench mount 4" hand grinder, and (1) manual bench mount drill with steel case.
+
+- OrbitBid item number: 1-18194
+- Internal ID: 1705193
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:00:00Z
+
+**Fields:**
+
+- General Description: (1) Bench mount 4" hand grinder, and (1) manual bench mount drill with steel case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/db5c14def7ec74342379/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e72b339494f3a7a2598/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc1bb770a443a7c05fb6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cd616e14fca9d5e682a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5303b9b6e3b18dfce66c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e777b9029892eee80f93/large)
+
+---
+
+## Lot 18195 — (1) 3/8" reversable, 120V electric drill with 3/8" keyless chuck, (1) Makita, model 6013B, 15V, 13mm...
+
+- OrbitBid item number: 1-18195
+- Internal ID: 1705194
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) 3/8" reversable, 120V electric drill with 3/8" keyless chuck, (1) Makita, model 6013B, 15V, 13mm heavy duty drill, and (1) Makita, model 6510LVR, 115V, 10mm drill (1050 RPM).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bccd9acc41d1a9302fc1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c289d122597840749989/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1931bf71d1fef186cf73/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d72c0581ad5d9d1eb670/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd812dc67fd9fa5a8934/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/48036f1acdd45e162d34/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdbb746afe8fc1225a16/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce85e2651e01febed7fe/large)
+
+---
+
+## Lot 18196 — (1) SPX OTC, item #5038, break anchor pin/bushing set with high-impact plastic case.
+
+- OrbitBid item number: 1-18196
+- Internal ID: 1705195
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) SPX OTC, item #5038, break anchor pin/bushing set with high-impact plastic case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a32865263ffc749a15d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e67ebca4889678649dd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/73a2807a333c2a8e76b0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef436e16e1ab732bad43/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/afc3c8aa4478f33f8f74/large)
+
+---
+
+## Lot 18197 — (1) Kar Products, 20" width x 8" height x 17" depth, 2-drawer hardware storage unit, with assorted t...
+
+- OrbitBid item number: 1-18197
+- Internal ID: 1705196
+- Current bid: $5
+- Bid count: 0
+- Photo count: 18
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Kar Products, 20" width x 8" height x 17" depth, 2-drawer hardware storage unit, with assorted taps, dies, and support equipment, various partial tap and die sets, and miscellaneous tap handles, dies, and miscellaneous other tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ad875cc40ff8a3ef168/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a2dc8075ed99042b78a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3c0c5f662596d19311f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/88718733aabe6c937bed/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc3478e33ad23d9b4ab5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b846e67d248102f05f5c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/86b5c8942f727e55be29/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/193f2dca97552347d9f0/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3a9129d9263ff43c66a/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/10225d6a4f2bf948c6b7/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f526fc0fdaee1dac3da4/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/e51b22d0b34058fc3885/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/78be98a8310bd817d394/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/de9578d98fbf8b4cf6f9/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4278f4c1990df49114e/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/521d68dbda725e45512d/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f5a3e8b994c10a689a6/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/4182a05265f5995166f3/large)
+
+---
+
+## Lot 18198 — (1) T &amp; E, #A772A, 8-piece interchangeable long reach chisel and punch set with high-impact plas...
+
+- OrbitBid item number: 1-18198
+- Internal ID: 1705197
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) T & E, #A772A, 8-piece interchangeable long reach chisel and punch set with high-impact plastic case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/802d13480a50902ecd9f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3f432f19b93f3d2a8d6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/985237a70b81c401c836/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/534f180394570c48ceca/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/05e6100813aaa390039a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/23a59b9833967be35573/large)
+
+---
+
+## Lot 18199 — (1) make and model unknown, 120V collet type bench top electric threader.
+
+- OrbitBid item number: 1-18199
+- Internal ID: 1705198
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown, 120V collet type bench top electric threader.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ceb79692939b2276ba7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a099ad38ed5b4332a910/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4521fd8e05e25417128c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/872a909c955fb381cd9c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/08af26af93574d901137/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e07b8cb5ce62978395d1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ce90cd69a74a80c4487/large)
+
+---
+
+## Lot 18200 — Lot including (1) Ramset air actuated tool with steel case, (1) Ramset 610 Dyna drill with bits, ste...
+
+- OrbitBid item number: 1-18200
+- Internal ID: 1705199
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Ramset air actuated tool with steel case, (1) Ramset 610 Dyna drill with bits, steel case, and assorted DynaBolt and Ramset anchors, and fasteners.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce4d0eb7f4d9aafcd43b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d941de762e1afce1b00f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ee52f93e2d5142e068a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbe565ee05c97afdfd00/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/16898233510fabbd37c4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b194bfd433a47442f17/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a0b30e9238c514f8a30/large)
+
+---
+
+## Lot 18201 — (1) approx. 10-gallon capacity, portable auxiliary air tank, and (1) approx. 2-gallon capacity, valv...
+
+- OrbitBid item number: 1-18201
+- Internal ID: 1705200
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 10-gallon capacity, portable auxiliary air tank, and (1) approx. 2-gallon capacity, valve actuated bead seater.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9360211d2604f08d8001/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2752f2ddac4dc03146af/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d71cb53d67559ce75bc3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/09072c3bcdbb0348d673/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ef4beab79919e47e984/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4cc7ec7a45f78b18d67/large)
+
+---
+
+## Lot 18202 — (1) Solar, model 660, Fleet 6/12/24V battery charger/starter, working condition unknown.
+
+- OrbitBid item number: 1-18202
+- Internal ID: 1705201
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Solar, model 660, Fleet 6/12/24V battery charger/starter, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/661a046c4fd3b2960dfa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d8d79d8540e63f02e6c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/59d02f2dce92f0762418/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/da6403468b084088704d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd2760f0afd2db536341/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/31b71ed0dc3872094004/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/46498a1eac382a19d45d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/022f54d26b1e81f22153/large)
+
+---
+
+## Lot 18203 — (1) manual hydraulic ram tool with steel case.
+
+- OrbitBid item number: 1-18203
+- Internal ID: 1705202
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) manual hydraulic ram tool with steel case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6052b48378e628ad46a0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eef1d0711e861ba1af35/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/422e5a4c5f263497cd9a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac98310be23f3d610673/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad47b7485a83cd438d3c/large)
+
+---
+
+## Lot 18204 — Entire shelf of various large wrenches and spanner wrenches.
+
+- OrbitBid item number: 1-18204
+- Internal ID: 1705203
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Entire shelf of various large wrenches and spanner wrenches.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e92f85de50dc5a171b5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b52d6e49f9f92c5a4d5d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fecd428a8333b94c0b9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cf88eb2491a7b392023/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/afeba9c05dd021832642/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/36c06747e7fc74aa7e65/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0a13463ccd103901610/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea2952d7df7fd2a21f75/large)
+
+---
+
+## Lot 18205 — (1) make and model unknown, 120V, single phase MAG drill with wood case, working condition unknown.
+
+- OrbitBid item number: 1-18205
+- Internal ID: 1705204
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown, 120V, single phase MAG drill with wood case, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/aaa6bbb127fd8b6ec935/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/da2566560fa9dcb7623d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f3714577ff6788733ec/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b17242973d6090f8cee3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/20de7696c709d149847b/large)
+
+---
+
+## Lot 18206 — Lot including (1) make and model unknown heavy duty drill with Jacobs 3/4" capacity chuck, (1) Milwa...
+
+- OrbitBid item number: 1-18206
+- Internal ID: 1705205
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) make and model unknown heavy duty drill with Jacobs 3/4" capacity chuck, (1) Milwaukee, model unknown, drill with 1/2" capacity chuck, and various bits.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/59b098f802d0ecb07faa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c3466072a4d584bc33a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcc49c224e1b0e28baa6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0655935c0e059a14e6af/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc1affb4ff9942690b34/large)
+
+---
+
+## Lot 18207 — Lot including (1) Keson, model RR318N, portable roller type measuring tool, (2) 300' tape measures, ...
+
+- OrbitBid item number: 1-18207
+- Internal ID: 1705206
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Keson, model RR318N, portable roller type measuring tool, (2) 300' tape measures, (1) 200' tape measure, (1) 165' tape measure, and (2) 50' tape measures.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbbdf1a66cc91d445444/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/af7f7fc7bda0ac818374/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9f33ebbb4bb36589444/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab730ea27031de3cbac1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ee2d29bef9f75d1c6bc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0931df28ea79feef1cfe/large)
+
+---
+
+## Lot 18208 — Lot including (1) Werner 4' fiberglass and aluminum step ladder, and (1) Werner 6' fiberglass and al...
+
+- OrbitBid item number: 1-18208
+- Internal ID: 1705207
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Werner 4' fiberglass and aluminum step ladder, and (1) Werner 6' fiberglass and aluminum step ladder.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/489262b09799d2e9d7b8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca35b03237de2df699b2/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5da2c7bf33df1cd1870/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bd2c4bd61f2793c916a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d83fdae2fec7f416ca9/large)
+
+---
+
+## Lot 18209 — (1) Coats, model 1010, Super Powermate tire changer with assorted tools, working condition unknown.
+
+- OrbitBid item number: 1-18209
+- Internal ID: 1705208
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Coats, model 1010, Super Powermate tire changer with assorted tools, working condition unknown.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a991a3aff45629c3a1f6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c758059fa91429e49f79/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7aa9cd5858bfbdac3e95/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/95da0e5cfb825065bd28/large)
+
+---
+
+## Lot 18210 — Lot of (2) 3-phase extension cords.
+
+- OrbitBid item number: 1-18210
+- Internal ID: 1705209
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) 3-phase extension cords.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fdcfee35215854e3a50/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3602bdeaa4ad8dc97d1c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6970d036bdaeff28983e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/13dda6ff172902631f6b/large)
+
+---
+
+## Lot 18211 — Lot including (1) Milwaukee, Cat #2864-29, 3/4" square ring, 18V rechargeable impact wrench, (1) Mil...
+
+- OrbitBid item number: 1-18211
+- Internal ID: 1705210
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Milwaukee, Cat #2864-29, 3/4" square ring, 18V rechargeable impact wrench, (1) Milwaukee, Cat #2757-20, 18V rechargeable 1/4" hex impact driver, both with batteries, (1) Milwaukee M18 red lithium battery, and (1) Milwaukee, Cat #48-59-1812, M12-M18 charger.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b506a8d78fda95bbd58b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ceb05675d1ddcb975d5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/39fa1c15716c5c66b036/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9dbe416c3f6f546d1b5f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1f186536a0646170677/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b36101100703ae5bbc4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fda8013964c13ace8fd2/large)
+
+---
+
+## Lot 18212 — Lot including (3) Motorola Radius 2-way radios with (1) Regency monitor radio/scanner, (1) Motorola ...
+
+- OrbitBid item number: 1-18212
+- Internal ID: 1705211
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (3) Motorola Radius 2-way radios with (1) Regency monitor radio/scanner, (1) Motorola Radius P100 hand held radio, (1) Motorola charging station, and miscellaneous other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b7f9e55327c75ba3f9d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c927df4333e89c48908a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/73221cc4369c7cbba366/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/55e40f10cdc8d8865e63/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/59079d745f13ea8620f4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/59e36d1ea21dad487765/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c067aa788b03db7d7e2/large)
+
+---
+
+## Lot 18213 — Lot including (1) Snap-On, model CT561CL, 7.2V rechargeable screwdriver with charger, battery, and c...
+
+- OrbitBid item number: 1-18213
+- Internal ID: 1705212
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On, model CT561CL, 7.2V rechargeable screwdriver with charger, battery, and case, and (1) Snap-On, model CTB8185, 18V rechargeable, 3/8" drive impact tool, (2) batteries, and (1) charger.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ceee9c7b940e80304f3d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/676bab6c2a89b3a99779/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf410a69830c4e313847/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d972e76ff311eab5127/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc66fb3ab3d7e5267d16/large)
+
+---
+
+## Lot 18214 — (1) set of pallet racking, includes (2) 48" width x 72.5" height uprights, and (4) 46" beams, conten...
+
+- OrbitBid item number: 1-18214
+- Internal ID: 1705213
+- Current bid: $5
+- Bid count: 0
+- Photo count: 3
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of pallet racking, includes (2) 48" width x 72.5" height uprights, and (4) 46" beams, contents not included.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/83673b87529cc1c4d59c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d64fff6c5ad638113059/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aca818cca72d5f9a332d/large)
+
+---
+
+## Lot 18215 — (1) make and model unknown radial arm drill with approx. 48" arm, approx. 12" x 84" column, 25.5" wi...
+
+- OrbitBid item number: 1-18215
+- Internal ID: 1705214
+- Current bid: $5
+- Bid count: 0
+- Photo count: 13
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) make and model unknown radial arm drill with approx. 48" arm, approx. 12" x 84" column, 25.5" width x 26" height x 25" custom made steel base with a mounted 12" heavy duty vise, various drill bits, and slotted base, working condition unknown, winning bidder responsible for proper disassembly and removal of item.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/328f6ce29b83dd9e29f4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bea05d01d73e71feff4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b812082ddda51f92d3c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/731a528a9e7c9e7e6ec7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4dd9ae3aa242ddd70302/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d30ad9c2a6dec1ce23a8/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/62afa742b7be725f992d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/76f974897fc79569fe6c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e53e751c3922077e572/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a491036b2d091be247dd/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/14c84a67e5f398d4e00c/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d6cf30a3c37fa9a2f95/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/738120d14e53903f86b8/large)
+
+---
+
+## Lot 18216 — (1) Gardner-Denver, model ADD-608961011, approx. 60-gallon capacity air compressor with a 230/460V, ...
+
+- OrbitBid item number: 1-18216
+- Internal ID: 1705215
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Gardner-Denver, model ADD-608961011, approx. 60-gallon capacity air compressor with a 230/460V, 3 phase, 5 HP electric motor (850 RPM), 125 max. PSI, working condition unknown, unknown, winning bidder responsible for proper disassembly and removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/113d83bad261cf01b522/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e96c5fa01d82640213da/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e2d3588638a4e9da889/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/433b9477d913ee7acc8b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/668ded5ed1716d6a1efe/large)
+
+---
+
+## Lot 18217 — Large lot of assorted ratchet straps and tow straps.
+
+- OrbitBid item number: 1-18217
+- Internal ID: 1705216
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted ratchet straps and tow straps.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/af361ed8017809e12bcf/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/867c45da7b5ad9369543/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4e7ca9d29567d7bc2d9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c1fdf4dd51b7fd7eed7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d408b0e871ff9db500de/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d60869d3c2c0314a880/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d1eeb7409869724ff2f/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c1f1840208b0f72f77b/large)
+
+---
+
+## Lot 18218 — Entire content of items shown on wall and in wood shelf, includes assorted hammers, rakes, pickaxes,...
+
+- OrbitBid item number: 1-18218
+- Internal ID: 1705217
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Entire content of items shown on wall and in wood shelf, includes assorted hammers, rakes, pickaxes, (1) spool of approx. 1/2" diameter rope, various extension cords, aluminum concrete rakes, and miscellaneous other items, winning bidder responsible for proper removal of all items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfe3cdf6e3b2781e86a0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7989af46e9a109e7239e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa3353ab35f2df3680df/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/25be0a21a82bd42646c4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d35b6259926c7ea8d9e3/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/18a664c35886d7d4f5f2/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/434be25c59d6cb6ee740/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/85553ac95df2ba30fd0b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1075ebf899afeb976f14/large)
+
+---
+
+## Lot 18219 — Lot including contents of 60" width x 54" height x 10" depth storage unit with 35 divided compartmen...
+
+- OrbitBid item number: 1-18219
+- Internal ID: 1705218
+- Current bid: $5
+- Bid count: 0
+- Photo count: 15
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including contents of 60" width x 54" height x 10" depth storage unit with 35 divided compartments, includes various pipe fittings, unions, elbows, reducers, sections of pipe, valves, and miscellaneous other items, lot also includes items shown on wall, (5) various conduit benders, vintage tools, sections of pipe and solid steel, and misc. other items, winning bidder responsible for proper removal of all items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6181424706b7c9ecc84/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc0119fa9733e11b396e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f65c929fe1da1298c6c7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/089c7156c5eea7c439a8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0283034f97ba7ca77df9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/53308c862e1669b2d7f3/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/294c5292bcf072537956/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec9a704372ad750bc4ed/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/63665dd4a75141277691/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/ede2a9814436e9fc3f43/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/88fb807c649fb24cab43/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ccbd0b59a97052127d2/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdec9433d0d13f77da8e/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/03a5ceda502c5e5b418e/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ef400b3edd82bef3d89/large)
+
+---
+
+## Lot 18220 — (2) 38" width x 14" height x 9.5" depth wood tool boxes, 1 with assorted trowels, 1 with various con...
+
+- OrbitBid item number: 1-18220
+- Internal ID: 1705219
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (2) 38" width x 14" height x 9.5" depth wood tool boxes, 1 with assorted trowels, 1 with various construction tools, including line spools, chalk boxes, trowels, and miscellaneous other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f537e5a150e7d7e7837b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9dc5e531af9ef2e8c27/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bde6bcb303eeec210483/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a99e152a5e56eeb27ad9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f24e12a18180b9d39b87/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/45e55d6ddc5619333426/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d34d2530bdf0c3b65f2a/large)
+
+---
+
+## Lot 18221 — (1) First Jefferson Tool, approx. 4.5" heavy duty bench vise with rotating base.
+
+- OrbitBid item number: 1-18221
+- Internal ID: 1705220
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) First Jefferson Tool, approx. 4.5" heavy duty bench vise with rotating base.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/38e66db208f0eb87e9cd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdb6b79632c7debeedf7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c525ba8ceee831e3585/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2b84f21baa3e2a15964/large)
+
+---
+
+## Lot 18222 — Lot of (10) 53" width x 48" height x 48" depth stackable steel racks, winning bidder responsible for...
+
+- OrbitBid item number: 1-18222
+- Internal ID: 1705221
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (10) 53" width x 48" height x 48" depth stackable steel racks, winning bidder responsible for proper disassembly and removal. DELAYED removal, winning bidder must contact sight manager for removal instructions.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/70f3a2ef413a0a5e72c2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/729cf56ad94af9e3ff35/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9424b6bffbf65a0eca1a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2724b17cad4e89118a11/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7994cf9bd3be3750b6aa/large)
+
+---
+
+## Lot 18400 — (1) Snap-On 50.5" width x 24" height x 21.5" depth 10-drawer tool cabinet with a 50" width x 38" hei...
+
+- OrbitBid item number: 1-18400
+- Internal ID: 1705222
+- Current bid: $5
+- Bid count: 0
+- Photo count: 23
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 50.5" width x 24" height x 21.5" depth 10-drawer tool cabinet with a 50" width x 38" height x 21.5" depth lower 6-drawer cabinet on wheels with (1) 16" width x 38" height x 20.5" depth 7-drawer side attachment, and (1) attached 18" width x 32" height x 12" depth 2-door side cabinet, includes contents of various feeler gauges, extendable magnets, screwdrivers, pick tools, sockets, (1) Irwin 14" pipe wrench, ball joint fork, ball peen hammer, wrenches, fasteners, and misc. other tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8aabf24a2e0cdb1ea6cb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/64c7b1ae32ed57e317db/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/60be1e5fc7f761d64597/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/91f8d4fbac29d98c55b2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/65bdde457cbc74bc24e7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c43ee9de8651bb555357/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/49517e2520fd9e906175/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e819c2e8d7128890aa7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f90c918fde1e7fa4c77/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/a90f5c76f9547f393b9b/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4ce1734c75f7fd3065d/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed16893d0bd4cfa16d2a/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/4716beee17cc79186704/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/66177908b95dbb58b04f/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/bba52189b36b0b663ee3/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dc1c412f225940c6c01/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6ca9bcb13808306f02a/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2898a0e4803463c8ae8/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/89747cbc8f3a788fd4b3/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e6d3cd9aa68e410ad6e/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd8eda2cb230a4cd7c5c/large)
+- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/c00c40a2f8bbd498051d/large)
+- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2c357129b419a69ed69/large)
+
+---
+
+## Lot 18401 — Lot including (1) set of 3/8" drive Snap-On swivel sockets, sizes 3/8" up to 3/4", (1) Snap-On appro...
+
+- OrbitBid item number: 1-18401
+- Internal ID: 1705223
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) set of 3/8" drive Snap-On swivel sockets, sizes 3/8" up to 3/4", (1) Snap-On approx. 2" diameter axle/spindle nut socket, (2) MAC, approx. 1" diameter 1/2" drive axle/spindle nut sockets, and (1) 1/2" drive straight screwdriver socket.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/24711f81cc4bcc9f1ff7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c455d35abe2af498532/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cbc1555277b2ff7679b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a864b08a65a48e95aaa/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d562f2d1186b0b9e86a/large)
+
+---
+
+## Lot 18402 — Set of Snap-On 1/4" drive, 12 pt. sockets with ratchet with removable head, (1) set of Snap-On 1/4" ...
+
+- OrbitBid item number: 1-18402
+- Internal ID: 1705224
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On 1/4" drive, 12 pt. sockets with ratchet with removable head, (1) set of Snap-On 1/4" drive sockets, sizes 3/16" up to 9/16", and (1) set of deep well Snap-On 3/8" drive sockets, size 1/4" up to 7/8".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/735b8d6f7afcaf9c272f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbb7e80453530c63af02/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1958393978b74d994ba4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5cc05f39c1ebd0ed7fc5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8df9af22b28b6c5c75a1/large)
+
+---
+
+## Lot 18403 — Lot of assorted 1/2" drive Snap-On sockets, sizes range between 3/8" drive and 1 1/8" drive, and (1)...
+
+- OrbitBid item number: 1-18403
+- Internal ID: 1705225
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted 1/2" drive Snap-On sockets, sizes range between 3/8" drive and 1 1/8" drive, and (1) incomplete set of Snap-On 1/4" and 3/8" drive sockets.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/202aac402f698ee49a7a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d45bc32053ade4053ee0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/62a788bf4afc560b03be/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0edbdc82871790f4424c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cb36668ec8b1b3d77e6/large)
+
+---
+
+## Lot 18404 — Lot of Snap-On impact sockets, includes 3/8" drive, sizes 5/16" up to 1", (1) set of Snap-On 1/2" dr...
+
+- OrbitBid item number: 1-18404
+- Internal ID: 1705226
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of Snap-On impact sockets, includes 3/8" drive, sizes 5/16" up to 1", (1) set of Snap-On 1/2" drive impact sockets, sizes 3/8" up to 1", and assorted Snap-On deep well sockets, sizes 1/2" up to 1 1/4".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0792055abf5b26ff72ab/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/14e2acf6b3255f5b225a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/993ba145f4c8cc6bb489/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/82470804b218c7562441/large)
+
+---
+
+## Lot 18405 — Set of Snap-On 3/8" drive sockets, sizes range between 1/4" up to 7/8", (1) set of Snap-On 3/8" driv...
+
+- OrbitBid item number: 1-18405
+- Internal ID: 1705227
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On 3/8" drive sockets, sizes range between 1/4" up to 7/8", (1) set of Snap-On 3/8" drive deep well sockets, sizes between 1/4" and 7/8", and (2) Snap-On 3/8" drive ratchets.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d27f370562dcf154e8aa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c6fe819d84706c64fe4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f6b8862a212a7d9c212/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5ceea8154f0a2d99c9b/large)
+
+---
+
+## Lot 18406 — (2) sets of Snap-On deep impact sockets, both 3/8" drive, 1 has sizes 17mm up to 27mm, 1 has sizes 9...
+
+- OrbitBid item number: 1-18406
+- Internal ID: 1705228
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (2) sets of Snap-On deep impact sockets, both 3/8" drive, 1 has sizes 17mm up to 27mm, 1 has sizes 9/16" up to 15/16".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba41206670f3f667859f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c45b44d74dc16167ad71/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/be1fe197d57c5960d6dc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e3b1e8b19a5ae3dbd62/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/43c019620b48db33f6a9/large)
+
+---
+
+## Lot 18407 — Lot of assorted Snap-On sockets with (4) holders, includes 1/2" and 3/8" drive sockets.
+
+- OrbitBid item number: 1-18407
+- Internal ID: 1705229
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Snap-On sockets with (4) holders, includes 1/2" and 3/8" drive sockets.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/73654c12c5bb29627cdd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b4d635a440b4cd824fd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1da1e4659bf6f6ca65e5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c288c09f4dfd1737d583/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f77426bb1cdc512d77c9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/901f8e751fbdc106698c/large)
+
+---
+
+## Lot 18408 — Lot including (1) set of Snap-On sockets (1/4" drive, 3/8" drive, and 1/2" drive), 1/4" sizes from 4...
+
+- OrbitBid item number: 1-18408
+- Internal ID: 1705230
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) set of Snap-On sockets (1/4" drive, 3/8" drive, and 1/2" drive), 1/4" sizes from 4mm up to 10mm, 3/8" sizes from 11mm up to 14mm, and 1/2" drive sizes from 16mm up to 24mm, with magnetic holder, (1) set of Snap-On 3/8" drive sockets, sizes 8mm up to 19mm, various screwdriver sockets, (1) Snap-On 3/8" drive ratchet, and (1) Snap-On spark plug tool, (1) Snap-On swivel adapter.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b407d47a1d7c02f1545f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7933bfb732bb42e265ba/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab6191e4b0c1cd286dea/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4e4e654778c8009e10c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/28544829a26769f48fed/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8690e415bf0dd80d1e90/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c44b8c9c426abd2b7fa8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/dac35f50209bd52c5b49/large)
+
+---
+
+## Lot 18409 — (1) Snap-On swivel head 1/4" drive ratchet, and (1) Snap-On swivel head 3/8" drive ratchet.
+
+- OrbitBid item number: 1-18409
+- Internal ID: 1705231
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On swivel head 1/4" drive ratchet, and (1) Snap-On swivel head 3/8" drive ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ba4e54f575609b35cfa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f15486210369d0c0f7f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3bfb63d4f54cd467641/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1df7a25ce84760e647a8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c38e63987767e20c612/large)
+
+---
+
+## Lot 18410 — (1) Snap-On 1/4" drive socket set with ratchet, 2", 4", and 6" extension, 5" swivel head breaker, sw...
+
+- OrbitBid item number: 1-18410
+- Internal ID: 1705232
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 1/4" drive socket set with ratchet, 2", 4", and 6" extension, 5" swivel head breaker, swivel head adapter, sockets from 3/16" up to 9/16", and deep sockets from 3/16" up to 9/16", with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/33bdfdfc4c4a1bc79f66/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad8213baa54dcadc502e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/09defd7b8c042e136525/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/02b32ad3891f1b561534/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5db5a5231bce8ddc3a5c/large)
+
+---
+
+## Lot 18411 — (1) Snap-On 1/2" drive extension set with 1/2" drive Snap-On ratchet.
+
+- OrbitBid item number: 1-18411
+- Internal ID: 1705233
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 1/2" drive extension set with 1/2" drive Snap-On ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cb9aa58c13969133e25/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/997be18f3fd1fc421a3d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc0e3ee61696283f3596/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f300f8bb05e35c96451/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3be31aa6febae7adc88f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/54cd402dbce6b91f99c2/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/420093a1696e580e7d11/large)
+
+---
+
+## Lot 18412 — Lot including (1) 1/2" drive Snap-On ratchet with 8" handle, (1) 1/2" drive Snap-On ratchet with 12"...
+
+- OrbitBid item number: 1-18412
+- Internal ID: 1705234
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) 1/2" drive Snap-On ratchet with 8" handle, (1) 1/2" drive Snap-On ratchet with 12" handle, and (1) 1/2" drive approx. 22" breaker bar.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b30a3abc9893170e488/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb7372f2f1082ca688c7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2ed5d5910257614bf3f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cd8cc4f5f195d873466/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/82d722be75601b1b74f4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b34eee813e9f32b750af/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/55a35277f86524d36a01/large)
+
+---
+
+## Lot 18413 — (1) Snap-On 1/2" drive ratchet with Snap-On 3/8" drive swivel head angle handle ratchet.
+
+- OrbitBid item number: 1-18413
+- Internal ID: 1705235
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 1/2" drive ratchet with Snap-On 3/8" drive swivel head angle handle ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a94a8bac6ae89867d95b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a35fe062ccfcd50c309/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/40f6121271b81ca2383d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/05c6033354751cc0c497/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1b0de1e250be8859dea/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/02be03ffa02214ac86ed/large)
+
+---
+
+## Lot 18414 — (2) Snap-On 3/8" drive extension sets with 3/8" drive ratchet.
+
+- OrbitBid item number: 1-18414
+- Internal ID: 1705236
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (2) Snap-On 3/8" drive extension sets with 3/8" drive ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/29115f792ff32da29452/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a361f5899ece4cdf592/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bea7f874b9c5e8fe4984/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d91e0cb671d844244e4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ceb231f4004cfba4427/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b178e0013e8b8fdd8848/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/09c2c1dcfd838dc5a9f6/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6194368a3b554bfc946a/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/557f29cf70e56dd08edb/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0865a644c170715c77e0/large)
+
+---
+
+## Lot 18415 — (1) lot of Snap-On hex head tool sockets (3/8" drive, 1/2" drive, and impact), (1) set of Snap-On To...
+
+- OrbitBid item number: 1-18415
+- Internal ID: 1705237
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) lot of Snap-On hex head tool sockets (3/8" drive, 1/2" drive, and impact), (1) set of Snap-On Torx bit sockets (1/4" drive, 3/8" drive, and 1/2" drive), and (2) multiple Allen wrench tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4aba3ca8e64bdeb0d40a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7b8afd7f75b2eb70cdf/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0c6faa881b65db43384/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ca5067cfdd4c71299a6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a119b0356f4f79def746/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/139e6038d009baec7835/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc82404cf15234f20f44/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d6f511cd54ac65ef539/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a85612d0f09f817afa65/large)
+
+---
+
+## Lot 18416 — Lot of Snap-On 1/2" and 3/8" drive crow foot wrench heads.
+
+- OrbitBid item number: 1-18416
+- Internal ID: 1705238
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of Snap-On 1/2" and 3/8" drive crow foot wrench heads.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/30eacb4fae6e6b64c9b4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc24b600d2cc79692a68/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9503b53606768e898af3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/989ca7d9215c1ee58d35/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5977ef109d4701906216/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e03571bf60063cbe700/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b5cd5f0823b7fa20576/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e10a4501d99b3b361af/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf89974b9bdc46b47878/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/565e09124bef15867bd8/large)
+
+---
+
+## Lot 18417 — Set of Snap-On wrenches, size 9/32" up to 3/4", (1) set of Snap-On stubby wrenches, sizes 7/16", 1/2...
+
+- OrbitBid item number: 1-18417
+- Internal ID: 1705239
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On wrenches, size 9/32" up to 3/4", (1) set of Snap-On stubby wrenches, sizes 7/16", 1/2", 9/16", 5/8", 11/16", and 3/4", and (1) set of Snap-On metric wrenches, sizes 6mm through 9mm.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/de68a161b9a8cd25651d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/077d4e6f495e52585a9d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb55ac1e9d1d6fbd90c0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b8c9776c1d899f1c10b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfd729c155f9ca76c294/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ec7a5ee830ef82be261/large)
+
+---
+
+## Lot 18418 — Lot of 3/8" and 1/2" drive Snap-On tube sockets, set of Snap-On 3/8" drive crow foot sockets, sizes ...
+
+- OrbitBid item number: 1-18418
+- Internal ID: 1705240
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of 3/8" and 1/2" drive Snap-On tube sockets, set of Snap-On 3/8" drive crow foot sockets, sizes 3/8" up to 11/16", and (1) set of Snap-On combination tube wrenches, sizes 1/4" up to 3/4".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2376ff412ea29a219231/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/98fb8da2f317b8df1dee/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd601c815c2fcf0f1d68/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc7cf6122fe41cb28351/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/db9d0f69756c83ee4413/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/acc3a64b21d3bdbd56cc/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3980a8f477fbd819678e/large)
+
+---
+
+## Lot 18419 — Set of Snap-On wrenches, sizes 3/4" up to 1", and (1) set of Snap-On wrenches, sizes 7/16" up to 5/8...
+
+- OrbitBid item number: 1-18419
+- Internal ID: 1705241
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On wrenches, sizes 3/4" up to 1", and (1) set of Snap-On wrenches, sizes 7/16" up to 5/8".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/56516e238d5076f7e6b2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/007fbf54105a722fb83e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/564aa7b0dadc6248604d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a2279efb351944fb426/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2b0b47d83340765c6f4/large)
+
+---
+
+## Lot 18420 — Set of Snap-On combination box end wrenches, sizes 3/8" up to 3/4", and (1) combination curve Snap-O...
+
+- OrbitBid item number: 1-18420
+- Internal ID: 1705242
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On combination box end wrenches, sizes 3/8" up to 3/4", and (1) combination curve Snap-On wrench (7/8" - 15/16").
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/69462e41fa646ddf7b64/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bae2e8b91a2141e05e0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/492ea3525d0027ca1bc7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/38377f358262cb6a81b7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/752806cbf581e77b28d9/large)
+
+---
+
+## Lot 18421 — Set of Snap-On metric wrenches, size 10mm up to 19mm.
+
+- OrbitBid item number: 1-18421
+- Internal ID: 1705243
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On metric wrenches, size 10mm up to 19mm.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9d868350a16caeaeab1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c32bb5440320bf472c55/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd264358cd0ad6836588/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1252e94daf264450f595/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9864789fe367a1cbaeb4/large)
+
+---
+
+## Lot 18422 — Set of Snap-On combination wrenches, sizes 5/16" up to 7/8".
+
+- OrbitBid item number: 1-18422
+- Internal ID: 1705244
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On combination wrenches, sizes 5/16" up to 7/8".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d747a1e8d7b859be5a55/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9749440e583b6d5918d4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0c5fa0e393c40139f2e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb11c5bfa9c8b1de1609/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bb5af96117412ed67ee/large)
+
+---
+
+## Lot 18423 — Lot of Snap-On wrenches, sizes ranging between 7/16" and 1 1/4".
+
+- OrbitBid item number: 1-18423
+- Internal ID: 1705245
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of Snap-On wrenches, sizes ranging between 7/16" and 1 1/4".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8509099704ade4d5e9fe/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/98accda870f7bad173f4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9ceee8e6f431229a6cb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1aea4ab91ca5a4458258/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8883a60af9e62ed6164/large)
+
+---
+
+## Lot 18424 — Lot with (2) boxes of Snap-On angle head wrenches, sizes 3/8" up to 1 1/2".
+
+- OrbitBid item number: 1-18424
+- Internal ID: 1705246
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot with (2) boxes of Snap-On angle head wrenches, sizes 3/8" up to 1 1/2".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bb61cee6fc236abaf98/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0ddb24f7e5a892418b4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7a29244cd1994c4b697/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/60b18631c06547486681/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8e25524df765ef5c7b5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/780d25d3cf3b86c66e19/large)
+
+---
+
+## Lot 18425 — Set of Snap-On ratcheting combination end wrenches, sizes 3/8" up to 3/4", and (1) metric 13/15mm ra...
+
+- OrbitBid item number: 1-18425
+- Internal ID: 1705247
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On ratcheting combination end wrenches, sizes 3/8" up to 3/4", and (1) metric 13/15mm ratcheting end wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/40d3d79079aed031f688/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/297e045fd1838996f541/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/21ab83db6bf7dcd0084f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/44b67fcf9d9ebb13f66c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4cbe5bfe3c7c2bc4ff0/large)
+
+---
+
+## Lot 18426 — Lot of (4) Snap-On heavy duty long wrenches, sizes 11/16" up to 2", lengths are 20" up to 24".
+
+- OrbitBid item number: 1-18426
+- Internal ID: 1705248
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) Snap-On heavy duty long wrenches, sizes 11/16" up to 2", lengths are 20" up to 24".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aa7705072e97481cb9b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/76e1ae892ae7acad3e7e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d68819fc5dcf5730269/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/06601fa2d69de0f28271/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4a76dd1f8fe448ca4a7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/88f8c4b8003996b43c9f/large)
+
+---
+
+## Lot 18427 — Set of Snap-On wrenches, sizes 1 5/16" up to 1 5/8".
+
+- OrbitBid item number: 1-18427
+- Internal ID: 1705249
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Snap-On wrenches, sizes 1 5/16" up to 1 5/8".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/52fd96de8045c0f0ba9d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a35bb09b039dfe6d6e4f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c37e84bd5fed1633af3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/457e3528289f60638d0b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/25e9d173442db33e0395/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bbae1e1da99c30f8b38/large)
+
+---
+
+## Lot 18428 — (1) Snap-On 1/2" drive swivel head, dial type torque wrench, model TQFR250D, with case, and (1) Snap...
+
+- OrbitBid item number: 1-18428
+- Internal ID: 1705250
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 1/2" drive swivel head, dial type torque wrench, model TQFR250D, with case, and (1) Snap-On 3/8" drive dial type torque wrench, part #TQFR100A, with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/65c607a31d4423a29e8e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d430b5f522fe801c896/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/06eacd1ea0acdd2898d0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d00bb2025470740b4f5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0dd2bc61af1ac58d776/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fcdea488ce0be273cca/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/09dbcc48b1befd6c9023/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec84fda1565accedc865/large)
+
+---
+
+## Lot 18429 — (1) lot of Snap-On green handle screwdrivers.
+
+- OrbitBid item number: 1-18429
+- Internal ID: 1705251
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) lot of Snap-On green handle screwdrivers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/93158cfad368f149a73b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c81ffc5500de8f3ad14/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a63a2a9bb9b2290bccc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c7d024aeccebe385cc9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/94512b183ea8cc4cd6e9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3134371eb7b69648aa6f/large)
+
+---
+
+## Lot 18430 — (1) lot of Snap-On black handle screwdrivers.
+
+- OrbitBid item number: 1-18430
+- Internal ID: 1705252
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) lot of Snap-On black handle screwdrivers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/29fe47271dc60ec62f97/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/10afed262a17b0d704e4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c12f0a20ec51cde7ce47/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a05b7ab3d50fa8880a2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac89efc5b3fbd7a9beb5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c22e46de582fd642b95/large)
+
+---
+
+## Lot 18431 — (1) set of Snap-On mini-screwdrivers with vinyl carrying case.
+
+- OrbitBid item number: 1-18431
+- Internal ID: 1705253
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On mini-screwdrivers with vinyl carrying case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9d1f7a896c011830506/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ead603d3e8d19873bbc4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c80c2aa03aaa3895a2f2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a01fd53386f32b71dbb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2e8094ffe14687b6a11/large)
+
+---
+
+## Lot 18432 — Lot of Snap-On pick tools.
+
+- OrbitBid item number: 1-18432
+- Internal ID: 1705254
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of Snap-On pick tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdee85bbd378cba12b40/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa7a4359d6ff028bccbd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e46a6b5cb5dc0e210640/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4a5f363832268b28308/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c1dab728862b0615980/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/85c530567f20a4025346/large)
+
+---
+
+## Lot 18433 — Lot of assorted Snap-On pry bars with handles.
+
+- OrbitBid item number: 1-18433
+- Internal ID: 1705255
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Snap-On pry bars with handles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7553f938fe0023b3486d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc7d6bef2fce568051c0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa13cebae17a04ed910/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/933bdb4b5b4f3e264a9f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/aca95bf3faa13eda853c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c34b2a1d834c3384bcc8/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f45c158f1233360b4f02/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/54e81c06d7533a6e1d1d/large)
+
+---
+
+## Lot 18434 — Lot including (1) Snap-On, model HBFE56, dead blow hammer, (1) Snap-On, model HBFE48, dead blow hamm...
+
+- OrbitBid item number: 1-18434
+- Internal ID: 1705256
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On, model HBFE56, dead blow hammer, (1) Snap-On, model HBFE48, dead blow hammer, and (1) Snap-On approx. 3 lb. sledgehammer.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d264d36524c60b6bab2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b6d51221cea99a1e9cb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8be3f185d701b658d760/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b1f6b90f8ec34d8536f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/879ae08ea9450cc4f739/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb7950171f8412f91184/large)
+
+---
+
+## Lot 18435 — Lot of (8) Snap-On heavy duty pry bar tools.
+
+- OrbitBid item number: 1-18435
+- Internal ID: 1705257
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (8) Snap-On heavy duty pry bar tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b0ff60b73950f42e395/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/218786c50b37b70da1ca/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e614d484b3d39141970/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d0f85068d9102c7f8c0/large)
+
+---
+
+## Lot 18436 — Lot of assorted Snap-On chisels and punch tools.
+
+- OrbitBid item number: 1-18436
+- Internal ID: 1705258
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Snap-On chisels and punch tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/47b104efb124d96761e0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/93c52da48d2c5fc9cea3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f95cc1eb4875869957b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/97be96b5ceffa9acfe12/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f02eafc0ecee4b03ad31/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0274fdb74a97f6c519f4/large)
+
+---
+
+## Lot 18437 — Lot including (1) Snap-On, model MG325, 3/8" drive air impact tool, (2) Snap-On air chisel tools, an...
+
+- OrbitBid item number: 1-18437
+- Internal ID: 1705259
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On, model MG325, 3/8" drive air impact tool, (2) Snap-On air chisel tools, and (1) Snap-On Bluepoint 1/4" drive air ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/09f8388988a7a98366d5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/77bd59d2ecbad2dc1510/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a225a2418d69af8b8f2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1589842817413dc2f8f8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d84de38cf8c0ed757620/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/745a1f177a0bdbc4d90f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4e15d05971f8033ce5e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/729fe8e2cba53d48c58b/large)
+
+---
+
+## Lot 18438 — (1) Snap-On 3/8" drive air ratchet.
+
+- OrbitBid item number: 1-18438
+- Internal ID: 1705260
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 3/8" drive air ratchet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/80bb8a3f26bf831c6d68/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e984464ec240512bb90e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/74543332ab71835e3105/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/613201320932817d4ca8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa960d890e283f8dd16/large)
+
+---
+
+## Lot 18439 — (1) Snap-On, model PH3050A, air chisel with assorted bits.
+
+- OrbitBid item number: 1-18439
+- Internal ID: 1705261
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On, model PH3050A, air chisel with assorted bits.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/84898d8881efaf61776e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/396c1bdebbf9fe40def8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/90d738a8fef9b0781a23/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2372fb90f157cbf8903a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a2468b18573df521b69/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7e7ca0a7c4d32471156/large)
+
+---
+
+## Lot 18440 — (1) set of Snap-On, model RTD33, rethreading kit with case.
+
+- OrbitBid item number: 1-18440
+- Internal ID: 1705262
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On, model RTD33, rethreading kit with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5293ae6c1c80c4c6346/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/99f9e68268d8c96a1318/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1c567dadbf5070bce16/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/44e507b5a49a6f2b429d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c780d61ea6925d67e93/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/241e82560be128d1abee/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ab4fdcfb84405fe1afc/large)
+
+---
+
+## Lot 18441 — (1) Snap-On, model A257, 28-piece bushing driver set, appears to be complete, with case.
+
+- OrbitBid item number: 1-18441
+- Internal ID: 1705263
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On, model A257, 28-piece bushing driver set, appears to be complete, with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed27e578137ce4fc8af5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/51e0f45097b158f33460/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1929dcfaaf598b6535c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f98948e4813db75f8f1a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bce9993e8cdfd05e7ed/large)
+
+---
+
+## Lot 18442 — Lot including (1) Snap-On drill extractor set, (1) partial Snap-On solid carbide bur set, (1) comple...
+
+- OrbitBid item number: 1-18442
+- Internal ID: 1705264
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On drill extractor set, (1) partial Snap-On solid carbide bur set, (1) complete Snap-On, model BEX13A, bolt extractor set (1/4" - 3/4", 8mm-19mm), and (1) Snap-On 10-piece screw extractor set, appears to be complete, sizes 1/8" through 13/32".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cff00d4fab5033f7d5c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/987210a57c8ed7a8761e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8456a6f85631d98037a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/05cf4dbfb14b47487a6d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b84c8a6582609a81e161/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/37937f7dfdcf32f5084e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3da06e540577c8f03949/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a618cdb2389926020b0/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/88f5b602f62638a21ead/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/b95e93a5312a37ab8fa4/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/1aba808bddba02f152aa/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe82739f0f82cf8dd31c/large)
+
+---
+
+## Lot 18443 — (1) Snap-On 3/8" drive hand held impact driver set with case.
+
+- OrbitBid item number: 1-18443
+- Internal ID: 1705265
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 3/8" drive hand held impact driver set with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d611c55447c2386cb1e6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ac85a34d7ae54bb8fc4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/03cefcac30ce36ee5729/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f5d60b7c6216b4db8e1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a47a7352d55bb3c41eec/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e78a50189a8bb5849a4/large)
+
+---
+
+## Lot 18444 — (1) set of Snap-On, model A-157A, bushing driver set with metal case.
+
+- OrbitBid item number: 1-18444
+- Internal ID: 1705266
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On, model A-157A, bushing driver set with metal case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca4cff8a749e2566efbe/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/078160093538fe4e1062/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1f83fe6e9e1459caefc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3b6bb5c8443c0d9baee/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ee09e1ffc7a27639201/large)
+
+---
+
+## Lot 18445 — (1) Snap-On, model PB25, diesel tune up set with clamp.
+
+- OrbitBid item number: 1-18445
+- Internal ID: 1705267
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On, model PB25, diesel tune up set with clamp.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/70401ed210c1a5bfca63/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4701cb768c92fc83c78c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/786e86e863be9fea8996/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/804e66395138d1eabd9b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bb4a7ecf23edcc3d5af/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/325600b72138b4292ee5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c02b6ee9136cf2a302a/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/17b127240c0939777241/large)
+
+---
+
+## Lot 18446 — (1) set of Snap-On ring plier tools.
+
+- OrbitBid item number: 1-18446
+- Internal ID: 1705268
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On ring plier tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c0e6e20fe6f4f581c19/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c280086457e03067d0a9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cca6bc247b393c452244/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc133fe00d53630b8341/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b424ddac4bea48761d2c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f54e0bbfa123cf3e05a1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f401d9463b212ef9b9c/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/045afb82aa7a154fd16e/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cde18d2c8e7c707976d/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbb7f3294beb94049090/large)
+
+---
+
+## Lot 18447 — (1) Snap-On collet set with stud remover.
+
+- OrbitBid item number: 1-18447
+- Internal ID: 1705269
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On collet set with stud remover.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f8588d877a12206cf22/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/71855afbd042e1451330/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ec1f3ceddb1647a4c52/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dcc2a335e2739de6b186/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fe7d844f7204858d7f5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b286ab02fe830ba12114/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1a853ce3bfc5a27a96d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c660420d412f56c27ed1/large)
+
+---
+
+## Lot 18448 — Lot including (1) Snap-On, model YAKS32A, gas soldering auto ignition multi-kit (25-130 watt) with a...
+
+- OrbitBid item number: 1-18448
+- Internal ID: 1705270
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On, model YAKS32A, gas soldering auto ignition multi-kit (25-130 watt) with a model YA456 electronics tweezer set, and (1) Snap-On, model A159, door handle removal tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8519bb2a4cd5c1c85f4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2161bdf90833c4bc8d0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/46537bd9172478cb8cc4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0096b8d8335cd085703/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d53bc9cdf770ad5fabde/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fe8d49f7a2b77f2f22d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bd0b80ad2dcf9aed912/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/80d44c5534e8baf90ac2/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c710d8299c3537ccd42/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bd878caada1cdd34d37/large)
+
+---
+
+## Lot 18449 — (1) Snap-On 1/8" through 1/4" T-handle hex head tool set.
+
+- OrbitBid item number: 1-18449
+- Internal ID: 1705271
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 1/8" through 1/4" T-handle hex head tool set.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/61d6a4fe914fb43060d3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f756d9bdf657f6ec85e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ea03e3fa853b6c9bbd3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/307044628765ff3a95f8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/21d3c6b052788b0fd711/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1e243ccbec23e3d6ed5/large)
+
+---
+
+## Lot 18450 — (1) set of Snap-On, model MT320, armature tester, (1) Snap-On, model TA360, torque angle gauge, (1) ...
+
+- OrbitBid item number: 1-18450
+- Internal ID: 1705272
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On, model MT320, armature tester, (1) Snap-On, model TA360, torque angle gauge, (1) Snap-On vacuum pressure gauge, and miscellaneous other Snap-On tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b48c8c7aaadee36b9ec/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6bacb7f744147633c110/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/842ba4f04062add4b5c2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/88d48e9847c03d30afb1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a0ef265f1f4c293a03e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/27fc645fabd375840100/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/76fe2c906e6c20bf0668/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/dba46584b948f54b0cbb/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1e8a2ba2f57e399017c/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5636415b58ef4c4f4b6f/large)
+
+---
+
+## Lot 18451 — Lot of assorted Snap-On needle nose pliers, side cutters, channel locks, curved needle nose pliers, ...
+
+- OrbitBid item number: 1-18451
+- Internal ID: 1705273
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Snap-On needle nose pliers, side cutters, channel locks, curved needle nose pliers, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e03c52151739844d6215/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebd3b592626eaccde566/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6c607617e1962c561bf/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b465b7aae6abc84a99ee/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8ad1596f01b36d64d4e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9bf11b134f8d49a8a5d2/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf481345943e86757ca8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/435454e1cc45b95e063d/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcdfc3b13786302160d4/large)
+
+---
+
+## Lot 18452 — (1) set of Snap-On, model SHCP1B, hose clamp pliers with flexible cable, (1) Snap-On seal removal to...
+
+- OrbitBid item number: 1-18452
+- Internal ID: 1705274
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) set of Snap-On, model SHCP1B, hose clamp pliers with flexible cable, (1) Snap-On seal removal tool, and set of Snap-On, model SPS2SS/SPS2LS, seal removal tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c94007c4647a6e2994c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac38eaac1fe96de5c8b9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b1219a003733b98b5fd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d25a602f9d0cb8c8c0a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/357b10920afbc8303be8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0dbdddce19fec1c53ba5/large)
+
+---
+
+## Lot 18453 — Lot including (1) Snap-On 3/4" drive ratchet with approx. 36" handle, (1) Snap-On 1" drive ratchet w...
+
+- OrbitBid item number: 1-18453
+- Internal ID: 1705275
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) Snap-On 3/4" drive ratchet with approx. 36" handle, (1) Snap-On 1" drive ratchet with approx. 27" handle, and (1) 1" drive breaker bar with approx. 27" long handle.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/01e3b51da3ed6b44ba65/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/78777db7aee4d61c4375/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f87b253d1b23d2ed38ba/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a8bc2410bf6f78081b58/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4406ae916c10cc16e5bd/large)
+
+---
+
+## Lot 18454 — Lot of (4) various torque wrenches, includes 2 1/2" drive, and 2 3/8" drive.
+
+- OrbitBid item number: 1-18454
+- Internal ID: 1705276
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) various torque wrenches, includes 2 1/2" drive, and 2 3/8" drive.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/506692be1ac2b3e56bc8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d51bc73010ab9083f0e8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/263bc21d11ec485e9f7f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4872865a61c0baead33e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4fdb320fa91962f1a2e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/63f8398d27f48fe19a98/large)
+
+---
+
+## Lot 18455 — Lot of assorted 1" drive impact and regular sockets with (1) Easco 3/4" drive ratchet, (1) 3/4" driv...
+
+- OrbitBid item number: 1-18455
+- Internal ID: 1705277
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted 1" drive impact and regular sockets with (1) Easco 3/4" drive ratchet, (1) 3/4" drive breaker bar with 20" handle, (1) 3/4" drive 8", and (1) 1" drive 8" extension, (1) BX-4 Corporation, model TD-1000, 1/4" drive ratcheting breaker bar with 18" handle, and misc. other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9bd692e163517cda65/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c008d97643a521a586f5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7d207e5d3233c24655c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/287e3e34f1dfa1a8f30b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/133ccaec495c9c24ff60/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f67d8148d6f6eb70bd36/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/90c605534148e5453ad5/large)
+
+---
+
+## Lot 18456 — Large lot of assorted grinding wheels, wire wheels, sanding wheels, (1) Makita, model GEO600, electr...
+
+- OrbitBid item number: 1-18456
+- Internal ID: 1705278
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted grinding wheels, wire wheels, sanding wheels, (1) Makita, model GEO600, electric grinder with 1/4" collet, (1) approx. 16" tool box with various grinding wheels, and (1) model LP-257, mounted point set with steel case (some points are used).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e5e52874d5851ac9915/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2815409dc4d078e96df/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/678ca9feab7836a91f18/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9b6bfee48479f133451/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0fd9636ad6dfe46599d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e780b69df47eee268ce5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/956048d7963c27a5b335/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cc6fb29056306a72806/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c95b35bb7b322e256fd4/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/e315206592ee91dfac39/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e23cc5bfc764d41b01f/large)
+
+---
+
+## Lot 18457 — Large lot of assorted grease guns.
+
+- OrbitBid item number: 1-18457
+- Internal ID: 1705279
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted grease guns.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f88db4c15afba7d58f46/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad2e4a8230fa07ac3136/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/445ebe7add11f1e5e79b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5cbb0272e757a89d0d4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/727710be97968a1e072a/large)
+
+---
+
+## Lot 18458 — Lot of (6) various ratcheting combination wrenches, sizes 3/8" up to 1 1/8".
+
+- OrbitBid item number: 1-18458
+- Internal ID: 1705280
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (6) various ratcheting combination wrenches, sizes 3/8" up to 1 1/8".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2029110f8d2ca42b8282/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd8d0c49356ee14acd0b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6e63abb7bf0c59136ec/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/64081ed07e4b20d04e2f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdc38cdcde5bcec4653c/large)
+
+---
+
+## Lot 18459 — Large lot of assorted socket sets, ratchet sets, most appear to be 3/8" drive, all with cases and ra...
+
+- OrbitBid item number: 1-18459
+- Internal ID: 1705281
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted socket sets, ratchet sets, most appear to be 3/8" drive, all with cases and rails.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f6850558c1380e342fd1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c8067ec0760764a73e9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1dc2dc2bd6fbb333da2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9eec6b07cfa50026282e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/36ce0d338aa84579e806/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3feea787c4141c1d12b5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea28ec7b2fb0a885682b/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/66699d850eb59004e153/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/040babb0efdb84106db3/large)
+
+---
+
+## Lot 18460 — Lot of assorted tools, includes (1) set of Tool Shop wrenches, sizes 9/16" up to 1 1/4" with roll up...
+
+- OrbitBid item number: 1-18460
+- Internal ID: 1705282
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted tools, includes (1) set of Tool Shop wrenches, sizes 9/16" up to 1 1/4" with roll up case, (1) set of 3/8" drive crow foot wrenches, (1) 3/8" drive swivel head ratchet, various channel locks, vise grips, side cutters, needle nose pliers, etc.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/21a46ab5111878731786/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f2c26df32fbd834bbf6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bffa0abc7e1478597845/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7ec7ba7188016ac8a06/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e154039e3c2841bf34de/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1850f33c9e9e0b5148e4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aa57cb80b203fd84df2/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ee6ae8694128cbacf3c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/29dea8b50ec0ab5fe2a7/large)
+
+---
+
+## Lot 18461 — (1) oil filter removal tool with various adapters.
+
+- OrbitBid item number: 1-18461
+- Internal ID: 1705283
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (1) oil filter removal tool with various adapters.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8cedc6a13ce37d749fa1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bce6acdcd1a7f1305a62/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7186e0323238cf4738c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c60fd03cd8063db77735/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8760f3b724f6fb49f9d5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb203192a0366075da9b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/02c02c467fba8ecdd3ed/large)
+
+---
+
+## Lot 18462 — Set of box end/ratchet end wrenches, sizes 5/16" up to 3/4", (1) set of Gear Wrench brand box end/ra...
+
+- OrbitBid item number: 1-18462
+- Internal ID: 1705284
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of box end/ratchet end wrenches, sizes 5/16" up to 3/4", (1) set of Gear Wrench brand box end/ratchet end wrenches, sizes 1/4" up to 1".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f996dbcc16107263669/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c05974388c6594d6c2d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5155c72d6b8aa3ac3cce/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/82d31f79bb457c13eb51/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cae3d902a4e688cc2d7d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f82e9796be0bd385acc3/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/233ade29dc2f96c1cbd6/large)
+
+---
+
+## Lot 18463 — Lot of assorted chisel tools and a bag of various hand tools, including assorted wrenches, channel l...
+
+- OrbitBid item number: 1-18463
+- Internal ID: 1705285
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted chisel tools and a bag of various hand tools, including assorted wrenches, channel locks, air blower nozzles, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/31f8e996b79acded94b4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2f710289bf2a86e972d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5394d627dd7ffb864815/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/057056b2241a479517b4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3511712bb367ffabb276/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ce7e1717b2f7a46ea43/large)
+
+---
+
+## Lot 18464 — (2) Balkamp, model 4-1162, pressure tester for cooling systems, and pressure caps, with steel case.
+
+- OrbitBid item number: 1-18464
+- Internal ID: 1705286
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: (2) Balkamp, model 4-1162, pressure tester for cooling systems, and pressure caps, with steel case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa4f6002d11ac378e631/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc3fe72a9a837f8ae8ad/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa88919c8c295428b473/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/699fd53e13adf6759a8e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6068d17c968dd06f0a04/large)
+
+---
+
+## Lot 18465 — Set of (3) various air needle scale removers with a new Central Pneumatic 19-piece needle scaler rep...
+
+- OrbitBid item number: 1-18465
+- Internal ID: 1705287
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of (3) various air needle scale removers with a new Central Pneumatic 19-piece needle scaler replacement set.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc86aad7af1e3aaad3fc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/67c09c8a363eccff397c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba1ab4facf8a8f18eb64/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b07b62a2b580f78fa7a5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8024d7c126e3de3f6017/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/95ad704ac331c4cb7f9e/large)
+
+---
+
+## Lot 18466 — Set of Facom #76803, 5-piece starter punch set, (1) Mayhew Pro #62065, long pin punch set, both with...
+
+- OrbitBid item number: 1-18466
+- Internal ID: 1705288
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T22:30:00Z
+
+**Fields:**
+
+- General Description: Set of Facom #76803, 5-piece starter punch set, (1) Mayhew Pro #62065, long pin punch set, both with roll up case, (1) Greenfield Stamp & Tool #83035, rugged runt set, (1) set of Williams pick tools, (1) set of General #S-76, drive punches with case, and various brass punches.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc0f13478dc6145cb84b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/60d11d7a6de23bd91f26/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f5b55ff0e583a17a8d9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/96b5c74b6b453767643f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/287df13c837993ff209f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf0961fbd6240e64e55d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f312ee3d3b0e9cc0b89/large)
+
+---
+
+## Lot 30-1329 — Lot of Reamers, testers, and random tools
+
+- OrbitBid item number: 1-30-1329
+- Internal ID: 1799843
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of Reamers, testers, and random tools
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5453892f641767aeadab/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/27b0b0e237cea94f45fc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/be07275cd7ea2ba442e4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/837cda9b4d766e3da751/large)
+
+---
+
+## Lot 30-1330 — Murphy Diesel Fuel Injector Tool
+
+- OrbitBid item number: 1-30-1330
+- Internal ID: 1799850
+- Current bid: $5
+- Bid count: 0
+- Photo count: 2
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Murphy Diesel Fuel Injector Tool
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/549cb4e5cef20e82897a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/53e3d69369d6fd693844/large)
+
+---
+
+## Lot 30-1331 — Snap-On Cummins Injector Adjustment Gauge, m#GA707
+
+- OrbitBid item number: 1-30-1331
+- Internal ID: 1799864
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Snap-On Cummins Injector Adjustment Gauge, m#GA707
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/38105369d7f1c0da8821/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/15303f3e3e7b5c9fe4ed/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd107eaf0b5dfb88f4af/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cca2b942fa09d10b5fd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e88ab10bf7fe78e2cb5/large)
+
+---
+
+## Lot 18467 — Lot including (1) make and model unknown 3/8" drive air impact tool, (1) make and model unknown 3/8"...
+
+- OrbitBid item number: 1-18467
+- Internal ID: 1705289
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) make and model unknown 3/8" drive air impact tool, (1) make and model unknown 3/8" drive air ratchet, (1) Ingersoll-Rand, model 329, 1000 SPM air powered reciprocating saw, and (1) NAPA Professional, pistol grip, 7" air powered needle scaler chisel tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4288f6a1afbb959a1927/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc92769db79e8bc3d108/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa80fdad44ae4a79d9db/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8aeabca35f2848981fae/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d83a97a0cfda8a7086f4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/678734c20ab4b9291640/large)
+
+---
+
+## Lot 18468 — (1) Ingersoll-Rand, model unknown, 3/8" drive air impact tool, and (1) Ingersoll-Rand, model 2235, 3...
+
+- OrbitBid item number: 1-18468
+- Internal ID: 1705290
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Ingersoll-Rand, model unknown, 3/8" drive air impact tool, and (1) Ingersoll-Rand, model 2235, 3/8" drive air impact tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/24ec637db942630b443d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/503cb501a8010d795bef/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce0d9940f0100eac4edb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e41281cb2ba31cf00c61/large)
+
+---
+
+## Lot 18469 — (1) Central Pneumatic, item #92144, 1/4" air die grinder, appears to be new, and (1) Blue Point 1/8"...
+
+- OrbitBid item number: 1-18469
+- Internal ID: 1705291
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Central Pneumatic, item #92144, 1/4" air die grinder, appears to be new, and (1) Blue Point 1/8" right angle pencil die grinder, item #AT1070RA.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/eae228edc8390a623ffa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/01ff338ed262a060c74a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7526abb2675924d8d942/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f9283926037b58f348a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f9c331579e0fc93b8e9/large)
+
+---
+
+## Lot 18470 — (1) MAC Tools, model AW234P, 3/8" drive air impact tool, and (1) Ingersoll-Rand 3/8" drive air impac...
+
+- OrbitBid item number: 1-18470
+- Internal ID: 1705292
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) MAC Tools, model AW234P, 3/8" drive air impact tool, and (1) Ingersoll-Rand 3/8" drive air impact tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9a4bbb978171468532a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8b87261e03a9ccba93c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/95ee7f65ca6e28953aa7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cc08ef4a26bd614c75e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb42fb4cf7bedbb7d628/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/628940617b7d5a793ed7/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dcf809f2b6d767e988be/large)
+
+---
+
+## Lot 18471 — (1) Fowler, item #52-483-888, deburring kit with case, (1) Central Pneumatic 1/4" air angle die grin...
+
+- OrbitBid item number: 1-18471
+- Internal ID: 1705293
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Fowler, item #52-483-888, deburring kit with case, (1) Central Pneumatic 1/4" air angle die grinder, model 32046, (1) Blue Point, model AT157R, 3" reversible cut off tool (18,000 RPM), and (1) Central Pneumatic, item #93088, air angle grinder.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3074252e09b1ac7cba61/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bcbe6f41a05e8b8f80f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/96d14fb496472f9be0a9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cea27999960b65f78531/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0b97e2735b1ac90050d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1da9ef42ce3cc5aaa65d/large)
+
+---
+
+## Lot 18472 — (1) Dremel, model 290, electric engraver, and (5) Central Pneumatic 1/4" air angle die grinders.
+
+- OrbitBid item number: 1-18472
+- Internal ID: 1705294
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Dremel, model 290, electric engraver, and (5) Central Pneumatic 1/4" air angle die grinders.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc85548225d7c1a12a15/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e5b1064acd14cf958c3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c3ee9044375da4fc71f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/491a0c7b6db55c14f646/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcd57cd45afa5d4db97b/large)
+
+---
+
+## Lot 18473 — (1) Central Pneumatic, item #01704, 90 PSI/3700 SPM air file, (1) Central Pneumatic, item #60627, 3/...
+
+- OrbitBid item number: 1-18473
+- Internal ID: 1705295
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Central Pneumatic, item #01704, 90 PSI/3700 SPM air file, (1) Central Pneumatic, item #60627, 3/8" air belt sander (13" x 3/8" belt/90 PSI), (2) Central Pneumatic, item #53177, 1/4" die grinders, and (2) packages of sanding belts for the air belt sander.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/277a6f8ba88d0b1e01a5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/62097b41f4cf4b35d774/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/806a5d0095e8730c8ba0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae826060fd359da477a2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f83acc5fa164aa0969d/large)
+
+---
+
+## Lot 18474 — Lot of (6) Central Pneumatic, 1/4" air die grinders.
+
+- OrbitBid item number: 1-18474
+- Internal ID: 1705296
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (6) Central Pneumatic, 1/4" air die grinders.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c805a67c68cf41535857/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/358937c0f45f57a7be68/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/039c39baa2e7706b7363/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3711b97b2c76c5a75de/large)
+
+---
+
+## Lot 18475 — Lot including (3) Central Pneumatic, 1/4" die grinders, (1) Central Pneumatic, model unknown, air di...
+
+- OrbitBid item number: 1-18475
+- Internal ID: 1705297
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (3) Central Pneumatic, 1/4" die grinders, (1) Central Pneumatic, model unknown, air die grinder, and (1) make and model unknown air die grinder with angled head.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c4173bec5558d77604e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5eb21f3def981fa4f2e5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7c5e595c87f3f2deaae/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0efbe44278e54d758d1b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/405f0952e045d72dfa1c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c73e67acabc87c707eb/large)
+
+---
+
+## Lot 18476 — (1) 1/2-ton capacity, and (1) 1-ton capacity plate lifters, and (2) mechanical plate lifters.
+
+- OrbitBid item number: 1-18476
+- Internal ID: 1705298
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) 1/2-ton capacity, and (1) 1-ton capacity plate lifters, and (2) mechanical plate lifters.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e56cac5f63ce1c1438a0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e294f84c07f4a508addd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e5a261dbc730419550a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/75e946ba544aa33745a1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/17868153d158c0b9928a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9eeef9e6377db3e4b995/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f01840aa29d0c4a6494/large)
+
+---
+
+## Lot 18477 — (1) Central Hydraulics, model 36397, 8-ton, round bottom, long ram hydraulic jack.
+
+- OrbitBid item number: 1-18477
+- Internal ID: 1705299
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Central Hydraulics, model 36397, 8-ton, round bottom, long ram hydraulic jack.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4a867a90ee4a4d9ce87/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e72eb12c2890cbb0fdba/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e14c232a453e4f63702b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/70eaa8a6010150acd985/large)
+
+---
+
+## Lot 18478 — (1) 115V Lightnin, model L, electric paint mixer with (1) 20", (1) 18", and (1) 19" metal tool box.
+
+- OrbitBid item number: 1-18478
+- Internal ID: 1705300
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) 115V Lightnin, model L, electric paint mixer with (1) 20", (1) 18", and (1) 19" metal tool box.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f300fe20fecba244e40/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/adb35d26f8786968702a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/237bb4f90f5b53dfb394/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/453f6d200fadd40d3dca/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/286592b3976ffc5341cd/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4b25b2247c43fc5bcf3/large)
+
+---
+
+## Lot 18479 — (2) boxes of assorted files, some with custom golf ball handles.
+
+- OrbitBid item number: 1-18479
+- Internal ID: 1705301
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (2) boxes of assorted files, some with custom golf ball handles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/27b08b2f0ade9054dc3f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/57e6a20bfdf244cee81e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0ada2870e14323f815c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd6e602ec4c26f1b0a47/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/81d5d79bcea32bd35844/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb60f7fc4ba1014bccd6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/871abd8d3b6cb3f1faa4/large)
+
+---
+
+## Lot 18480 — (2) boxes of assorted files, some with custom golf ball handles.
+
+- OrbitBid item number: 1-18480
+- Internal ID: 1705302
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (2) boxes of assorted files, some with custom golf ball handles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1805d853137effeb0e6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/85fcb2ba214b47aaf383/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d06cc8435bf488be4d99/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a28ed9253a8d7571698/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/aeaf7f1cf95ae70d430c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f5b730969d70221bb5c/large)
+
+---
+
+## Lot 18481 — Lot of assorted Allen wrenches, and Torx wrenches.
+
+- OrbitBid item number: 1-18481
+- Internal ID: 1705303
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Allen wrenches, and Torx wrenches.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/476a51cbb072d1857c34/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5eafc30625b69a9181ea/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6251dee98e85a33a8dd6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b383df94e2e3fc087a6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/681e9f0c36efedb6c5d9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/eabdf161615fa14a8041/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0a750917d1a641380fb/large)
+
+---
+
+## Lot 18482 — Lot of (2) channel lock type, adjustable filter wrenches.
+
+- OrbitBid item number: 1-18482
+- Internal ID: 1705304
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) channel lock type, adjustable filter wrenches.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1473d4c0631610889f97/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/625038e31187baefaf7b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ce5a14f6e755315dc6e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/69fa511d036318cdc0bb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4da265e3ef283bcfe91d/large)
+
+---
+
+## Lot 18483 — Lot of assorted snap ring pliers.
+
+- OrbitBid item number: 1-18483
+- Internal ID: 1705305
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted snap ring pliers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc3eea549937d1e589f9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/efce51016ac4d755c720/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4938cac0de7ab1793272/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/676a5cf5ddbd9106162b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/54323d3aae7963224a61/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a72786fc738b421f6081/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4220ab6dfc8a7d5326bf/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c25ddb7582f945e7f8f/large)
+
+---
+
+## Lot 18484 — (1) Kal Equip #2204, digital multimeter with case.
+
+- OrbitBid item number: 1-18484
+- Internal ID: 1705306
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Kal Equip #2204, digital multimeter with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/55ff378b8bcb6f489491/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ede47619610cb99954d3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c55829a97625bc309552/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/340e762574c169697a2e/large)
+
+---
+
+## Lot 18485 — Lot of assorted pick sets, and picks.
+
+- OrbitBid item number: 1-18485
+- Internal ID: 1705307
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted pick sets, and picks.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d503437893886dd8a88/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ddfd87e5fd1132d3431/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a43cdae83947b8251307/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/95d6011788d866da773a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/848a564d595e11d42858/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3e76743849532a2d0e8/large)
+
+---
+
+## Lot 18486 — (1) Lang internal and external retaining ring tool kit with plastic case.
+
+- OrbitBid item number: 1-18486
+- Internal ID: 1705308
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Lang internal and external retaining ring tool kit with plastic case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/abd0ed648636bba66ed5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb4e1e1a7fc24f82484c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e503b83db7b0f1651b80/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbed9955bafd22d0aaca/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/328861bc31f24400cf86/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/254ebedc9f99bf9a9311/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c630295618be471808d3/large)
+
+---
+
+## Lot 18487 — (1) Ridgid brake line flaring tool, (3) various brake line bending tools, (1) Old Forge #7203, doubl...
+
+- OrbitBid item number: 1-18487
+- Internal ID: 1705309
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Ridgid brake line flaring tool, (3) various brake line bending tools, (1) Old Forge #7203, double flaring tool kit, and (1) Blue Point, model TF-528-D, double flaring tool kit, both with cases.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b08a3a5dbeb65ad1d70/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c86f52ab56fc0ad0441/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/58d2c7ddb500705378c0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/699f1e29bca2593faefe/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab0d2dea414e60d3a368/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/14633e744515622449c0/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc8c5a48bd58736b65c5/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/211b31ebcc9cfb11180d/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/309fad910883059717f5/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f99d5be67dadc8a4f422/large)
+
+---
+
+## Lot 18488 — (1) Blue Point #1020, screw extractor set with plastic case, (1) Blue Point, model PGH8A, 11-piece g...
+
+- OrbitBid item number: 1-18488
+- Internal ID: 1705310
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Blue Point #1020, screw extractor set with plastic case, (1) Blue Point, model PGH8A, 11-piece gasket punch set, (1) Blue Point, items #CTS561, fastener drive tool set, and (1) Chicago Welding butane pencil torch.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ef926dcffce67b38230/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a4f24c414a5d4f6339d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/42f64e785054945bbadd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/13416d87d859869bf0f2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc11178c5448e582e403/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/257b162205c106dc84d6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/572d287f48f731b1d8d6/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a74ecaf5c25901bbd18/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f91eaab741fd439add6/large)
+
+---
+
+## Lot 18489 — Lot of (5) various rubber handle prying and scraping tools.
+
+- OrbitBid item number: 1-18489
+- Internal ID: 1705311
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (5) various rubber handle prying and scraping tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6abc18cc2a00bdb5eab0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1a451280464d0621939/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/661f5896380c9923d43b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2427da4c357c3234270b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c2ab76f96b00cd064af/large)
+
+---
+
+## Lot 18490 — Lot of assorted vise grip style welding clamps.
+
+- OrbitBid item number: 1-18490
+- Internal ID: 1705312
+- Current bid: $5
+- Bid count: 0
+- Photo count: 13
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted vise grip style welding clamps.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5ff4ddbc077df68641c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbe1b46613df852a00d4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c63fa9663120e4fd842e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f45fcc197de96880a0d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/41e2d0f72b3507db7e03/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e7d4b5ef1adaaf78a39/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c701d38ff0321048f527/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0650ac5875e1ddbb0d93/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/33edbc8ac95975c35528/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1c3e179d679b2461266/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3aa42351ce42c15c196/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/964fec1590c2c2251350/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2148239bb9dc1e850aa/large)
+
+---
+
+## Lot 18491 — (1) approx. 60" crow bar, and (2) approx. 60" pry bars (1 with handle).
+
+- OrbitBid item number: 1-18491
+- Internal ID: 1705313
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 60" crow bar, and (2) approx. 60" pry bars (1 with handle).
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf2f8988fd354f784b9b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b129c1c495436e3a6f2/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb608625377ecabbce42/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/73badb61035a67ed3c26/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/db05e9c5b2abbdb0ca00/large)
+
+---
+
+## Lot 18492 — Lot of assorted wrenches, and (1) bit driver set with hand held driver tool.
+
+- OrbitBid item number: 1-18492
+- Internal ID: 1705314
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted wrenches, and (1) bit driver set with hand held driver tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2457aaacaac3ed5303d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2371e706f2c82e358ac/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b87486e86665bd46c11f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab85e1a0df9f35768e10/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbae87a14c0ce141ce14/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/19e840b1f91fb5b3c7b6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c395a8baa8ae2f50863/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/00386c23ab46dc7e1700/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/801a4adf48224e9a72c0/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/895585ad7883ad6ea088/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9938d9eac7ff21ca921/large)
+
+---
+
+## Lot 18493 — Set of (3) portable LED lights with magnetic base.
+
+- OrbitBid item number: 1-18493
+- Internal ID: 1705315
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Set of (3) portable LED lights with magnetic base.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b7c27c7478aa165d1e4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/197e2a955c78b89a5a9f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/44f3db81357805967500/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/19350f8c1a0f3aa86aae/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/271356ae048f23b8d986/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4b81d9f5c0b3f550d51/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/38faf0ec9d427bd314f0/large)
+
+---
+
+## Lot 18494 — Lot of assorted Helicoil thread repair kit items.
+
+- OrbitBid item number: 1-18494
+- Internal ID: 1705316
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted Helicoil thread repair kit items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/936d336947cbb543226c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4ff871f617437d6979b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/74376104bec23738afa7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6143a6934942b608da9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dc07359d320aec97e50/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ae8ad1b042f566e8d10/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/47a969e17af02815ee95/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bf13cc2fcc61347e0d0/large)
+
+---
+
+## Lot 18495 — Lot of assorted nut drivers.
+
+- OrbitBid item number: 1-18495
+- Internal ID: 1705317
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted nut drivers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f170eef42620bda6ef3e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a89835f536b6c1ebf104/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/64cc3801950d9deb4213/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa356a14e20d660f0932/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dc7318f1ae3f725ca33/large)
+
+---
+
+## Lot 18496 — Lot of 8"-10", and 12"-13" adjustable wrenches.
+
+- OrbitBid item number: 1-18496
+- Internal ID: 1705318
+- Current bid: $5
+- Bid count: 0
+- Photo count: 13
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of 8"-10", and 12"-13" adjustable wrenches.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d65f712cbeec50d75feb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/407ecda899d1c7c8c371/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2f5d0ba1e60d9506840/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c637d530485964123a79/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/23ff99678310b116b5ec/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f48008d3f0321cfcc4a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bac2f1872e68129a69cd/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1da7aaf0ab04979dc4a9/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/897d5a89971ce605b893/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/94a3e2efed81c9f004db/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/cca971abdb9cc7209b41/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/11821f5084021c869f5b/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0bce81aba97e48d606fa/large)
+
+---
+
+## Lot 18497 — Lot of assorted hole saws and accessories.
+
+- OrbitBid item number: 1-18497
+- Internal ID: 1705319
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hole saws and accessories.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/70f75faa54981a069b98/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8f32c2de737a4db895f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/06f97d2e2ffd34025b52/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7ce0e24ec6e9fc6cddd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bffde18e474a91b83b5b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/399ac5eeac4daf66dab1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b88ab6fee461438dba3/large)
+
+---
+
+## Lot 18498 — Lot of Grip, size 1 3/8" up to 1 3/4" crow foot wrenches with case.
+
+- OrbitBid item number: 1-18498
+- Internal ID: 1705320
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of Grip, size 1 3/8" up to 1 3/4" crow foot wrenches with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/41750843fb0461e50c5d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/95c9dc2c40b70cf165b9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/472b0b60cbf8e73bd38c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef3d28263eac71c5b26e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4f1d55cf36b5ad96150/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/955290268058828b8054/large)
+
+---
+
+## Lot 18499 — Lot of assorted nut drivers, Alden wrenches, size 3/8" up to 13/16", assorted 3/8" drive sockets, wr...
+
+- OrbitBid item number: 1-18499
+- Internal ID: 1705321
+- Current bid: $5
+- Bid count: 0
+- Photo count: 14
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted nut drivers, Alden wrenches, size 3/8" up to 13/16", assorted 3/8" drive sockets, wrenches, and miscellaneous other tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/04009d1ddc50358bb723/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/37cc0137d97b53e8b10d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/24b00e488150e733f143/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4365bba775f4c3b2f2c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c8f6339eb9080f0c0f0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/964c7b0419b260dc0343/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c92e53e46497f6cff29e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/87f6c6a70422aef6971c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f40ec5172a40eba8960/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/964b44d243376b3732bf/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/391039e321e86b6f735b/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/89a3f3511bfebe2e5fe6/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/fffb5d0d9b023dd77c1c/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/33328c33332e17b0d609/large)
+
+---
+
+## Lot 18500 — Lot of assorted screw extractor tools with (2) Irwin nut driver sets, and miscellaneous other items.
+
+- OrbitBid item number: 1-18500
+- Internal ID: 1705322
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted screw extractor tools with (2) Irwin nut driver sets, and miscellaneous other items.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/58bb6b9a80af4a6b60ed/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2fa105505b8934d65c7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/108f6c57533f265fb070/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/31aa7c6e49db62bee39e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/28a0698d5d069ea18cbf/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bedd11324dca556651ef/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/296596602d4488c72f08/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d0d229daa3e83054680/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d413ad50078835c4d690/large)
+
+---
+
+## Lot 18501 — (1) Band-It banding tool with bands and hand tools.
+
+- OrbitBid item number: 1-18501
+- Internal ID: 1705323
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Band-It banding tool with bands and hand tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/580eb4e2f0fb759a2629/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e6e618c65890b3b9588/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f4322f22b6735ccd217/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bde79c3826fcf07ee84e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/38a53f7eac3705f8e7c6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e0e65381db379364975/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/69b818b922cb592c707b/large)
+
+---
+
+## Lot 18502 — Lot of assorted hitch pins.
+
+- OrbitBid item number: 1-18502
+- Internal ID: 1705324
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hitch pins.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/62e3b8fb4859958ea01f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/898cdc6ca3f9547d0f4f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf749a87e132b42a4420/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/edd45de81b6b1cfa6296/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4adf192fac1ba559334/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f81fbff4b7c29875454a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/da0e067f86e186872d23/large)
+
+---
+
+## Lot 18503 — Lot including (1) 16", and (2) 18" adjustable wrenches, (1) Irwin, model GV20, channel locks, and (1...
+
+- OrbitBid item number: 1-18503
+- Internal ID: 1705325
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot including (1) 16", and (2) 18" adjustable wrenches, (1) Irwin, model GV20, channel locks, and (1) Blue Point channel locks.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/801c8a8a05be98707d2d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/74a96333d5bc380d75e3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d42270721a1414d205c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/803d4c94383c5c890c9f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/39b721c7c3e6ee16f1d6/large)
+
+---
+
+## Lot 18504 — Lot of (3) assorted Pex or water pipe cutters.
+
+- OrbitBid item number: 1-18504
+- Internal ID: 1705326
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) assorted Pex or water pipe cutters.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ea820a2562cc193554e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b829254e7c12a0bc9747/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab1692a3bc4e8585a8c3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/635a593de7c46172e5ad/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5165f5bb29bb6b815236/large)
+
+---
+
+## Lot 18505 — Lot of assorted channel lock pliers, (1) wire cutter, and pliers.
+
+- OrbitBid item number: 1-18505
+- Internal ID: 1705327
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted channel lock pliers, (1) wire cutter, and pliers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a93fe28c3cf016d6883/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d52d98db872c81647e10/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f8c803b987971da840f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/edd1a88527228bae73b0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a9c3903d2830524b883/large)
+
+---
+
+## Lot 18506 — (1) Hemf loader tire remover/mounting tool, model EM8-75.
+
+- OrbitBid item number: 1-18506
+- Internal ID: 1705328
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Hemf loader tire remover/mounting tool, model EM8-75.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f543116a0a9f831d2140/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a957b846a858f278a483/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/53a8c831d9399cf6b258/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5a2cb8d4fbe2e3c7f43/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/556059503e3875fa3395/large)
+
+---
+
+## Lot 18507 — (1) Lawson Products universal internal and external thread restorer, 5-piece combination set, #57588...
+
+- OrbitBid item number: 1-18507
+- Internal ID: 1705329
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Lawson Products universal internal and external thread restorer, 5-piece combination set, #57588 with case.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c92eaad50afdccda213/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7bc7af6766c214ab95c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2559e1d269676c2cfc61/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/485a6663400702e195e2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8e795f3393e40a0b926/large)
+
+---
+
+## Lot 18508 — Lot of 6 assorted pipe wrenches, (1) 8", (4) 6", and (1) 5".
+
+- OrbitBid item number: 1-18508
+- Internal ID: 1705330
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of 6 assorted pipe wrenches, (1) 8", (4) 6", and (1) 5".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e1e5a3976cf831767ca/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/37e0710a3c7162d3103f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e9fbda2045e00411295/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/37d7b5778ccb8636b28e/large)
+
+---
+
+## Lot 18509 — (1) Walton Tools tap extractor set, (1) screw extractor set, drill out power extractor, thread repai...
+
+- OrbitBid item number: 1-18509
+- Internal ID: 1705331
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Walton Tools tap extractor set, (1) screw extractor set, drill out power extractor, thread repair, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fff34e79b6fe0f13fb0a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e916c4bd4c6f7c7ff21c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e46a6427f550acb8ce86/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dafab07f4d76871a0f3e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/52f56b980cabfeaff5e1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a30b1de904bc975d1298/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5bc05fa74cb3506abaf/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d5801c73b7239c59842/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c92c7805eb70a425a7bf/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/acb98ff131de15bfc44f/large)
+
+---
+
+## Lot 18510 — (1) Channel Lock, 16-piece ultra access socket ratchet set, (1) Crescent socket set, and (1) T &amp;...
+
+- OrbitBid item number: 1-18510
+- Internal ID: 1705332
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Channel Lock, 16-piece ultra access socket ratchet set, (1) Crescent socket set, and (1) T & E Tools, 27-piece interchangeable punch and chisel set.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3091f4fb5447b61c485/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7933711a1bc65fd9e00/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/389a02ce63021e9b176e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/846bad446af80caa945f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a688986811b22776797f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0914be5d9a1620ed83d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b5a923d1405531a7aa6/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8539038dd45514a64f5/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6418600ccc3e55d3295c/large)
+
+---
+
+## Lot 18511 — Lot of assorted inspection equipment, includes pin gauges, small hole gauges, depth micrometers, mic...
+
+- OrbitBid item number: 1-18511
+- Internal ID: 1705333
+- Current bid: $5
+- Bid count: 0
+- Photo count: 17
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted inspection equipment, includes pin gauges, small hole gauges, depth micrometers, micrometers 0-1", 2-3", 3-4", magnetic stand with pin gauge, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/29cc4e9d475a5adf7fbb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f11878cdb9eea70c5025/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd59702bcf2e21a46f60/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6d150c2b3bc17095dd0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfce17cc6d58f01b8292/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5eb30eeb540f38452d6e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b559dd0e6719d48a2612/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/87278fd590091bfd12d2/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/436c5815cd161f83643d/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4590d0351f8c4dd3799e/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/aedd88e45eda8209c859/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/32c918fc31da8b176986/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/6423e7c6107449ddb29b/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b83087aa8dfb65020e7/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1308882e01a75c5da18/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/e844a7c31ee58da16da1/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d72f3c8577e85c3f7b42/large)
+
+---
+
+## Lot 18512 — Lot of assorted vise grips, needle nose pliers, and more.
+
+- OrbitBid item number: 1-18512
+- Internal ID: 1705334
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted vise grips, needle nose pliers, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdcd5a0ffc2ff1ce72c5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b79668e80668373005c5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5715a2d50fada214ef4f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/17e1b80476a763034445/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5332ec5c6810145ef75d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5eace589a1a3a3c12323/large)
+
+---
+
+## Lot 18513 — (1) TIF digital infrared photo tachometer with case, Blue Point non-contact infrared thermometer, an...
+
+- OrbitBid item number: 1-18513
+- Internal ID: 1705335
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) TIF digital infrared photo tachometer with case, Blue Point non-contact infrared thermometer, and additional infrared thermometer, appears to be new in package.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/34a4cd2fbf38d007b09a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a78b44783474f0f72836/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1701f2fbe4acc41f9568/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb23eb31657e60852657/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4a27c5ef1a5b52468c4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cae818cfb6436bc1cf85/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/45e6ab841a98021c91e3/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba997a7f5a1e7bf6c866/large)
+
+---
+
+## Lot 18514 — (1) Tool Aid quick change ratcheting terminal crimping kit, and assorted Blue Point wire pliers.
+
+- OrbitBid item number: 1-18514
+- Internal ID: 1705336
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Tool Aid quick change ratcheting terminal crimping kit, and assorted Blue Point wire pliers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae6b2e2cad30331a1557/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ea7f062fc1d5b4ed3c5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f8bece889633cdf8940/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/74b1a6210a32826cfc2a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9eabaec4e43bdf1fac9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d03ed582c3e128047c9/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0fc2059788baabf78374/large)
+
+---
+
+## Lot 18515 — Lot of assorted number punches, center punches, and (2) drill indexes.
+
+- OrbitBid item number: 1-18515
+- Internal ID: 1705337
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted number punches, center punches, and (2) drill indexes.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/071e41af9a565a169939/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2dcf50a7df5dd9f8dee/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f494e744be1435e0e81/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/110ee93eba4097711337/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/60439601e5a092628a89/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c8540ba392676dc185e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4afb3be14812694c57f3/large)
+
+---
+
+## Lot 18516 — (1) military grade ratcheting tank track tool.
+
+- OrbitBid item number: 1-18516
+- Internal ID: 1705338
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) military grade ratcheting tank track tool.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/617ad615693f8dc4cae0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/82e6313c4bbe1d1d47e6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/efc20d5b75d57c2972ad/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6af39e3217b4da4b3f0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/41190fa9426090a2a36d/large)
+
+---
+
+## Lot 18517 — (1) Nailers fall protection compliance kit, size Large to XL.
+
+- OrbitBid item number: 1-18517
+- Internal ID: 1705339
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Nailers fall protection compliance kit, size Large to XL.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/25082c3534d2a518451a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7d91f7199a0a89d50d6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/66270c0ee05495b37b3a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4b256ff9461c51f826f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa9a48620124c668401e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac7608a366daa2e22f58/large)
+
+---
+
+## Lot 18518 — Lot of assorted plastic tubing, Tectran, #1928 air brake, 1/2" outside diameter tubing, 1/4", smalle...
+
+- OrbitBid item number: 1-18518
+- Internal ID: 1705340
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted plastic tubing, Tectran, #1928 air brake, 1/2" outside diameter tubing, 1/4", smaller diameter pressure tubing, 1/8" outside diameter, 100' roll of black nylon tubing, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f878e832e1d13ad2c74e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/78ba270adf177a60aa05/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a83e1c4184f72a1a71d1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1c2abf343cd31f53917/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee7b7a7ab45ea103b4d2/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/75f11bfd44a465072ccd/large)
+
+---
+
+## Lot 18519 — (1) oxygen cylinder, approx. 50" tall x 8" diameter, tank is empty.
+
+- OrbitBid item number: 1-18519
+- Internal ID: 1705341
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) oxygen cylinder, approx. 50" tall x 8" diameter, tank is empty.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb5f37c5be3ef208265c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ba7dfc31cfac5d9baaf/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a80599257e38f54e453/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fdb7fb00c4f2bf04c87/large)
+
+---
+
+## Lot 18520 — (1) oxygen cylinder, approx. 42" tall x 6" diameter, tank is full.
+
+- OrbitBid item number: 1-18520
+- Internal ID: 1705342
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) oxygen cylinder, approx. 42" tall x 6" diameter, tank is full.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e692f1cc1a862261fe17/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4aece6348435eed7a273/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/70184714dcb74d8a1be6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/42474f866a0f7bff5a3a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a83a715e74b72f177a15/large)
+
+---
+
+## Lot 18521 — (1) oxygen cylinder, approx. 42" tall x 6" diameter, tank is empty.
+
+- OrbitBid item number: 1-18521
+- Internal ID: 1705343
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) oxygen cylinder, approx. 42" tall x 6" diameter, tank is empty.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/40dd974d1f142e9fd2a7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7aa9831a197f54c8491/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/77a06daa7fcbc798e167/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3448a42f8682aad9731/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/02c46f6f85611354a6b0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc99688287d8cde22810/large)
+
+---
+
+## Lot 18522 — (2) Snap-On LED work light, 1 with tripod stand, 1 with handle, both in working condition.
+
+- OrbitBid item number: 1-18522
+- Internal ID: 1705344
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (2) Snap-On LED work light, 1 with tripod stand, 1 with handle, both in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6c0fd8be32e8eea589b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e41c6a8b250ca9f8f74/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7da807d644bf96b6377a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5aace146ecb63098350/large)
+
+---
+
+## Lot 18523 — Lot of assorted O-ring cases, Gates hydraulic O-ring assortment, Bond fluid air O-ring set, (1) metr...
+
+- OrbitBid item number: 1-18523
+- Internal ID: 1705345
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted O-ring cases, Gates hydraulic O-ring assortment, Bond fluid air O-ring set, (1) metric set, and National O-ring sizing gauge.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5f752069636ca0789d5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/495fc5084d65f9ef5c69/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab137dd60fb993621bbc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3274f11b3f1dd4f105aa/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/478b5d9ad25d92c3ebc8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c4295ef16fbef5c6796/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/65da3cb047f5dff63f11/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e4da8431291722acbc7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/65afc1748b62e24b4556/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/091ff59cd775ffb413cd/large)
+
+---
+
+## Lot 18524 — (1) set of SAE offset wrenches, sizes 1 3/8", 1.5", 1 5/8", 1 3/4", 1 7/8", and 2".
+
+- OrbitBid item number: 1-18524
+- Internal ID: 1705346
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) set of SAE offset wrenches, sizes 1 3/8", 1.5", 1 5/8", 1 3/4", 1 7/8", and 2".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/39c4974de335ef252985/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5358f45ecb30ba587e9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb916ecd4b6870a7059c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b239b9ebe7944496511/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ce0be660c5c8584a996/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dcffcbc508d77d9742e/large)
+
+---
+
+## Lot 18525 — Lot of (2) large pulley pullers, (1) 3-hook pulley puller, approx. 15" long hooks, (1) 2-hook, appro...
+
+- OrbitBid item number: 1-18525
+- Internal ID: 1705347
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) large pulley pullers, (1) 3-hook pulley puller, approx. 15" long hooks, (1) 2-hook, approx. 15" long, and (6) assorted wheel chocks.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/65c0f739fde15c5d5c89/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fae2205d543e9af6f96d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e7d61b39f9e2fc4079d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ecb07206d0200299e6d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/54ef1063f34815a165e6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ceab83204d4d75fe8349/large)
+
+---
+
+## Lot 18526 — Lot of (9) assorted fire extinguishers, all are approx. 12" tall.
+
+- OrbitBid item number: 1-18526
+- Internal ID: 1705348
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (9) assorted fire extinguishers, all are approx. 12" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/81843c4ac1a1b1c7089f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/01289a7e63c39f733e0b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa901fcea75f3f9aea1c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/63b8c5a842534435c3b8/large)
+
+---
+
+## Lot 18527 — Lot of assorted pulley puller items, parts, washers, nuts, thread rod, and more.
+
+- OrbitBid item number: 1-18527
+- Internal ID: 1705349
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted pulley puller items, parts, washers, nuts, thread rod, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac34e76da01e03bb156c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/14036417a7dbfc0010cc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1ddab9b72d20c82765c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4127e885dfaa1c969b4a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/02a68317b2470b3bba32/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe86bfb30ed8140b7553/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/19a8d482718317db884d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d7038e59b77a2271aa9/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ace950bb0b5d008b45d9/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c87ddd0e1eb5104ca73/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a5f3b0e13015cd4bfed/large)
+
+---
+
+## Lot 18528 — (1) Sheldon metal cabinet, 36" wide x 23.5" deep x 34" tall, with contents of assorted starters, wor...
+
+- OrbitBid item number: 1-18528
+- Internal ID: 1705350
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Sheldon metal cabinet, 36" wide x 23.5" deep x 34" tall, with contents of assorted starters, working condition unknown, thermostats, solenoid switches, used blower motor, starter drives, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b376161d0149488de04/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/03c55b48047805f57318/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0e5273286450927ec28/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/68f90e37cd6f13fead6d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a32c166e396b82f7a92/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b3348410d87644a5f7e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf6024f78bde83525faf/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3684fda20091c4710960/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0eac4511553a5171bc2/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/51c07e5b8e569a4c8b8b/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a135221d09d56c7499c/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff8a3e4fb250c4ebe44a/large)
+
+---
+
+## Lot 18529 — (1) lot of assorted bearing separators, various sizes, slide hammers, threaded rod, axle seal tools,...
+
+- OrbitBid item number: 1-18529
+- Internal ID: 1705351
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) lot of assorted bearing separators, various sizes, slide hammers, threaded rod, axle seal tools, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd45f8cd95fbe1f48545/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e07cdceb27c84faeb4b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a78775ed9a83384e002/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/194e9c14dfe2bc3691b5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2775aab69ae5af24a231/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/71862d8fc5274acd985a/large)
+
+---
+
+## Lot 18530 — (1) wood work bench, 114" long x approx. 30" deep x 33" tall, includes 5" Wilton bench vise, and man...
+
+- OrbitBid item number: 1-18530
+- Internal ID: 1705352
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) wood work bench, 114" long x approx. 30" deep x 33" tall, includes 5" Wilton bench vise, and manual air hose reel, approx. 50' on roll, does not include contents of other lots on bench, vise and air hose reel only, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/697b685f3691be494ba6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/344261f1be04e5e9c8d0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aca72f5eec9927b0cb8b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e5b0cea97e75a236e4e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b5d610509d7c13fb2ad/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/12c36f84fe07dfd992fc/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea0c9a2dc37633a6e4f4/large)
+
+---
+
+## Lot 18531 — Lot of assorted safety triangles (with case), and approx. (4) sets of jumper cables.
+
+- OrbitBid item number: 1-18531
+- Internal ID: 1705353
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted safety triangles (with case), and approx. (4) sets of jumper cables.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba548143e0b0ca986ea3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/df89e9275fea53b6702e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/390c6fafc43ca7c4f968/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c10a2d56774341853e3e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d4d51a1a5c8d3a8ef4f/large)
+
+---
+
+## Lot 18532 — Lot of assorted hydraulic bottle jacks, includes (1) Jet, 15-ton, (2) unknown size bottle jacks, and...
+
+- OrbitBid item number: 1-18532
+- Internal ID: 1705354
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hydraulic bottle jacks, includes (1) Jet, 15-ton, (2) unknown size bottle jacks, and (2) approx. 20-ton, with handles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b294ac627057747ac43/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/719d73508f950ec18c07/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/522e0b89d792622307b9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/43478a5541b66f08fca4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/58b5f45d3ba5270b4593/large)
+
+---
+
+## Lot 18533 — Lot of (3) assorted hydraulic bottle jacks, 1 is approx. 10-ton, 1 is 12-ton, and 1 is 20-ton.
+
+- OrbitBid item number: 1-18533
+- Internal ID: 1705355
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) assorted hydraulic bottle jacks, 1 is approx. 10-ton, 1 is 12-ton, and 1 is 20-ton.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1f69e6907fe4cc18ec3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a852c24161411620b69a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/12638b4aebf614ce9627/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/75867ddd35d897fae6f2/large)
+
+---
+
+## Lot 18534 — Lot of (3) assorted hydraulic bottle jacks, approx. 20-ton with handles.
+
+- OrbitBid item number: 1-18534
+- Internal ID: 1705356
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) assorted hydraulic bottle jacks, approx. 20-ton with handles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a7a99b5bca7987aaa76/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7e0cc97b8cb3d01ecf9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f1f643f48cf3a46955c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3f5cbf14759a48085ee/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f7c8819b17ad14bdf4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6448c7130e2dfa4143e0/large)
+
+---
+
+## Lot 18535 — Lot of (2) 20-ton hydraulic bottle jacks.
+
+- OrbitBid item number: 1-18535
+- Internal ID: 1705357
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) 20-ton hydraulic bottle jacks.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7219b4a413a4029af7b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d94fe1a36726e29a20d0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ab579dd052881cdd07b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ebadf518d1570ddeea5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f919b586363917318169/large)
+
+---
+
+## Lot 18536 — Lot of (4) vintage jack stands.
+
+- OrbitBid item number: 1-18536
+- Internal ID: 1705358
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) vintage jack stands.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/acc8d85493579f996f1a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7eca3d8f0a4b68104f68/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/76dabaea373cece773b9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fca0a268d4875f093402/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/91ca4cc99a5cdc5770b6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/97d713c8fe144f5153df/large)
+
+---
+
+## Lot 18537 — Lot of (2) tractor top links.
+
+- OrbitBid item number: 1-18537
+- Internal ID: 1705359
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) tractor top links.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/50bb81310e37a45acaa0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b903451ec2d75e76367/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c89cabb0440275d8a6d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0203a856d376679b8c84/large)
+
+---
+
+## Lot 18538 — (1) Ingersoll-Rand 1" pneumatic impact gun, and (1) Ingersoll-Rand 3/4" impact gun.
+
+- OrbitBid item number: 1-18538
+- Internal ID: 1705360
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Ingersoll-Rand 1" pneumatic impact gun, and (1) Ingersoll-Rand 3/4" impact gun.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbece1fe913473b89a71/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b00c181664dd03148d4f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a172583db5b6cad593f6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/54e6971de00b6dc51bdd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2d84395b6575a620c87/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/593a3577e9e59370c103/large)
+
+---
+
+## Lot 18539 — Lot of assorted propane tanks with heating heads, and (1) Weller soldering gun.
+
+- OrbitBid item number: 1-18539
+- Internal ID: 1705361
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted propane tanks with heating heads, and (1) Weller soldering gun.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee8f00599a44cd6e7e3f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/78a8da63d728ad2def89/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d661a317894adbaf8ea6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e074ec7fd984ecbd477/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ce85f0c54ee4fbccd59/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e540d3af861c925c9c7/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfd3c113c4f0a957d14a/large)
+
+---
+
+## Lot 18540 — (1) Cole Tool Manufacturing hand drill press, #7.
+
+- OrbitBid item number: 1-18540
+- Internal ID: 1705362
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Cole Tool Manufacturing hand drill press, #7.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc2018157ba10cf717c8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c22981dc56998227b486/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c83af985e4e0e666d24c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4bfa8af08abbd470432/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e22027c17b9409ed6927/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2221e0df71c90067e04c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7d03d8df397a7d3c91d/large)
+
+---
+
+## Lot 18541 — (1) Kar Products electric wire reel stand with assorted size wire.
+
+- OrbitBid item number: 1-18541
+- Internal ID: 1705363
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Kar Products electric wire reel stand with assorted size wire.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/794be978ff918980b093/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1541e29973d9545e25e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea46c9339325235306ff/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/48faffe90199eda1489f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4498701699a12624831a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e8cc1764a4849832aaf/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d42e2d1d3fc3a9428a25/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/46726e433465bae5dfec/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9d0117c52d13a6be8ba/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c770d80e7f38d6d3cff9/large)
+
+---
+
+## Lot 18542 — Contents of 2 shelves, includes assorted duct tape, electrical tape, (2) hand staplers with staples,...
+
+- OrbitBid item number: 1-18542
+- Internal ID: 1705364
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Contents of 2 shelves, includes assorted duct tape, electrical tape, (2) hand staplers with staples, assorted bolts, wire, electrical connections, contact kits, and more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c35b8f31550b322575b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/50d20e0118d605ff61b4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/504ee839abb44dda7ce4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6752dbe13c523f0d66ae/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d69d605b9bc8cdcab72/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/428994d0e05dbb71e075/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0546d66493b9c5eac826/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a46bc9d2184ebca3970/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/4951447f5e93b8e88daf/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4af2f6578e9b97dfc29/large)
+
+---
+
+## Lot 18543 — Lot of (3) 4-drawer pull out parts organizers with contents including fender washers, grease fitting...
+
+- OrbitBid item number: 1-18543
+- Internal ID: 1705365
+- Current bid: $5
+- Bid count: 0
+- Photo count: 14
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) 4-drawer pull out parts organizers with contents including fender washers, grease fittings, cotter pins, clevises with pins, brass fittings, ball valves, air hose fittings, and more, lot also includes metal stand, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f61f14da5207ed3fa4e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c474f927045072a0b72/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e7b2f6e956b187edf075/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b66e7e0d376da7bfffa9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f424139c72e67d7d3427/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/85be53ddc53c64c594ea/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e2417d9c7f3868f1deb/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/514e8d65f86449db3ebc/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1ce62adaec1b8a0b77e/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/8469dfa1eb4e7dd9ff18/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/66aa097472f77d121446/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc9fa4079961ce7a316d/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/12ac7c1482c47d362ee1/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb187997ee276961729b/large)
+
+---
+
+## Lot 18544 — Lot of (3) 4-drawer parts organizers with contents including square keys, woodruff keys, cable ties,...
+
+- OrbitBid item number: 1-18544
+- Internal ID: 1705366
+- Current bid: $5
+- Bid count: 0
+- Photo count: 15
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) 4-drawer parts organizers with contents including square keys, woodruff keys, cable ties, wire terminals, battery cable eyelets and lugs, clamps, wire test clips, electric light pigtails, hold downs, and more, includes stand, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/335ffbbd1428b04f3829/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f084030aae77f08b44e5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1e5126922f912e4f1eb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d61f3befd79dba5aca97/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cb5e9919ba2154b3793/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d26f089076d203e4183/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2002b5a1a1cbe9d2c082/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f2ebed19e267a4b573b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/a821c3d4bc31a0ba6be4/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/17dce3d8b075ca551052/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/b78ca23bec4910257fcf/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/a48ae9b922198ab507be/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e52199d970666989f07/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf8b028e0aecd03af3fb/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/dafc33063ecec8d79a05/large)
+
+---
+
+## Lot 18545 — Lot of (3) 4-drawer pull out parts organizers with contents including metric bolts, socket head cap ...
+
+- OrbitBid item number: 1-18545
+- Internal ID: 1705367
+- Current bid: $5
+- Bid count: 0
+- Photo count: 14
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) 4-drawer pull out parts organizers with contents including metric bolts, socket head cap screws, studs, snap rings, external and internal rings, roll pins, set screws, self-drilling screws, and more, includes stand, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad26e074aada71bd1444/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ab14d7ac78b0c67acf2/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/37a6a708894e299da1e7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee75e3ea1b8c10ae24eb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d7b4b2621c1f03c1e5c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4887bce83e7e9cb3e78b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2e4e6ef401e8fa68910/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/eabc82934f1a60401608/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/364b0b4de4a61ee6ed80/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1dac29392b22ed9ec85/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/250cca4c08063587f157/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d5a89118159523e2e55/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4d708ca6a9d88de4dc7/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/461d1927c42cbb70d77c/large)
+
+---
+
+## Lot 18546 — (1) custom made, rotating lazy Susan style aerosol spray paint organizer/dispenser with assorted aer...
+
+- OrbitBid item number: 1-18546
+- Internal ID: 1705368
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) custom made, rotating lazy Susan style aerosol spray paint organizer/dispenser with assorted aerosol paints, approx. 81" tall x 14.5" x 14.5" base.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9e30ddf6f358d4f58b1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d0fb0fff7d987c95d2a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d92c68b90b62b023fa9d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4d0039493c1fa410936/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/17b18262cf13792f1bc1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfb0fe2c41f212c0749f/large)
+
+---
+
+## Lot 18547 — Lot of (2) metal framed tables, 1 is approx. 45" wide, 1 is approx. 36" wide, with contents of (1) 4...
+
+- OrbitBid item number: 1-18547
+- Internal ID: 1705369
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) metal framed tables, 1 is approx. 45" wide, 1 is approx. 36" wide, with contents of (1) 4-drawer pull parts organizer with (2) parts organizer trays, contents include assorted rivets, pipe fittings, (1) crimp pliers, jumper cables, trouble light, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7a36c66fa685a673a60/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/108e17bf787296d88e4a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b537b9dcf508d7c3a4e8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2641dcb6b600ec313bbf/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c22891ac12e36908e8f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fce6e83e11586c693a5/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e51d52a0d06cd1e11983/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c26ac734507eed8fa59a/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd17a00383b02b95bb16/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/61a2c7f2ce83de7e6f2c/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/254d9b32c9ea7e7d1928/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/934a1eb03da778fe8646/large)
+
+---
+
+## Lot 18548 — (1) Schumacher multi battery charger, model SE-1072, (1) Chicago Electric battery tester, and (1) Ma...
+
+- OrbitBid item number: 1-18548
+- Internal ID: 1705370
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Schumacher multi battery charger, model SE-1072, (1) Chicago Electric battery tester, and (1) Marquette 32-150 battery charger.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/63a727ed96b08a46dddd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a932903b32be45ef92d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e1662dbf5d8cd233367/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/47473f5c5e2f768f20b1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1079258f2c6e2d779c8b/large)
+
+---
+
+## Lot 18549 — (1) 5-drawer filing cabinet, 15" wide x 28.5" deep x 59" tall.
+
+- OrbitBid item number: 1-18549
+- Internal ID: 1705371
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) 5-drawer filing cabinet, 15" wide x 28.5" deep x 59" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f1aab0299c561d9899d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/712b642058177257a360/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/708f9b59d37e8d7ff0d1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7faa7cc0ae2b06940abd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a993f4a1e43cc7bacbd/large)
+
+---
+
+## Lot 18550 — (1) Hotsy natural gas steam cleaner, 220V, includes assorted soaps, approx. 50' hose with gun and re...
+
+- OrbitBid item number: 1-18550
+- Internal ID: 1705372
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Hotsy natural gas steam cleaner, 220V, includes assorted soaps, approx. 50' hose with gun and reel, winning bidder responsible for proper removal with disconnection at 1st joint in exhaust duct.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f35b66cdd8559ead603/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1af095f72e5569d25ed/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8be34a583e603fabdbab/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/882e54c428406449b59f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c98e4de6bf59c89065be/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f569813cd064742c1acc/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f9edb7f943f991971ef/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cec769e917d26265055/large)
+
+---
+
+## Lot 18551 — (1) Miller MP-65E welder, 230/460V, 3 phase, S/N JA358881, with a Miller Matic 30-E wire feed, welde...
+
+- OrbitBid item number: 1-18551
+- Internal ID: 1705373
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Miller MP-65E welder, 230/460V, 3 phase, S/N JA358881, with a Miller Matic 30-E wire feed, welder is for parts or repair.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c87bd9b06f182efe80d1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/601c899b95c7e326cc99/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/60e1053a8006a20a6ad9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/04e45a09e32823efdfd4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e783b7c4573c6068439/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e72b59241c78b361bcfd/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f18cac0849f42a8fb0ec/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4731be4abe9f3f3fff07/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/801ecf8ee20423589982/large)
+
+---
+
+## Lot 18552 — (1) Chicago Rivet &amp; Machine Company vintage manual rivet, machine S/N 106, Type Premier with foo...
+
+- OrbitBid item number: 1-18552
+- Internal ID: 1705374
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Chicago Rivet & Machine Company vintage manual rivet, machine S/N 106, Type Premier with foot pedal, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a66716062e6c0edcbef8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/af8f59ac714e73814826/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/44e39b1c60b652042123/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3eaa08125972cd1392d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/19806975feabbd3f2992/large)
+
+---
+
+## Lot 18553 — (1) custom made grinder fixture, approx. 15" wide x 18", adjustable height with threaded rod.
+
+- OrbitBid item number: 1-18553
+- Internal ID: 1705375
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) custom made grinder fixture, approx. 15" wide x 18", adjustable height with threaded rod.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/43ba222507695ec8b83b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/08103e06cf7fd14fcbab/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a875a0a90062fb723568/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e52edefada6c91ba690/large)
+
+---
+
+## Lot 18554 — (1) Bridgeport vertical milling machine, S/N J750B, S/N 27052, 42" x 9" slotted table, 1 HP, 220/440...
+
+- OrbitBid item number: 1-18554
+- Internal ID: 1705376
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Bridgeport vertical milling machine, S/N J750B, S/N 27052, 42" x 9" slotted table, 1 HP, 220/440V, 3 phase motor, includes 4" machinists vise, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0949ed52472ed05b15ab/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/763daf732dd168d09108/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/37540eaee656915aa7a6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/37b992f91d8e8abc2692/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/248b9c07ea2082bc6bd5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6416e40db0f0619b1402/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/30e714f3b0903c26f29c/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad6426e6bbafa3233615/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/30287373a96e5b84df98/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/38297e67bcf483d81106/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/bee2197c67d1abba61e4/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/3dd09f38bcdf0ff6c6d4/large)
+
+---
+
+## Lot 18555 — (1) Walcott 18" swing lathe, 76" bed with steady rest and tail stock, tool holder, power feed bed, i...
+
+- OrbitBid item number: 1-18555
+- Internal ID: 1705377
+- Current bid: $5
+- Bid count: 0
+- Photo count: 16
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Walcott 18" swing lathe, 76" bed with steady rest and tail stock, tool holder, power feed bed, includes 14" diameter 4-jaw chuck and 12" 3-jaw chuck, includes work holding tooling, speed selector, 3 phase, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce1e35c0968f2928b45f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5d2fa9cb3eb7d112abc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a44464e0b9974d37894/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f176077fc109bc930e2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed68bb9a4c890acb5c08/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9562fe9407283cd1b30/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4b1ef1acdc50d899343/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5d83ddc4c5ade67ab94/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a75e147e7aeb8585e46/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a1d4d2ea4d940671223/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/09e06f0021136f94d7ff/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/8692653f8486b05a1282/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/735ea3c3fa9755f588ab/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbe53ab3990a007ea8b1/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a2d12793afa907814cd/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/88af557a6992c13f1f0c/large)
+
+---
+
+## Lot 18556 — (1) Marquette Dyna-Vision electronic engine analyzer vintage cart, 29" wide x approx. 21" deep x 45....
+
+- OrbitBid item number: 1-18556
+- Internal ID: 1705378
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Marquette Dyna-Vision electronic engine analyzer vintage cart, 29" wide x approx. 21" deep x 45.5" tall, with lathe tooling, tooling includes assorted boring bars, Allen wrenches, insert tool holders, reamers, drills, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/20fbce5639c5c4d10ee4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/54695c8738c679398429/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6148d12d8019461bb40/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c28421708a30229709ef/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/76c57b20ef1f37f5307e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e197fe2456272e4562ce/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/08413863cba0211d5378/large)
+
+---
+
+## Lot 18557 — (1) Lawson Products wall mount organizer with assorted hydraulic brake lines, winning bidder respons...
+
+- OrbitBid item number: 1-18557
+- Internal ID: 1705379
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: (1) Lawson Products wall mount organizer with assorted hydraulic brake lines, winning bidder responsible for proper removal from wall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/af6c8d52ec54b09ec2cb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f11c7d1a16691bf86b72/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7fe55413fd232c73ab86/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/44c53c8d8fbb8a125306/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f2c78f3537befe9707c/large)
+
+---
+
+## Lot 18558 — Contents of wood parts organizers, includes assorted bolts, nuts, assorted sizes, and (1) Ram bench ...
+
+- OrbitBid item number: 1-18558
+- Internal ID: 1705380
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Contents of wood parts organizers, includes assorted bolts, nuts, assorted sizes, and (1) Ram bench grinder, 120V, does not include wood organizers, contents only.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/09ff9ab4e7e331942269/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ec5eca49c072dfb6b53/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/48e4762070bdefd648c8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/91f1e84b45a26f631bf7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4e2fc5ce2e21f22b0df/large)
+
+---
+
+## Lot 18559 — Contents of wood organizer, includes assorted pipe fittings, elbows, 90° caps, reducers, and more, c...
+
+- OrbitBid item number: 1-18559
+- Internal ID: 1705381
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Contents of wood organizer, includes assorted pipe fittings, elbows, 90° caps, reducers, and more, contents only, does not include cabinet.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/94aa4ab921aa8ae9b584/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8872ce285c80686230cc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e660985bb803d93f434/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a667e138540aa285b90/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/61af09b387db701c5e08/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/58295127287cfa52ab49/large)
+
+---
+
+## Lot 18560 — Lot of (4) metal parts cabinets, 2 measure 35" wide x approx. 42" tall x 11.5" deep, 1 is 18" wide x...
+
+- OrbitBid item number: 1-18560
+- Internal ID: 1705382
+- Current bid: $5
+- Bid count: 0
+- Photo count: 17
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) metal parts cabinets, 2 measure 35" wide x approx. 42" tall x 11.5" deep, 1 is 18" wide x 42" tall x 11 3/4" deep, 1 is 35" wide x 9.5" tall x 11 3/4" deep, contents include assorted standard bolts, nuts, washers, lag bolts, carriage bolts, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef336e49564f6db785e9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8bfa23bfe502bf354bc1/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc5cc1fe0cff1e1583ad/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1265b581c49bd65227ef/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfff354124d00c2d4408/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d662c18a4665db7a8a95/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb1df3f9b09ec52e1463/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8020749e5c30097b255f/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab1a5c6b0c08282c6ffb/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f04ba28cba76765754b/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d231203b06197fcafcc6/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0eedfd028c15c38fec0/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/7faf44d6f2b435958061/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/0cec5cc1db23c10e5700/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a41f83a8e45289f3947/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/58b4d315778e7a158fb2/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/de0f6e482580732a04a5/large)
+
+---
+
+## Lot 18561 — Contents of wood organizers, includes assorted hitch balls, clevises, hooks, rope eyelets, threaded ...
+
+- OrbitBid item number: 1-18561
+- Internal ID: 1705383
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:00:00Z
+
+**Fields:**
+
+- General Description: Contents of wood organizers, includes assorted hitch balls, clevises, hooks, rope eyelets, threaded rod, and more, contents of wood organizers only, does not include wood organizer.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/af34747daa1828f793cb/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/28ce01e5b19db33f7e16/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/df828b31a86c8931d143/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/71f3833cd7c6b4cc2852/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3536de3eb1d0e5b32ad/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/11f1b2c114b0831179de/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/825fac52225b79c59683/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb1fbe393666b0a6b292/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd791940f13c1c2dfbef/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1c0fc53fd187612d919/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb2d9e82f9be4c81780c/large)
+
+---
+
+## Lot 30-1333 — Lot of 4 wheels and tires, one does NOT match, GM 6-Lug
+
+- OrbitBid item number: 1-30-1333
+- Internal ID: 1799925
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of 4 wheels and tires, one does NOT match, GM 6-Lug
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/55d1dc225a5558d4f37d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a10f8fbd698709ad91a5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2434b239fed37b76f145/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dca15bb1a75610fb3758/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f9409cb75288f537ad8/large)
+
+---
+
+## Lot 18223 — (1) Universal Spur Geared block/hoist, manual, tonnage is unknown, 1/2" thick chain with block hook,...
+
+- OrbitBid item number: 1-18223
+- Internal ID: 1705434
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Universal Spur Geared block/hoist, manual, tonnage is unknown, 1/2" thick chain with block hook, includes I-beam trolley, winning bidder responsible for proper removal. Trolley is approx. 16' in air.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/761f49ad25d42caea396/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/15fd2c5771b31b297cfd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d9ed98cfbae9a171f63/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d47414b7a4fcce4f2ce/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/515218fda22f0c6eee61/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f2a7ae8f4f196479b7a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e56e1029047de5510b99/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/8051243d2d8f94f41aa7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b3d8e6cea8d8853f902/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5efe5d5f98c604bd0137/large)
+
+---
+
+## Lot 18224 — (1) Ramco truck mount hydraulic jib crane arm, model RH5000, S/N 7159, does not include hydraulic ja...
+
+- OrbitBid item number: 1-18224
+- Internal ID: 1705435
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Ramco truck mount hydraulic jib crane arm, model RH5000, S/N 7159, does not include hydraulic jack or cylinder, frame only.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b674fe6086e834fa6f2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f22b9f9fdae3b6338479/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f63117c29263491ac184/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0ea2a4bb3640a841a72/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/782b4c2346c2f752823c/large)
+
+---
+
+## Lot 18225 — (1) Apache Bullseye III, laser receiver, with case and measuring stick, battery powered, in working ...
+
+- OrbitBid item number: 1-18225
+- Internal ID: 1705436
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Apache Bullseye III, laser receiver, with case and measuring stick, battery powered, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1360672a45ef88ca5e2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7504b644d9cb861a9fa6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf5bfa845b4bbddcf600/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b7926445c14511dcee8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/162fbfc227dd80df5400/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cf4b349258f2057433d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/20418205f6ea3fd3f6ad/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e98bc977c51e634871ac/large)
+
+---
+
+## Lot 18226 — (1) Spectra Precision Laser receiver, model LR50, with case, and magnetic mounting bar, in working c...
+
+- OrbitBid item number: 1-18226
+- Internal ID: 1705437
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Spectra Precision Laser receiver, model LR50, with case, and magnetic mounting bar, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c1e23fa390401385fe7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3eb14d3b6ec5df9657e0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1627c986c6cc56844982/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/abcbd9f04bbd739ecced/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7401d4c0d37a73382949/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8a359259f317d685d1f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/79aecf1f19727d7d2cff/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9bff49332dd2ea418a81/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/18e4adcb20be79c947b8/large)
+
+---
+
+## Lot 18250 — Lot of (2) new Gladiator 11R24.5 tires, model QR92P0S.
+
+- OrbitBid item number: 1-18250
+- Internal ID: 1705438
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Gladiator 11R24.5 tires, model QR92P0S.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/86b0f7f41f758cda756a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/92406491df625ff80063/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/91b5420ce1f5e33a951e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6eec0137d10d69289688/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c97a731b086f7420594/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d24ad2029c55101043d4/large)
+
+---
+
+## Lot 18251 — (2) new Sailun 25570R225 tires with rims.
+
+- OrbitBid item number: 1-18251
+- Internal ID: 1705439
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (2) new Sailun 25570R225 tires with rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d7f6f10f30037d002c0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/83f651df762dd04bc2bc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8e42e3b608cabc18448/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/400fbd0a8c5f858a2697/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e049e43207e8156c471e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e50103b5eceb0a2fbf9/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/69ad6ff9cb358435c310/large)
+
+---
+
+## Lot 18252 — Lot of (3) new Power King 9.50-16.5 tires, 10P.R.
+
+- OrbitBid item number: 1-18252
+- Internal ID: 1705440
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) new Power King 9.50-16.5 tires, 10P.R.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c153c9c9b908df1cf4e9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7dc0565e4eeff55930f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8538de9ab4fafd305fe/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e6c4ee19633a4b9acdf/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bb53ba1360c5281d5e0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2b577033a02a9ad658c/large)
+
+---
+
+## Lot 18253 — (1) new Sumitomo ST720, 385/65R225 tire with steel rim, tire is in new condition.
+
+- OrbitBid item number: 1-18253
+- Internal ID: 1705441
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) new Sumitomo ST720, 385/65R225 tire with steel rim, tire is in new condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/31f9b8f05c8e919d5b7c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c952a03af3c799820bb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/90d1da556ba08e498245/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/739457d043dfaefe854b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/886a05b449a5eb347613/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1873558137a34b2fadb1/large)
+
+---
+
+## Lot 18254 — Lot of (2) new Sumitomo ST727 8.25R15TR tires with rims.
+
+- OrbitBid item number: 1-18254
+- Internal ID: 1705442
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Sumitomo ST727 8.25R15TR tires with rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7dddf932d29bbe2f61d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/36a498fc1fa50ce23ec0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c3d77b511f42a27dd46/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9386a296e1101a4dcc52/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/656aa9c9cfd2034d90ca/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9cb8d6f038b2c8a01ea/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/762a89d0a64ad4305ce6/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/824742d22c84549d6973/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/561d8e2187ebae55e4db/large)
+
+---
+
+## Lot 18255 — (1) new Concorde 7.50-16LT tire.
+
+- OrbitBid item number: 1-18255
+- Internal ID: 1705443
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) new Concorde 7.50-16LT tire.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c33b4106da8dc25e33a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d58b2f137da9fe19ed84/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa9ec4127ddc428ca53c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/18a42f4483e80a1f2ea4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6684e44d243e9554eb30/large)
+
+---
+
+## Lot 18256 — Lot of (2) new Gateway TRU-STEERF-3 11L-16SL tires, load range E.
+
+- OrbitBid item number: 1-18256
+- Internal ID: 1705444
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Gateway TRU-STEERF-3 11L-16SL tires, load range E.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/15139e5a78d494ae66e8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9629bb5d362fd22eeb8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1ba959dfb18254cccff/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d5aef425728fa0e6fb9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad3e0b7d7f24393b0928/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f7977063cbd95ae8009/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee40880a8835b409c581/large)
+
+---
+
+## Lot 18257 — Lot of (2) new Firestone Transforce HT 9.50R16.5LT load range E tires, includes (1) steel rim.
+
+- OrbitBid item number: 1-18257
+- Internal ID: 1705445
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Firestone Transforce HT 9.50R16.5LT load range E tires, includes (1) steel rim.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8352833eff79ff9a359/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/494bd3347d81e56eb176/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6397db2364ca803c1394/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a00e45cf00b1b4b83bb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ced904eb83051f2671c5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c270847417e08796739/large)
+
+---
+
+## Lot 18258 — (1) new Farm and Field 11L-16SL tire with tube.
+
+- OrbitBid item number: 1-18258
+- Internal ID: 1705446
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) new Farm and Field 11L-16SL tire with tube.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0f53d969d9c2ad26501/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/abb33b5bb15fad2b53af/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/62ceda367f201ed737fe/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/620ff64ddf296d7f5f38/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e4f02efc5f0f4eb4592/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0b5a20ef2cedc9c700a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a447b87ec8d8ec13f866/large)
+
+---
+
+## Lot 18259 — Lot of (2) new Goodyear 11R225 tires, model G622RSD, load range E, with (2) steel rims.
+
+- OrbitBid item number: 1-18259
+- Internal ID: 1705447
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Goodyear 11R225 tires, model G622RSD, load range E, with (2) steel rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/47dc0893663ef28cd472/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb5c2c8b8d21a69c854c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/49d3939015e450c2c845/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4260fe944faaa489309/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/61c31b217b1c39bd6f2c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f8c36febff62a7e7eff/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb8f477338d130a5c8d7/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/509fcc5eef2457adf7e7/large)
+
+---
+
+## Lot 18260 — Lot of (4) new Gladiator 11R225 tires, (2) with steel rims, model QR92POSG416PR.
+
+- OrbitBid item number: 1-18260
+- Internal ID: 1705448
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) new Gladiator 11R225 tires, (2) with steel rims, model QR92POSG416PR.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/de0daee77207f4454430/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a4a9857eb3565e051647/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0161f42eda2cb93a54cd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/60133196998ceb889eb8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/eac828a1fc9b38189d7c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/494fa7be54a6437f02d0/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/49ae171c51326e36f734/large)
+
+---
+
+## Lot 18261 — (4) steel 22.5 rims.
+
+- OrbitBid item number: 1-18261
+- Internal ID: 1705449
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (4) steel 22.5 rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d82ee49fcac7cec07150/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9dd7daf5d91e0e0c0c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a04a6a63a41aa58523d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a416486d98525bebe4b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ffcf67b4479f003fc2e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3883453fa2c91f6669f6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fec6558566e1db37e142/large)
+
+---
+
+## Lot 18262 — Lot of (2) new Kelly Armor Steel KTSA11R 225 tires with steel rims.
+
+- OrbitBid item number: 1-18262
+- Internal ID: 1705450
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) new Kelly Armor Steel KTSA11R 225 tires with steel rims.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcdee335d37763777a57/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fd523cbec0dbbfbbc6c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bad6fccb0fea004567b2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c8e1df58f34345f725c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c478978fa1deb4ef6958/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5521b54b05dcf03d2a1d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ed56f0913d9db08a941/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/019731331cdece0adc07/large)
+
+---
+
+## Lot 18263 — Lot of (4) approx. 43.5" diameter spool tops used as crane mats.
+
+- OrbitBid item number: 1-18263
+- Internal ID: 1705451
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) approx. 43.5" diameter spool tops used as crane mats.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f58af403a61eab02256e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/957e5e9c3f056ab899c1/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbdb145164fcce04e280/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c038d2dd58976115fede/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8db05009fa9f4aa80445/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebc50a9a148c5e810139/large)
+
+---
+
+## Lot 18264 — (1) 2 pt. lift apparatus with 5-ton Crosby hooks, 48" reach.
+
+- OrbitBid item number: 1-18264
+- Internal ID: 1705452
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) 2 pt. lift apparatus with 5-ton Crosby hooks, 48" reach.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ea131c3edb0337e10b3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b7ee83fea3552144f17/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0480db13a0da2ae14c6e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1526ee79dc669e11848a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a30fd098750631f656ba/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cec04512c0208a76d21e/large)
+
+---
+
+## Lot 18265 — Lot of (2) wheelbarrows with wood handles, single wheel.
+
+- OrbitBid item number: 1-18265
+- Internal ID: 1705453
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) wheelbarrows with wood handles, single wheel.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/25662f90e97f72c2c5b7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bf666239257cae6f5f2/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/36049257bf078d08d4f4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba4dfbcf0dab18fe25ba/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7a6150b6c2fdbed08ee6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0ff28df7e52da4b7ae8/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/413fde67281aba883f7b/large)
+
+---
+
+## Lot 18266 — (1) 24' aluminum extension ladder, and (1) 6' aluminum extension ladder.
+
+- OrbitBid item number: 1-18266
+- Internal ID: 1705454
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) 24' aluminum extension ladder, and (1) 6' aluminum extension ladder.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/895e94da46165bca9b43/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/93247d86c796142b9623/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/68e1242ab0b1f826a80f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2764826f3e2a14c85550/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/232d18318dfcc0614925/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8484f5330cf52d8caaa9/large)
+
+---
+
+## Lot 18267 — (1) skid full of assorted conveyor belt, 20" wide, 23.5" wide, 24" wide, and more.
+
+- OrbitBid item number: 1-18267
+- Internal ID: 1705455
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) skid full of assorted conveyor belt, 20" wide, 23.5" wide, 24" wide, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7992bb199f993c36b52d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/378a110f427d71c20eec/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c49a221b7511a86a56b2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/569af3d99e77bb9d1206/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdcab3c6a28619358014/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d9ee2c7bf3d6851633f/large)
+
+---
+
+## Lot 18268 — (6) Luff Industries Ltd., model ST1043, conveyor belt with 43° steel belt conveyor shafts.
+
+- OrbitBid item number: 1-18268
+- Internal ID: 1705456
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (6) Luff Industries Ltd., model ST1043, conveyor belt with 43° steel belt conveyor shafts.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6949d6e4fae5b0de4d45/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d1facd816b9bd1e784fc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/011f07d4b0d37c770bda/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/584736379a4e3742586e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c77736573b305d77ebc5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/be8de03f9ba499d59c24/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/60ac6d127f27f6d5f998/large)
+
+---
+
+## Lot 18269 — (1) steel counterweight, 32" wide x 11.5" deep x 17" tall.
+
+- OrbitBid item number: 1-18269
+- Internal ID: 1705457
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) steel counterweight, 32" wide x 11.5" deep x 17" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e935706005c6c63d0e6e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/25196b5f71fa5e10a824/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe67d6408cda48c0c901/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9387c4184236afdcc215/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c014c034056005d638d8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fa8a51a749a890da617/large)
+
+---
+
+## Lot 18270 — (1) Crane cable counterweight, 13 1/4" diameter x 12.5" tall.
+
+- OrbitBid item number: 1-18270
+- Internal ID: 1705458
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Crane cable counterweight, 13 1/4" diameter x 12.5" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e09e2b90a02823d3f3f5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7d0de94ae78be94dc5e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ee8b390ce616dc92434/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b58f8586fe3fd69dfe2a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/14b0a717b5fd4d2782e4/large)
+
+---
+
+## Lot 18271 — (1) forklift counterweight, approx. 27.5" wide x 16.5" deep x approx. 7 1/4" tall.
+
+- OrbitBid item number: 1-18271
+- Internal ID: 1705459
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) forklift counterweight, approx. 27.5" wide x 16.5" deep x approx. 7 1/4" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b803d346614d5d6bb2db/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a0476dd09dc211e633a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/76b5c04de0cae04ed9db/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1bb37648a6be0378d23a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bff01288d7db9297443d/large)
+
+---
+
+## Lot 18272 — Lot of (2) pipe handling clamps, OT-800, and OT-400.
+
+- OrbitBid item number: 1-18272
+- Internal ID: 1705460
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) pipe handling clamps, OT-800, and OT-400.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/76c3eb455b6b0b16e47a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/714d5cd089c3ae9a4908/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e0f7f7633073d25cf18/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c62b1241c36e30f4bb4c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7426426aca11ef97ec2a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c19a1076933ba641d6db/large)
+
+---
+
+## Lot 18273 — (1) Super Grip Master 13-24, 4-ply tire.
+
+- OrbitBid item number: 1-18273
+- Internal ID: 1705461
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Super Grip Master 13-24, 4-ply tire.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7b2f956d5ab98aaed21/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad11555190f4a6779a65/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f078fff2065aaf07d434/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ded99368311ab9b0087d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7eed1f1a876837ca051e/large)
+
+---
+
+## Lot 18274 — (1) BF Goodrich Silver Town 21.00-25, 20-ply rating tire with tube.
+
+- OrbitBid item number: 1-18274
+- Internal ID: 1705462
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) BF Goodrich Silver Town 21.00-25, 20-ply rating tire with tube.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b2a58c79242294577d8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/93db4f21ea3f35895cfb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/37715012bf382b16e01d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f873f09cdff946528844/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2228b4f5d7eebbf066c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a77ed4206510e433b814/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e72bcc8f1a06fe877a8/large)
+
+---
+
+## Lot 18275 — Lot of (3) 23.5-25 tires.
+
+- OrbitBid item number: 1-18275
+- Internal ID: 1705463
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) 23.5-25 tires.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/88ed0b5730783c5c6aa2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d141bb416a72233ec373/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/17bbd695522ce937b270/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f4b0decfdebcf201a31/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/95bcef0dff5199436dcc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c781858e9b081d1b2c7/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e59e9adb0d546fd938e8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/01c9aa18c3fce0c883c3/large)
+
+---
+
+## Lot 18276 — Lot of (3) Hercules 23.5-25 tires.
+
+- OrbitBid item number: 1-18276
+- Internal ID: 1705464
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) Hercules 23.5-25 tires.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/02de2059cf6b9b0351b5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/17c5bb2ea3f89e0a2ca9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4188c0930f1af9ed2456/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/eff455520a3848022542/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bddf43af1c98a1a2669b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c43900d3fbd7895fe39/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/781736998a008e4890da/large)
+
+---
+
+## Lot 18277 — Lot of (7) various 29.5-25 tires, various conditions.
+
+- OrbitBid item number: 1-18277
+- Internal ID: 1705465
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (7) various 29.5-25 tires, various conditions.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/98ae35db0af73e8c3232/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/51a0dc3b31e0eba5b99e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/790341342d424604cb5c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/347ab352f792ad48bba4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/140423941533319db9f6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e68d1fdbf76e9a277d36/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e83a17a44caca529292/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fc86be99272439fa20f/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba9845bfdcdd09305c96/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c201f621d4579dd8bad5/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f41dcc80fcdcc75de1d/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fa0a65466177c1ff19f/large)
+
+---
+
+## Lot 18278 — Lot of (7) various 20.5-25 tires, various conditions.
+
+- OrbitBid item number: 1-18278
+- Internal ID: 1705466
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (7) various 20.5-25 tires, various conditions.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1032efaeffb87bbd306e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/97a64b58b8cbedef59bf/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c500a8e011660271093/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cdd846d039b738d03ca/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/34483f49f2bd1ed8559c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2b2f70d365823dd8af14/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/46194ea424700ed65d8e/large)
+
+---
+
+## Lot 18279 — (1) skid of assorted grease buckets, includes manual pumps, (1) pneumatic, and (1) retractable greas...
+
+- OrbitBid item number: 1-18279
+- Internal ID: 1705467
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) skid of assorted grease buckets, includes manual pumps, (1) pneumatic, and (1) retractable grease hose reel.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d2206179739512e74cc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac5c3872b34c327c339e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0753a96e48fc74422993/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e75189409e26775a86aa/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1068f1fdb8ebf1be03d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ca2cea8680cbdf21b51/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d2368a42c163fbb7998/large)
+
+---
+
+## Lot 18280 — Lot of assorted heavy duty truck parts, includes set of 16" diameter drums, Meritor brake disc, (4) ...
+
+- OrbitBid item number: 1-18280
+- Internal ID: 1705468
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted heavy duty truck parts, includes set of 16" diameter drums, Meritor brake disc, (4) full gallons of Service Pro windshield washer fluid, assorted tire tubes, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec387bfea67f6d74a590/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/27642bb3a47181cd1a73/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/80bc91e2e0be1ca7fa01/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9364fda084f32c7c99d8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d625e059ba91e14b60eb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/883e98c3c138a1492725/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/09b88a10621ec8b60d36/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/064be530f50097ee8195/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9445da21506b13c551a1/large)
+
+---
+
+## Lot 18281 — Lot of (3) assorted manual barrel pumps with hoses, 1 includes nozzle.
+
+- OrbitBid item number: 1-18281
+- Internal ID: 1705469
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (3) assorted manual barrel pumps with hoses, 1 includes nozzle.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/59dfb9723548e15685d1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/affc3907ba50de7810a0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/27dbd858f9f0b24f7be0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/defc0574be1a5945a0cb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6af3bd869973f9c1597/large)
+
+---
+
+## Lot 18282 — Lot of (8) assorted heavy duty motors, includes 25, 20, and 5 HP, and more, all motors are for parts...
+
+- OrbitBid item number: 1-18282
+- Internal ID: 1705470
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (8) assorted heavy duty motors, includes 25, 20, and 5 HP, and more, all motors are for parts or repair.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d28ba811ad88d670f49/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/58fa73d4998195e52b48/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0088124230804d667e0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/820b33f4438eff97364d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e55c163b757bb8fa0dc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5333f3d38e6fc46f18f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/77efed9bfe07f22210ce/large)
+
+---
+
+## Lot 18283 — Various cuts of heavy duty steel lifting cable, includes 7/8" x 82', and others.
+
+- OrbitBid item number: 1-18283
+- Internal ID: 1705471
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Various cuts of heavy duty steel lifting cable, includes 7/8" x 82', and others.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/01bf814c7e5e6c2744af/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2008e8b5184b929e69f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b265be86a4a7fcaa0fc8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a63396ab20fc2e5200/large)
+
+---
+
+## Lot 18284 — (2) partial spools of galvanized hoist line, includes partial 3/4", and partial 1/2".
+
+- OrbitBid item number: 1-18284
+- Internal ID: 1705472
+- Current bid: $5
+- Bid count: 0
+- Photo count: 0
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (2) partial spools of galvanized hoist line, includes partial 3/4", and partial 1/2".
+
+---
+
+## Lot 18285 — (2) skids of assorted Truck Oversize load banners/flags, Men Working safety signs, traffic cones, bu...
+
+- OrbitBid item number: 1-18285
+- Internal ID: 1705473
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (2) skids of assorted Truck Oversize load banners/flags, Men Working safety signs, traffic cones, bungee cords, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6465db868155bf626903/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7ed085c672ad57e0ba9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b52c78d5d0bbd6fc8011/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/11039fc01faad6eabf2b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebd7066b1616d8cb25bc/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2423938810dea3effd4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d53acdbf38195022291f/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/44be0477eba38dca36b6/large)
+
+---
+
+## Lot 18286 — Lot of assorted hand saws, includes bow saws, 64" 2-man saw, and more.
+
+- OrbitBid item number: 1-18286
+- Internal ID: 1705474
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hand saws, includes bow saws, 64" 2-man saw, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc48a0c038fec3fcb82c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d88ea62792e932d7ab0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c32e527862504b6e8e6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/39e2441ace9df4487003/large)
+
+---
+
+## Lot 18287 — (1) skid with a Clipper Lacing belt, Flexco Quick Fit 190E connectors, various scalloped edges, and ...
+
+- OrbitBid item number: 1-18287
+- Internal ID: 1705475
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) skid with a Clipper Lacing belt, Flexco Quick Fit 190E connectors, various scalloped edges, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9b82b7b235c060778add/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a994b6e385d2fe78258c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8383929e4e9bcc9415b8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d59a15cfb14c04006a2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d58dfbab1eba382b0746/large)
+
+---
+
+## Lot 18288 — Large lot of assorted hoses, includes 2" OD, 1.5" SAE, 100R4 Flame resistant hoses, hydraulic, and m...
+
+- OrbitBid item number: 1-18288
+- Internal ID: 1705476
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted hoses, includes 2" OD, 1.5" SAE, 100R4 Flame resistant hoses, hydraulic, and much more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/918b04abafe5191fead8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5915790395a3db0caf3c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1119686731ca40f7b8b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/38e7fc64d05181004924/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee5f11fcd10bc6005d95/large)
+
+---
+
+## Lot 18289 — (4) partial spools of air hose, includes Parker 1/2", 200 PSI max, 3/8" air hose, Pioneer Farmax 3/4...
+
+- OrbitBid item number: 1-18289
+- Internal ID: 1705477
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (4) partial spools of air hose, includes Parker 1/2", 200 PSI max, 3/8" air hose, Pioneer Farmax 3/4", and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/75bd05516114422b7899/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/eff56413c431955903fd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2feebb50e01d8e0181b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb11c2690efbdef8c06f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5937fbdf43cebb2498bb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7f89c515e176d6bcb9b/large)
+
+---
+
+## Lot 18290 — (1) Matthews Company HD, 3 pt. mower, model 10HDL, S/N 42021, approx. 10', 540 PTO.
+
+- OrbitBid item number: 1-18290
+- Internal ID: 1705478
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Matthews Company HD, 3 pt. mower, model 10HDL, S/N 42021, approx. 10', 540 PTO.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4e9f5b032b7b5c4c6c9a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/096e9a4a7e85e3b355c4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/991425d1197760b1889b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/135295e8c48b04655ff3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a5c8a464233cedd65fa/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab034a93b3fb459863da/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/977050f0a63cd126b814/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/763a29cc1592dc4e112c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1068ae0d1dc40f29941/large)
+
+---
+
+## Lot 18562 — Contents of cabinet, includes assorted torch and welding supplies, Tweco replacement conduits (appea...
+
+- OrbitBid item number: 1-18562
+- Internal ID: 1705384
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Contents of cabinet, includes assorted torch and welding supplies, Tweco replacement conduits (appear to be new in box), safety glasses, ground clamps, respirators, and more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a80fd64e800c59332679/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d42c13ca7febd2e265a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3464be25de973846c5d1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e5ce6171a43fba82842/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f878c7c460bbb5128a4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/58c5a9bc2ab34dbc91df/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb84805eb49fbe95630e/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/67e50a703cdeb1955070/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f15d7574f69a9667f2b1/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ba09a6cd39465c344eb/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ac01ffa52206939aa5f/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d99694abfcb2126f6e3/large)
+
+---
+
+## Lot 18563 — (2) metal framed plastic pull out parts organizers with contents, includes assorted springs, brass f...
+
+- OrbitBid item number: 1-18563
+- Internal ID: 1705385
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (2) metal framed plastic pull out parts organizers with contents, includes assorted springs, brass fittings, and contents of wood work bench drawers, includes springs, vintage torque wrench, lifter clamping tools, assorted hose, wire, level, wheel studs, nuts, bolts, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/198968c37da5616f9c13/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/936d480ffe1201334fcb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6d47d256f061f9d38a0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/db092c6e896f7634d080/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a277941b80fb26097b4a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/77149a25b7ad4ace694f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e10f9cb0c4087dd4fb2/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/df1b86e9d77aaa179b28/large)
+
+---
+
+## Lot 18564 — Lot of assorted hose clamps with (2) wall mount hose clamp organizers.
+
+- OrbitBid item number: 1-18564
+- Internal ID: 1705386
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted hose clamps with (2) wall mount hose clamp organizers.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6a3a750c08fa1c974f8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/81eb785f4da6626544a4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/86e33498c16ece041414/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7652913287cb26a5096d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9288762318fdf986111/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4424e95c6b7a151eab3c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cbfa5562345f59d6f99/large)
+
+---
+
+## Lot 18565 — Lot of assorted tire repair supplies, includes vintage metal cabinets, approx. 21" wide x 10" deep x...
+
+- OrbitBid item number: 1-18565
+- Internal ID: 1705387
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted tire repair supplies, includes vintage metal cabinets, approx. 21" wide x 10" deep x 16" tall, contents include patches, repair tools, valve stems, caps, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e89c0b63243ab1b7a057/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3f9835ec997af7e9843/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f36b2b3bb95e34d7fcdb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cedc58d44642b9f49070/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d94b347f5c3f6dac6547/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9a5a3bef70ba6f63738/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/088135d03997f27f7105/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/880a77313c7294335156/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ebe3282843090230372/large)
+
+---
+
+## Lot 18566 — (1) vintage AC Spark Plug cleaner/tester with metal stand and pull out drawer, in working condition.
+
+- OrbitBid item number: 1-18566
+- Internal ID: 1705388
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) vintage AC Spark Plug cleaner/tester with metal stand and pull out drawer, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d23f8295eca7e01ae0ff/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/551a69c4076379d8e2fd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/37c63d26576ecaedb93e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d44b9fc480c07827235/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b0a5e316946848a8d26/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/127b85d12dedf833b97d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7933823826967f336d3/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/38070099a189d0d55dee/large)
+
+---
+
+## Lot 18567 — (1) Sioux valve seat grinder, appears to be in working condition, unknown if complete.
+
+- OrbitBid item number: 1-18567
+- Internal ID: 1705389
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Sioux valve seat grinder, appears to be in working condition, unknown if complete.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ccda228c2ea770ec17d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/56beafd0708513b662b5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ae5cd720e8f260a08c9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/664ac9eee8a4337122c7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0561ee80930c6ab29761/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc3d6a9bed0cb64e22b3/large)
+
+---
+
+## Lot 18568 — (1) Sioux valve face grinding machine, with metal table, 110V, believed to be in working condition.
+
+- OrbitBid item number: 1-18568
+- Internal ID: 1705390
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Sioux valve face grinding machine, with metal table, 110V, believed to be in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d31a2cdeb5d1e6bb4a04/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/44c2bcc24765e3448bda/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/71739ee98f8dfbec57ed/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f24e997616bdf29af7f9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dfa6315930360a33075/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c1a5048fc82b5c16b59/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cae27adf2b2dc65d84b/large)
+
+---
+
+## Lot 18569 — (1) Central Machinery industrial 6" pedestal grinder, 1/2 HP, item #46727, 115V, in working conditio...
+
+- OrbitBid item number: 1-18569
+- Internal ID: 1705391
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Central Machinery industrial 6" pedestal grinder, 1/2 HP, item #46727, 115V, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b964b8a2177c77a0588/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d9f60f70ef30a58623e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f3137b154563736d32e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f13ab61cb94079578b7a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/981c3de82bc9a6236ae3/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/942f92310bccb4407b71/large)
+
+---
+
+## Lot 18570 — (1) Johnson horizontal band saw, approx. 9" throat, 120V, said to need adjustment, currently cuts cr...
+
+- OrbitBid item number: 1-18570
+- Internal ID: 1705392
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Johnson horizontal band saw, approx. 9" throat, 120V, said to need adjustment, currently cuts crooked, in working condition, and (2) additional band saw blades.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c68af9842da2f10398dc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0f4c7b3f20dace5be81/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a85af67799f6941a19e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2179824484c81ab1b642/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a24a77b748b7c55af434/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/08fe6913e661d9844f5c/large)
+
+---
+
+## Lot 18571 — (1) Howell pedestal grinder with wire wheel and approx. 8" grinding stone, 3 phase, includes extra g...
+
+- OrbitBid item number: 1-18571
+- Internal ID: 1705393
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Howell pedestal grinder with wire wheel and approx. 8" grinding stone, 3 phase, includes extra grinding stones and wire wheels, in working condition.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9275da6e162b06475e46/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d594bb87418296455b0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/52ab57bc6f1bc9d6a108/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc16bfac992976a30fcb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/65dec90f2bc9837d5065/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/77e433333dccf1d65932/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5c78229206a57f5a128/large)
+
+---
+
+## Lot 18572 — (1) WT Complex drilling and milling machine, model DM-30, 8 3/8" x 28 3/4" table, drilling capacity ...
+
+- OrbitBid item number: 1-18572
+- Internal ID: 1705394
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) WT Complex drilling and milling machine, model DM-30, 8 3/8" x 28 3/4" table, drilling capacity of 1 1/4", 3 phase, includes a 6" machinists vise, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7aef0cb80c1563757ed/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/51f2ac230a86c8621f65/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbafbc1e478ba7ca20c3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/47f3d6ce0f2d964f45c6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ef9ad73e3c012e6130b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/737e0bc52506b6d45bcf/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/499d83dbbc6e8d208ac0/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae36ab32f8748cffca4a/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/f017a15497f1aad82b02/large)
+
+---
+
+## Lot 18573 — (1) custom made pedestal stand with 4-drawer pull out metal organizer with contents of assorted dril...
+
+- OrbitBid item number: 1-18573
+- Internal ID: 1705395
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) custom made pedestal stand with 4-drawer pull out metal organizer with contents of assorted drill bits, (1) Huot 3-drawer drill organizer, 14.5" x 7" deep x 8" tall, includes contents of assorted standard drill bits, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6def6ac33ed2d9bcd104/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fed9eecd04f228b13f3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3e5d620df84578574d6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a00e60d7fb3d5ee3e18c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/419402a206617fd7c8f0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/13ce3e95ab4dd0174bde/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b5c3774ad3963c076ec/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ef74a62165740b8f07c/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdc93733d4719f025f65/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/01ea137073750c0eb70a/large)
+
+---
+
+## Lot 18574 — (1) Duro Metal Products Company drill press, S/N R81780H, 120V, 10" x 10" plate, 120V, in working co...
+
+- OrbitBid item number: 1-18574
+- Internal ID: 1705396
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Duro Metal Products Company drill press, S/N R81780H, 120V, 10" x 10" plate, 120V, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a952f95ba58e9e3a4efd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdea5dd9c3986d92c8af/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6f93f8de1455c6fa79f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/196ba02cf2b64747cbce/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6828c6e296bc0bbdd00e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/caca0c03be47b6e6c177/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f91dcad5a7ddeeb88e1/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4736fec1408d328ec240/large)
+
+---
+
+## Lot 18575 — (1) Snap-On 6" bench vise, currently mounted to bench, winning bidder responsible for proper dismoun...
+
+- OrbitBid item number: 1-18575
+- Internal ID: 1705397
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Snap-On 6" bench vise, currently mounted to bench, winning bidder responsible for proper dismounting of vise.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/57539bb880dfa65172d8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9652dadd7431f5f3686c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/5da2ab668e82a15fbf8c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ce4f88c13d1935b5cb0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0bc3a1f1e3239c6d3c78/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba1cf4457a69dff0542d/large)
+
+---
+
+## Lot 18576 — (1) Wilton bench vise, #09-600, 6" wide jaws, currently bolted to work bench, winning bidder respons...
+
+- OrbitBid item number: 1-18576
+- Internal ID: 1705398
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Wilton bench vise, #09-600, 6" wide jaws, currently bolted to work bench, winning bidder responsible for proper dismounting of vise.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/36380b459af4ba5bcb8a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c158b6e4b1dd129589f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0734fcddb44a925a9ac5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0998542973b16c2fc06/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5239f9ac1ea7711e42fd/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbff8dc1b876f93fa84c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a937bda377c4f850755/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e09598ba9d1348fb131d/large)
+
+---
+
+## Lot 18577 — (1) steel work bench, approx. 82" long x 33" deep x 38" tall, includes contents of assorted chisels,...
+
+- OrbitBid item number: 1-18577
+- Internal ID: 1705399
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) steel work bench, approx. 82" long x 33" deep x 38" tall, includes contents of assorted chisels, breaker bars, standard wrenches, hack saws, screwdrivers, and more, winning bidder responsible for proper removal. Does not include vises shown in photo, bench and contents only.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/209e630341fd38e39753/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/58f09374af3a5f76d96b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f959e539045a15260421/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b2b5bcb9da9a9eb054f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a23ae86316454070f6d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/aed81dcb2714df81c79f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a767daa940a1f00e22d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4fc63bdd086a6b563eb/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/798fd880f4f00a003b52/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fdd9f538a8b7dd437041/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/b079557ddd94706eeb39/large)
+
+---
+
+## Lot 18578 — Lot of assorted truck and trailer lights, includes tail lights, headlights, truck mirrors, and more.
+
+- OrbitBid item number: 1-18578
+- Internal ID: 1705400
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted truck and trailer lights, includes tail lights, headlights, truck mirrors, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d202b60b80d7228b5bb6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4bf496e54d77a4912cf/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e82147b530bee8feee63/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f3a01446d4b910f2d5d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/98be58b490b6ef0f0c7f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ddcca37ece4207f1b55/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/db47c4637bc99fea9acd/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8e9437cd6bf968f97ef/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/aee2744e6527a281573a/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/17ac33632df2fd06f4e0/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f8f417ca13d46a522e32/large)
+
+---
+
+## Lot 18579 — Lot of (2) organizers with contents, 1 metal organizer is 34" wide x 24" tall x 12" deep, with conte...
+
+- OrbitBid item number: 1-18579
+- Internal ID: 1705401
+- Current bid: $5
+- Bid count: 0
+- Photo count: 13
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) organizers with contents, 1 metal organizer is 34" wide x 24" tall x 12" deep, with contents of large quantity of assorted hydraulic fittings, 1 wood organizer is 39" wide x 9" deep x 54" tall with SAE hydraulic fittings.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/48adeeae1563a6294b2f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ab2fb270f945b4281f4/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/819dbb82415072f7ce7c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/609eb6b5caca2135c517/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c243df95854e5dc0cfe3/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/10918742f8b112aa3da6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/af3dcb6e98b9be3d9692/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/42b611495cc768b9dbad/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f56ee2f4b50dc6c3fc4/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c2a2eb6007e470e8877/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac11959c202ab61eb11b/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/570e3223f248d788ec1d/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/5339d80c9a69864d9aba/large)
+
+---
+
+## Lot 18580 — (1) Imperial Eastman Kwikrimp, hydraulic crimping machine, model K501, S/N 5666, 120V, includes 14" ...
+
+- OrbitBid item number: 1-18580
+- Internal ID: 1705402
+- Current bid: $5
+- Bid count: 0
+- Photo count: 13
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Imperial Eastman Kwikrimp, hydraulic crimping machine, model K501, S/N 5666, 120V, includes 14" cut off saw, and (2) metal organizer cabinets with assorted hydraulic fittings, each cabinet measures 17.5" wide x 11 3/4" deep x 42" tall, unit is in working condition, includes assorted dies, sizes 500, 1050, 1550 and 1750.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/99d8d3eab59cce00138b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe9e21e8c77e8c2ad616/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1411aa0f36376e90fa07/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fecfe645d4dcb02c9c9a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/594b058d9f08203c3840/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4293a178471bfcb6e18/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/77ff133dd071ff62f9fb/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/adc72d49592b67f0a30e/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/60493aacf391adb683a6/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c0e5050a1d17ea8b563/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6f33dbe8ed43c9a06b2/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/475f2cbb885b86bdb208/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/04260643eee3fa1e4d76/large)
+
+---
+
+## Lot 18581 — (1) large, custom made heavy duty hydraulic H-press, 40" wide x approx. 93" tall, 110V, in working c...
+
+- OrbitBid item number: 1-18581
+- Internal ID: 1705403
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) large, custom made heavy duty hydraulic H-press, 40" wide x approx. 93" tall, 110V, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3cecf42e6109287b8014/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e79aed90930119cdf1b8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7ceb6503172aba27eba/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c520699d2eda19b79df/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/986bc14d39e9307974a3/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cab72bd494f74c2b8f6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/34c7b47efff7dc0a34e7/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/970f671ab9bbf48eadf2/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c75306f475f732d39764/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d64a1e31ce83f59a6e8/large)
+
+---
+
+## Lot 18582 — (1) The Harrington Differential chain hoist with I-beam trolley bracket, hoist and bracket only, doe...
+
+- OrbitBid item number: 1-18582
+- Internal ID: 1705404
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) The Harrington Differential chain hoist with I-beam trolley bracket, hoist and bracket only, does NOT include I-beam, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0e8c0d9885d1d40f9f1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d5feeaa49fb8ca1f3a9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/62622db985318c0d57ff/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/521fa0383371ea912c9d/large)
+
+---
+
+## Lot 18583 — (1) ESAB spool arc 86 welding wire spool, new in box, .90 mm or .035", 44 lbs., item #1382F05.
+
+- OrbitBid item number: 1-18583
+- Internal ID: 1705405
+- Current bid: $5
+- Bid count: 0
+- Photo count: 0
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) ESAB spool arc 86 welding wire spool, new in box, .90 mm or .035", 44 lbs., item #1382F05.
+
+---
+
+## Lot 18584 — Large lot of assorted welding rod, various types, includes Hotpoint vintage refrigerator, used for s...
+
+- OrbitBid item number: 1-18584
+- Internal ID: 1705406
+- Current bid: $5
+- Bid count: 0
+- Photo count: 12
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted welding rod, various types, includes Hotpoint vintage refrigerator, used for storage, 315 1/16", Radnor 3/8" x 12", 1/8" Stainweld, Fleetwood 47, includes metal stand, and (2) partial rolls of welding wire, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/21fe574f1e230eff4198/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca810ef3bac1d5c12e3e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b06ddb4d686dcfdea22c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbeda97380dbccd96322/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8ab7fdc1875a8e231e8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/05e5c3efd133a6c9a1e4/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef9bd9952dc2120773bf/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/78b313a7cbca941f5022/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/81d24d3fc924e20f8dce/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/443435aea2302bbb46f8/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/972241ef1da26e554012/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0c8727397b282b82a07/large)
+
+---
+
+## Lot 18585 — (1) Van Norman Company portable boring machine with wood crate, missing electric motor, appears all ...
+
+- OrbitBid item number: 1-18585
+- Internal ID: 1705407
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Van Norman Company portable boring machine with wood crate, missing electric motor, appears all other items are in place.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e2479787db97437807b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e1d19cd26ada04bcba6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/694d9ae0c2ea3fdc246b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/19798ea103bd494e2dbc/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ca865befe029e1da4f1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8232365f46af21633715/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac0bd33063debdbe5376/large)
+
+---
+
+## Lot 18586 — (1) vintage Sun Tune Up tester, includes (1) Kal-Equip Company time gun, engine speed testers, Dwell...
+
+- OrbitBid item number: 1-18586
+- Internal ID: 1705408
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) vintage Sun Tune Up tester, includes (1) Kal-Equip Company time gun, engine speed testers, Dwell Tech ignition testers, also includes assorted air chucks, and air pressure gauges.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e523a04e9d93437c3f14/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a7174c7ede9e97ec8a6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ae0aff047d13282448b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/30e3e751bb2bb20d68c0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2baaf63f8bbf3d421f27/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fb58e7ebb672cfed5c2/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2b51cdbc89fad1408e8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/bab9562c180a746607d9/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/70ca31216dde4d90509e/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/da46924f9c805c033dc2/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/31710889e83936ff9741/large)
+
+---
+
+## Lot 18587 — Lot of assorted standard wrenches, includes 1/16", 1 1/8", 1 1/4, 1 5/16", 1 3/8", (2) 1 7/16", (2) ...
+
+- OrbitBid item number: 1-18587
+- Internal ID: 1705409
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted standard wrenches, includes 1/16", 1 1/8", 1 1/4, 1 5/16", 1 3/8", (2) 1 7/16", (2) 1 1/2", (1) Snap-On 1 7/16", (1) Snap-On 1 5/8", (1) Williams 1 7/8" wrench, (1) 24" Diamond crescent wrench, and (1) 18" Diamond crescent wrench.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ecaaac414b05f39da018/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/870a46c62d07a12e26f8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/19dc4e3abf365562a788/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc06794d8cbe0433fbcc/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2198e0f200892557cb9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d29370e0cb38c5cf2406/large)
+
+---
+
+## Lot 18588 — (1) Hine &amp; Warner hydraulic transmission jack with adapters for assorted transmission.
+
+- OrbitBid item number: 1-18588
+- Internal ID: 1705410
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Hine & Warner hydraulic transmission jack with adapters for assorted transmission.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/96f56341c369f3822109/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cd8453d312db96bf849/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3685ba1b57c26bdf46b3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/21da4b2de45b6d7b0907/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/815664722cd46efe17d8/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6c872ba042b3fd58926/large)
+
+---
+
+## Lot 18589 — (1) Borg Warner 2-door automotive tune up parts cabinet, 28.5" wide x 12" deep x 31.5" tall, with co...
+
+- OrbitBid item number: 1-18589
+- Internal ID: 1705411
+- Current bid: $5
+- Bid count: 0
+- Photo count: 15
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Borg Warner 2-door automotive tune up parts cabinet, 28.5" wide x 12" deep x 31.5" tall, with contents of assorted light bulbs, thermostats, ignition parts, Signal Stat lighting, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2319c5f5a49a2e40871/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/037a7c1bde865886bd1f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6f7c7a71d76cf269ffb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/abd638b2969bb196b613/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/54ecacda366036755ae7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d08186007ddf84bcd278/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/81db82b9a4740355b150/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4dd731a5806ff081e933/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/95c267a5ee39de6b20d0/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/decbb5b7dd91da312b3f/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d229844d311e33495592/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/9bf75324eb70aedba8a2/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/7355541ec46cbbac4470/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/7ff3b59abb6c88137815/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/893431454d96b6012c40/large)
+
+---
+
+## Lot 18590 — (1) Borg Warner 2-door vintage parts cabinet, 29" wide x 12" deep x 31.5" tall, with contents of ass...
+
+- OrbitBid item number: 1-18590
+- Internal ID: 1705412
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Borg Warner 2-door vintage parts cabinet, 29" wide x 12" deep x 31.5" tall, with contents of assorted automotive parts, gauges, springs, plow parts, pins, fuses, and more, lot also includes Tong-Sol auto lamps and flashes, vintage organizer box (20" wide x 12" deep x 10" tall), includes assorted light bulbs.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/74ffb4b347803521625c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d191914e736e84fcb0e9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3901e731dbaad10fe92e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a19c48f08caccbb5a81b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e197918ebbb7c52f790/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a402ee3ae631db0fcdeb/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f830d157d0000b40d88/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3edfd3d9491776ff196/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c6f75194cd3c3d43995/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/7dafb4a6ce2a9ff5349c/large)
+
+---
+
+## Lot 18591 — (1) NAPA 2-door, wall mount metal cabinet, 30.5" wide x 10" deep x 20" tall, includes contents of as...
+
+- OrbitBid item number: 1-18591
+- Internal ID: 1705413
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) NAPA 2-door, wall mount metal cabinet, 30.5" wide x 10" deep x 20" tall, includes contents of assorted spark plugs, distributor caps, and (1) NAPA Echlin metal cabinet, 18" wide x approx. 8" deep x 25" tall, lockable with keys.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/141382a072ee51761fed/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc1bb771c65d11d2ae4a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab6dae4511c626135d29/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/860086b652363b55d793/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/6aa2372eda1b441b6498/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cd95f6017ebd1e0e602/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc9e74fdecaaf0659d70/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/a09a3057df8113d029a8/large)
+
+---
+
+## Lot 18592 — (1) approx. 250-gallon hydraulic oil tank, holding approx. 50-gallons of oil, metal framed rack with...
+
+- OrbitBid item number: 1-18592
+- Internal ID: 1705414
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 250-gallon hydraulic oil tank, holding approx. 50-gallons of oil, metal framed rack with assorted oil jugs, and 5-gallon buckets, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/5fb3ac7886af16297326/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e61f26d2f3f026e1a99f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e12bbdd0ae821b05b65e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac3a9bf597e28be038bf/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f53dbdc63c3568419bb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c18f6e57d6008c2b0f75/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0558995733a13e43480/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2d82794884ed8df3902/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ac86f750379367cfd7b/large)
+
+---
+
+## Lot 18593 — (1) approx. 250-gallon oil tank, holding AW hydraulic oil 46, approx. 1/8 to 1/4 full, winning bidde...
+
+- OrbitBid item number: 1-18593
+- Internal ID: 1705415
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 250-gallon oil tank, holding AW hydraulic oil 46, approx. 1/8 to 1/4 full, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/47f66e85355d37cb4f5d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcbce3dfc55769636f44/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/71c9c14222efd988398d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1b2545c48b76eac2d18/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f3da1f3879bd44cdee5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/25fdd9a3b3c5cc5e81d7/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f15bf8ecd0901bce2c37/large)
+
+---
+
+## Lot 18594 — (1) approx. 250-gallon oil tank, holding 15W-40 engine oil, approx. 1/4 full, winning bidder respons...
+
+- OrbitBid item number: 1-18594
+- Internal ID: 1705416
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 250-gallon oil tank, holding 15W-40 engine oil, approx. 1/4 full, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c34b51b11b4a48f9cb8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d7434c14a16c346f6ff/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a959394711638546eeb1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/79e687e9c2253e6e5590/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d02c94d7d2c2ee672557/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b1981a53815d95495732/large)
+
+---
+
+## Lot 18595 — Lot of assorted filter wrenches, muffler clamps, exhaust caps, and more.
+
+- OrbitBid item number: 1-18595
+- Internal ID: 1705417
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted filter wrenches, muffler clamps, exhaust caps, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b7297860ee7761ce59d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/4034e32dc0de5575c08b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7715a998a9cfd496eb4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbd5537df8651ebe6e9f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a8ff8a09503f96dbb71/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/da546471bf8c7006179d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/72e1b7ec731093bd73b9/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/519a86d904beb441e52b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6cb62b3d897e09c025a0/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c592995d6b75b57d223b/large)
+
+---
+
+## Lot 18596 — Large lot of assorted automotive belts, brands include Goodyear 17425, Gates K080720 Micro-V belts, ...
+
+- OrbitBid item number: 1-18596
+- Internal ID: 1705418
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted automotive belts, brands include Goodyear 17425, Gates K080720 Micro-V belts, Michelin 22590 belt, and more, lot also includes assorted radiator hose.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4971234ac74421ef6bf2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c1764a7782a11704e13/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4764131a462e613ebd9c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/91db996603eec66cbecc/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/48bd226625f1e98e4034/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/d311818313d076099f7c/large)
+
+---
+
+## Lot 18597 — Large lot of standard heavy duty impact sockets, sizes 1 1/16" up to 3 1/8", and Snap-On 1" to 3/4" ...
+
+- OrbitBid item number: 1-18597
+- Internal ID: 1705419
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of standard heavy duty impact sockets, sizes 1 1/16" up to 3 1/8", and Snap-On 1" to 3/4" impact reducer, assorted wheel axle nut sockets.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c524db523d4763f5215/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e03a41b34b6997f45f25/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0185f13f7f96e2bc536/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1da769aa4ba57acb6e12/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/52427bdf7660a53786d2/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fb7d58a60e30a0ac888/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/63dcde8aee5f20e10621/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/49fe7d278ce8a088f058/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b520b425bedcf16fb2fe/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/61e1c5b9d5f74075be39/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5018b8fc8fc23101c43/large)
+
+---
+
+## Lot 18598 — Lot of assorted 3/8" rubber tubing, and 1/8", partial roll of 3/8" fuel line hose, gas hose, and mor...
+
+- OrbitBid item number: 1-18598
+- Internal ID: 1705420
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted 3/8" rubber tubing, and 1/8", partial roll of 3/8" fuel line hose, gas hose, and more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2d026a87abcb6071c67/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e20ca36560756d6aa6a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/335ff96531524bf4652f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5beeec1b9a13b43a8bb6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/232384b0e959a9f54064/large)
+
+---
+
+## Lot 18599 — (1) Gray Mills parts washer, model 300A, 1/3 HP, 41" wide x 30" deep x approx. 35" tall, 120V, inclu...
+
+- OrbitBid item number: 1-18599
+- Internal ID: 1705421
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Gray Mills parts washer, model 300A, 1/3 HP, 41" wide x 30" deep x approx. 35" tall, 120V, includes parts stands, in working condition, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e265cc4fb3ca65a9451/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/850a628a564661912ecb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9124fef4d653778dd60d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b98a7d8999ab6635af8a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd5e9978ce72c681b8b0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/de1d97b6557b74cff8b3/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b1be0cff00c52062a63/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ecc0743815a7c048aae/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/78e293764f5186478b93/large)
+
+---
+
+## Lot 18600 — (1) lot of assorted oil cans, funnels, Zero Start engine ether for loaders and excavators, quarts of...
+
+- OrbitBid item number: 1-18600
+- Internal ID: 1705422
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) lot of assorted oil cans, funnels, Zero Start engine ether for loaders and excavators, quarts of Winter Power Plus Diesel Anti-Gel, bottles of NAPA Cooling System Treatment, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c317a82ba725071cd184/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/600aa8c2eb102ff1cf05/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/abde8ba6df43956eb7d4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d14b39b755e23b4f6de/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/47b7f1d23bb708ec9bcb/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/44135beb206c88108d8f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/45a7f945e03332f97ba8/large)
+
+---
+
+## Lot 18601 — Large lot of assorted WIX and NAPA oil filters, air filters, and fuel filters, includes WIX 42323 ai...
+
+- OrbitBid item number: 1-18601
+- Internal ID: 1705423
+- Current bid: $5
+- Bid count: 0
+- Photo count: 15
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted WIX and NAPA oil filters, air filters, and fuel filters, includes WIX 42323 air filter, NAPA Gold fuel filter #3353, NAPA Gold filter #3827, NAPA Gold Hydraulic filter #1176, WIX air filter 42119, NAPA air filter #2124, and more, winning bidder responsible for proper removal of all filters.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/becf52e2588a041a0628/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bddaea89768f1fb13be/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a31346e32a0d1f9156d3/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8061316f3c88999f37b5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/20a82160fc29badf51ad/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc43422eeb05c7b22936/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/11a1abb8ef84aee59694/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/574c51ac02f477eea4cc/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ccd8702f9ba08eb5687d/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/508bd23dc1606841af34/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/746afd6cb263497046c9/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec822eb8e4e423c9ad78/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/9569ea96fb4dcb977cd5/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/44922dbee64c8be5d1b4/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a7a38bdb668ecc139d1/large)
+
+---
+
+## Lot 18602 — Partial roll of 1" heavy duty heater hose, (1) approx. 3/4" piece of heavy duty heater hose, clear p...
+
+- OrbitBid item number: 1-18602
+- Internal ID: 1705424
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Partial roll of 1" heavy duty heater hose, (1) approx. 3/4" piece of heavy duty heater hose, clear plastic tubing, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a473a80ab170397b1a31/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9505f5c0e37add8e279b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a777f60950a1e2686e73/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e093519c6a510d7eda20/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/746072c4b508747b45bc/large)
+
+---
+
+## Lot 18603 — Large lot of assorted U-joints, includes Motor Master 5200AG, Motor Master 5025I, Bulldog seals, and...
+
+- OrbitBid item number: 1-18603
+- Internal ID: 1705425
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted U-joints, includes Motor Master 5200AG, Motor Master 5025I, Bulldog seals, and more, includes wood table.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/038a74c098fae7f1dab9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5047de691fcd90042962/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4091faa21a9dcf5ef5e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d5a969b624910558868/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ee0bdfc39d5bf741bea7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/34ce268692bccf6e52de/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/930410e090e937348619/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/22948c9f48bee472eead/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/94a7b0c40d5749cc98d6/large)
+
+---
+
+## Lot 18604 — Contents of shelf, includes assorted excavator bucket teeth, (5) Hensley 27HX, (3) Dura DX290 excava...
+
+- OrbitBid item number: 1-18604
+- Internal ID: 1705426
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Contents of shelf, includes assorted excavator bucket teeth, (5) Hensley 27HX, (3) Dura DX290 excavator teeth, (1) Hensley X520F excavator tooth, (5) 230 SP excavator teeth, assorted cultivator shovels, assorted U-joints, ball and roller bearings, Spicer U-joint kits, model 5-281X, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4671fa71aa48e75d8728/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/61bd8516c2f0b1a1c1d3/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/65b255e7e754c839bd81/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/216de05d31bb805c0b58/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/769a69418d6d17fc626e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/a468e84ea7378bd5379d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2076ef4b58e4d7ced37b/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/9eaf7555b267e5296c6a/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7dd7a4587100a1a6b1d5/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/caad2a6a6fee8f24972d/large)
+
+---
+
+## Lot 18605 — Contents of shelf and floor, includes assorted bearing seals, Stemco hub cap, model 340-4066, hydrau...
+
+- OrbitBid item number: 1-18605
+- Internal ID: 1705427
+- Current bid: $5
+- Bid count: 0
+- Photo count: 15
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Contents of shelf and floor, includes assorted bearing seals, Stemco hub cap, model 340-4066, hydraulic hoses, Meritor, part #R803106, splined bearings, (1) used Tectran air cylinder, 2.5" x 8" stroke, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3353f963aae39fe538ef/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc9d2c4359af1ce7d544/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b4c233b92c7c966e5bd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8718622e396d98b925b6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a135295da805a2b3e53e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8da484976c57451eb40c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9df887a951034a551da9/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0252ac32e47506524a7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/341356b0eea8c3148280/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/3460104b0ef5457d8384/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e72afb0c6c9d6166c45/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/01f405475ea99f5a0ae7/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/09e832ee85a8b35a0a54/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a9203b7ad6bf9d7ef2a/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/27df14c795afc8875640/large)
+
+---
+
+## Lot 18606 — Lot of 3 alternators, includes (1) new 24V, part #19010199, with pulley, (1) used Prestolite, model ...
+
+- OrbitBid item number: 1-18606
+- Internal ID: 1705428
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of 3 alternators, includes (1) new 24V, part #19010199, with pulley, (1) used Prestolite, model AEM3003GA, 24V, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/18ab395fe0964417e992/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad17d81801ec7a88401d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/4125b95beca1c31812a5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/08ce46fc70f6821f4b3d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/311c3fe6d0cbaa95b19c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d31e0fc0f8c42417cfd/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/800000ba372ab91651e7/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f1633ab5f398d0847b7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9235329057f3c766cea8/large)
+
+---
+
+## Lot 18607 — Contents of (3) shelves and floor, includes assorted new brake shoes, assorted Euclid brake kits, pa...
+
+- OrbitBid item number: 1-18607
+- Internal ID: 1705429
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Contents of (3) shelves and floor, includes assorted new brake shoes, assorted Euclid brake kits, part #'s E-2769HD, 2403HDE-D171-S, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b2bd17d2b810d508cddc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7eda2d2db82afba88d8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1d4b3e19c63699fd92e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6302e03b721009180956/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/66854b5ee28db1e80326/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9fbdd824d1aef35f348b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/83caab1918b8f30254f4/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/3371b131b140e6337250/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3275b31f8bff0449bbde/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/92118e647ebe32ca5043/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b969f80d87a6267b377/large)
+
+---
+
+## Lot 18608 — (1) New Star air dryer replacement cartridge, part #S-A474, new in package, and (1) New Star air dry...
+
+- OrbitBid item number: 1-18608
+- Internal ID: 1705430
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) New Star air dryer replacement cartridge, part #S-A474, new in package, and (1) New Star air dryer, part #S-F345, new in package.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c53d322905f91536260/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d5207b90cdf54fde253/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/969e2e7cc27c3751db15/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9a5a90c65c6e1a4e43c1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/95133d9bef2eca39f15d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c09ea077b981b27f5781/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/06927e2cf58e01f851eb/large)
+
+---
+
+## Lot 18609 — Lot of (10) assorted air brake chambers, all appear to be new, old stock.
+
+- OrbitBid item number: 1-18609
+- Internal ID: 1705431
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of (10) assorted air brake chambers, all appear to be new, old stock.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac544b602ddfc0e2119f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5a51b496f2032519308/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/63d3ff2dd6ca0b8e7222/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0239c577ad58fcd2ac8f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b478d936b804b2561c3/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8b5cd8a0d28636ffb96e/large)
+
+---
+
+## Lot 18610 — Lot of assorted truck parts, includes hydraulic pump with wet kit adapter, assorted caster wheels, l...
+
+- OrbitBid item number: 1-18610
+- Internal ID: 1705432
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted truck parts, includes hydraulic pump with wet kit adapter, assorted caster wheels, lights, and more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/47e42d9a02e1a5c271e0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/aea2b50b3dad2af6fd3c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca6c96195c6ad4b14ec4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/464238abf0270c5e0765/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a5008fadab9799df85/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5595dabd32d1c16016b6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab7c1e87b98f45362736/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d7a90e7e4053fc2a1ee/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/6ebc772c71d00fad904f/large)
+
+---
+
+## Lot 18611 — (1) Evans inline heater core, 24V, new in box.
+
+- OrbitBid item number: 1-18611
+- Internal ID: 1705433
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- General Description: (1) Evans inline heater core, 24V, new in box.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9a692668598fd4fc6c2/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0642bb9d19e72022f91a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0ba5b57815cd496b890b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ce53c1a901dfe83f9a8/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/72fb1f9a31adec3f54de/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5785c2d4a6181edfe8ad/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3fb8ad9c33e159e6b8e/large)
+
+---
+
+## Lot 18612 — Air Supply CV97A11A352A Air Compressor
+
+- OrbitBid item number: 1-18612
+- Internal ID: 1723322
+- Current bid: $50
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-29T23:30:00Z
+
+**Fields:**
+
+- Make: Air Supply
+- Model: CV97A11A352A
+- Serial Number: 4235202
+- Features: Air Compressor
+- Additional Information: 120 gallon, 10 HP motor, 3 phase, buyer responsible for proper removal
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce523ece0c38ce05a5d7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d43c0b3166b1e6954767/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e637bde7f41d5b25c093/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b462168749c0265c39e0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/da18ce5b039c8b980f7e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c292b8f83f7cfc0cb05b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f4e5b20a371e7cabbd8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2f20c334eae86755600/large)
+
+---
+
+## Lot 18291 — (1) Stur Levan 7256, 3 pt. PTO with belt drive blower fan.
+
+- OrbitBid item number: 1-18291
+- Internal ID: 1705479
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Stur Levan 7256, 3 pt. PTO with belt drive blower fan.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/03159304b48c6de20233/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1678ed8a2c613326889a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e19d0f69daa0c0fcc3a6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf05e149e2a515b8fef4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0bd1c79863b92237bef/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f07e66b165148dcfedca/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e2dcf89b31ed151fee33/large)
+
+---
+
+## Lot 18292 — Lot of assorted crane parts, includes a crane block, 941 crane ball, and more.
+
+- OrbitBid item number: 1-18292
+- Internal ID: 1705480
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted crane parts, includes a crane block, 941 crane ball, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a5e91963904f790e8f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcf4e5c17efeb4bc1965/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/139bac7856ff57c54727/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7813acb5d1e6c7346a1c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/43cf61ba7cb60d632c6d/large)
+
+---
+
+## Lot 18293 — (1) General Electric 20 HP heavy duty industrial motor, 230/440V, 3 phase electric.
+
+- OrbitBid item number: 1-18293
+- Internal ID: 1705481
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) General Electric 20 HP heavy duty industrial motor, 230/440V, 3 phase electric.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/09e6cfbdb4de5df0ce2e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b665c35a1bf4b8cceca6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa3c0469feeb8758758/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a11da3cb323a5e86c15/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad3cb7ff763cb658a715/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f4893635ae7bf64f4c2d/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/454b5a8e8916e5ec8db7/large)
+
+---
+
+## Lot 18294 — Large lot of galvanized steel chokers/lift straps, various sizes and lengths up to 2" diameter, and ...
+
+- OrbitBid item number: 1-18294
+- Internal ID: 1705482
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of galvanized steel chokers/lift straps, various sizes and lengths up to 2" diameter, and 3/8" chain, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2183fecf170d5c6b2d75/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4ad7debccd6b0798391/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1ea8bdaed3edd7821d7/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/98bf8754c1dbbb59bf67/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4483ea7aceb8c896155c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ad3d49d5417bf9dcbe1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd45b23ed2826d886eb5/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/779f31d3e29a5244745a/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab8095fc0b84e881acc9/large)
+
+---
+
+## Lot 18295 — (1) Sullair single axle, towable air compressor, shows 151 hours, 4-cylinder gas engine, 2" ball, ma...
+
+- OrbitBid item number: 1-18295
+- Internal ID: 1705483
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Sullair single axle, towable air compressor, shows 151 hours, 4-cylinder gas engine, 2" ball, manual landing gear, includes hose, model 125-GPQ, S/N 38042BGH, runs and operates, 6.50-13ST tires.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/eec0468c0283495dd6b0/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/500904cb8852d5654541/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/130f3680f9c214da16d6/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c422f7d66d317389e3a1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/82ceffc4b1f66ab33172/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/18e9b96317745fd9ab9c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b2a96d409ec59f8e41c/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f20e2fa04160a80fc386/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/282763578c09cc612fde/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/796254ddcbc7f54664fc/large)
+
+---
+
+## Lot 18296 — Large lot of assorted heavy duty air hose, and assorted air tools.
+
+- OrbitBid item number: 1-18296
+- Internal ID: 1705484
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted heavy duty air hose, and assorted air tools.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/256a72515d6c47cf3331/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5121bbba7c33de0adc97/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fea1a11c987c1c8ee7b0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a1e601278c4aa2136f2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/623fbf5cedb913756e6d/large)
+
+---
+
+## Lot 18297 — Large lot of assorted expanded steel grates, full 6' x 8' sheet of expanded steel, partial steel she...
+
+- OrbitBid item number: 1-18297
+- Internal ID: 1705485
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted expanded steel grates, full 6' x 8' sheet of expanded steel, partial steel sheets, and assorted other metals.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c5c91e12cb5fda90787/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d27177dc1615d29cb3ab/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3006c42213695daeab90/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c5f9f84b3f24944c372/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9dfbc482c148f7a3e87/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d3a6545469e8e29a5fb/large)
+
+---
+
+## Lot 18298 — (3) skids of assorted semi-truck exhaust pipe, includes flex pipe, tips, 90's, filters, mufflers, an...
+
+- OrbitBid item number: 1-18298
+- Internal ID: 1705486
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (3) skids of assorted semi-truck exhaust pipe, includes flex pipe, tips, 90's, filters, mufflers, and more.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc42e4870e9c198405c5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbe1bf77bf1eac3a733f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce7eebc77f08f12e39ad/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8efe59718e87138bde1d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/20eb2801e812839e427b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc3832bf97756a3596aa/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dad366636fc16a9e3c5d/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c45b69f323735777104e/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/364da3df562ae95f608a/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc023528e4a5e305c3d2/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cce93ea8766e1e8eac9/large)
+
+---
+
+## Lot 18299 — (1) 10' x 45" wide screen deck with mounting plates.
+
+- OrbitBid item number: 1-18299
+- Internal ID: 1705487
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 10' x 45" wide screen deck with mounting plates.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/21c0145f57b506e7b032/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/38888862dec9b467b412/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/aef30d2017d9728adcff/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d060b656f657bd6faec/large)
+
+---
+
+## Lot 18300 — (1) Case Cab for a Case dozer, model 1150B &amp; 1150C crawler dozer, all glass, and windshield wipe...
+
+- OrbitBid item number: 1-18300
+- Internal ID: 1705488
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Case Cab for a Case dozer, model 1150B & 1150C crawler dozer, all glass, and windshield wiper.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7bb924cf9bb8e3bb057/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e094c3ab2b78293d0625/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a28cb66a45cdeeb95b3a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c7c4af23c9cfffe036a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/94eb0bc8b75c03b6fd3d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f4ac0f377f708e2e67e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cf69dc9a07b029cef122/large)
+
+---
+
+## Lot 18301 — (3) sections of Tear Drop style pallet racking, includes (4) 42" deep x 105" tall uprights, (18) app...
+
+- OrbitBid item number: 1-18301
+- Internal ID: 1705489
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (3) sections of Tear Drop style pallet racking, includes (4) 42" deep x 105" tall uprights, (18) approx. 9' cross beams, (2) 40" wide x 79" tall uprights, includes wire mesh decking, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/67c0de4cb93b089b14e1/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/daaeab1ce5c79784ce34/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f73788281d02ccdcf383/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/710b417e8b7404a1ef97/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d3f55b5ec4890b2d84e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/22f8ebe27e76bc64465b/large)
+
+---
+
+## Lot 18302 — Lot of (2) sections of roller conveyor, approx. 10' long x 12" wide x 10" roller path.
+
+- OrbitBid item number: 1-18302
+- Internal ID: 1705490
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) sections of roller conveyor, approx. 10' long x 12" wide x 10" roller path.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3abe241ece3d044bdb0a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/91c3fb548b266c8c877c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/90eefc3f1e3d5f96eca1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8810fb48ae643b50d685/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4790ad690f4049db938/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a0c5e02540d520b86ce/large)
+
+---
+
+## Lot 18303 — (1) Budgit 1-ton chain hoist.
+
+- OrbitBid item number: 1-18303
+- Internal ID: 1705491
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Budgit 1-ton chain hoist.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc7670d95c19fa578dc3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc35badd2ae0556636b6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a12ed51c7fdae23b3789/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/587606405ef0e1d06b1c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e3bf9fd0e513428d573/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/601b013256e1f52e7e93/large)
+
+---
+
+## Lot 18304 — Lot of (4) approx. 20' chains, (6) snap style chain binders, and (1) ratcheting chain binder, also i...
+
+- OrbitBid item number: 1-18304
+- Internal ID: 1705492
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (4) approx. 20' chains, (6) snap style chain binders, and (1) ratcheting chain binder, also includes square and spade shovel, and broom.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f42d93cbd9801cca3ea8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/75443398d27e63d60dcc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6db575b20395c253494e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8cbbd1563e2e62457e3/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/65a8d39a986bb16cc3cb/large)
+
+---
+
+## Lot 18305 — Lot of 4 ratcheting chain binders, (3) 10' and (1) approx. 20', broom, and shovel.
+
+- OrbitBid item number: 1-18305
+- Internal ID: 1705493
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of 4 ratcheting chain binders, (3) 10' and (1) approx. 20', broom, and shovel.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a82e7da7bed213cc9c5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b49f4ae3b88f6cb028ad/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d729a0b1b45ca21a22ee/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/310c5bbc4b087809a54f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b95ffb4182f5692612a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cdf401166b009ac655df/large)
+
+---
+
+## Lot 18306 — Lot of (5) ratcheting chain binders, (4) snap style chains binders, various chains, spade and square...
+
+- OrbitBid item number: 1-18306
+- Internal ID: 1705494
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (5) ratcheting chain binders, (4) snap style chains binders, various chains, spade and square shovel, and broom.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb6be04a53de3fa6e6cd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6decc4299394f4c56b82/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f782645fcee1a389c98/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d0b4bfc66f3134cc31e/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/16433ac5168e9e808c91/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e20f42cd046cdb8cb03/large)
+
+---
+
+## Lot 18307 — (1) 8' cutting edge for a John Deere 1150C dozer, hitch, and other parts.
+
+- OrbitBid item number: 1-18307
+- Internal ID: 1705495
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 8' cutting edge for a John Deere 1150C dozer, hitch, and other parts.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cb5cf278c7c869660f4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/aacd7b224df5fcfe9edb/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba7f79d7088493005898/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9149a1886b7736732c38/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3411903c5285e990fb0f/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2367a529da8ae91378b5/large)
+
+---
+
+## Lot 18308 — (1) 87" cutting edge for a Case 1450, hitch, and side dozer end bits.
+
+- OrbitBid item number: 1-18308
+- Internal ID: 1705496
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 87" cutting edge for a Case 1450, hitch, and side dozer end bits.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/32e969ab1c2e37f2e325/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa7f5afba2ae8e86a891/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/28a4e948041aae6cab92/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/444d043493111f8fe43f/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa4b282bf1d833306576/large)
+
+---
+
+## Lot 18309 — Large lot of assorted steel beams, various sizes and lengths, includes 8" x 8", heavy duty steel pla...
+
+- OrbitBid item number: 1-18309
+- Internal ID: 1705497
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of assorted steel beams, various sizes and lengths, includes 8" x 8", heavy duty steel plate 48" x 48", C-Channel, I-beams, and more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2bd4aaed4ca18daf9748/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/37302b3caed535eb5f69/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/214fcbd5f6f293ecd2db/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f7c76ff86b7bbf9a376/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/91672335ac51069477e1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a8d100ca5ad6fedd48b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/12dd14d5901ec136631b/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f72ca76e27a837050262/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed40f71145587925bb7e/large)
+
+---
+
+## Lot 18310 — Approx. (16) metal sign posts, approx. 8' tall.
+
+- OrbitBid item number: 1-18310
+- Internal ID: 1705498
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Approx. (16) metal sign posts, approx. 8' tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6795de24469bc8f539c5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2dfa2c098f32c291a72/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2ce4b9e5c26cf14b3e6a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/1ce2229dfa71b2cc8d59/large)
+
+---
+
+## Lot 18311 — (1) Diebold data safe, auto 1100, dual door combination safe, 56.5" width x 35" depth x 80" height, ...
+
+- OrbitBid item number: 1-18311
+- Internal ID: 1705499
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Diebold data safe, auto 1100, dual door combination safe, 56.5" width x 35" depth x 80" height, combo is in the shop office, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/991f97bdcba93a8cedcd/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f89d96dbb11ff4a2c4a7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f25656b84b4c5b85c2f0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/57530941439b9a2e1c9d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/95fa41eb07a84d81a7db/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/629d986993ee1b3124b1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/74517d491ecfa0fbcd1f/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/91b420208c7972c530f7/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d8f8d49748ad72959d42/large)
+
+---
+
+## Lot 18312 — (1) Cat, model CV18B, 73" skid steer quick attach roller, work tool is 2318601, S/N RCA03284.
+
+- OrbitBid item number: 1-18312
+- Internal ID: 1705500
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Cat, model CV18B, 73" skid steer quick attach roller, work tool is 2318601, S/N RCA03284.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c10ed564afad399bcee5/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe3c2b834116cc8fea51/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/549756a44a5e7b03307b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c72aa140ede8ed11667/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/36108149af9a6b1d376c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/338de567ae533f4bc027/large)
+
+---
+
+## Lot 18313 — (1) set of forks, 42" x 4", and set of 87" x 6" fork extensions.
+
+- OrbitBid item number: 1-18313
+- Internal ID: 1705501
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) set of forks, 42" x 4", and set of 87" x 6" fork extensions.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bdbcb74bdf3106feda29/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/67004652b6ebccbd36d0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbba420faaa02f0a1290/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6fca1c62efe5c52eaefb/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d13790ae57004be8192/large)
+
+---
+
+## Lot 18314 — (1) Quick Attach jib crane attachment, 68" neck base with a Crosley WL15 hook.
+
+- OrbitBid item number: 1-18314
+- Internal ID: 1705502
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Quick Attach jib crane attachment, 68" neck base with a Crosley WL15 hook.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/097747b93fc4aa75c750/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d23e991dedef418d09c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/12705e4de6d156f311e5/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/33b6cbf11ba244690866/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d679888957496fc9b376/large)
+
+---
+
+## Lot 18315 — (1) approx. 500-gallon steel, fiberglass coated fuel tank, top fill.
+
+- OrbitBid item number: 1-18315
+- Internal ID: 1705503
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 500-gallon steel, fiberglass coated fuel tank, top fill.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/85d04652a5c71a4ae477/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/662aee873a25330297c8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/84e7fb88827bac9007db/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/9f9681577240768ccfe7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/98712c3832ede37efc4a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/889ffade8ce709bbcbce/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc206bd36e8aa1c846cd/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/c6a0762d79ded8dc2737/large)
+
+---
+
+## Lot 18316 — (1) Clawson approx. 500-gallon fuel tank, approx. 48" diameter x 73" long.
+
+- OrbitBid item number: 1-18316
+- Internal ID: 1705504
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Clawson approx. 500-gallon fuel tank, approx. 48" diameter x 73" long.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/711dc79667f75ff5f7d6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/efcc02e80dff07c3155d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/91c845bbf1a963d2f06d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0351032cae57154b93b6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/eff1924cb5e698866163/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/0286c10e54cb5d570a7f/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f08fbf7100539ca1cc0/large)
+
+---
+
+## Lot 18317 — (1) heavy duty steel rack, approx. 106" length x 44" depth x 65.5" height.
+
+- OrbitBid item number: 1-18317
+- Internal ID: 1705505
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) heavy duty steel rack, approx. 106" length x 44" depth x 65.5" height.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e5f6a491ecfa88ff82e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2999ed4b837895169702/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/88183d528be9a83a9ce0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/03eecdb1e2b45c14d3dc/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4bbffc6747ae0a5236f4/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7fa8a669735bd47abaaf/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5284af01df7a14822d85/large)
+
+---
+
+## Lot 18318 — (1) approx. 1000-gallon steel fuel tank, bottom valve, top fill, approx. 61" diameter x 12' length.
+
+- OrbitBid item number: 1-18318
+- Internal ID: 1705506
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 1000-gallon steel fuel tank, bottom valve, top fill, approx. 61" diameter x 12' length.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/97c85ca0e69f84b0af10/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6370464e616dd2621f6f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/de5aa7456884d0585812/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/67ef98c849b3767f8b38/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac0113685b0f885a15c9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/bf1c9d59dac8718c3767/large)
+
+---
+
+## Lot 18319 — (1) 13' wide spring tooth drag, 3 pt., will need new tires.
+
+- OrbitBid item number: 1-18319
+- Internal ID: 1705507
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 13' wide spring tooth drag, 3 pt., will need new tires.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb1675c1e6e4fa80995d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/07dc847edf09829457e9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba917aa3565379d48300/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/08613872fc4f29621989/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/044560542faae11cbdab/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/694fc10f1624acb2477a/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/2aaeeb47d6d2d29a578e/large)
+
+---
+
+## Lot 18320 — (1) spreader bar, approx. 20' long.
+
+- OrbitBid item number: 1-18320
+- Internal ID: 1705508
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) spreader bar, approx. 20' long.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae00e80acb63623941a4/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9ea8964aa72960a7e15/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/20b8253a8561e66c0e3b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/72f38cb25a569569efed/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd2eccb3c253ea513d1c/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/987d0de98fbea4e3281c/large)
+
+---
+
+## Lot 18321 — (1) spreader bar, approx. 30' long.
+
+- OrbitBid item number: 1-18321
+- Internal ID: 1705509
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) spreader bar, approx. 30' long.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/e1ba3f65edb8987a1d28/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cecc93c5bc64377971ce/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/00cc669dad3a7ac2e0f0/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/72f82ea32e1356ad3871/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/21a3563057a8703b9c37/large)
+
+---
+
+## Lot 18322 — (1) I-beam spreader bar, 14' long, 10" x 5".
+
+- OrbitBid item number: 1-18322
+- Internal ID: 1705510
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) I-beam spreader bar, 14' long, 10" x 5".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b854cd32a817a3f818a7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9eff398b4ed10b71aa5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/689173e6dd0dd0eb8064/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/c82efbfd5a49d67cab46/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/73c0b7b20acde1db9f1b/large)
+
+---
+
+## Lot 18323 — (1) 3 pt. tandem disc harrow, approx. 99" wide.
+
+- OrbitBid item number: 1-18323
+- Internal ID: 1705511
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 3 pt. tandem disc harrow, approx. 99" wide.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9097d0aac7fd9464581c/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f0fbe1479e51caaa8b91/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c5a1d083c2f085504c9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/16bca444b5f643ba9e26/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/71142a1fa1193ece6e9d/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c52e1d0032328899cba/large)
+
+---
+
+## Lot 18324 — (1) Ford 90I, 60", 3 pt. brush hog, PTO driven, S/N 47431.
+
+- OrbitBid item number: 1-18324
+- Internal ID: 1705512
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Ford 90I, 60", 3 pt. brush hog, PTO driven, S/N 47431.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2b522448be2426ca590/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/babcf3d0f834aa0a54be/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8d1582229bab73a8c3a9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b946936fa7ce7b3d9a20/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/02e4adff81d976355061/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/8af15c6038c6164f986e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c78110a94d6328c77ec0/large)
+
+---
+
+## Lot 18325 — (1) 3 pt. back blade, 72".
+
+- OrbitBid item number: 1-18325
+- Internal ID: 1705513
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 3 pt. back blade, 72".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7515d7f3189e0f2f7f3/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa54d044e95eb6438821/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d03b36f37f4bee2369dc/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/68a163d139741cbe3a27/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a282b03f6d547467f9bf/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9923d3a53ae646eaab06/large)
+
+---
+
+## Lot 18326 — (1) 3 pt. back blade, 84".
+
+- OrbitBid item number: 1-18326
+- Internal ID: 1705514
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 3 pt. back blade, 84".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca05f6173c9dd98f021b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ac2ae200d16275ab00bc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b639d17067a4d9f16de4/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec22391f30770437caab/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/75dce9a62b18ef9f7864/large)
+
+---
+
+## Lot 18327 — (1) 80" x 48" steel mesh drag.
+
+- OrbitBid item number: 1-18327
+- Internal ID: 1705515
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 80" x 48" steel mesh drag.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8017e9228bd7408138ab/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/364dd9710bb5590e76e5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9ff4c73b4f16221e2c0c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb33be93f257507a4c12/large)
 
 ---
 
@@ -6117,7 +10565,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 15
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6150,7 +10598,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 13
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6174,6 +10622,721 @@
 
 ---
 
+## Lot 18330 — (1) concrete chute for excavator, 28" diameter x 31" tall.
+
+- OrbitBid item number: 1-18330
+- Internal ID: 1705518
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) concrete chute for excavator, 28" diameter x 31" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d03407eafd70ece9a8c6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3a26050f7d75f98a83a6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/514cc99ab9cccc28c6c8/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/91303fbbbe582714f2ee/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/af6e89c3d71a482d06db/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb5d0d02668d6ed72384/large)
+
+---
+
+## Lot 18331 — (1) concrete chute, 44" diameter x 37" tall.
+
+- OrbitBid item number: 1-18331
+- Internal ID: 1705519
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) concrete chute, 44" diameter x 37" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f522308636d29325797/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/61b961cc252653e87674/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a75ac15fd218704e359/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/dffcab7cc81b1d7ed356/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/983a2135a6e16c9cd8e7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/43b156a7b8b3e1bbb3b0/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4d1fb15d9a38c8ea861/large)
+
+---
+
+## Lot 18332 — (1) concrete loader chute, 20" x 20" on one side, and 7" x 20" opening on bottom.
+
+- OrbitBid item number: 1-18332
+- Internal ID: 1705520
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) concrete loader chute, 20" x 20" on one side, and 7" x 20" opening on bottom.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3d32bedd4adad0c4018/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/485e8d1a52378425c2a5/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e01afea8f9813eb8f49a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff9f28098f64807272d1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/72b66bef186c91b165f8/large)
+
+---
+
+## Lot 18333 — (1) steel rack, 56" wide x 28.5" deep x 46" tall.
+
+- OrbitBid item number: 1-18333
+- Internal ID: 1705521
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) steel rack, 56" wide x 28.5" deep x 46" tall.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b12906bc9b06116e2b33/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb08a81ab9aa05a748c7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/558dcc50b65d841bb515/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a0e303059f3aa8211fe9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/75e1890971384213ebe9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f236c8a803f86062fae5/large)
+
+---
+
+## Lot 18334 — (1) 134" wide dozer root rake.
+
+- OrbitBid item number: 1-18334
+- Internal ID: 1705522
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) 134" wide dozer root rake.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1df56a7d612e874ad89a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b67d74e8cb8c34a6c6a9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4dc8683c48d28e8b016/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2d35d15ed203b7e3f007/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb5f2d5ffd81483e4f4b/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d069ee8b54223605a08/large)
+
+---
+
+## Lot 18335 — (1) Page Engineering Company drag line excavator bucket, approx. 60" deep x 48" wide, model A32.
+
+- OrbitBid item number: 1-18335
+- Internal ID: 1705523
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Page Engineering Company drag line excavator bucket, approx. 60" deep x 48" wide, model A32.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/806e9508fe39befd285f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/45a6f0cb8539e83722f8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3c3e48b5d2b4e0fd97c2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/662b42e0bf3a19a6c8f1/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d5af062f3f4507be07f7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/02b0cb8bede0225ff916/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/000720cba6a20e501c00/large)
+
+---
+
+## Lot 18336 — (1) clam shell bucket, each section is approx. 30" (60" total width) x 34" depth.
+
+- OrbitBid item number: 1-18336
+- Internal ID: 1705524
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) clam shell bucket, each section is approx. 30" (60" total width) x 34" depth.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/124abb237eb7787adeb6/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dee43a0984e15d97b5d/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/524341e3c90beb5224c1/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce55266cac59cf591bd7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f184c0aa6c545cdc7bc6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b86369b7c424220d710/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/45e82e387ce71752b774/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/66989b605155895f2c64/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/e960d4a1188b5867f420/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/02e06a0db79aba8df9d1/large)
+
+---
+
+## Lot 18337 — (1) Hensley excavator bucket, 92 cubic yard, approx. 29" wide.
+
+- OrbitBid item number: 1-18337
+- Internal ID: 1705525
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Hensley excavator bucket, 92 cubic yard, approx. 29" wide.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/57b29c9afd0fec4d8bcc/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcbee3eac5e4a8dfc03a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/22fc044c21362952da4c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/97a6c9f82c4d6b808b36/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3ab004bcf27d33cbc787/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/81ddd7b01d4469cde627/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ba4f87c95cc91dcd24e/large)
+
+---
+
+## Lot 18338 — (1) excavator bucket, 72" wide.
+
+- OrbitBid item number: 1-18338
+- Internal ID: 1705526
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) excavator bucket, 72" wide.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/1fd7423a12b6978738a8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/cbcabd9f603725f0043a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/454cc4fb6678a3ffbe41/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/04a4d8b25cbbed34c936/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/4caa58474e3a41fddbe1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/9cdda388b25fd330f735/large)
+
+---
+
+## Lot 18339 — (1) excavator bucket, approx. 42" wide x 65" deep.
+
+- OrbitBid item number: 1-18339
+- Internal ID: 1705527
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) excavator bucket, approx. 42" wide x 65" deep.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/52efb0db9e2d34c7063d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3265c4fd9cdf1535393c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3589cd654477fbfa7ef9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e612600204abc1cb521d/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8acb9d1f46e10e7ccd9e/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/f984f8c8ff11c69c77f3/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c139e7f8f7dc7e5d1d3a/large)
+
+---
+
+## Lot 18340 — (1) excavator bucket, 12" wide x 28".
+
+- OrbitBid item number: 1-18340
+- Internal ID: 1705528
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) excavator bucket, 12" wide x 28".
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/796868f4600d6996835e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e915f4d3bb7046df11f9/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b119d5658cfa8bbde30a/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f7bd63f5ccfdd238826/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/da99c56352ef63023796/large)
+
+---
+
+## Lot 18341 — Large lot of heavy duty steel I-beams, assorted sizes and lengths, includes channel steel, and much ...
+
+- OrbitBid item number: 1-18341
+- Internal ID: 1705529
+- Current bid: $5
+- Bid count: 0
+- Photo count: 9
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Large lot of heavy duty steel I-beams, assorted sizes and lengths, includes channel steel, and much more, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/3699f8fe6c98bca4fa05/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/be0067271cd19c3dc0bc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/10e5ac4aee59097c6968/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f400ccdfaf4b33fbef98/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/89ef2d87b5f9b98d5037/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/688242f8431f834dbf34/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/42e550b5c98030db1cc2/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe298e4f28b4e627e75b/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/aebc1589e8508c61d5d2/large)
+
+---
+
+## Lot 18342 — (1) Seaman Corp., model AT.3.176.597, 84" asphalt roller attachment, 540 PTO drive, pin hitch, S/N 8...
+
+- OrbitBid item number: 1-18342
+- Internal ID: 1705530
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Seaman Corp., model AT.3.176.597, 84" asphalt roller attachment, 540 PTO drive, pin hitch, S/N 8643, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b1dcca4e8039ba06887/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/48dd9704008277602c0a/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/da6210774296fd9ac7ac/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8699f3e8f5435d4b1bf7/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a29f9124f8adf834955/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/41d837bb35f749e0171e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/61c49eef0258b6c73ee2/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ba007dbd0451217d8f5/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cd37224ae6670621cf8/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5c8244f2e3c131b7e19/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d943d9e872131b9f19ef/large)
+
+---
+
+## Lot 18343 — (6) various PVC pipes, includes Schedule 40 2.5", Schedule 80 3", various lengths.
+
+- OrbitBid item number: 1-18343
+- Internal ID: 1705531
+- Current bid: $5
+- Bid count: 0
+- Photo count: 4
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (6) various PVC pipes, includes Schedule 40 2.5", Schedule 80 3", various lengths.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/93fbdc06d5041e2bcd6e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3a0f1466afa83ccdee7/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f41c3e8767932f9e49d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b28ff053ebf9151ab159/large)
+
+---
+
+## Lot 18344 — (1) ADSN-12 dual wall HDPE corrugated pipe with smooth interior, 243" long.
+
+- OrbitBid item number: 1-18344
+- Internal ID: 1705532
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) ADSN-12 dual wall HDPE corrugated pipe with smooth interior, 243" long.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8307c96611160e72bdaa/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3eb13b48adc736dffa34/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/af344c8965e10c720ce9/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f026a832ca13e7fc7ee/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cc84bee78c1018df122e/large)
+
+---
+
+## Lot 18345 — (1) corrugated pipe, approx. 77" diameter, 24" ID.
+
+- OrbitBid item number: 1-18345
+- Internal ID: 1705533
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) corrugated pipe, approx. 77" diameter, 24" ID.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ce64fa68b4aae3a5bb9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b9908d9d518f28ce0d6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/83a691898e038acdad30/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/73a760625d138daac3ec/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/38f79378f800bc42ae79/large)
+
+---
+
+## Lot 18346 — (3) sections of corrugated pipe, includes approx. 12' ASTM12306PE pipe, approx. 11.5', and 31" small...
+
+- OrbitBid item number: 1-18346
+- Internal ID: 1705534
+- Current bid: $5
+- Bid count: 0
+- Photo count: 6
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (3) sections of corrugated pipe, includes approx. 12' ASTM12306PE pipe, approx. 11.5', and 31" small section.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/73acf743c5bfef882239/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1c39d4153d374c892fc/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c8a5be6299b524fb1e2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6cf858ff3e73cc47870/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/abd7cfae979d1142d6b7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/26cfa13ecc7c8d6e98f2/large)
+
+---
+
+## Lot 18347 — (1) steel culvert pipe, 8' long x approx. 24" ID.
+
+- OrbitBid item number: 1-18347
+- Internal ID: 1705535
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) steel culvert pipe, 8' long x approx. 24" ID.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6518d72dbc6a488c590f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/edc01b314863d8a403a1/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/059c49f8e7ca925c3abd/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d267d74ddfe7527663cc/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/874275616102dc66af56/large)
+
+---
+
+## Lot 18348 — (3) sections of 12" Prinsco corrugated pipe with smooth interior, (3) approx. 20' sections, (2) appr...
+
+- OrbitBid item number: 1-18348
+- Internal ID: 1705536
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (3) sections of 12" Prinsco corrugated pipe with smooth interior, (3) approx. 20' sections, (2) approx. 48" sections with sleeves.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f44d353654abc0712412/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c345e5e06cb5c9c97710/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/da38d9570c2bdcb2d324/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cf5f5c4fb9999a30202/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d843fcde2c16d3f44df9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e04edcb30171f552542c/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/063cf738a88e0db18a8e/large)
+
+---
+
+## Lot 18349 — Lot of assorted ADS 1", heavy duty 4" ID drain tile pipe.
+
+- OrbitBid item number: 1-18349
+- Internal ID: 1705537
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of assorted ADS 1", heavy duty 4" ID drain tile pipe.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f51b55d5cdd369ae096e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f964d0f7bc8ee58ef02e/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/76220c8394f98cc5e7cb/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/fab6f87f3089132248a6/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd4dd8e0ff2e30f588b5/large)
+
+---
+
+## Lot 18350 — Lot of (2) Bristol pipe, Type PSMSDR35, PVC sewer pipe, 163" x 12" diameter and 173" long x 12" diam...
+
+- OrbitBid item number: 1-18350
+- Internal ID: 1705538
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: Lot of (2) Bristol pipe, Type PSMSDR35, PVC sewer pipe, 163" x 12" diameter and 173" long x 12" diameter.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bd4e5a5df9eac6d43614/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/201db3767542a18176fd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b57d6d221ba7009d4a9e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5e35f2ea89fea113c8c/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/42170ba6e2885bc13361/large)
+
+---
+
+## Lot 18351 — (1) custom screen roller, approx. 183" length x 12.5" diameter, includes submersible pump, 440V, sin...
+
+- OrbitBid item number: 1-18351
+- Internal ID: 1705539
+- Current bid: $5
+- Bid count: 0
+- Photo count: 8
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) custom screen roller, approx. 183" length x 12.5" diameter, includes submersible pump, 440V, single phase.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/bedbd17eecb923965ebf/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5920a7720186029526d8/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d84561fc61b178678802/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b8dd18d6d220c5ab722/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e55117efa8ed83538e0/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/af5abb881c01338082f9/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f2322df4cc786864682b/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/30e48b0be8fea9c8dd55/large)
+
+---
+
+## Lot 18352 — (1) approx. 1000-gallon fuel tank with a Gas Boy 12V electric pump, hose, and nozzle.
+
+- OrbitBid item number: 1-18352
+- Internal ID: 1705540
+- Current bid: $5
+- Bid count: 0
+- Photo count: 10
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 1000-gallon fuel tank with a Gas Boy 12V electric pump, hose, and nozzle.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ede6ea37a3c7e3c11f0b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba9034998cf52175f841/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/9978f28666a22022540b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0ec68f90ebb2221656a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f6865fb6fa842767d02/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/23aa0eb62ddd8ea3c48e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/637fbe4f3725f90951e8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/550ad07244d833dad3fb/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/831bab33fe1236169f4d/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/cef4bba6156b3d7bbcdd/large)
+
+---
+
+## Lot 18353 — (1) approx. 1000-gallon fuel tank with duel Gas Boy, model 73DSL, 12V electric pump, hose, and nozzl...
+
+- OrbitBid item number: 1-18353
+- Internal ID: 1705541
+- Current bid: $5
+- Bid count: 0
+- Photo count: 11
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) approx. 1000-gallon fuel tank with duel Gas Boy, model 73DSL, 12V electric pump, hose, and nozzles.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/af9e810d51a12015f4b9/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c7829748e852f5e6210/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f1358a43dac5e5044f7f/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e8a97eee18c42919f5a/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/dba003ea29f17a79a151/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f4b768a97ce710dd5c3/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd92d27b01a2b5221a87/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/58f493bfc64a6cf60218/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb504051982642467bb8/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/23f441ca039d3183d99e/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0c681b01cf2db9e95773/large)
+
+---
+
+## Lot 18354 — (1) Steel Tank steel fuel tank, approx. 64" diameter x 73" length, top fill, bottom drain.
+
+- OrbitBid item number: 1-18354
+- Internal ID: 1705542
+- Current bid: $5
+- Bid count: 0
+- Photo count: 5
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) Steel Tank steel fuel tank, approx. 64" diameter x 73" length, top fill, bottom drain.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5b4b8ba59c9a0819122/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5993783fcb7477a9f4fd/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f687de75161320e76bac/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b4410629fcecc8609ed0/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5d643c6afb3121db2cd9/large)
+
+---
+
+## Lot 18355 — 1982 Chevrolet K 20 Custom Deluxe Regular Cab Plow Truck automatic transmission, standard cab, 8' be...
+
+- OrbitBid item number: 1-18355
+- Internal ID: 1705543
+- Current bid: $100
+- Bid count: 0
+- Photo count: 24
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- Year: 1982
+- Make: Chevrolet
+- Model: K 20 Custom Deluxe
+- Cab Type: Regular Cab
+- Type: Plow Truck
+- VIN: 2GCGK24J9C1128043
+- Odometer Reading: 12111
+- Titled Status: Clear
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+- General Description: automatic transmission, standard cab, 8' bed, manual windows, 6.2 liter diesel engine, rear cement counterweight, various rust on rockers and bed, windshield is broken, runs and drives.
+- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/37e4520146d4f645314e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/fd258faebeff37ad3873/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/52132697c7fa8e5ec53d/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/b8c94a4ffa1814e653c5/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a88d17865b41bc7a3e7/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c0a5bc2ac5730ba4d89/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ace161c1d31d8ecfa72/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e750753a346b90cf553d/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0b12abbc4156c348bbe/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/601a4413926d394c523b/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/d67d61430e463a511623/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/eb706ea91d335c6b7540/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab9389f4ba691ff53a8a/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/a22b5eaed15a51401447/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4e042e2b57043861401/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/8943c33d38f18df1a2f3/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/968d06ffb2ff2ed1016e/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/d41d04e991c9ed6f729b/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/08d62896f28ec635a767/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9fd1982f8cbfe0e7ede/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e4747fe9fade5ab8ec1/large)
+- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9ba6c05c4c34da46d71/large)
+- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/560b1ed430bb800074cd/large)
+- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/dabb5411e8684d0543e8/large)
+
+---
+
+## Lot 18356 — 2002 Chevrolet Avalanche Z71 Regular Cab Pickup Truck for parts or repair, 4-WD, automatic transmiss...
+
+- OrbitBid item number: 1-18356
+- Internal ID: 1705544
+- Current bid: $100
+- Bid count: 0
+- Photo count: 17
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- Year: 2002
+- Make: Chevrolet
+- Model: Avalanche Z71
+- Cab Type: Regular Cab
+- Type: Pickup Truck
+- VIN: 3GNEK13T82G206443
+- Odometer Reading: 142663
+- Titled Status: Clear
+- General Description: for parts or repair, 4-WD, automatic transmission, power windows, doors, and locks, 5.3 liter V8 gas engine, OnStar, temperature compass, does not include personal inside vehicle, said may need new fuel pump, rust on wheel wells and rockers, various scratches, fuel tank was removed (in back of truck), cracked windshield, motor turns over and has compression.
+- Working Condition: Nonrunning for Parts and Repair - Unable to run or operate in its current condition without repair or replacement of certain elements or may only be good for parts. (Auction company is an Agent only and relies on the owner for the items description and condition)
+- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c080feafe28c4d14e664/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/6f56343e1f708977fd8b/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/e55d33e263075c7717df/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/380931ecf61eea9041cd/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/572dc79b5e2ead0eedd6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b646cd572211287d1e50/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/38d9fe213f8e509c8e0f/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a9e723dea7ba292fb96/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c3b1377a7195996c2a21/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/767ecc2391909a74b106/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/ebaa5566c179624bf724/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/218c7c763ed0a9717613/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/c41ac49a2be5daf29f65/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e205f1414ecbfe579ff/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/877f884d5296b60ec234/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/1f8a9faea26a1f1069f6/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d7d2ee0a058ce84a2a0/large)
+
+---
+
 ## Lot 18357 — 1994 Ford F250 XL Regular Cab Other Pickup Truck Service truck, 4-WD, 4-speed transmission with over...
 
 - OrbitBid item number: 1-18357
@@ -6181,7 +11344,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 34
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6243,7 +11406,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 21
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6292,7 +11455,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 37
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6356,7 +11519,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 37
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6420,7 +11583,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 30
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6470,6 +11633,64 @@
 
 ---
 
+## Lot 18362 — 1978 GMC 6500 Fuel Oil Truck 5-speed transmission with high low PTO, 27,500 lb. GVWR, V8 gas engine,...
+
+- OrbitBid item number: 1-18362
+- Internal ID: 1705550
+- Current bid: $100
+- Bid count: 0
+- Photo count: 31
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- Year: 1978
+- Make: GMC
+- Model: 6500
+- Type: Fuel Oil Truck
+- VIN: TCE668V591639
+- Odometer Reading: 94029
+- Titled Status: Clear
+- General Description: 5-speed transmission with high low PTO, 27,500 lb. GVWR, V8 gas engine, 1500 gallon capacity, 5 separate tanks (tank #1 is 400 gallon/tank #2 is 300 gallon/tank #3 is 300 gallon, tank #4 is 250 gallon, and tank #5 is 250 gallon), dual Neptune, Type 4 pumps, controls, 10.00-20 12-ply rear tires, 10.00R20 front tires, fiberglass hood has damage on passenger side, missing windshield, rust on steps, runs, drives, and operates
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/6914a2154e9cf579620e/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/aeb8b5d1fb79b83f2bbe/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef0a06660d5ec5320f82/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c63abb9b9feb0336e6b/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bac49a411f187c33bfc2/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/edf5a111ea71dfe99a5b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/38a566cbcaad2d53e4e0/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c1731e0cfd364265dee/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c4717e6d4b5c78513a3/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/28bc2697afad0cbcfeec/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/81c351e4b3962e2c5986/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/bb06a8e6a6bed520a1e5/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/b6b086f30f673f399d7e/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/53766e31edb63edbd917/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/8303cc60cc01e35bb779/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/daac101abcd1ef1b02f5/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/64f466ba4b35aa7dea74/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/50d946649484c363591a/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e7a2148e6ccdad9e295/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/775306dd11c6baffa5de/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/96c933e6e519fd641087/large)
+- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8e58fd2469d2b4c5925/large)
+- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/40991ab7e90fce514838/large)
+- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/e53083d32cec50291847/large)
+- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef39895851cb684d97b3/large)
+- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbd4466ea68637a56071/large)
+- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/a44af99697c8186c22a7/large)
+- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba62bc6ded47e35b4056/large)
+- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/c12a2a200e9095a8744e/large)
+- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/68b4ed14f059d0c4f392/large)
+- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbb136a12a661a6b8454/large)
+
+---
+
 ## Lot 18364 — 1990 White GMC Tandem Axle Dump Truck 22,675 lb. GVWR, 5,442 lb. front axle, 8,617 lb. first and rea...
 
 - OrbitBid item number: 1-18364
@@ -6477,7 +11698,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 35
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6538,7 +11759,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 39
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6597,6 +11818,51 @@
 
 ---
 
+## Lot 18366 — 1990 Interstate T20DT Tag Trailer 10-ton, 201" x 102" wide load bed, steel and wood combination with...
+
+- OrbitBid item number: 1-18366
+- Internal ID: 1705553
+- Current bid: $100
+- Bid count: 0
+- Photo count: 20
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- Year: 1990
+- Make: Interstate
+- Model: T20DT
+- Type: Tag Trailer
+- VIN: 1JKTEN280LA601831
+- Titled Status: Clear
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+- General Description: 10-ton, 201" x 102" wide load bed, steel and wood combination with 6' beaver tail, dual steel fold-down ramps, tilt style, 23,600 lb. GVWR, air brakes.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/cafe9025f8f73b66188d/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c287dc3463b374715ce/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/020f0a748779770a281b/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/594d29e903d2f4432ba2/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/42820eb08d6b58994060/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/10d097ad06f6ce27532b/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/c840841e7d1f86effe05/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f483aaf2aa337cfd1f13/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/433b26e327710f7e51e7/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f5707935dfaa1cdb5584/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5aa98a0792ef88dbf96d/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/4a4c043bff4473a11ab5/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a18602c6f5c44135efd2/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/0695b076844995102cf7/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ecd91c35ed188a3bf43/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/02cd9cbb2351e269aa01/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/937fe2306773f78a590c/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/fbaf16e7e3a9d22d71ba/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/847720dd989ab8da7775/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5a8f0ca98d90fac2212/large)
+
+---
+
 ## Lot 18367 — 1985 Dakota RC3017-C2 Trail EZE Equipment Trailer 69,870 lb. GVWR, approx. 260" x 102" wide wood and...
 
 - OrbitBid item number: 1-18367
@@ -6604,7 +11870,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 22
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6644,6 +11910,89 @@
 
 ---
 
+## Lot 18368 — Clark Forklift (1) Clark LP lift truck, model C300Y40, S/N Y466-122-4387380, 4000 lb. capacity, 127"...
+
+- OrbitBid item number: 1-18368
+- Internal ID: 1705555
+- Current bid: $100
+- Bid count: 0
+- Photo count: 21
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Description:** &lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE: This forklift will be used to assist with removal of some auction items. Removal time for the forklift will be scheduled for a later date, possibly the next week. Please call the site manager Dave @ 616-401-9059, if any questions. Transfer of ownership to the winning bidder will take effect at the time of buyer's removal of the forklift. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+
+**Fields:**
+
+- Make: Clark
+- Type: Forklift
+- General Description: (1) Clark LP lift truck, model C300Y40, S/N Y466-122-4387380, 4000 lb. capacity, 127" max lift height, open station ROPS canopy, 48" forks, 4065 hours showing, 7.00-12 front tires, 6.00-9 rear steer tires, includes propane tank. HOLD FOR REMOVAL, contact auction manager for removal time.
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/632405dc4efcdcd4f45a/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/ff90d11cf1b88b1b0ec6/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ad9e13e154c5fac33b8e/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/bab045d1ca79bcd69a55/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e144d59da63df2b9ee5/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/5f003ba85bdc0f594824/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/5bfa51e90c55200325b8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7877dcc75ad59d4abeb2/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d79edb4f7843759a6a79/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/2567459e1e4da6effa2c/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0282c5e5dd748be3d2bc/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc4ebbc62df20093bbe3/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/fcbc76d7e45bfbcbaa91/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/bffc87dea40af7469726/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7c2fa8d4e4fb770dbc3/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/56ce4528e112228d0465/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e6ac4b5611f52bd95c2/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f0e73b9751d314b9e1d/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3300578806aea133895/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c8f529cc20f61264969/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5e616f46ccf8516fc56/large)
+
+---
+
+## Lot 18369 — (1) custom built farm lift truck, gas powered, 305 Oldsmobile gas engine, automatic with order drive...
+
+- OrbitBid item number: 1-18369
+- Internal ID: 1705556
+- Current bid: $5
+- Bid count: 0
+- Photo count: 21
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) custom built farm lift truck, gas powered, 305 Oldsmobile gas engine, automatic with order drive, 47.5" forks, open station with canopy, 7.00 x 15" rear tires, runs and operates. HOLD FOR REMOVAL, contact auction manager for removal time.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8cf5562a0a7eada385ef/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9d7c05e9dcef8873109c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e7ca4b921780a63bb55/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4b470e0f04090ca33cb9/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e58123b881a8a07cdc9/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/894ea011b40406ee59d1/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/fecaaa1b165345306f4a/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/56e328a2b0be46937cb6/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/2fac7f3fa65f59f129af/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c8a225a519d0d77d2112/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/7d4b54ed8ff6e7412383/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/05b2a41e364c26519988/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/280d5470f9eb51b7c7f6/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/95861afc8a3ff95b152b/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/9c750e1b0107c3e34e37/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/71622be671bb604f0f1d/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbae4ad8883c58525c95/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/977bf2aa89d1965555bc/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/544f333f3c23bde0ad21/large)
+- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/af202c9630355be466f1/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe5ccd0a514939adec46/large)
+
+---
+
 ## Lot 18370 — Clark Forklift (1) Clark Yard Lift, model CFY150B, Type G, 15,000 lb. forklift, 4004 hours showing, ...
 
 - OrbitBid item number: 1-18370
@@ -6651,7 +12000,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 22
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE: This forklift will be used to assist with removal of some auction items. Removal time for the forklift will be scheduled for a later date, possibly the next week. Please call the site manager Dave @ 616-401-9059, if any questions. Transfer of ownership to the winning bidder will take effect at the time of buyer's removal of the forklift. &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -6696,7 +12045,7 @@
 - Current bid: $5
 - Bid count: 0
 - Photo count: 26
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6740,7 +12089,7 @@
 - Current bid: $5
 - Bid count: 0
 - Photo count: 28
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6786,7 +12135,7 @@
 - Current bid: $5
 - Bid count: 0
 - Photo count: 35
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6840,7 +12189,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 24
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6882,7 +12231,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 26
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6926,7 +12275,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 29
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -6973,7 +12322,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 30
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7021,7 +12370,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 30
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7069,7 +12418,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 33
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7120,7 +12469,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 29
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7167,7 +12516,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 32
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7217,7 +12566,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 30
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;PLEASE NOTE: This excavator will be used to assist with removal of some auction items. Removal time for the forklift will be scheduled for a later date, possibly the next week. Please call the site manager Dave @ 616-401-9059, if any questions. Transfer of ownership to the winning bidder will take effect at the time of buyer's removal of the excavator.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -7270,7 +12619,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 26
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7307,530 +12656,168 @@
 
 ---
 
-## Lot 18391 — (1) US General 56.5" width x 24" height x 22" depth 8-drawer tool cabinet, with a US General 72" wid...
+## Lot 18384 — (1) Ohio Central Steel Company screen machine, model 45D46-3-3458, Lister engine #FNT803105*300-1739...
 
-- OrbitBid item number: 1-18391
-- Internal ID: 1801791
+- OrbitBid item number: 1-18384
+- Internal ID: 1705571
 - Current bid: $5
 - Bid count: 0
-- Photo count: 23
-- End time: 1790724600
+- Photo count: 19
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
-- General Description: (1) US General 56.5" width x 24" height x 22" depth 8-drawer tool cabinet, with a US General 72" width x 36" height x 22" depth 18-drawer rolling tool cabinet with locking casters, and a 14.5" width x 33" height x 22" depth 7-drawer side cabinet, includes remaining contents of cabinet, LED flashlight with magnetic base, tape measures, Craftsman pry tools, and misc. other items. Does NOT include items in tagged drawers.
+- General Description: (1) Ohio Central Steel Company screen machine, model 45D46-3-3458, Lister engine #FNT803105*300-173936, approx. 45' long, 24" wide rubber conveyor belt, pin style hitch, 3-cylinder diesel engine, key start, hours unknown (Meter is not displaying), runs and operates, also includes chute, hydraulic and fuel tanks, Power King 7.50-10.5LT tires and rims.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9de9d3ac672dbbef4651/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f99ba61efeb1392ebec4/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/81cb497ad26028d5d024/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/069fddc809ed4370d406/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/f41a07d08ddb540724e8/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/b3070e3b9ec4827f9057/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7cd0a93b90b2deba4bff/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7556013d9fb55b71fb07/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/821eab6b42cc1ae7a9ec/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/89c95ce8aa167d5cccfa/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/715bbe7158e8f32f1eef/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ffb0bdccf54d851b05dd/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7d5c09db94a80e3ee15/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/00acb7afaa38b7f5e546/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/10a3d36e48d863b927fc/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/76ad27322792b6a9465b/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ca78cd587d52d71e91c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/38d962d2a43b2d524c21/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/48e55e9381e98e23a252/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/45ed5c9fb15669166638/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/5db344ae17b74d64a5dd/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b197ba44a98a082f6f1/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/5e220e2b405697c62ab1/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ae8598645921816c37c7/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/bfe2322a554c3f3bd700/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e9894af39f4aebd5580/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/85b34c19a993ea499033/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8082f879c66fad0d0e64/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b879120ae5f9d85ad54/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/b72156f27dc47a57a9e8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/10af78de2011fd0403e4/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bbefab705985c7b422be/large)
+- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/04c61f3f73fddcab3d76/large)
+- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/dd489be8737ad895a73d/large)
+- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/0f3ae96e1c12af3c360a/large)
+- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/bcea2c114bd3053bf998/large)
+- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/68f0f8083ca60efdc306/large)
+- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/a3bd9ce88e43d07b967e/large)
+- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9683d9526ddae8c2cab/large)
+- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/230246917b5a5ea7a45f/large)
+- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/a9a40ff339b9286e5619/large)
+- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/c5709d6209b2f231fdcc/large)
 
 ---
 
-## Lot 18472 — (1) Loftness, model 8425B, 84" width x 84" height dual blade, 3 pt. shaft driven snow blower with ad...
+## Lot 18385 — (1) steel grizzly box, approx. 128" length x 64" depth x 88" to top, 3 3/4" spacing in between bars,...
 
-- OrbitBid item number: 1-18472
-- Internal ID: 1801869
+- OrbitBid item number: 1-18385
+- Internal ID: 1705572
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) steel grizzly box, approx. 128" length x 64" depth x 88" to top, 3 3/4" spacing in between bars, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/f27b5afb1aa0e227215f/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/e211ce6baaee45b9265f/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/add49e42fc5c1e2a5d40/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a521ee095af5093570e4/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/9582f5f8a616608599fa/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb165d9c1cf74c12aed6/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbcb484a6c4df8fd5274/large)
+
+---
+
+## Lot 18386 — (1) steel grizzly box, approx. 132.5" length x 64" depth x 106" to top, 5.5" spacing in between bars...
+
+- OrbitBid item number: 1-18386
+- Internal ID: 1705573
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) steel grizzly box, approx. 132.5" length x 64" depth x 106" to top, 5.5" spacing in between bars, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/42d1962e44540137b97b/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0681d73b360fb9f2bf0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f07384e31a6055640797/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/a6305c2da7942e2e1198/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8293eb4434f476042af1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/86d16a04f4980b10b8ce/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/9434667385d537f4269a/large)
+
+---
+
+## Lot 18387 — (1) steel grizzly box, approx. 150" length x 70" depth x 104" to top, 12" spacing in between bars, w...
+
+- OrbitBid item number: 1-18387
+- Internal ID: 1705574
+- Current bid: $5
+- Bid count: 0
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
+
+**Fields:**
+
+- General Description: (1) steel grizzly box, approx. 150" length x 70" depth x 104" to top, 12" spacing in between bars, winning bidder responsible for proper removal.
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/76b1081264e91a21d819/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f7a81402cd2e1341f827/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/ba358bc212c2218a867c/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/081489697bf0697f5028/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/92c64a417aa146fbe080/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfdebb935a6db0a494e7/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a434d88969d609924940/large)
+
+---
+
+## Lot 18388 — (1) Turner Tillage Pit Style offset disc harrow, adjustable, approx. 10', winning bidder responsible...
+
+- OrbitBid item number: 1-18388
+- Internal ID: 1705575
 - Current bid: $5
 - Bid count: 0
 - Photo count: 9
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
-- General Description: (1) Loftness, model 8425B, 84" width x 84" height dual blade, 3 pt. shaft driven snow blower with adjustable chute, red marker lights, hydraulic operation, approx. 16" diameter augers, S/N 10-5-99.
+- General Description: (1) Turner Tillage Pit Style offset disc harrow, adjustable, approx. 10', winning bidder responsible for proper removal.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0a27fcbb0e8f9b72b08/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c5b9f98e7e3693bb60e/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/60c5199ff99c19f75ca3/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4f59363ac04733d52e94/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb5474a949225767d4e5/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ec39275d5b3bd23ff42d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b47220c84994e18a3d1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/aab6324be3cf072abc60/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d2829b27c1fdfefa1140/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3229a31561267245376/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/9bc4f314bfa42236bad0/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d097c6d9ab50ccc4ed2/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/0de09893a45aefd41d76/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/a16e5e1983e1ed45c541/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/205c2fd8096b403b221e/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/e3b174b495e027979ef8/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/e73b0b002828f70f06e8/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9aa73413a6cd7a880d9a/large)
 
 ---
 
-## Lot 18489 — 2013 Griffin Dump Trailer
+## Lot 18613 — 1 yard dump hopper, one wheel needs replacement, in working condition
 
-- OrbitBid item number: 1-18489
-- Internal ID: 1801887
-- Current bid: $100
-- Bid count: 0
-- Photo count: 14
-- End time: 1790726400
-
-**Fields:**
-
-- Year: 2013
-- Make: Griffin
-- Model: Dump
-- Type: Trailer
-- VIN: 4C9BU1228DE020855
-- Titled Status: Clear
-- Additional Information: 12,000 lb. GVWR, electric/hydraulic, (approx. 80" width), Bucher Hydraulics 12V hydraulic pump motor, with approx. 1 gallon capacity hydraulic tank, with electric dump that is powered with solar panel on tool box, has mesh load cover pintle style hitch, hand held dump pendant remote, crank style landing gear, spare tire, dual swing rear doors, and size ST225/90D16 tires.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7caf9b7df79e5c9b57e6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/d991e205062714338a11/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/d937e05207799c05d8e7/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d23bdb8db619fad1b33/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e8e944b7b97e6d6db468/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/cd1cc1824a014b9ca1d0/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/db350b4636153c523491/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3ac7038cb0396b3b8de/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/ed6c82dff05b1ea14b10/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/c26ddc3078356fa4c4c0/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/31ce359d70ddcc76f527/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/de2e8dfc38b36544be26/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e78b5d44c7c2c449527/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0b394d517751e257e38/large)
-
----
-
-## Lot 18490 — 2009 X-cel 20' Gooseneck Trailer
-
-- OrbitBid item number: 1-18490
-- Internal ID: 1801888
-- Current bid: $100
-- Bid count: 0
-- Photo count: 19
-- End time: 1790726400
-
-**Fields:**
-
-- Year: 2009
-- Make: X-cel
-- Model: 20'
-- Type: Gooseneck Trailer
-- VIN: 1X9DG25279C014126
-- Titled Status: Clear
-- Additional Information: Dual axle with 60" beaver tail and additional 54" long x 24" wide ramps, wood decking, includes chain binders, front mounted tool box, crank style dual leg landing gear, and size ST235/80R16 tires, VIN # is illegible.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/4ae6cdfbc1d3f1d351ff/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0aa29f8348b3e646b52f/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dc799ece281346c69858/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a9caf8af6e4464bc0dd/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0befe801bc2a3f963c6/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/59edd4a2a5dff98d4a4c/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f49275a8b25a5753a84/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/136b74b2502c13ee2893/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/2eee6d471f28ea96c953/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b37e5676b448211a84c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f06970182f7386318551/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/9252440705b7945f3003/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/0b5b350b7f24e8225bd0/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/8214ee14ce4486c313de/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/f070a7ada190e7560481/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/0517a04a3935bf07bb08/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4fdffaedf7235bf402c/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb3be6a7019335af5b65/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/cec5efea0a2cfff3b907/large)
-
----
-
-## Lot 18492 — (1) Land Pride, model RBT4096, 8', 3 pt., hydraulic operated rear grading/scraper blade, S/N 517795.
-
-- OrbitBid item number: 1-18492
-- Internal ID: 1801890
+- OrbitBid item number: 1-18613
+- Internal ID: 1723323
 - Current bid: $5
 - Bid count: 0
-- Photo count: 10
-- End time: 1790726400
+- Photo count: 7
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
-- General Description: (1) Land Pride, model RBT4096, 8', 3 pt., hydraulic operated rear grading/scraper blade, S/N 517795.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/9342b13f4417bed31557/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ca3061b70150da074ac/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/538d4c8a1eea640d2b83/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/73eccdf7a1aef5e254a5/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e6d3efcccc952a95a52e/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4c5e3265dd0753bb3af9/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/59d8d891388f002f668a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/7e2f6bfe27ebd6d24611/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c535f253c07572e80778/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/81ef041c7f691ee83071/large)
-
----
-
-## Lot 18493 — (1) Woods, model M5, 5' shaft driven, 3 pt., Dixie cutter, rotary cutter/brush hog, with rear tail w...
-
-- OrbitBid item number: 1-18493
-- Internal ID: 1801891
-- Current bid: $5
-- Bid count: 0
-- Photo count: 5
-- End time: 1790726400
-
-**Fields:**
-
-- General Description: (1) Woods, model M5, 5' shaft driven, 3 pt., Dixie cutter, rotary cutter/brush hog, with rear tail wheel.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/549a48d9c3f2aca43f7e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7be551ef751b59197c1/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/f632bf4803fe26354421/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/f08bdbf8c99df48e0483/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2a80833d9a9807bdec7a/large)
-
----
-
-## Lot 18498 — (1) International, model 424, tractor, diesel engine, 3 pt. hydraulics, Kelly, model 600, hydraulic ...
-
-- OrbitBid item number: 1-18498
-- Internal ID: 1801896
-- Current bid: $100
-- Bid count: 0
-- Photo count: 25
-- End time: 1790726400
-
-**Fields:**
-
-- General Description: (1) International, model 424, tractor, diesel engine, 3 pt. hydraulics, Kelly, model 600, hydraulic lift attachment with a custom made 64" grapple bucket, manual transmission, 422 hours showing on mechanical meter, size 14.9-24 rear tires, size LT235/85R16 front tires (1 is cut, still holds air), unit runs and operates.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/66a3bed1ec9d2888681e/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/df8fa3f18a20bc6ce1cc/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/21ad33f29264b84b58c1/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab4ed2621f3368ad2c44/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/69f5dd544d31e5a3fad4/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/fec3f2a0a22c903da600/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9f0060007933c770e80/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/4117f083a0a05a19cb22/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/3f89869647416dac5dfe/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c75148b9e7af63a38db/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/781d8ea8d0f6f57e34db/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/7567728f1d7bb25abcb0/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/559132d04bc69dcb58bc/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/69baf8dbe1c2b5c63e36/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/b15b645e3c7fe91763fc/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/a83f311577611b04a33f/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/86e0df7fc500b63c8b4d/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/871a2a48861556dd817c/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/afa76e9431c6697cb29c/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/83d733ec052afd3508da/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/5ce6172dd5a30053c8b3/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/a099f26098167d71185c/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/e0fd54b05b39a4edbaba/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/54a13be0917e669c17bd/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/05dae9e46570af74a5c8/large)
-
----
-
-## Lot 18499 — (1) Allis Chalmers, model B, tractor (mowing blade not included), 4-cylinder gas engine, manual tran...
-
-- OrbitBid item number: 1-18499
-- Internal ID: 1801897
-- Current bid: $100
-- Bid count: 0
-- Photo count: 20
-- End time: 1790726400
-
-**Fields:**
-
-- General Description: (1) Allis Chalmers, model B, tractor (mowing blade not included), 4-cylinder gas engine, manual transmission, 3 pt. hitch, rear tire weights, hydraulics, size 10-24 rear tires, size 5.00-15SL front tires, runs and operates, but may need new battery.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/33799a508ed72a3f203f/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9b754985af1b84bad1c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b0a7c795863d0b483b15/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/6dec9c4cc61247496de9/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/5a52f611f5e802d8b4b9/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c1cd5459caa3b0b8c08f/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/95384cf0a1aad7641a5a/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d5a967b2d54744ee703/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/60ede9bc67e4e6e62212/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/d50206afa8f4f6e81aa7/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc5deee3b29c0bde244b/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/c20cb9076e9330442a52/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/69fcd2205523cbad86ea/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6ccfd0fd1b695d14b21/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/40ebb1fedf13d5a36de3/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/6a8da72677609d30a893/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/c07a0fe4725963eaa33e/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/fc327436a3141769a97b/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/d75f78ece971e8e81283/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/122b7745bbb64206a2f6/large)
-
----
-
-## Lot 18500 — (1) Case International, model 585, tractor with Case D-206, 4-cylinder, liquid cooled diesel engine ...
-
-- OrbitBid item number: 1-18500
-- Internal ID: 1801898
-- Current bid: $100
-- Bid count: 0
-- Photo count: 36
-- End time: 1790726400
-
-**Fields:**
-
-- General Description: (1) Case International, model 585, tractor with Case D-206, 4-cylinder, liquid cooled diesel engine (60 HP), PTO, hydrostatic transmission, full ROPS enclosure with front and rear windshield wipers, 3740 hours showing on meter, A/C, AM/FM stereo with 4 speakers, Cobra, model 19LTD, CB radio, 3 pt. hitch, front mounted approx. 10,000 lb. capacity steel wire winch, 8' plow blade with hydraulic operation, size 16.9-30 rear tires, size 9.5-24 front tires, in running condition, unit ID tag is not available.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/c9e71ed338c62aa1b9ac/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/52e7d653fc8d4d7b5134/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/42a5445d2b22f1d5f9e4/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/5dd57291e65b4788e08e/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/2cf2cda7d9d5377fa6aa/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/3050b053afb0724db89e/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/a7028eab91e457a6be43/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/a04f6dbbda5cd751034c/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/9e7ccf1ff0167acedcbc/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/0e1cc75ef2fdd2407bfb/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/0a1240bca8c9f6b67964/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/5469cb04704519756bde/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/3e7bba999e7a96f3af6c/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/7813d4167d1b4bc51d3f/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/0afac929037daf65a9ad/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/45f47d7fd3f08a8168f3/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/29023e441d8389201b47/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/66194735c72cd7c395bc/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/7bc0d2c0f207edd8390a/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/fe72b7c038b25db15055/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/9904a1a3d18d6a06d657/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/d4b475cbdffd2e1a1ba8/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/d472bcd031276dafd138/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa18308e46c5140260b7/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/038afadcb9e2f5a04770/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/b7e2dc654644ea18f162/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/123036ae9d52cbbe7720/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d30da40dad04daa1c9a/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/66d54af96bd5b67a53a0/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/426c0eef999bb4aefa15/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/6e6d9fd85dea7c453317/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/2f316c35d11e0e9be029/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/77180d7619dea85f971b/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5e4fe3eb0ac8b4d3c3e/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/05a9155f892b8aeccf78/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/4fbe51dd13683fabfa95/large)
-
----
-
-## Lot 18501 — (1) International Harvester Farmall Cub tractor with 4-cylinder gas engine, manual transmission, cus...
-
-- OrbitBid item number: 1-18501
-- Internal ID: 1801899
-- Current bid: $100
-- Bid count: 0
-- Photo count: 21
-- End time: 1790726400
-
-**Fields:**
-
-- General Description: (1) International Harvester Farmall Cub tractor with 4-cylinder gas engine, manual transmission, custom hitch with pin and 2" ball, size 8-24 rear tires with wheel weights, size 4.00-12 front tires, 54" belly blade, front mounted headlights, runs, but may need new battery.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/7c8075dab224ba2b16d6/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/5c2b2f7dc32ddde30ac1/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/3d5dae9c9ecce3f641c0/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9718784d11aa7be74cb/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/182849ace629fc7223f3/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/03ed8cc0889c5b5ad8f9/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea9531c55e962b56242f/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/2409a3f90e302011b679/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/c55cb04f1b4af19c571e/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/fb0cb7cbdb8ada36b1ef/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/f680ef2044d35aceefcb/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea1df0dc1c6362018265/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b82fa14f1fa72831b9/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/43c932a46f0926b403d0/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/a5fc78d3b629543413ae/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/52dcb543e32bf54ee928/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/b983289f4667b09a09ef/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/dbc557be0c42fb9c76b6/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/18a37217bd77f6ba2beb/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/0605b74b3bfc9e4cbd70/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/057f20ec0db6ce338120/large)
-
----
-
-## Lot 18502 — 2000 Sea Doo Bombardier Challenger 1800 18' Jet Boat
-
-- OrbitBid item number: 1-18502
-- Internal ID: 1801900
-- Current bid: $100
-- Bid count: 0
-- Photo count: 44
-- End time: 1790726400
-
-**Fields:**
-
-- Year: 2000
-- Make: Sea Doo
-- Model: Bombardier
-- Trim: Challenger 1800
-- Length: 18'
-- Watercraft Type: Jet Boat
-- Hull ID#: CECA02411900
-- MC#: 1059 RZ
-- MC# Expiration Date: 03/31/2029
-- Title Status: Boat sells with Title, Trailer sells with weight slip & bill of sale, Clear
+- General Description: 1 yard dump hopper, one wheel needs replacement, in working condition
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
-- Sells with Trailer?: Yes
-- Trailer Year: 1993
-- Trailer VIN: 2RV211914X1A00279
-- Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/b5f673cedd329eb82378/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3051c98f2dcf0a48aa5/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/89a664a805bfc4388b68/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d7882df9232d5eb3c1e2/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3b37e00be48d08fc7661/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/2dad6c1f9d31ab4decfa/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/45773a84115879ea5731/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/89048d9f67de4ae2264f/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/d586ab6a3c3126e0ed80/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/cfc71f4c28c0cdeeea67/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/e9492aebc064fe97e32c/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/233d405e22ba90da6219/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/aca6f9c1ae03bcd0db84/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/1da6968e6ba1cbd3f1f5/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/a2bd5ed901d606e3805c/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/263012a1dbd4715469eb/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/697edd26c40103382201/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/a75099bac8616573c909/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/dec12c0dfe31dac961de/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/45cbbf9d551d43c68010/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/8ab60f8cc34518f59ac5/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/6823501e9d82bbb4fcf3/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/8f11b1f39a506086e375/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/e5a4fc65653d8c1629a0/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c58295b5b71c5d60f8d/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/933aa1430f3440c0adf3/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/dac4dd1e30da79f82052/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/247309e78ab2c9af15e9/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a83abe2d5c5508be4e1/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/65536202faf9c2f08ebb/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/0950f3885b2a403da510/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/cb056853c16b729b2ace/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/589a6e76ef728cecb039/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/fa178d16c4ef35cf993b/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/b917ee14e29858e09abf/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/aea53b3acc0a396e652e/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/4063c379a986204fd796/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b43d983816088d3606/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/952197c8927df811d9fa/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/2e1702a975278c9bd1ee/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/6b4727dac7bda9941fa9/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/9652feff3ae7c39bf4d0/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa3ccc9bade6ec09f134/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/86cb91217d7d240b42ce/large)
-
----
-
-## Lot 18503 — 2007 Ford XLT Super Duty Pickup F-350 4-WD, diesel, 13,000 lb. GVWR, 6.0 liter, power stroke, turbo ...
-
-- OrbitBid item number: 1-18503
-- Internal ID: 1801901
-- Current bid: $100
-- Bid count: 0
-- Photo count: 52
-- End time: 1790726400
-
-**Fields:**
-
-- Year: 2007
-- Make: Ford
-- Type: XLT Super Duty Pickup
-- Model: F-350
-- VIN: 1FDWF37P07EA82625
-- Odometer Reading: 51339
-- Titled Status: TBD
-- General Description: 4-WD, diesel, 13,000 lb. GVWR, 6.0 liter, power stroke, turbo diesel engine, K & N custom intake (original intake included), 5-speed manual transmission with low gear, cloth split bench seat (driver's side torn with ripped foam) with fold down console/cup holders, power windows, mirrors, and locks, cruise control with steering wheel buttons, A/C, driver and passenger side air bags, Impulse trailer brake, AM/FM/CD stereo with auxiliary, Cobra, model 29LTD chrome, CB radio with speaker and Cobra Trap Shooter Pro 2, Garmin GPS with 6" touch screen, 4 auxiliary ports in dash, chrome Nerf bars, headache rack, custom chrome stack exhaust, air horns with Northstar pump mounted in a Buyers 30" x 18" x 20" stainless steel, Diamond Plate tool box on driver's side, duallies with chrome rear fenders, running board, mounted orange running lights, custom built 9' x 92" wide stake bed with hand made 9" tall stake sides, and attached 2" x 2" receiver, 4" rear mounted back up lights, front mounted 6" diameter fog lights under front bumper, towing package, amber visor lights, custom exhaust (original exhaust included), heavy duty spring suspension, Buyers 30" x 17" x 20" tool box on passenger's side, heated extendable mirrors with red and amber marker lights, custom electric pendant mounted near driver seat with ports for dump trailer operation, Goodyear Wrangler size LT245/75R17 tires with chrome rims, runs, drives, and operates, but engine light is on.
-
-**Photos:**
-
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/64ecb391d530786c1806/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/c0c28288548ed22bc908/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/b31c11529db63168f6fb/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/57ef04da55350865376b/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1a8272f32a6673467b3c/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/e58ec130f46a4a56824d/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/abee1611b34bfd84bbf6/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0bfa52ff063f88c430ed/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/11548d63fe1c3a2c3a67/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/f9ba74f8b938fa7bcd1c/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/3bc039b4a33a6a0ef49b/large)
-- [Photo 12](https://d1ljvnrgb7j023.cloudfront.net/files/1/694f9f471af5c882bb91/large)
-- [Photo 13](https://d1ljvnrgb7j023.cloudfront.net/files/1/1e0cc64ec9905f81f4b7/large)
-- [Photo 14](https://d1ljvnrgb7j023.cloudfront.net/files/1/af3279525d0c6ad0bb4c/large)
-- [Photo 15](https://d1ljvnrgb7j023.cloudfront.net/files/1/c773b1f0ff435c00cc4e/large)
-- [Photo 16](https://d1ljvnrgb7j023.cloudfront.net/files/1/44aa92639e65d180d31a/large)
-- [Photo 17](https://d1ljvnrgb7j023.cloudfront.net/files/1/ce816ce876bd80acee19/large)
-- [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/cad4d48894cc1fa51744/large)
-- [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/f07e7d5a5c020d22cda4/large)
-- [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/aa26da9904fd776e4625/large)
-- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/c4aae9452246259d07e3/large)
-- [Photo 22](https://d1ljvnrgb7j023.cloudfront.net/files/1/1d64f967f12f7e33ef25/large)
-- [Photo 23](https://d1ljvnrgb7j023.cloudfront.net/files/1/76e9271b81dbe240e56e/large)
-- [Photo 24](https://d1ljvnrgb7j023.cloudfront.net/files/1/d6df5fe100ccc0d7f3a1/large)
-- [Photo 25](https://d1ljvnrgb7j023.cloudfront.net/files/1/97cecf2d9ce1d7608c53/large)
-- [Photo 26](https://d1ljvnrgb7j023.cloudfront.net/files/1/b9e8cab7f809a77d2d19/large)
-- [Photo 27](https://d1ljvnrgb7j023.cloudfront.net/files/1/19a8bfdda51b5e2bb9ed/large)
-- [Photo 28](https://d1ljvnrgb7j023.cloudfront.net/files/1/aba7d8317385aa928d08/large)
-- [Photo 29](https://d1ljvnrgb7j023.cloudfront.net/files/1/85721e81bf4eb740b927/large)
-- [Photo 30](https://d1ljvnrgb7j023.cloudfront.net/files/1/caa3ad31f7fe35c4f0d8/large)
-- [Photo 31](https://d1ljvnrgb7j023.cloudfront.net/files/1/a1b4438afb02b2896f10/large)
-- [Photo 32](https://d1ljvnrgb7j023.cloudfront.net/files/1/815d1d0b39ec1410f828/large)
-- [Photo 33](https://d1ljvnrgb7j023.cloudfront.net/files/1/20a87c24036d35630f3d/large)
-- [Photo 34](https://d1ljvnrgb7j023.cloudfront.net/files/1/4d4140960af5940461b6/large)
-- [Photo 35](https://d1ljvnrgb7j023.cloudfront.net/files/1/64c26605108b722a7679/large)
-- [Photo 36](https://d1ljvnrgb7j023.cloudfront.net/files/1/4594029af130735b8ccf/large)
-- [Photo 37](https://d1ljvnrgb7j023.cloudfront.net/files/1/1dd83c4cd261e2829d28/large)
-- [Photo 38](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c73e6a794f41c670ce5/large)
-- [Photo 39](https://d1ljvnrgb7j023.cloudfront.net/files/1/107acee15bc1da8d2e03/large)
-- [Photo 40](https://d1ljvnrgb7j023.cloudfront.net/files/1/4791e4b4d4c09b2b825f/large)
-- [Photo 41](https://d1ljvnrgb7j023.cloudfront.net/files/1/ef94eb7a19d3e6b44125/large)
-- [Photo 42](https://d1ljvnrgb7j023.cloudfront.net/files/1/6c0a63cd9f630ea3f2a3/large)
-- [Photo 43](https://d1ljvnrgb7j023.cloudfront.net/files/1/1be124346805fe3785f6/large)
-- [Photo 44](https://d1ljvnrgb7j023.cloudfront.net/files/1/b27c9088b6421cf63fea/large)
-- [Photo 45](https://d1ljvnrgb7j023.cloudfront.net/files/1/6d124adbf861b2ee6d5f/large)
-- [Photo 46](https://d1ljvnrgb7j023.cloudfront.net/files/1/31fb9287c6ce8d820834/large)
-- [Photo 47](https://d1ljvnrgb7j023.cloudfront.net/files/1/7b0e17a538ab501f0413/large)
-- [Photo 48](https://d1ljvnrgb7j023.cloudfront.net/files/1/3df74ad0159b9e5748b0/large)
-- [Photo 49](https://d1ljvnrgb7j023.cloudfront.net/files/1/5045345a2b37eb813699/large)
-- [Photo 50](https://d1ljvnrgb7j023.cloudfront.net/files/1/c37943eeb77661896d02/large)
-- [Photo 51](https://d1ljvnrgb7j023.cloudfront.net/files/1/4525074e96f7de038d7b/large)
-- [Photo 52](https://d1ljvnrgb7j023.cloudfront.net/files/1/3060b85ef2e3bbfae718/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/65c13b5fb787ced51155/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/2c76b6f006948824a61c/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/dfdafd9b9588575707ab/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/23672ab6977d89a9c896/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc90d370cc067a1b50f1/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/4cffa36fa8349c22f3e0/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab758b7a5b8ee5c99d7b/large)
 
 ---
 
@@ -7841,7 +12828,7 @@
 - Current bid: $500
 - Bid count: 0
 - Photo count: 27
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7889,7 +12876,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 29
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -7946,7 +12933,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 33
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
@@ -8003,7 +12990,7 @@
 - Current bid: $100
 - Bid count: 0
 - Photo count: 27
-- End time: 1790726400
+- End time (UTC): 2026-09-30T00:00:00Z
 
 **Fields:**
 
