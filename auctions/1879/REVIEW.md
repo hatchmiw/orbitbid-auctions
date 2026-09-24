@@ -1,18 +1,19 @@
 # OrbitBid 1879 — auction review checkpoint
 
-**Pass completed:** all 487 catalog descriptions classified and annotated; 87 lots conditionally priced; 40 priority lots have now had every current-source photo inspected in verified contact sheets and their values/caps revised. The original snapshot is dated September 24, 2026, 17:32:58 UTC; no new price refresh performed.
+**Pass completed:** all 487 catalog descriptions triaged, 87 provisional priced lots, and **80 distinct lots / 598 original catalog photographs** fully examined using separate current-source verified contact sheets. The two batches share the identical current `lots.json` snapshot SHA-256. Price snapshot retrieved September 24, 2026, 17:32:58 UTC; prices have not been refreshed here.
 
-**Not completed:** current-source image review of the remaining 445 photographed lots, in-person checks, and broad lot-specific sold comps. Two lots have no source photos. These 40 contact-sheet reviews are visual inspection of reduced-size images, not physical verification of condition. A true 487-lot visual audit is not yet complete.
+**Not completed:** the other 405 photographed lots, on-site functional and safety inspection, exact-item sold comps and live bid refresh. Two lots lack photos. Do not describe this as a complete 487-lot photographic appraisal.
 
-## Latest inspection batch
+## Completed visual-inspection batches
 
-- [visual-review-batch-01.md](visual-review-batch-01.md): 40 lots with all current-source catalog photos visually examined, revised caps and specific findings.
-- [review-previews/README.md](review-previews/README.md): permanently accessible verified contact sheets and source-image hashes for this first batch.
+- [Batch 01](visual-review-batch-01.md): 40 lots, 246 current-source images and revised condition-specific notes; [verified contact sheets](review-previews/README.md).
+- [Batch 02](visual-review-batch-02.md): 40 additional lots, 352 source-verified images and revised provisional caps; [verified batch 02 sheets](review-previews/batch-02/README.md).
+- **80 reviewed / 485 pictured lots**; 405 pictured lots remain and two have no source images.
 
 ## Files
 
-- [catalog-review.csv](catalog-review.csv): all 487 rows; corrected originally blank description/category/internal-ID fields; 40 visual status and findings columns, conditional estimates and verified preview links.
-- [provisional-watchlist.csv](provisional-watchlist.csv): 87 conditional candidates including 40 visually reviewed lots, with updated image findings.
+- [catalog-review.csv](catalog-review.csv): 487 lot rows, complete source IDs and descriptions; 80 individual visual notes, provisional valuations and permanent verified contact-sheet links.
+- [provisional-watchlist.csv](provisional-watchlist.csv): 87 provisional conditional candidates, including 80 visually reviewed in the two current-source batches.
 - [all-lots-review.md](all-lots-review.md): readable per-lot review table for every lot.
 - [summary.md](summary.md): original unabridged descriptions and every source photo link.
 - [price-history.csv](price-history.csv): existing timestamped price history (not altered here).
@@ -23,13 +24,13 @@ Gross resale ranges are illustrative used-market **working-condition scenarios**
 
 ## Photo integrity
 
-The earlier photo contamination has been addressed by separate image-manifest verification in the workflow, but **40 selected lots' current-source images have now been examined, but the full archive has not been visually inspected**. The absence of committed photo folders is expected under the current temporary-artifact retention policy. There are two entries with no catalog photos: 18284, 18583.
+Every image was downloaded independently from the current 487-lot snapshot in a GitHub Action and verified against its source URL; *no historic photo folders were reused*. The 40 sheets from batch 01 remain separate from the 40 sheets from batch 02, with both provenance manifests committed. The original full-resolution photographs remain temporary under the GitHub Actions retention policy. Two lots lack source images: **18284 and 18583**.
 
 ## Resumption checkpoint
 
-1. **Done:** all 487 descriptions triaged; 40 current-source lots (all their catalog photographs) inspected via verified contact sheets, findings and revised caps committed. The old photo-contamination issue is bypassed by rebuilding from current source URLs.
-2. **Next:** continue visually inspecting the other 445 photographed lots and cross-check sold prices for the strongest resale opportunities. Do not mark an unviewed lot 'photo reviewed'. Two lots have no source images and need on-site confirmation.
-3. **Then:** independently verify operation, calibration and transport; update price history just before bidding.
+1. **Done and committed:** 487 catalog rows, 87 provisional watchlist candidates; batches 01 and 02 cover 80 distinct lots and 598 verified source photographs, with descriptions, revised caps and risk notes in both CSV files.
+2. **Next:** inspect all current-source photographs for the remaining **405 pictured lots**, document source-specific findings, update the CSVs and preserve prior image sheets. Avoid overlapping new batch IDs.
+3. **Before the close:** refresh all current lot bids and check hard sold-market comparables, then validate buyer premium, moving costs, equipment function and personal-use priorities. Never infer item condition solely from thumbnails.
 
 ## Catalog group counts
 

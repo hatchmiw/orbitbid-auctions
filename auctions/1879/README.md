@@ -10,6 +10,9 @@ Automated snapshot of OrbitBid auction **1879**.
 
 ## Review files
 
+- [Batch 02 full visual report](visual-review-batch-02.md) — 40 additional visually inspected lots (352 current-source photographs)
+- [Batch 02 verified contact sheets](review-previews/batch-02/README.md) — permanent source-provenance contact sheets and manifest
+
 - [visual-review-batch-01.md](visual-review-batch-01.md) — 40 completed contact-sheet visual inspections, condition-based revised bids and selective market references
 - [review-previews/README.md](review-previews/README.md) — 40 permanent source-verified lot contact sheets
 
