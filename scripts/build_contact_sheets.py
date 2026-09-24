@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 from pathlib import Path
+import json
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 import math
 import sys
@@ -32,11 +33,23 @@ def main():
     if len(sys.argv) != 2:
         raise SystemExit("Usage: build_contact_sheets.py <auction_id>")
     auction_id=sys.argv[1]
-    root=Path("auctions")/auction_id/"photos"
+    auction_dir=Path("auctions")/auction_id
+    root=auction_dir/"photos"
+    lots_path=auction_dir/"lots.json"
     if not root.exists():
         raise SystemExit(f"Missing {root}")
+    if not lots_path.exists():
+        raise SystemExit(f"Missing {lots_path}")
 
-    lot_dirs=sorted([p for p in root.iterdir() if p.is_dir()], key=lot_directory_sort_key)
+    data=json.loads(lots_path.read_text(encoding="utf-8"))
+    current_lots={
+        str(lot.get("requested_lot_number") or lot.get("item_number") or lot.get("id"))
+        for lot in data.get("lots", [])
+    }
+    lot_dirs=sorted(
+        [p for p in root.iterdir() if p.is_dir() and p.name in current_lots],
+        key=lot_directory_sort_key,
+    )
     made=0
     for lotdir in lot_dirs:
         photos=sorted([p for p in lotdir.glob("*.jpg") if p.name not in ("contact.jpg", "review.jpg")])
