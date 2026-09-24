@@ -10,6 +10,9 @@ Automated snapshot of OrbitBid auction **1879**.
 
 ## Review files
 
+- [Batch 04 review report](visual-review-batch-04.md) — additional 40 reviewed lots and 301 matched photos (shop tools, welding, farm machinery)
+- [Batch 04 verified photo sheets](review-previews/batch-04/README.md) — complete 40-lot photo sheets with provenance manifest, permanently committed
+
 - [Batch 03 full visual review](visual-review-batch-03.md) — 40 additional current-source-inspected lots, 286 images, all seven formerly pending watchlist entries completed
 - [Batch 03 verified photo sheets](review-previews/batch-03/README.md) — all 40 permanent contact sheets with separate image-source manifest
 
