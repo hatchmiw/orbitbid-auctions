@@ -2,8 +2,9 @@
 from pathlib import Path
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 import math
-import re
 import sys
+
+from mirror_photos import lot_sort_key
 
 THUMB_W = 360
 THUMB_H = 270
@@ -31,7 +32,7 @@ def main():
         raise SystemExit(f"Missing {root}")
 
     def natural_key(path):
-        return [int(x) if x.isdigit() else x.lower() for x in re.split(r"(\\d+)", path.name)]
+        return lot_sort_key(path.name)
 
     lot_dirs=sorted([p for p in root.iterdir() if p.is_dir()], key=natural_key)
     made=0
