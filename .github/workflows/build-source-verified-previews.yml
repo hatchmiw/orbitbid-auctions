@@ -60,62 +60,37 @@ jobs:
         run: python scripts/build_contact_sheets.py review1879
       - name: Verify photos, lot IDs and source URL mapping
         run: python scripts/verify_photo_outputs.py review1879
-      - name: Collect compact contact sheets, source provenance and lot index
+      - name: Calculate auction-based temporary artifact retention
+        id: retention
         shell: bash
-        run: |
-          set -euo pipefail
-          python - <<'PY'
-          import hashlib
-          import json
-          import shutil
-          from pathlib import Path
-          source = Path("auctions/review1879/photos")
-          request = json.loads(Path("auctions/1879/review_requests.json").read_text())
-          batch = str(request["batch"]).strip()
-          if not batch.isdigit() or len(batch) != 2:
-              raise SystemExit("review request batch must be a 2-digit string")
-          dest = Path("auctions/1879/review-previews") / ("batch-" + batch)
-          full = Path("auctions/1879/lots.json")
-          m = json.loads((source/"manifest.json").read_text())
-          if dest.exists():
-              shutil.rmtree(dest)
-          dest.mkdir(parents=True)
-          for lot in request["lots"]:
-              path = source/lot/"review.jpg"
-              if not path.is_file() or path.stat().st_size == 0:
-                  raise SystemExit("Missing requested lot review sheet "+lot)
-              shutil.copyfile(path,dest/(lot+".jpg"))
-          m["review_source_snapshot_sha256"] = hashlib.sha256(full.read_bytes()).hexdigest()
-          m["review_source"] = "Only current auctions/1879/lots.json"
-          (dest/"manifest.json").write_text(json.dumps(m,indent=2)+"\n")
-          lines = ["# Source-verified review contact sheets","",
-            "Thumbnails here were freshly downloaded using the CURRENT auctions/1879/lots.json.",
-            "No historical photo folder was reused. Every source image URL is",
-            "recorded in manifest.json and all mappings passed verify_photo_outputs.py.",""]
-          lines += ["- [Lot "+lot+"]("+lot+".jpg)" for lot in request["lots"]]
-          (dest/"README.md").write_text("\n".join(lines)+"\n")
-          print("Prepared",len(request["lots"]),"verified contact sheets")
-          PY
-      - name: Commit only compact source-verified previews
+        run: python scripts/photo_retention.py 1879 >> "$GITHUB_OUTPUT"
+      - name: Upload temporary verified photos and per-lot review sheets
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-1879-review-photos
+          path: auctions/review1879/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
+      - name: Remove legacy committed review-preview images
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add auctions/1879/review-previews
-          if git diff --cached --quiet; then
-            echo "No image changes"
-            exit 0
+          if [[ -d auctions/1879/review-previews ]]; then
+            git rm -r auctions/1879/review-previews
+            git commit -m "Remove committed OrbitBid 1879 review images; use temporary artifacts"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then exit 0; fi
+              sleep 5
+            done
+            exit 1
           fi
-          git commit -m "Add next batch of verified OrbitBid 1879 review contact sheets"
-          for attempt in 1 2 3; do
-            git fetch origin main
-            git rebase origin/main
-            if git push origin HEAD:main; then
-              echo "Verified review previews committed"
-              exit 0
-            fi
-            sleep 5
-          done
-          echo "Unable to push verified previews" >&2
-          exit 1
+      - name: Summary
+        run: |
+          echo "Source-verified batch photos and review sheets are temporary Actions artifacts, not committed files." >> "$GITHUB_STEP_SUMMARY"
+          echo "Cleanup after: ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
