@@ -2,7 +2,7 @@
 
 **Pass completed:** all 487 catalog entries triaged; **200 distinct pictured lots / 1499 current-source photographs** visually inspected in five independently verified batches; 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
 
-**Not completed:** source-photo visual review of 285 remaining pictured lots, confirmation of two photo-free entries, physical operation and safety checks, exact-match sold comps for most candidates and live bid refresh. This is not yet a complete 487-lot photographic appraisal.
+**Batch 06 resumed:** eight of the 40 queued source-verified contact sheets have now been visually inspected and documented in [batch-06 partial report](visual-review-batch-06-partial.md); 32 queued batch-06 sheets still need inspection. Completed batches 01–05 remain unchanged. The 8 partial findings have not yet been assigned bid ceilings or merged into the 200-row watchlist.\n\n**Not completed:** source-photo visual review of 285 remaining pictured lots, confirmation of two photo-free entries, physical operation and safety checks, exact-match sold comps for most candidates and live bid refresh. This is not yet a complete 487-lot photographic appraisal.
 
 ## Completed visual-inspection batches
 
@@ -11,7 +11,7 @@
 - [Batch 03](visual-review-batch-03.md): 40 distinct lots and 286 verified catalog images; [contact sheets](review-previews/batch-03/README.md).
 - [Batch 04](visual-review-batch-04.md): 40 distinct lots and 301 verified catalog images; [contact sheets](review-previews/batch-04/README.md).
 - [Batch 05](visual-review-batch-05.md): 40 distinct lots and 314 verified catalog images; [contact sheets](review-previews/batch-05/README.md).
-- **200 lots / 1499 photographs inspected**; 285 pictured lots pending; two have no catalog photographs.
+- **200 lots / 1499 photographs fully reviewed in completed batches**; 8 additional batch-06 lots have photo-specific findings (208 pictured lots inspected in total), 277 pictured lots still awaiting visual inspection, and two catalog entries have no photos.
 
 ## Files
 
@@ -32,7 +32,7 @@ Each batch's 40 lot contact sheets were downloaded independently from the same c
 ## Resumption checkpoint
 
 1. **Done:** 487 catalog rows, 200 provisional watchlist rows, five separate batches with 200 distinct pictured lots and 1499 source-verified photos. Per-lot findings and provisional maximum hammer bids are in both CSVs and the readable batch reports.
-2. **Next:** inspect the other 285 photographed catalog lots in non-overlapping batches. Maintain photo provenance and original batch sheets; never conflate adjacent auction lot tags.
+2. **Next:** finish the 32 uninspected batch-06 contact sheets (8 of 40 documented in the partial report), then proceed to other unreviewed photographed lots in non-overlapping batches. Maintain photo provenance and original batch sheets; never conflate adjacent auction lot tags.
 3. **Before the close:** refresh live bid prices, check exact sold comps and physically test safety-critical equipment; deduct premium, transport, repair and resale expenses from bid ceilings. No continuing background inspection is running.
 
 ## Catalog group counts
