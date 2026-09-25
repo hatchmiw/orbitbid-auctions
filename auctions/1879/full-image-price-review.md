@@ -86,3 +86,52 @@ Existing temporary artifact `10844157362`, run `36087642169`; no redownload or i
 | 18548 | 5 | $25–$95 | $12 | Schumacher SE-1072, Chicago Electric tester and vintage Marquette 32-150 battery charger; dusty old electrical equipment, output and cords untested. |
 | 18549 | 5 | $20–$65 | $10 | Black five-drawer narrow metal filing cabinet, visible scuffs and dirt; check all drawer runners and key; local-pickup demand. |
 | 18552 | 5 | $60–$225 | $25 | Heavy floor-standing vintage Chicago Rivet & Machine Type Premier manual foot-operated riveter, serial 106; auction claims working but no independent test or tooling inventory; costly pickup. |
+
+## 40-lot checkpoint — batch 09 remaining 30 + batch 10 first 10
+
+Source-verified existing artifacts `10844157362` (batch 09) and `10844052609` (batch 10), run `36087642169`. **260 source photographs represented and visually examined via labeled all-photo composites; this is not individual full-resolution image inspection.** No new photos downloaded or committed. These gross as-is estimates are broad provisional heuristics, **not exact sold-comparable findings**. Bid ceilings assume buyer premium, tax, transport, repairs and fees checked separately. Zero ceilings for safety-critical/unknown-condition heavy material indicate no bid without qualified inspection and handling feasibility.
+
+| Lot | Photos | Gross resale estimate | Conditional max hammer | Existing photo findings |
+|---|---:|---:|---:|---|
+| 18553 | 4 | $25–$85 | $12 | Custom steel bench-mounted grinder/press fixture with threaded height adjustment; surface rust, alignment unverified. |
+| 18556 | 7 | $30–$175 | $10 | Red Marquette Dyna-Vision vintage engine-analyzer cart, drawers holding leads and tools; obsolete equipment, functionality untested. |
+| 18557 | 5 | $20–$85 | $10 | Wall-mounted Lawson brake-line organizer with numerous long metal tubes; verify tube condition and mounting removal. |
+| 18558 | 5 | $35–$125 | $15 | Metal multi-bin shop organizer containing mixed bolts, nuts and small parts, bench grinder on top; sorting and electrical checks needed. |
+| 18559 | 6 | $35–$140 | $15 | Large metal multi-bin organizer filled with mixed pipe fittings and small hardware; dust and mixed inventory. |
+| 30-1333 | 5 | $40–$150 | $15 | Four GM six-lug wheels with Cooper Discoverer Radial tires on pallet; one visibly mismatched, verify sizes and DOT age. |
+| 18224 | 5 | $100–$450 | $45 | Tall gray Ramco hydraulic truck jib crane with base and pivot assembly; visibly used, no separate hydraulic jack shown. Inspect mounting and rated load. |
+| 18250 | 6 | $100–$300 | $35 | Two Gladiator heavy-truck tires outdoors with new-looking tread/labels; verify DOT age and casing before use. |
+| 18251 | 7 | $90–$280 | $30 | Two mounted Sailun truck tires with white steel rims, clean tread; inspect bead and wheel condition. |
+| 18252 | 6 | $70–$210 | $25 | Three Power King truck/implement tires stacked outdoors, labels attached and tread appears unworn; check age. |
+| 18253 | 6 | $80–$240 | $25 | Single new-looking Sumitomo truck tire on white steel rim; paper label attached, verify date and fit. |
+| 18254 | 9 | $90–$280 | $30 | Two Sumitomo tires on separate white-rim wheels, apparently unused; inspect rim-ring type and DOT date. |
+| 18255 | 5 | $20–$75 | $8 | Single loose Concorde tire with aggressive tread; dirt/weather exposure and date unknown. |
+| 18256 | 7 | $45–$160 | $15 | Two new-looking Gateway steering/implement tires, one upright and one on ground; inspect sidewall storage condition. |
+| 18257 | 6 | $80–$240 | $25 | Two Firestone Transforce tires, one mounted to white rim; paper labels remain, inspect DOT date. |
+| 18258 | 7 | $25–$95 | $10 | One new-looking Farm and Field implement tire with tube, unmounted; verify tube and bead. |
+| 18259 | 8 | $100–$350 | $35 | Two Goodyear truck tires on white steel rims with deep block tread and labels; inspect wheel compatibility. |
+| 18260 | 7 | $160–$480 | $55 | Four Gladiator heavy-truck tires, two on white steel rims, deep tread visible; check DOT and rim condition. |
+| 18261 | 7 | $20–$100 | $0 | Four white steel truck rims and separate ring components laid on gravel; inspect multi-piece rim compatibility and corrosion. |
+| 18262 | 8 | $100–$340 | $35 | Two Kelly truck tires on white steel rims, stored outdoors with labels; verify DOT and casing. |
+| 18263 | 6 | $0–$45 | $0 | Stacked round wooden cable-spool tops on pallets, weathered; check thickness, rot and handling weight. |
+| 18264 | 6 | $0–$100 | $0 | Large two-point lifting spreader/hook assembly laid on gravel, surface rust; load certification and cracks unverified. |
+| 18265 | 7 | $15–$65 | $8 | Two rusty steel wheelbarrows with wood handles, worn trays and wheels; inspect bearings and handle integrity. |
+| 18266 | 6 | $0–$90 | $0 | Two aluminum extension ladders laid on pallets, used; inspect rails, feet, rung locks and labels. |
+| 18267 | 6 | $0–$100 | $0 | Pallet of thick rolled industrial conveyor belt sections in mixed widths; weathered edges and lengths unknown. |
+| 18268 | 7 | $60–$240 | $20 | Six blue steel conveyor idler/shaft assemblies on pallet, paint worn but visually complete; bearings untested. |
+| 18269 | 6 | $0–$100 | $0 | Large rectangular steel counterweight on pallet with lifting eye and rust; substantial loading weight. |
+| 18270 | 5 | $0–$65 | $0 | Round rusted crane counterweight with cylindrical form and heavy lifting requirement; exact fitment unverified. |
+| 18271 | 5 | $0–$120 | $0 | Yellow/gray rectangular forklift counterweight with mounting holes; surface rust and application unknown. |
+| 18272 | 6 | $0–$120 | $0 | Two heavy industrial pipe-handling clamp assemblies with rusted cast jaws and hooks; no safe-lifting use without certification. |
+| 18273 | 5 | $0–$75 | $0 | Large single off-road tractor tire on ground with heavy mud and worn tread; check casing and bead damage. |
+| 18274 | 7 | $0–$180 | $0 | One very large off-road industrial tire with distinctive round lug tread, weathered and dirty; date and sidewall integrity unknown. |
+| 18275 | 8 | $0–$270 | $0 | Three very large earthmover tires stacked outdoors; visibly used, mixed tread wear and casing condition. |
+| 18276 | 7 | $0–$360 | $0 | Three Hercules heavy off-road tires stacked outdoors with deep block tread; dirty and storage weathering. |
+| 18277 | 12 | $0–$500 | $0 | Seven assorted giant off-road tires in multiple outdoor stacks; variable tread, substantial disposal/transport risk. |
+| 18278 | 7 | $0–$400 | $0 | Seven large off-road tires stacked outside, mixed wear and dirt; inspect sidewalls and actual sizes. |
+| 18279 | 7 | $30–$130 | $12 | Pallet of mixed grease pumps and dispensing equipment, used hoses and reels; leak/pressure testing needed. |
+| 18280 | 9 | $0–$160 | $0 | Pallet of heavy truck brake drums, discs and related metal components; rusty and unidentified fitment. |
+| 18281 | 5 | $15–$65 | $5 | Three loose manual drum/barrel pumps with long metal tubes and hoses on dirty ground; seals untested. |
+| 18282 | 7 | $0–$300 | $0 | Pallet of several heavy industrial electric motors, aged and dusty; catalog explicitly parts/repair, no working assumption. |
+
+**After checkpoint:** 290 of 487 catalog lots provisionally priced, 195 pictured lots unpriced, 2 without photos unpriced. Original-image full-resolution count remains 20 of 485; do not upgrade based on composites. Source auction bid snapshot remains stale.
