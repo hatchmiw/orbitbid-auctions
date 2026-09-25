@@ -62,6 +62,8 @@ def build(auction, check=False):
                 raise ValueError("Invalid value range or hammer ceiling for lot " + row["lot"])
         if row["market_research_status"] == VERIFIED and not all(active):
             raise ValueError("Verified status without complete researched valuation on lot " + row["lot"])
+    documented_original = [row for row in rows if row["photo_review_status"] == "Original photos examined (10-lot full-image pass)"]
+    additional_original_claims = [row for row in rows if "all " in row["photo_review_status"].lower() and "original" in row["photo_review_status"].lower() and "individually inspected" in row["photo_review_status"].lower()]
     historical = [row for row in rows if any(row[col].strip() for col in HISTORY)]
     researched = [row for row in rows if row["market_research_status"] == VERIFIED]
     research_queue = [row for row in rows if row["market_research_status"] != VERIFIED]
@@ -78,6 +80,9 @@ def build(auction, check=False):
         + f"- Historical unverified estimates preserved: **{len(historical)}**\\n"
         + f"- Researched valuations with evidence: **{len(researched)}**\\n"
         + f"- Market research pending: **{len(research_queue)}**\\n"
+        + f"- Documented original-image inspections: **{len(documented_original)}**\\n"
+        + f"- Additional original-image status claims pending provenance: **{len(additional_original_claims)}**\\n"
+        + f"- Pictured lots without independently documented original-image inspection: **{sum(int(r['photo_count']) > 0 for r in rows) - len(documented_original)}**\\n"
         + f"- Initial contact-sheet/photo-status recorded: **{sum('inspected' in r['photo_review_status'].lower() or 'reviewed' in r['photo_review_status'].lower() for r in rows)}**\\n"
         + "- Historical estimates are not bid recommendations. Research-verified values require source URLs, notes and dates.\\n"
     ).replace("\\n", "\n")
