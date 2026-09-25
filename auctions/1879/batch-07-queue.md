@@ -1,6 +1,6 @@
 # OrbitBid 1879 — batch 07 queue (40 distinct lots)
 
-**Status: catalog selection only; no batch-07 photographs have been downloaded or visually inspected.** Selected from the 487-row catalog, excluding the 40 completed batch-06 lots and all lots marked photo-reviewed in the catalog. Existing source photo links are pointers, not newly verified batch-07 contact sheets. Do not count these 40 as visually inspected or assign bid ceilings until every original source image is verified and inspected.
+**Status: source-verified batch-07 photos are produced as a temporary Actions artifact, not committed to the repository; photo inspection remains pending.** Selected from the 487-row catalog, excluding the 40 completed batch-06 lots and all lots marked photo-reviewed in the catalog. The original catalog photo URLs remain in the permanent metadata. Download the verified temporary photo/review artifact from the workflow run for inspection. Do not count these 40 as visually inspected or assign bid ceilings until every original source image is verified and inspected.
 
 | Lot | Catalog description | Photos expected | First catalog photo |
 |---|---|---:|---|
