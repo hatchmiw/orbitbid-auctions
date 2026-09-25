@@ -1,9 +1,9 @@
-# Auction review agent instructions
+# Auction research agent instructions
 
-1. Before any review, read [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the root README, the auction's current `REVIEW.md`, the authoritative master catalog and the relevant acquisition/recovery workflow. Current master evidence supersedes historical reports and chat memory.
-2. **Complete the user's requested scope.** For a full review, inspect every original photograph of every pictured lot separately and research every required lot. A contact sheet, artifact download, checkpoint or commit is not completion. Save and commit verified work every 20 newly completed lots, then immediately continue without waiting for another prompt.
-3. Reuse existing temporary photo artifacts; confirm lot/image provenance. The documented ZIP download and artifact-only splitting route is the default. Never commit photos or ZIPs or redownload merely to start another batch.
-4. Preserve existing findings, historical estimates and researched evidence. Reconcile completed IDs before beginning a batch; never repeat work solely because a previous assistant stopped. Merge by exact lot ID into the one editable master. Regenerate derived views; validate before committing.
-5. Do not invent valuations or promote unverified estimates. Record matching dated completed-sale evidence and condition/cost adjustments, or leave active values blank with an explanation.
-6. Do not improvise a new workflow, report format or storage policy while the documented method works. If a technical change is necessary, document the failure and obtain user approval for deviations.
-7. If an actual execution limit or blocker prevents completion, update **one** exact checkpoint in the auction's `REVIEW.md` with last completed lot, next lot/photo, remaining work, artifact ID and actual blocker. Never imply unattended work is running unless a real external workflow is running.
+Read [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the root README, the auction's current `REVIEW.md` and its master catalog before starting. The goal is **useful bidding research**, not exhaustive per-lot original-photo inspection.
+
+1. Rapidly screen the whole catalog using existing descriptions, source photographs and prior contact-sheet notes. Distinguish screening from detailed inspection.
+2. Investigate promising lots first, including both personal-use and resale opportunities. For selected candidates, inspect every original photograph individually and research matching dated completed sales. No made-up valuations, bid ceilings or completion claims.
+3. Deliver a small, evidence-backed shortlist for the user's review before expanding to more candidates. Preserve the entire catalog and all historical estimates, but keep unverified historical values out of active bid recommendations.
+4. Commit completed candidate inspection and research findings to the one master CSV immediately; save screening work in small batches. Verify each write. Do not commit JPGs, ZIPs or contact sheets, duplicate prior inspections, or create parallel checkpoint reports.
+5. Continue working after commits until the agreed deliverable is reached or a genuine tool/execution limit intervenes. Keep the exact next research candidate and any blocker in the auction's `REVIEW.md`. Never imply unattended work continues without an actual running workflow.
