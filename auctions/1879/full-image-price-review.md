@@ -35,3 +35,20 @@ For context, a sold eBay listing for seven used Pittsburgh ratcheting wrenches e
 | 18484 | 4 | $10–$35 | $5 | Four original images examined. Kal Equip 2204 automotive digital multimeter with original manual, red and black test leads and soft zip pouch. Display is blank in photos; battery compartment, lead insulation and calibration untested. Aged electronic tester; do not represent as functional until tested. |
 
 **Durable checkpoint:** 20 original-image reviews and provisional valuations complete; 465 pictured lots remain in the deeper pass. The first 200 previously valued lots remain unchanged. The original-image review is separate from the completed contact-sheet review. No fresh bids or physical tests have been obtained.
+
+## Provisional pricing checkpoint — 10 additional lots (full-resolution verification pending)
+
+These 10 lots were priced from the existing source-verified composite photographs, **not** counted as individually full-resolution inspected. No exact-match sold comps or fresh auction bids were established. They remain in the 465-lot deeper photo queue.
+
+| Lot | Photos in composite | Gross resale (as-is, heuristic) | Conditional hammer ceiling | Observations |
+|---|---:|---:|---:|---|
+| 18485 | 6 | $15–$45 | $7 | Six source photographs represented on batch-08 contact sheet: boxed green/black-handled hook, pick and probe assortment, including unopened red-packaged tools; count/brand and tip integrity uncertain. |
+| 18489 | 5 | $15–$45 | $7 | Five photos: box of five heavy red-and-black handled striking/pry/scraper tools with steel shafts; scuffed handles, used ends, no confirmed premium-brand marks. |
+| 18491 | 5 | $20–$55 | $10 | Five photos: three long L-shaped and straight steel pry bars with dark grip/cap; minor wear and possible bending require straightedge inspection. |
+| 18493 | 7 | $25–$75 | $10 | Seven photos: box of three portable magnetic-base industrial work lights with power leads, aged housings and grime; electrical function and mounting magnets untested. |
+| 18495 | 5 | $20–$60 | $10 | Five photos: approximately 15 assorted red/black and blue handled nut drivers in a box, used grips; maker and size completeness mixed. |
+| 18498 | 6 | $30–$80 | $15 | Six photos: green molded Grip crowfoot wrench case with two rows of open-end attachments; many visible sizes and wear on chrome, check all slots and drive size. |
+| 18502 | 7 | $25–$70 | $10 | Seven photos: cardboard box of large clevises, hitch pins, turnbuckles and chain/hardware; surface oxidation and uncertain load ratings. |
+| 18503 | 5 | $30–$80 | $15 | Five photos: three large adjustable wrenches and two long tongue-and-groove pliers with worn steel jaws; verify worm gears and jaw alignment. |
+| 18505 | 5 | $25–$75 | $12 | Five photos: mixed set of long-handled channel-lock style pliers and red-handled cutters, several visibly used jaws; brand and pivot condition uncertain. |
+| 18506 | 5 | $25–$90 | $15 | Five photos: yellow heavy equipment tire-handling/bead tool with long removable bar, chipped paint and heavily used working ends; verify exact intended tire/rim system and transport. |
