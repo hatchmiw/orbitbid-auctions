@@ -1,7 +1,6 @@
 {
   "batch": "07",
   "lots": [
-    "Lot",
     "30-1332",
     "18100",
     "18101",
@@ -42,5 +41,6 @@
     "18214",
     "18218",
     "18222"
-  ]
+  ],
+  "description": "Seventh non-overlapping source-verified photo batch: 40 catalog lots queued in batch-07-queue.md; preserve batches 01–06."
 }
