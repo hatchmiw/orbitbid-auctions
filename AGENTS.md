@@ -1,13 +1,9 @@
-# Repository instructions for auction-review agents
+# Auction review agent instructions
 
-Before **every** auction research, photo-inspection, valuation, workflow edit or resumed batch, read and follow [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the root README, the relevant `auctions/<id>/REVIEW.md` and the applicable workflow YAML. Do not rely on prior chat memory as the authoritative state.
-
-**Critical:** reuse existing temporary GitHub Actions photo artifacts before downloading anything. Never commit auction photos or contact sheets to Git. Confirm artifact contents, image provenance and existing reviewed lot IDs before starting a batch. Update text-only checkpoints on each completed pass. If the artifact is missing or expired, document that and only then use the minimum necessary recovery download.
-
-When resuming, state the SOP version/commit consulted and the artifact/run or reason for recovery. If a task conflicts with the SOP, ask for clarification rather than silently changing photo retention or review status.
-
-## Mandatory retrieval and no-improvisation rule (2026-09-25)
-
-Before **every** OrbitBid task, including resumed work, read the root SOP, this file, root README, auction REVIEW and relevant workflow YAML. For photos, use the SOP's **GitHub `download_workflow_artifact` → ZIP extraction → source/lot verification → actual original JPG vision** procedure, proven by the Pioneer runbook. The generic GitHub fetch tool does not download Actions artifact ZIPs. The connector's 512 MiB per-artifact limit requires existing smaller split artifacts; auction 1879's batch-07 ZIP was successfully downloaded, and split batches 08–13 exist. Do not describe this as a general binary-download restriction.
-
-**Follow the documented SOP rather than improvising.** If its normal path fails, verify the failure, check its artifact-only split/recovery procedure, and **discuss any further change of approach with the user before implementing it**. Do not silently request manual uploads, redownload source photos, create permanent image copies, substitute contact sheets for full originals, or change review scope. Record the SOP commit read, artifact IDs, source-photo verification and completed lot IDs in each durable checkpoint.
+1. Before any review, read [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the root README, the auction's current `REVIEW.md`, the authoritative master catalog and the relevant acquisition/recovery workflow. Current master evidence supersedes historical reports and chat memory.
+2. **Complete the user's requested scope.** For a full review, inspect every original photograph of every pictured lot separately and research every required lot. A contact sheet, artifact download, checkpoint or commit is not completion. Save and commit verified work every 20 newly completed lots, then immediately continue without waiting for another prompt.
+3. Reuse existing temporary photo artifacts; confirm lot/image provenance. The documented ZIP download and artifact-only splitting route is the default. Never commit photos or ZIPs or redownload merely to start another batch.
+4. Preserve existing findings, historical estimates and researched evidence. Reconcile completed IDs before beginning a batch; never repeat work solely because a previous assistant stopped. Merge by exact lot ID into the one editable master. Regenerate derived views; validate before committing.
+5. Do not invent valuations or promote unverified estimates. Record matching dated completed-sale evidence and condition/cost adjustments, or leave active values blank with an explanation.
+6. Do not improvise a new workflow, report format or storage policy while the documented method works. If a technical change is necessary, document the failure and obtain user approval for deviations.
+7. If an actual execution limit or blocker prevents completion, update **one** exact checkpoint in the auction's `REVIEW.md` with last completed lot, next lot/photo, remaining work, artifact ID and actual blocker. Never imply unattended work is running unless a real external workflow is running.
