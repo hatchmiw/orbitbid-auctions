@@ -2,6 +2,10 @@
 
 **Read [the required auction SOP](../../AUCTION_REVIEW_SOP.md) and [agent instructions](../../AGENTS.md) before every continuation.** Existing temporary photo artifacts must be reused; do not re-download photographs or commit images for each review batch.
 
+## Market evidence correction (2026-09-25)
+
+At user request, all 290 prior heuristic price ranges and hammer ceilings have been **withdrawn from the active master and watchlist**. Prior photo findings and unique lot records are retained. The historical review log still contains prior guesses but they are superseded and **must not be used to bid**. Market-verified price and bid fields remain blank until dated sold comparables of a matching item, adjusted for condition and quantity, support a documented valuation. An initial check of lot 18287 found a 2026-04-22 eBay sold listing for Flexco Alligator No.125 steel belt lacing (approximately nine strips) at $79.99 (https://www.ebay.com/itm/336277346240) and a 2025-09 Kraft auction lot of five Flexco lacing units for $50 (https://bid.kraftauctions.com/auctions/212/lot/169917-zz5flexco-alligator-lacing). **Neither establishes the mixed lot 18287's value without matching its part numbers and quantities**, so its price and hammer ceiling remain blank. Auction 1879's official lot 18585 listing confirms a missing electric motor and 13% standard buyer premium (10% qualifying cash/wire) plus 6% MI tax: https://bid.orbitbid.com/lot/1705407/1-van-norman-company-portable-boring-machine-with-wood-crate-missing-electric-motor-appears-all- . Existing artifacts remain the preferred image source. Next work: exact part identification, matched sold comps and source links, then conditional max bids only for supported lots.
+
 ## Deeper original-image and price-review progress
 
 - **20 of 485 pictured lots** have now received a separate review of all original source images (106 images) and broad conditional as-is resale/hammer estimates. These are the first two durable 10-lot checkpoints in [the full-image and price-review report](full-image-price-review.md). **465 pictured lots still require the deeper original-image pass.**
