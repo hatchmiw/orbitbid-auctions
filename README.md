@@ -21,7 +21,7 @@ The rendered-catalog exporter includes a mixed-auction safety check so a suspici
 
 ## Photo retention
 
-Photo artifacts are temporary.
+Photo artifacts are temporary. The 1879 source-verified batch review also uploads original photos and per-lot review sheets to a temporary Actions artifact, rather than committing them to the repository. Previous committed review-preview images are removed from the current branch; old Git history may still contain them.
 
 - The retention deadline is based on the **latest scheduled lot closing time in the auction + 7 days**.
 - It is not based on when the GitHub workflow was run.
