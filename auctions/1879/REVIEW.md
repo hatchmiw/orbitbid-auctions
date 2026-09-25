@@ -6,7 +6,7 @@
 - **487 catalog lots**, **485 pictured**, **2 without photographs** (18284, 18583). All pictured lots were previously covered by initial contact-sheet screening. This is *screened*, not *fully inspected*.
 - The master currently records **43 individual-original-photo inspections**: 20 earlier documented inspections, nine subsequently reconciled by Work, and 14 further Work inspections. Do not repeat these unless source evidence reveals a material defect.
 - **93 high-priority, 104 medium-priority and 290 low-priority screening classifications** already exist in the master. They are discovery filters, not rankings of investment quality. The first shortlist is a working research queue, not ten established opportunities.
-- **Zero active evidence-verified valuations** currently exist. Preserve the 290 withdrawn heuristic estimates solely in historical fields. Prior source investigations and limited sold evidence remain in [market-research.md](market-research.md).
+- **Zero active evidence-verified valuations** currently exist. As of September 25, **all ten first-queue candidates have additional source-backed completed-sale research committed in the master**; none has yet passed the new candidate-level original-photo/condition verification or received a defensible active bid ceiling. Preserve the 290 withdrawn heuristic estimates solely in historical fields. Prior source investigations and limited sold evidence remain in [market-research.md](market-research.md).
 - The latest individual-photo inspection commit previously verified was lot **18145** (nine originals), commit `39f606e29710e3dc7d63fc8732ca6e1add7e25aa`. Because review is now opportunity-first, the next lot is the highest-value *unresolved research candidate*, not automatically 18146.
 
 ## First research queue — candidates, not bidding recommendations
@@ -26,6 +26,10 @@ Investigate these ten leads, using existing notes first. Do not promote a candid
 | 18114 | Hobart 6-261 tow-behind generator | Verify model/specification, engine condition, trailer condition and transport; research matched sold equipment. |
 
 These are research leads selected from existing high-priority screening, **not** verified profitable lots. Expand to other high-priority and overlooked medium-priority lots if any lead fails its investigation. Separate personal-use value from resale value.
+
+## September 25 research checkpoint
+
+The first research pass on **all ten queued candidates** is saved in `catalog-review.csv` (commits `dabd72b68aab3307bae6c6b58ad78ea93bc99c9b` and `6863adfe7cb6023068bea9789416cd6111c4ba09`). Each now has cited completed-sale or related-sale evidence and an explicit comparability/condition gap. The 487-row, 26-column master was validated on both saves. **Research pass does not mean candidate ready:** individual-original inspection, operating condition, final comparable selection and buyer-premium-adjusted bid ceiling are outstanding. Do not redo these searches without a specific reason. Next: inspect the first five queued candidates' originals individually and evaluate actual lot condition; then the remaining five. Do not pause to request permission after five.
 
 ## Immediate deliverable
 1. Produce the first **10 genuinely investigated candidates** (or fewer if evidence cannot support ten) with original-photo inspection, matching dated completed-sale evidence, current bid timestamp, realistic value range, conditional bid ceiling where justified, and outstanding questions.
