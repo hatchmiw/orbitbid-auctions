@@ -36,7 +36,9 @@ def audit():
     no_photo = [r["lot"] for r in rows if int(r["photo_count"]) == 0]
     if set(no_photo) != {"18284", "18583"}:
         raise ValueError("Unexpected no-photo lot IDs: " + repr(no_photo))
-    original = [r["lot"] for r in rows if "all " in r["photo_review_status"].lower() and "original" in r["photo_review_status"].lower() and "individually inspected" in r["photo_review_status"].lower()]
+    documented = [r["lot"] for r in rows if r["photo_review_status"] == "Original photos examined (10-lot full-image pass)"]
+    additional_claims = [r["lot"] for r in rows if "all " in r["photo_review_status"].lower() and "original" in r["photo_review_status"].lower() and "individually inspected" in r["photo_review_status"].lower()]
+    original = documented + additional_claims
     # Explicit original-photo status is the minimum criterion; evidence still needs
     # checking against the per-lot notes and actual source images.
     contact = [r["lot"] for r in rows if "contact sheet" in r["photo_review_status"].lower()]
@@ -46,13 +48,18 @@ def audit():
         "catalog_lots": len(rows),
         "pictured_lots": len(rows) - len(no_photo),
         "no_photo_lots": no_photo,
+        "documented_original_inspections": len(documented),
+        "documented_original_lot_ids": documented,
+        "additional_original_inspection_claims_pending_provenance": len(additional_claims),
+        "additional_claim_lot_ids": additional_claims,
         "original_image_status_claims": len(original),
         "original_image_status_lot_ids": original,
         "contact_sheet_status_lots": len(contact),
         "market_verified_lots": len(verified),
         "market_verified_lot_ids": verified,
         "historical_unverified_estimate_lots": len(historical),
-        "remaining_original_image_status": len(rows) - len(no_photo) - len(original),
+        "remaining_without_independently_documented_original_inspection": len(rows) - len(no_photo) - len(documented),
+        "remaining_without_any_original_inspection_status_claim": len(rows) - len(no_photo) - len(original),
         "remaining_market_research": len(rows) - len(verified),
         "photo_status_distribution": dict(Counter(r["photo_review_status"] for r in rows)),
     }
