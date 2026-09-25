@@ -9,8 +9,8 @@
 - **Zero active evidence-verified valuations** currently exist. As of September 25, **all ten first-queue candidates have additional source-backed completed-sale research committed in the master**; none has yet passed the new candidate-level original-photo/condition verification or received a defensible active bid ceiling. Preserve the 290 withdrawn heuristic estimates solely in historical fields. Prior source investigations and limited sold evidence remain in [market-research.md](market-research.md).
 - The latest individual-photo inspection commit previously verified was lot **18145** (nine originals), commit `39f606e29710e3dc7d63fc8732ca6e1add7e25aa`. Because review is now opportunity-first, the next lot is the highest-value *unresolved research candidate*, not automatically 18146.
 
-## First research queue — candidates, not bidding recommendations
-Investigate these ten leads, using existing notes first. Do not promote a candidate to `ready for user review` until its actual photo inspection and adequate market evidence are documented.
+## Initial research leads — non-exhaustive; continue screening all 487 lots
+These were the first ten leads, not a target or stopping condition. Continue through all 93 high-priority and 104 medium-priority screened lots and revisit overlooked low-priority lots where warranted. Do not promote a candidate to `ready for user review` until its actual photo inspection and adequate market evidence are documented.
 
 | Lot | Lead | Why investigate / decisive question |
 |---|---|---|
@@ -29,10 +29,10 @@ These are research leads selected from existing high-priority screening, **not**
 
 ## September 25 research checkpoint
 
-The first research pass on **all ten queued candidates** is saved in `catalog-review.csv` (commits `dabd72b68aab3307bae6c6b58ad78ea93bc99c9b` and `6863adfe7cb6023068bea9789416cd6111c4ba09`). Each now has cited completed-sale or related-sale evidence and an explicit comparability/condition gap. The 487-row, 26-column master was validated on both saves. **Research pass does not mean candidate ready:** individual-original inspection, operating condition, final comparable selection and buyer-premium-adjusted bid ceiling are outstanding. Do not redo these searches without a specific reason. Next: inspect the first five queued candidates' originals individually and evaluate actual lot condition; then the remaining five. Do not pause to request permission after five.
+The first research pass on **the initial ten leads** is saved in `catalog-review.csv` (commits `dabd72b68aab3307bae6c6b58ad78ea93bc99c9b` and `6863adfe7cb6023068bea9789416cd6111c4ba09`). Each now has cited completed-sale or related-sale evidence and an explicit comparability/condition gap. The 487-row, 26-column master was validated on both saves. **Research pass does not mean candidate ready:** individual-original inspection, operating condition, final comparable selection and buyer-premium-adjusted bid ceiling are outstanding. Do not redo these searches without a specific reason. The September 25 continuation added research for five more Snap-on leads: 18400, 18404, 18406, 18409 and 18416 (commit `d691847301954f5b84ffa1a36efe18eca5b9d7f0`). Next: inspect promising candidates' originals individually and evaluate actual lot condition; keep screening the remaining catalog and do not stop at a lot count or checkpoint.
 
 ## Immediate deliverable
-1. Produce the first **10 genuinely investigated candidates** (or fewer if evidence cannot support ten) with original-photo inspection, matching dated completed-sale evidence, current bid timestamp, realistic value range, conditional bid ceiling where justified, and outstanding questions.
+1. Investigate **all worthwhile candidates found through full-catalog screening** with original-photo inspection, matching dated completed-sale evidence, current bid timestamp, realistic value range, conditional bid ceiling where justified, and outstanding questions.
 2. Commit each completed candidate's inspection or researched valuation immediately to the master. Maintain one concise opportunity shortlist; do not create competing batch reports.
 3. Refresh auction bids using the existing updater and make the shortlist easy for the user to review before the relevant lot close times.
 4. Track four distinct metrics: catalog screened, selected original-photo inspected, market-researched, and ready for user review. Never equate one with another.
