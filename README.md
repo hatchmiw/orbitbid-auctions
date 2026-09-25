@@ -1,5 +1,8 @@
 # OrbitBid Auctions
 
+**Required before any auction review or workflow change:** [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md) and [AGENTS.md](AGENTS.md). The SOP requires reuse of existing temporary photo artifacts before any new download. Batch review must not commit images.
+
+
 Public working repository for OrbitBid auction research.
 
 ## Normal workflow: one button
