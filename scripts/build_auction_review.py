@@ -16,7 +16,16 @@ VERIFIED = "Research verified"
 
 def read(path):
     with path.open(newline="", encoding="utf-8") as handle:
-        return list(csv.DictReader(handle))
+        reader = csv.reader(handle, strict=True)
+        header = next(reader, None)
+        if not header or len(header) != len(set(header)):
+            raise ValueError("Missing or duplicate CSV header fields")
+        rows = []
+        for line, values in enumerate(reader, start=2):
+            if len(values) != len(header):
+                raise ValueError(f"Malformed CSV record {line}: expected {len(header)} fields, got {len(values)}")
+            rows.append(dict(zip(header, values)))
+        return rows
 
 def write(path, rows, fields):
     with path.open("w", newline="", encoding="utf-8") as handle:
