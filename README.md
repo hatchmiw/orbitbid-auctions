@@ -61,9 +61,9 @@ This is the preferred way to update live prices for auction **1970** (Mid Michig
 - The permanent `lots.json` snapshot contains original OrbitBid image URLs, allowing high-resolution source images to be revisited even after temporary mirrors expire.
 - `orbitbid-exporter.js` remains as a browser-console fallback/debugging tool; it is no longer the normal workflow.
 
-## Required procedure for ChatGPT photo review
+## Required procedure for opportunity-first auction research
 
-Before every auction task, read [AGENTS.md](AGENTS.md), [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the auction's current `REVIEW.md`, the master catalog and the relevant workflow. Use the SOP's verified **GitHub Actions artifact ZIP download → extract exact lot JPGs → visually inspect actual originals** method, also documented in the Pioneer runbook. The GitHub connector supports ZIP artifact downloads via `download_workflow_artifact`, but each artifact must be no larger than 512 MiB. Reuse existing split artifacts; if necessary, split the already-mirrored full artifact using the existing artifact-only workflow. Do not redownload source photos or improvise a workaround. Discuss any necessary departure from the SOP with the user first. Never mark contact-sheet review as all-original-photo inspection.
+Before every auction task, read [AGENTS.md](AGENTS.md), [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the auction's current `REVIEW.md`, the master catalog and the relevant workflow. Screen the entire catalog using metadata and existing preliminary photo notes. **Individually inspect every original JPG only for shortlisted research candidates**; do not misrepresent contact-sheet screening as full-original inspection. Reuse the verified GitHub Actions artifact ZIP download → extract exact lot JPGs method. The connector's ZIP artifact download limit is 512 MiB; reuse existing split artifacts or the documented artifact-only splitting workflow. Never commit photos, ZIPs or contact sheets. Record evidence-backed completed sales and produce a small actionable shortlist before expanding research.
 
 ## Review records and archived procedures
 
