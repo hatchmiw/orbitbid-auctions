@@ -3,7 +3,14 @@
 **Execution instructions:** read [the repository auction review SOP](../../AUCTION_REVIEW_SOP.md) and [agent instructions](../../AGENTS.md) before every continuation. Reuse an existing temporary photo artifact; do not redownload or commit photos for each batch. The historical `review-previews/` links below may point to images removed from the current branch.
 
 
-**Pass completed:** all 487 catalog entries triaged; **240 distinct pictured lots** visually inspected in six source-verified batches (1499 photographs in the first five batches; batch 06 source-photo count recorded in its manifest); 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
+## Latest durable checkpoint (batch 07)
+
+- **280 distinct pictured lots inspected:** batches 01–05 (200), batch 06 (40) and batch 07 (40). Batch 07 used all 257 source-verified photos via temporary artifact `10844646656`, workflow run `36087152300`, inspected as per-lot composite contact sheets. Batch 06 used 336 source-verified photos. Neither batch 06 nor 07 has evidence-backed resale ranges or bid ceilings yet.
+- **Master catalog merged:** `catalog-review.csv` still has 487 rows; the 80 photo-specific findings from batches 06–07 have been added by unique lot ID, without duplicating the 200 existing valued rows. The provisional watchlist still contains the 200 previously valued lots.
+- **205 pictured lots remain uninspected**, plus two entries without photographs (18284 and 18583). The original complete temporary auction artifact `orbitbid-1879-photos` is available from run `36039298628` (artifact `10825787468`). It is too large for direct connector download, so [the artifact-only splitting workflow](../../.github/workflows/review-from-existing-artifact.yml) prepares batches 08–13 from that **existing** artifact; no OrbitBid photo re-download or image commit is required. Verify the workflow succeeds and download each small artifact before marking any remaining lots inspected.
+- [Batch 07 findings](visual-review-batch-07.md); [batch 06 findings](visual-review-batch-06-partial.md). Historical `review-previews/` links below were removed from the current branch; use temporary artifacts instead.
+
+**Historical checkpoint (before batch 07):** all 487 catalog entries triaged; **240 distinct pictured lots** visually inspected in six source-verified batches (1499 photographs in the first five batches; batch 06 source-photo count recorded in its manifest); 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
 
 **Batch 06 photo inspection complete:** all 40 queued source-verified contact sheets have been inspected and documented in [batch-06 visual report](visual-review-batch-06-partial.md). Completed batches 01–05 remain unchanged. These 40 findings still require evidence-backed resale ranges, conditional bid ceilings and merging into the 200-row watchlist.
 
