@@ -1,8 +1,8 @@
 # OrbitBid 1879 — auction review checkpoint
 
-**Pass completed:** all 487 catalog entries triaged; **200 distinct pictured lots / 1499 current-source photographs** visually inspected in five independently verified batches; 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
+**Pass completed:** all 487 catalog entries triaged; **240 distinct pictured lots** visually inspected in six source-verified batches (1499 photographs in the first five batches; batch 06 source-photo count recorded in its manifest); 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
 
-**Batch 06 resumed:** twenty-four of the 40 queued source-verified contact sheets have now been visually inspected and documented in [batch-06 partial report](visual-review-batch-06-partial.md); 16 queued batch-06 sheets still need inspection. Completed batches 01–05 remain unchanged. The 24 partial findings have not yet been assigned bid ceilings or merged into the 200-row watchlist.
+**Batch 06 photo inspection complete:** all 40 queued source-verified contact sheets have been inspected and documented in [batch-06 visual report](visual-review-batch-06-partial.md). Completed batches 01–05 remain unchanged. These 40 findings still require evidence-backed resale ranges, conditional bid ceilings and merging into the 200-row watchlist.
 
 **Not completed:** source-photo visual review of 277 remaining pictured lots (16 in the rest of batch 06 and 245 beyond it), confirmation of two photo-free entries, physical operation and safety checks, exact-match sold comps for most candidates and live bid refresh. This is not yet a complete 487-lot photographic appraisal.
 
