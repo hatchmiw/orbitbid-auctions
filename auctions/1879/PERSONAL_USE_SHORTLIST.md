@@ -31,3 +31,34 @@
 3. Compare realistic replacement cost of an equivalent used or new item **only after** confirming exact model, configuration and accessories. A replacement-cost comparison is not a resale estimate.
 4. Auction preview is Monday September 28 and Tuesday September 29, 9 a.m.–5 p.m. in Lowell, Michigan. Sale begins closing September 29. Current September 24 bid snapshot is stale; refresh bids on sale day.
 5. Auction terms: standard 13% buyer premium, 10% qualifying cash/wire, Michigan 6% tax calculated on winning bid plus buyer premium. All items sold as-is. No confirmed live bids or user maximum bids in this shortlist.
+
+
+## Complete catalog-wide personal-use screening — September 25, 2026
+
+**487/487 lots screened against the already-recorded full-auction source-photo contact-sheet findings.** This is a complete **catalog-level personal-use pass**, not a claim that all original full-resolution photographs were reopened individually during this pass. Existing photographic review covers all **485 pictured lots**; the other two (18284 and 18583) have no photos. The original 1.55 GB source-photo artifact (ID 10825787468) was checked and remains unexpired, but the available GitHub connector does not expose binary artifact download or individual original images. For full-resolution, all-original-photo confirmation, use that artifact or the auction's individual lot gallery; this limitation remains outstanding. The separate [all-lot screening CSV](personal-use-all-lots.csv) includes each exact lot number, full catalog description, first original photo URL, existing per-lot photo findings, number of photos and the personal-use screening category. These categories are **workflow triage, not rankings, bid recommendations, or completed functional inspections**.
+
+| Personal-use screen | Lots |
+|---|---:|
+| First-review shortlist | 10 |
+| Additional potential personal-use candidates | 101 |
+| Conditional / likely duplicate or specialized need | 232 |
+| No clear current use | 144 |
+| **Total** | **487** |
+
+### Additional practical groups identified across the remaining catalog
+
+- **Farm, construction and renovation:** 18100 scaffolding (17 uprights and about 25 braces; large transport burden, inspect locks and planks); 18110 two Blue Point shop carts; 18120 extension cords and work lights; 18122 mixed hand-tool cabinet; 18126 alternative engine hoist; 18163 Multiquip 5,500W generator (untested); 18205 120V magnetic drill (magnet and motor untested); 18221 bench vise (jaws battered); 18400 Snap-on 10-drawer cabinet (measure fit and transport).
+- **Truck, towing and farm maintenance:** 18105/18106 creepers and jack stands (verify stands, do not trust visual condition); 18151 mixed tow chains and old straps (replace any deteriorated webbing); 18169–18172 pairs of apparently unused 20-ft chains (confirm grade and hook markings); 18193 Milwaukee Hole Hawg; 18211 M18 impact/driver; 18217 mixed ratchet/tow straps (inspect and discard damaged); 18454 four torque wrenches (calibration unknown).
+- **Fabrication and metalwork:** 18119 bandsaw; 18147 bar clamps; 18148 C-clamp assortment (23 pieces by catalog); 18156 pipe-threading/cutting assortment; 18123 Miller engine-driven welder/generator (Onan cold-start, welding and 120/240V output untested); 18127/18128 torch-cart alternatives (oxygen only); 18439 Snap-on air hammer with used bits; 18458 six large ratcheting wrenches; 18490 welding clamps; 18525 large pullers.
+- **Toolbox gaps, not brand collecting:** 18402/18408/18410 mixed Snap-on socket kits; 18409 swivel ratchets; 18417/18421/18422 SAE and metric wrench groups; 18440 thread restoration; 18441 bushing drivers; 18462 ratcheting wrench groups; 18498 oversized crowfeet. Confirm sizes against tools already owned and missing pieces before considering purchase.
+
+### Items that need particularly cautious screening
+
+- Industrial three-phase equipment (18124 Millermatic 300, 18130 Dimension 650, 18216 three-phase compressor) is not automatically useful on residential or farm single-phase service. Check supply and conversion cost before buying.
+- Used rigging, jack stands, chains, pressure vessels and cylinders require identification, ownership and safety inspection; old photos cannot establish safe working load or serviceability.
+- Large skid-steer attachment 18312 is useful only with a compatible host machine and hydraulic circuit; check pickup weight, coupling and actual intended use.
+- A lot that has no clear present use is **not** a resale recommendation. Revisit low closing prices only on auction day if requested.
+
+### Navigation and status
+
+Use [the official auction catalog](https://bid.orbitbid.com/?auction_id=1879) and search the exact **1- prefixed** lot identifier, e.g. `1-18119`. Do not use assistant-invented `/lot/` URLs. The CSV's first-photo URLs are copied from the source catalog, not stock images. The September 24 snapshot bids are historical, not current. **Outstanding before bidding:** reopen all original images for any selected item, inspect condition and functionality in person where possible, and compare actual replacement cost; no personal-use maximum bids have been assigned.
