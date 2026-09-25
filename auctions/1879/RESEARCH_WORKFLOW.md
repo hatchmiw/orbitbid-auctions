@@ -33,3 +33,7 @@ Triage the 487 lots by resale/personal-use priority using existing photo finding
 
 ## Historical source and SOP
 SOP blob read: `06b3b2712120244f06adcf067464fdbc63f48c86`. Split-artifact source run `36087642169`, derived from full photo run `36039298628`. Preserve all prior batch notes, source URLs and historic estimates; do not commit images or ZIPs.
+
+## Required photo-retrieval clarification (2026-09-25)
+
+Read root `AUCTION_REVIEW_SOP.md` and `AGENTS.md` at **every** execution. The proven Pioneer method works for OrbitBid: use the GitHub connector's `download_workflow_artifact` action to obtain **existing** Actions artifact ZIPs, extract exact lot JPGs, verify provenance and pass the actual image bytes to vision. The full 1879 ZIP (artifact `10825787468`, 1.55 GB) exceeds the connector's 512 MiB per-download cap; this is not a general binary limitation. Existing smaller artifacts are documented in the SOP; batch-07 artifact `10844646656` was successfully downloaded on September 25. Check all artifact expiry and lot coverage on each continuation. For batches without a suitable small artifact, use the existing artifact-only splitting workflow **after verifying its inputs**, rather than redownloading OrbitBid originals. If a departure from the SOP is necessary, discuss it with the user **before** changing methods. No new photos or ZIPs in Git; no all-original-image-complete claim without seeing every original for that lot.
