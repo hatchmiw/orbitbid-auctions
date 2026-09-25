@@ -42,3 +42,51 @@ Full source run `36039298628`, artifact `10825787468` (1.55 GB; connector cap 51
 
 ## Historical evidence
 Existing batch reports and [full-image-price-review.md](full-image-price-review.md) are evidence, not competing completion ledgers. Superseded procedures and duplicate checkpoint reports are preserved in [the cleanup archive](../../archive/2026-09-25-pre-cleanup/). This scope supersedes the former demand to individually inspect and value all 487 lots before presenting opportunities.
+
+
+## September 25 shortlist screening — opportunity-first
+
+The master catalog contains 487 lots: 93 high, 104 medium, 290 low. Existing original-photo findings and market notes inform this SCREEN; it does not assert fresh original-photo verification or live bids. Ranking below prioritizes portable, identifiable, locally marketable tools, then larger equipment with higher testing and pickup risk. The remaining high- and medium-priority lots are not automatically excluded.
+
+### Ranked first-pass opportunities
+
+1. **18400** Snap-on two-part cabinet — high gross-value potential; verify actual two-unit inclusion, slides, locks, model, and moving costs. Historic comparable 10-drawer cabinets $825–850, not exact matches.
+2. **18404** Snap-on impact sockets — count actual 3/8- and 1/2-drive pieces and inspect drive-end wear; separate resaleable sets.
+3. **18406** Snap-on deep impact sets — verify each metric size, missing pieces and impact-rated markings.
+4. **18421** Snap-on 10–19mm wrench set — check completeness and wear; portable, broad local demand.
+5. **18417** Snap-on combination/stubby wrench assortment — verify exact counts and duplicates.
+6. **18410** Snap-on 1/4-inch cased socket kit — identify missing recesses, ratchet condition and exact model.
+7. **18424** Snap-on angle-head wrenches — specialty demand; check sizes and rust.
+8. **18426** four extra-large Snap-on long wrenches — useful high-dollar singles, slower buyers.
+9. **18428** two Snap-on dial torque wrenches — calibration and dial operation essential.
+10. **18440** Snap-on RTD33 thread-restoring kit — check every insert against factory inventory.
+11. **18441** Snap-on A257 bushing-driver set — inspect every numbered driver.
+12. **18442** multiple Snap-on extractor cases — count bits and inspect breakage.
+13. **18451** Snap-on plier/cutter assortment — inspect jaws and pivot wear.
+14. **18453** oversized Snap-on 3/4- and 1-inch ratchets — verify function; narrower buyer pool.
+15. **18211** Milwaukee M18 impact and other tool — battery health and exact models crucial.
+16. **18439** Snap-on PH3050A air hammer and chisels — verify retainer, air motor and usable bits.
+17. **18123** Miller AEAD-200LE welder/generator — exact-model sold $687.50 Aug 2025, but $110 Sep 2026 with difficult removal; test running/weld/AC output.
+18. **18115** Honda GX140 plate compactor — verify clutch, exciter and actual operation.
+19. **18118** Ramco Shop Hand 5000 hoist — inspect hydraulic hold, casters and welds.
+20. **18110** two Blue Point shop carts — inspect drawers, wheels, missing accessories.
+21. **18173** DeWalt DCGG571 grease gun — no batteries noted; test with compatible battery.
+22. **18193** Milwaukee Hole Hawg — check gears, chuck, cord and auxiliary handle.
+23. **18575** Snap-on bench vise — jaw damage and dismantling costs reduce attractiveness.
+24. **18597** heavy-duty impact socket collection — high shipping weight, identify branded pieces.
+25. **18127** torch cart — oxygen tank only, no acetylene cylinder; verify ownership and regulators.
+26. **18416** Snap-on crowfoot heads — count sizes and duplicates, identify sets.
+
+### Secondary high-priority candidates — retain, not rejected
+
+Snap-on sockets, ratchets, extensions and wrenches: 18401–18403, 18405, 18407–18409, 18411–18415, 18418–18420, 18422–18423, 18425, 18427. Other Snap-on specialty hand and air tools: 18429–18438, 18443–18450, 18452. Equipment and mixed tools: 18114, 18122, 18124–18126, 18130, 18138, 18140–18142, 18152, 18189, 18192, 18487–18488, 18522. Other high-priority lots remain in the master; all 104 medium-priority lots remain available for promotion.
+
+### Dated completed-sale anchors
+
+- Sep 16 2026: mixed Snap-on socket/ratchet/tool drawer sold $240 (Aumann); https://bids.aumannauctions.com/auctions/48160/lot/7897233-assorted-tool-set-including-snap-on-sockets-ratchets-and-extensions-in-red-chest
+- Sep 21 2026: assorted Snap-on 1/4-drive sockets with metal toolbox sold $175, 15% buyer premium (HiBid); https://greatlakes.hibid.com/lot/322075693/asst-snap-on-1-4-drive-sae-sockets-and-metal
+- Sep 16 2026: 11 Snap-on SAE combination wrenches $155.25, eight 3/8-drive ratchets $178.25, 31 3/8-drive sockets $155.25 (HiBid); https://hibid.com/www.heretn.com/catalog/764003/16-september-single-owner-online-auction
+- Aug 27 2025: Miller AEAD-200LE $687.50 (Purple Wave); https://www.purplewave.com/auction/250827/item/DX7182/Miller-AEAD-200LE-Torches%2C_Welders_and_Plasma_Cutters-Welder_%28Manual%29-Iowa
+- Sep 22 2026: Miller AEAD-200LE $110 with difficult mezzanine removal (HiBid); https://hibid.com/www.heretn.com/lot/321781537/miller-aead-200le
+
+**No active bid ceilings yet.** These are screening ranks, not verified margins. Original-photo inspection, condition-adjusted exact-model market comps, buyer premium, sales costs and live bid refresh remain necessary before bid recommendations.
