@@ -44,20 +44,3 @@
 | 18525 | Two large mechanical pulley/bearing pullers with heavy hooks and screw spindles; rust and thread condition unknown. |
 | 30-1329 | Mixed precision reamers, gauges and measuring/test tools on bench with red cases; identify and calibrate individually. |
 | 30-1330 | Long Murphy diesel fuel injector specialty tool, taped label and metal extension; verify model and fitment. |
-
-## Lots 11–20 — second 10-lot checkpoint
-
-| Lot | Contact-sheet findings |
-|---|---|
-| 18474 | Four photos show a box of several used metal-bodied pneumatic straight die grinders with air nipples and mixed maker labels. Exterior grime and oxidation; inspect collets, bearings and air leaks. |
-| 18475 | Six photos show a box of mixed used pneumatic grinders including straight and angle-head bodies, visibly worn and dusty. Check tool count, collets, guards where applicable and running condition. |
-| 18476 | Seven photos show a box of several heavy, oxidized chain-style or specialty gripping wrenches/clamps with pivoting jaws and large eyelets. Confirm intended application, crack-free castings and free-moving pivots. |
-| 18477 | Four photos show a long red/orange tool in original narrow cardboard carton with folded instruction sheet; appears a specialty automotive service tool. Exact model and accessory completeness require label verification. |
-| 18478 | Six photos show a metal-bodied handheld electric heat gun or blower with coiled cord and vented housing, plus a separate older electric tool. Heavily used; inspect insulation, plug and motor operation. |
-| 18479 | Seven photos show numerous long narrow hand files, rasps and metalworking tools in mixed original sleeves and loose groups. Mixed tooth profiles and surface wear; check rust, bent tangs and exact counts. |
-| 18480 | Six photos show a second bulk lot of long steel files, flat stock and rod-like hand tools with pale cylindrical handle ends. Many overlapping pieces; check whether cutting teeth remain sharp and inspect rust. |
-| 18482 | Five photos show several large long-handled metal cutting snips or shears with teal/blue grips and substantial jaws. Used with worn paint; inspect blade edges, pivot looseness and handle condition. |
-| 18483 | Eight photos show a large mixed spread of used pliers, side cutters, locking pliers and channel-lock style tools, predominantly red/black grips. Check individual maker marks, jaw damage, pivot action and count. |
-| 18484 | Four photos show a KEL-branded digital multimeter with red/black probes and instruction booklet in an open cardboard box. Display and calibration unverified; check leads, fuse and battery compartment. |
-
-**Checkpoint:** 300 distinct pictured lots inspected; next batch 08 lot 21 (`18485`).
