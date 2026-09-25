@@ -5,7 +5,7 @@
 ## Deeper original-image and price-review progress
 
 - **20 of 485 pictured lots** have now received a separate review of all original source images (106 images) and broad conditional as-is resale/hammer estimates. These are the first two durable 10-lot checkpoints in [the full-image and price-review report](full-image-price-review.md). **465 pictured lots still require the deeper original-image pass.**
-- Original 200 valuations from batches 01–05 are preserved; 40 additional lots now have provisional ranges (20 after a deeper original-photo pass, 20 based on existing source-verified composites). **No exact-match sold-comparable verification** has been established for these new ranges. The remaining 245 of the previously unvalued 285 pictured lots still lack price ranges. The 20 composite-priced lots remain in the 465-lot individual full-resolution review queue.
+- Original 200 valuations from batches 01–05 are preserved; 50 additional lots now have provisional ranges (20 after a deeper original-photo pass, 30 based on existing source-verified composites). **No exact-match sold-comparable verification** has been established for these new ranges. The remaining 235 of the previously unvalued 285 pictured lots still lack price ranges. The 30 composite-priced lots remain in the 465-lot individual full-resolution review queue.
 - The initial contact-sheet review of 485 lots remains complete but must not be described as full-resolution individual-image verification.
 
 ## Completed initial review
