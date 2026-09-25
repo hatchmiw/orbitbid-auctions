@@ -1,5 +1,8 @@
 # OrbitBid 1879 — auction review checkpoint
 
+**Execution instructions:** read [the repository auction review SOP](../../AUCTION_REVIEW_SOP.md) and [agent instructions](../../AGENTS.md) before every continuation. Reuse an existing temporary photo artifact; do not redownload or commit photos for each batch. The historical `review-previews/` links below may point to images removed from the current branch.
+
+
 **Pass completed:** all 487 catalog entries triaged; **240 distinct pictured lots** visually inspected in six source-verified batches (1499 photographs in the first five batches; batch 06 source-photo count recorded in its manifest); 200 provisional watchlist valuations and conditional hammer ceilings. Source bid snapshot is September 24, 2026, 17:32:58 UTC; no live bid refresh was done by this photo workflow.
 
 **Batch 06 photo inspection complete:** all 40 queued source-verified contact sheets have been inspected and documented in [batch-06 visual report](visual-review-batch-06-partial.md). Completed batches 01–05 remain unchanged. These 40 findings still require evidence-backed resale ranges, conditional bid ceilings and merging into the 200-row watchlist.
@@ -36,7 +39,7 @@ Each batch's 40 lot contact sheets were downloaded independently from the same c
 ## Resumption checkpoint
 
 1. **Done:** 487 catalog rows, 200 provisional watchlist rows, five separate batches with 200 distinct pictured lots and 1499 source-verified photos. Per-lot findings and provisional maximum hammer bids are in both CSVs and the readable batch reports.
-2. **Next:** [Batch 07 queue](batch-07-queue.md) selects the next 40 non-overlapping lots (257 expected source photos). The batch is selected, not visually inspected; download and verify all source photos before writing findings. Batch 06's 40 visual findings still need consolidation into the master CSV and valuation. Maintain photo provenance and original batch sheets; never conflate adjacent auction lot tags.
+2. **Next:** [Batch 07 queue](batch-07-queue.md) selects the next 40 non-overlapping lots (257 expected source photos). The batch is selected, not visually inspected; verify and inspect all source photos in the existing temporary artifact before writing findings. Batch 06's 40 visual findings still need consolidation into the master CSV and valuation. Maintain photo provenance and original batch sheets; never conflate adjacent auction lot tags.
 3. **Before the close:** refresh live bid prices, check exact sold comps and physically test safety-critical equipment; deduct premium, transport, repair and resale expenses from bid ceilings. No continuing background inspection is running.
 
 ## Catalog group counts
