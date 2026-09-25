@@ -1,0 +1,108 @@
+name: Prepare remaining OrbitBid 1879 reviews from existing artifact
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/review-from-existing-artifact.yml
+permissions:
+  actions: read
+  contents: read
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download EXISTING full-auction artifact, never scrape again
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/orbitbid-original
+          gh run download 36039298628 --repo "$GITHUB_REPOSITORY" --name orbitbid-1879-photos --dir /tmp/orbitbid-original
+          test -s /tmp/orbitbid-original/manifest.json
+      - name: Select only uninspected catalog lots and split into 40-lot batches
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import csv, json, shutil
+          from pathlib import Path
+          source=Path("/tmp/orbitbid-original")
+          dest=Path("/tmp/orbitbid-remaining")
+          dest.mkdir()
+          manifest=json.loads((source/"manifest.json").read_text())
+          rows=list(csv.DictReader(Path("auctions/1879/catalog-review.csv").open(newline="")))
+          if len(rows)!=487: raise SystemExit("Catalog row count mismatch")
+          pending=[r for r in rows if r["photo_review_status"]=="Pending" and int(r["photo_count"])>0]
+          if len(pending)!=205: raise SystemExit(f"Expected 205 remaining pictured lots; found {len(pending)}")
+          photos=manifest.get("photos",[])
+          for start in range(0,len(pending),40):
+              batch=pending[start:start+40]
+              target=dest/f"batch-{8+start//40:02d}"
+              target.mkdir()
+              selected=[]
+              for row in batch:
+                  lot=row["lot"]
+                  origin=source/lot
+                  if not (origin/"review.jpg").is_file(): raise SystemExit("Missing review.jpg for "+lot)
+                  files=sorted(origin.glob("*.jpg"))
+                  originals=[p for p in files if p.name!="review.jpg"]
+                  if len(originals)!=int(row["photo_count"]): raise SystemExit(f"Photo count mismatch {lot}: {len(originals)} != {row['photo_count']}")
+                  shutil.copytree(origin,target/lot)
+                  selected.append(lot)
+              matches=[p for p in photos if str(p.get("lot")) in selected]
+              if len(matches)!=sum(int(r["photo_count"]) for r in batch): raise SystemExit("Manifest count mismatch")
+              (target/"manifest.json").write_text(json.dumps({"source_artifact_run":36039298628,"source_artifact_name":"orbitbid-1879-photos","lots":selected,"photo_count":len(matches),"photos":matches},indent=2))
+              print(target.name,len(selected),len(matches))
+          PY
+      - name: Calculate retention
+        id: retention
+        run: python scripts/photo_retention.py 1879 >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-08
+          path: /tmp/orbitbid-remaining/batch-08/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-09
+          path: /tmp/orbitbid-remaining/batch-09/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-10
+          path: /tmp/orbitbid-remaining/batch-10/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-11
+          path: /tmp/orbitbid-remaining/batch-11/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-12
+          path: /tmp/orbitbid-remaining/batch-12/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+      - uses: actions/upload-artifact@v4
+        if: steps.retention.outputs.expired != 'true'
+        with:
+          name: orbitbid-1879-remaining-13
+          path: /tmp/orbitbid-remaining/batch-13/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
