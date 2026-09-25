@@ -2,6 +2,12 @@
 
 **Read [the required auction SOP](../../AUCTION_REVIEW_SOP.md) and [agent instructions](../../AGENTS.md) before every continuation.** Existing temporary photo artifacts must be reused; do not re-download photographs or commit images for each review batch.
 
+## Deeper original-image and price-review progress
+
+- **20 of 485 pictured lots** have now received a separate review of all original source images (106 images) and broad conditional as-is resale/hammer estimates. These are the first two durable 10-lot checkpoints in [the full-image and price-review report](full-image-price-review.md). **465 pictured lots still require the deeper original-image pass.**
+- Original 200 valuations from batches 01–05 are preserved; 20 additional lots now have provisional ranges, **not independently verified exact-match sold comparables**. The remaining 265 of the previously unvalued 285 pictured lots still lack price ranges.
+- The initial contact-sheet review of 485 lots remains complete but must not be described as full-resolution individual-image verification.
+
 ## Completed initial review
 
 - **487 of 487 catalog lots accounted for**; **485 of 485 pictured lots** inspected at per-lot contact-sheet level across batches 01–13. **Zero pictured lots remain awaiting initial contact-sheet inspection.**
