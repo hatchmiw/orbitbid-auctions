@@ -52,3 +52,20 @@ These 10 lots were priced from the existing source-verified composite photograph
 | 18503 | 5 | $30–$80 | $15 | Five photos: three large adjustable wrenches and two long tongue-and-groove pliers with worn steel jaws; verify worm gears and jaw alignment. |
 | 18505 | 5 | $25–$75 | $12 | Five photos: mixed set of long-handled channel-lock style pliers and red-handled cutters, several visibly used jaws; brand and pivot condition uncertain. |
 | 18506 | 5 | $25–$90 | $15 | Five photos: yellow heavy equipment tire-handling/bead tool with long removable bar, chipped paint and heavily used working ends; verify exact intended tire/rim system and transport. |
+
+## Provisional pricing checkpoint — next 10 lots (individual zoom pending)
+
+Existing artifact `10844397014`, original-photo composites. These 10 are not counted as individually full-resolution inspected; source images were examined as labeled composites. Estimates are as-is heuristics, not verified sold comps.
+
+| Lot | Photos | Gross resale | Conditional hammer | Findings |
+|---|---:|---:|---:|---|
+| 18508 | 4 | $30–$85 | $15 | Four source images inspected on composite: six used red pipe wrenches of mixed sizes, visible Ridgid-style handles but maker not confirmed on all. Rust and jaw wear; check adjusters. |
+| 18512 | 6 | $35–$95 | $18 | Six images: assortment of about 15 locking pliers, side cutters and specialty jaw pliers, including red-handled pieces. Some worn or missing grips; test pivots and tip alignment. |
+| 18516 | 5 | $15–$55 | $8 | Five images: single long heavy steel track/chain specialty wrench or lever with articulated end, surface oxidation; exact machine fitment and mechanism unverified. |
+| 18517 | 6 | $10–$45 | $3 | Six images: blue fall-protection harness/strap with yellow/black labels and bagged rope; no documented inspection or history. Safety-critical; estimate for non-safety salvage only. |
+| 18518 | 6 | $20–$65 | $10 | Six images: large carton of mixed black, gray and white coiled pneumatic tubing/hose of varied diameters; unknown length, age, pressure rating and brittleness. |
+| 18519 | 4 | $0–$45 | $0 | Four images: tall green oxygen cylinder marked UN1072 with worn paint and oxidation; catalog says empty. Ownership and hydro-test unknown; potential disposal liability. |
+| 18520 | 5 | $0–$75 | $0 | Five images: shorter green oxygen cylinder with worn paint, stamped neck and oxygen labeling; catalog says full. Contents, ownership, valve condition and test date require professional verification. |
+| 18521 | 6 | $0–$45 | $0 | Six images: green oxygen cylinder with heavily worn paint, corrosion near neck and oxygen label; catalog says empty. Hydro-test and ownership unknown. |
+| 18524 | 6 | $40–$110 | $20 | Six images: six oversized offset open-end wrenches with used chrome and large stamped SAE sizes; some oxidation and scuffs. Maker and complete size range not established. |
+| 18525 | 6 | $30–$100 | $15 | Six images: two very large mechanical pullers with curved heavy arms, screw spindles and clamps; worn paint and surface oxidation. Check thread wear and bent arms. |
