@@ -1,6 +1,6 @@
 # OrbitBid 1879 — Batch 06 partial visual review
 
-**40 of 40 queued lots inspected**, using the existing source-verified batch-06 contact sheets (336 photographs across all 40 queued lots). This complete photo-inspection report remains separate from valued and consolidated batches 01–05; **no new resale ranges or maximum hammer bids have been assigned** without exact comparable sales. Do not count none of the 40 queued lots as visually inspected. Original snapshot bids are stale and must be refreshed before bidding.
+**40 of 40 queued lots inspected**, using the existing source-verified batch-06 contact sheets (336 photographs across all 40 queued lots). This complete photo-inspection report remains separate from valued and consolidated batches 01–05; **no new resale ranges or maximum hammer bids have been assigned** without exact comparable sales. All 40 queued lots have been visually inspected; valuation and master CSV consolidation remain pending. Original snapshot bids are stale and must be refreshed before bidding.
 
 | Lot | Verified contact sheet | Photo-specific findings |
 |---|---|---|
