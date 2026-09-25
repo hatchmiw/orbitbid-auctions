@@ -12,3 +12,12 @@
 | 18287 | Mixed Flexco conveyor-belt lacing pallet, photo review batch 10. | Prior checkpoint recorded [April 2026 eBay sale, approximately nine No.125 strips at $79.99](https://www.ebay.com/itm/336277346240) and [September 2025 Kraft auction five Flexco units for $50](https://bid.kraftauctions.com/auctions/212/lot/169917-zz5flexco-alligator-lacing); these are **not quantity/part-number matched** to the auction pallet. | **Value not established.** Identify every package and size from original photos; no bid ceiling. |
 
 **Source limitations:** A listing displaying a sold count does not expose the final sale price, timing, accepted offers or exact condition of each transaction. Do not treat those listings as confirmed sold comparables. No new active price or hammer ceiling was entered for these four lots.
+
+## Exact-model completed-sale research — 2026-09-25
+
+| Lot | Completed transactions | Limitations and action |
+|---|---|---|
+| 18439, Snap-On PH3050A air hammer with chisels | [Completed eBay listing, US$219.99, May 16 (year not shown)](https://www.ebay.ca/itm/326581409570); [Curran Miller completed auction, hammer/chisel, US$66](https://bids.curranmiller.com/auctions/39084-snap-on-blue-point-matco-and-mac-tools-large-automotive-repair-tool-and-equipment-online-auction-evansville-in); [historical Proxibid new PH3050A, US$130](https://www.proxibid.com/asp/CatalogPrint.asp?aid=27277). | Sales are exact-model but differ greatly by venue, date, condition and accessories. Inspect exact hammer label and included chisels; verify pneumatic function and current resale comps before pricing. No active value or hammer ceiling. |
+| 18440, Snap-On RTD33 thread-restoring kit | [Historical Hiller completed auction, US$60](https://www.liveauctionworld.com/June-25th-Summer-Consignment-Auction_as43196_p2); [incomplete RTD33 eBay asking US$89.95](https://www.ebay.com/itm/227413502712), **not sold evidence**. | Check complete contents and find a recent comparable completed sale before pricing. No active value or hammer ceiling. |
+
+**Research is evidence collection, not a completed valuation:** both master rows have status `Comparable sale found; ... pending` and blank active prices. All 487 lots have a first-pass research priority based on item type and risk; this is triage, not a market-value ranking.
