@@ -69,3 +69,20 @@ Existing artifact `10844397014`, original-photo composites. These 10 are not cou
 | 18521 | 6 | $0–$45 | $0 | Six images: green oxygen cylinder with heavily worn paint, corrosion near neck and oxygen label; catalog says empty. Hydro-test and ownership unknown. |
 | 18524 | 6 | $40–$110 | $20 | Six images: six oversized offset open-end wrenches with used chrome and large stamped SAE sizes; some oxidation and scuffs. Maker and complete size range not established. |
 | 18525 | 6 | $30–$100 | $15 | Six images: two very large mechanical pullers with curved heavy arms, screw spindles and clamps; worn paint and surface oxidation. Check thread wear and bent arms. |
+
+## Batch 09 — first 10 lots, source-verified original-photo composites (65 photos)
+
+Existing temporary artifact `10844157362`, run `36087642169`; no redownload or images committed. All original source images represented in labeled composite, **not independently zoomed at full resolution**. Gross as-is ranges and conditional hammer ceilings are provisional judgment, not exact sold comps or functional verification. Safety-critical equipment assigned zero hammer ceiling without professional inspection.
+
+| Lot | Source photos | As-is gross resale | Conditional hammer | Findings |
+|---|---:|---:|---:|---|
+| 18526 | 4 | $0–$45 | $0 | Nine old fire extinguishers, assorted types in cabinet; dates and rechargeability unknown. Do not market as serviceable fire protection without certified inspection; disposal may exceed salvage. |
+| 18531 | 5 | $25–$85 | $12 | Multiple red emergency triangle cases and about four sets of coiled jumper cables; clamps, copper gauge and reflective panel condition unverified. |
+| 18536 | 6 | $0–$45 | $0 | Four aged screw-style jack stands with visible corrosion and unknown ratings. Safety-critical; salvage/decorative valuation only pending qualified inspection. |
+| 18539 | 7 | $15–$65 | $5 | Several blue portable fuel cylinders, heating/torch heads, Weller soldering gun and mixed small hardware; cylinder contents, fuel transport and electrical condition unknown. |
+| 18542 | 10 | $25–$110 | $12 | Two shelves of assorted tape, staplers, staples, bolts, electrical connectors, cans and small hardware; aging consumables, substantial sorting and removal. |
+| 18546 | 6 | $15–$85 | $10 | Tall narrow custom rotating metal aerosol organizer with assorted old spray cans; cabinet/stand value contingent on removal and hazardous disposal of old contents. |
+| 18547 | 12 | $40–$160 | $20 | Two mixed metal shop tables with drawers/organizers, assorted rivets, fittings, wires and small tools; large removal burden and unknown included quantities. |
+| 18548 | 5 | $25–$95 | $12 | Schumacher SE-1072, Chicago Electric tester and vintage Marquette 32-150 battery charger; dusty old electrical equipment, output and cords untested. |
+| 18549 | 5 | $20–$65 | $10 | Black five-drawer narrow metal filing cabinet, visible scuffs and dirt; check all drawer runners and key; local-pickup demand. |
+| 18552 | 5 | $60–$225 | $25 | Heavy floor-standing vintage Chicago Rivet & Machine Type Premier manual foot-operated riveter, serial 106; auction claims working but no independent test or tooling inventory; costly pickup. |
