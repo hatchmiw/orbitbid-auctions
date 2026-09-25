@@ -60,3 +60,7 @@ This is the preferred way to update live prices for auction **1970** (Mid Michig
 - No bidder password or personal OrbitBid login credential is stored in this repository.
 - The permanent `lots.json` snapshot contains original OrbitBid image URLs, allowing high-resolution source images to be revisited even after temporary mirrors expire.
 - `orbitbid-exporter.js` remains as a browser-console fallback/debugging tool; it is no longer the normal workflow.
+
+## Required procedure for ChatGPT photo review
+
+Before every auction task, read [AGENTS.md](AGENTS.md), [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the auction's `REVIEW.md`, and the relevant workflow. Use the SOP's verified **GitHub Actions artifact ZIP download → extract exact lot JPGs → visually inspect actual originals** method, also documented in the Pioneer runbook. The GitHub connector supports ZIP artifact downloads via `download_workflow_artifact`, but each artifact must be no larger than 512 MiB. Reuse existing split artifacts; if necessary, split the already-mirrored full artifact using the existing artifact-only workflow. Do not redownload source photos or improvise a workaround. Discuss any necessary departure from the SOP with the user first. Never mark contact-sheet review as all-original-photo inspection.
