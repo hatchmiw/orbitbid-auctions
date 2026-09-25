@@ -1,62 +1,25 @@
-# OrbitBid 1879 — current review checkpoint
+# OrbitBid 1879 — current authoritative review status
 
-**Read [the required auction SOP](../../AUCTION_REVIEW_SOP.md) and [agent instructions](../../AGENTS.md) before every continuation.** Existing temporary photo artifacts must be reused; do not re-download photographs or commit images for each review batch.
+**Governing procedure:** [OrbitBid SOP v2](../../AUCTION_REVIEW_SOP.md). Per-lot master: [catalog-review.csv](catalog-review.csv). Source catalog and original photo URLs: [lots.json](lots.json). Do not edit generated views or repeat documented inspections.
 
-## Authoritative implementation update (2026-09-24)
+## Reconciled status — 2026-09-25 cleanup
+- **487 unique catalog lots**; **485 pictured**; **2 no-photo lots**: 18284 and 18583.
+- All 485 pictured lots have **initial contact-sheet-level findings** in the master or historical batch reports. Contact-sheet review does not satisfy the requested individual-original review.
+- **20 distinct pictured lots** have original-image inspections documented in [full-image-price-review.md](full-image-price-review.md), covering **106 originals**: 18457, 18458, 18463, 18467, 18469, 18471, 18472, 18473, 30-1329, 30-1330, 18474, 18475, 18476, 18477, 18478, 18479, 18480, 18482, 18483, 18484. These 20 already have `Original photos examined (10-lot full-image pass)` in the master. Do **not** re-inspect or double-count lot 18457: the duplicate September 25 standalone checkpoint was archived after comparison; it repeated the same five originals and added no necessary distinct completion record.
+- **Nine additional master rows claim** `All N original JPGs individually inspected 2026-09-25`: 18100, 18103, 18106, 18131, 18135, 18160, 18203, 18214, 18222. Their individual original-image evidence/provenance has **not** been reconciled to a separate inspection report in this cleanup. Treat as **nine claims requiring verification**, not nine newly certified completions.
+- Therefore **20 independently documented** full-original inspections; **29 master status claims**; **465 pictured lots** not independently documented as complete until the nine claims are verified (potentially **456** if all nine are confirmed).
+- **290 historical heuristic estimates** retained only in `historical_unverified_*` fields; **0 active evidence-verified valuations**. Preliminary research for 18439, 18440, 18608, 18556, 18548 and 18287 remains in [market-research.md](market-research.md). No unsupported active bid ceilings.
+- Existing source bid snapshot is 2026-09-24 17:32:58 UTC; it is not live.
 
-**Read [the simplified workflow](RESEARCH_WORKFLOW.md) before continuing.** The master now contains 290 recovered historical, explicitly unverified estimates in separate columns; **active researched price and hammer fields remain blank** pending documented sold-comparable evidence. The legacy provisional watchlist is historical, not an actionable bid list. Generate the research queue and evidence-gated watchlist from the master with `python scripts/build_auction_review.py 1879`. The older counts and statements below are retained as historical progress, not current valuation status.
+## Artifact reuse
+Full source run `36039298628`, artifact `10825787468` (1.55 GB, above 512 MiB connector limit). Batch 07 run `36087152300`, artifact `10844646656`. Split batches 08–13 run `36087642169`: artifact IDs `10844397014`, `10844157362`, `10844052609`, `10844227160`, `10844526785`, `10843977621`. They were unexpired when last checked September 25 and were expected to expire around October 7; **recheck** before use. Batch 08 ZIP has been downloaded previously. For batches 01–06 first locate existing smaller artifacts; if needed split the already-mirrored full archive using `.github/workflows/review-from-existing-artifact.yml`, without a new OrbitBid download.
 
+## Exact resume checkpoint
+1. Before inspecting any more photos, reconcile the nine original-image claims against original image counts and actual prior inspection evidence. Do not repeat the 20 documented lots.
+2. For the remaining lot IDs, inspect **every original JPG individually**, merge findings directly into the master and validate/commit after every 20 newly completed lots, then continue.
+3. Research all required lots using matching dated completed-sale evidence; record insufficient-evidence cases without inventing prices. Preserve previous research.
+4. Regenerate `research-queue.csv`, `researched-watchlist.csv` and `GENERATED_STATUS.md` using `python scripts/build_auction_review.py 1879`; validate with `--check`.
+5. Do not stop at a checkpoint; stop only at full verified completion or a genuine execution/tool blocker, with exact last/next lot and photo recorded here.
 
-## Data integrity repair (2026-09-25)
-
-An audit of the active master revealed **479 malformed CSV records** from an earlier incorrect CSV quoting/serialization pass. The master has now been rebuilt from the intact pre-corruption 487-lot GitHub version, and the 290 historical unverified estimates restored by exact lot ID. All 487 master records now have the expected 26 columns. Research notes for lots 18439, 18440, 18608, 18556, 18548 and 18287 have been preserved or referenced. The legacy `provisional-watchlist.csv` and generated `research-queue.csv` **must be regenerated from this repaired master** before use; until then, treat those views as stale and rely on `catalog-review.csv` as authoritative. No new active researched values or bid ceilings were assigned. Photo artifacts were not redownloaded.
-
-## Market evidence correction (2026-09-25)
-
-At user request, all 290 prior heuristic price ranges and hammer ceilings have been **withdrawn from the active master and watchlist**. Prior photo findings and unique lot records are retained. The historical review log still contains prior guesses but they are superseded and **must not be used to bid**. Market-verified price and bid fields remain blank until dated sold comparables of a matching item, adjusted for condition and quantity, support a documented valuation. An initial check of lot 18287 found a 2026-04-22 eBay sold listing for Flexco Alligator No.125 steel belt lacing (approximately nine strips) at $79.99 (https://www.ebay.com/itm/336277346240) and a 2025-09 Kraft auction lot of five Flexco lacing units for $50 (https://bid.kraftauctions.com/auctions/212/lot/169917-zz5flexco-alligator-lacing). **Neither establishes the mixed lot 18287's value without matching its part numbers and quantities**, so its price and hammer ceiling remain blank. Auction 1879's official lot 18585 listing confirms a missing electric motor and 13% standard buyer premium (10% qualifying cash/wire) plus 6% MI tax: https://bid.orbitbid.com/lot/1705407/1-van-norman-company-portable-boring-machine-with-wood-crate-missing-electric-motor-appears-all- . Existing artifacts remain the preferred image source. Next work: exact part identification, matched sold comps and source links, then conditional max bids only for supported lots.
-
-## Deeper original-image and price-review progress
-
-- **20 of 485 pictured lots** have now received a separate review of all original source images (106 images) and broad conditional as-is resale/hammer estimates. These are the first two durable 10-lot checkpoints in [the full-image and price-review report](full-image-price-review.md). **465 pictured lots still require the deeper original-image pass.**
-- Original 200 valuations from batches 01–05 are preserved; 90 additional lots now have provisional ranges (20 after a deeper original-photo pass, 70 based on existing source-verified composites). **No exact-match sold-comparable verification** has been established for these new ranges. The remaining 195 of the previously unvalued 285 pictured lots still lack price ranges. The 70 composite-priced lots remain in the 465-lot individual full-resolution review queue.
-- The initial contact-sheet review of 485 lots remains complete but must not be described as full-resolution individual-image verification.
-
-## Completed initial review
-
-- **487 of 487 catalog lots accounted for**; **485 of 485 pictured lots** inspected at per-lot contact-sheet level across batches 01–13. **Zero pictured lots remain awaiting initial contact-sheet inspection.**
-- Two lots have no source photographs: **18284** (partial hoist-line spools) and **18583** (boxed ESAB welding wire). Catalog-only triage; do not mark visually inspected.
-- **200 lots** from batches 01–05 have existing conditional gross resale ranges and maximum hammer ceilings in [provisional-watchlist.csv](provisional-watchlist.csv). **285 more pictured lots** from batches 06–13 have photo-specific condition/identity findings but **not independently verified resale estimates or bid ceilings**. All 487 entries remain in [catalog-review.csv](catalog-review.csv), with no duplicate rows or duplicated valuations.
-- [Final review status and research shortlist](FINAL_REVIEW_STATUS.md) summarizes findings and the remaining financial, mechanical and live-bid verification work.
-
-## Visual reports
-
-| Batch | Pictured lots | Review report |
-|---|---:|---|
-| 01 | 40 | [Batch 01](visual-review-batch-01.md) |
-| 02 | 40 | [Batch 02](visual-review-batch-02.md) |
-| 03 | 40 | [Batch 03](visual-review-batch-03.md) |
-| 04 | 40 | [Batch 04](visual-review-batch-04.md) |
-| 05 | 40 | [Batch 05](visual-review-batch-05.md) |
-| 06 | 40 | [Batch 06](visual-review-batch-06-partial.md) |
-| 07 | 40 | [Batch 07](visual-review-batch-07.md) |
-| 08 | 40 | [Batch 08](visual-review-batch-08.md) |
-| 09 | 40 | [Batch 09](visual-review-batch-09.md) |
-| 10 | 40 | [Batch 10](visual-review-batch-10.md) |
-| 11 | 40 | [Batch 11](visual-review-batch-11.md) |
-| 12 | 40 | [Batch 12](visual-review-batch-12.md) |
-| 13 | 5 | [Batch 13](visual-review-batch-13.md) |
-
-## Artifact and provenance checkpoint
-
-- Source: permanent complete [487-lot catalog](lots.json), original OrbitBid image URLs and the original temporary photo artifact `orbitbid-1879-photos`, successful run `36039298628`, artifact `10825787468`.
-- Batch 07 used temporary artifact `10844646656`, run `36087152300`, covering 40 lots and 257 source photographs.
-- Batches 08–13 reused the **existing** full-auction artifact via [artifact-only splitting workflow](../../.github/workflows/review-from-existing-artifact.yml), successful run `36087642169`. Six temporary artifacts cover the final 205 pictured lots in non-overlapping groups of 40/40/40/40/40/5; their manifest counts were verified. **No new OrbitBid image download** was needed for these six batches.
-- Historic `review-previews/` images were removed from the current Git branch; some older batch-report links to them are obsolete. Consult temporary artifacts and permanent original image URLs instead. Do not restore committed images.
-
-## What is and is not finished
-
-**Finished:** all catalog entries triaged, all available lot photo contact sheets reviewed, individual visible-condition notes documented for all pictured lots, and the 487-row master catalog updated without repeating completed work.
-
-**Still requiring separate verification before bidding:** exact sold comps and defensible price ceilings for the 285 newly inspected lots, fresh bid prices, buyer premium/tax, physical equipment tests, high-resolution close-ups for selected expensive machinery, and pickup/transport feasibility. Source bid snapshot is **2026-09-24 17:32:58 UTC**. Visual review is not proof of mechanical operation or safe lifting/pressure-vessel use.
-
-**Next action:** refresh current auction prices and perform targeted sold-comparable and functional-condition research for shortlisted practical resale/personal-use lots, rather than repeating any initial photo inspections.
+## Archived, non-authoritative history
+Previous SOP, old completion narrative, old research workflow and duplicate 18457 checkpoint are preserved under [archive/2026-09-25-pre-cleanup](../../archive/2026-09-25-pre-cleanup/). Existing batch reports and [full-image-price-review.md](full-image-price-review.md) remain historical evidence, not separate editable completion ledgers. `provisional-watchlist.csv` is a historical artifact and **not** a bidding sheet.
