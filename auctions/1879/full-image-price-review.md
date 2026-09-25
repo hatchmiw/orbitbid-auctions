@@ -1,6 +1,6 @@
 # OrbitBid 1879 — original-image and provisional price review, checkpoint 01
 
-**10 of 485 pictured lots individually reviewed; 49 original source images examined.** This is a separate deeper pass from the earlier contact-sheet-only inspection. Images were reused from the existing temporary batch-08 artifact `10844397014`; no source redownload. Price estimates are broad as-is gross resale judgments, not claims of exact sold comparables or tested function. The hammer limits are conditional and must be reduced for buyer premium, tax, travel, repairs, platform fees and time to sell. Current auction bids have not been refreshed.
+**20 of 485 pictured lots individually reviewed; 106 original source images examined.** This is a separate deeper pass from the earlier contact-sheet-only inspection. Images were reused from the existing temporary batch-08 artifact `10844397014`; no source redownload. Price estimates are broad as-is gross resale judgments, not claims of exact sold comparables or tested function. The hammer limits are conditional and must be reduced for buyer premium, tax, travel, repairs, platform fees and time to sell. Current auction bids have not been refreshed.
 
 | Lot | Original images | As-is gross resale range | Conditional max hammer | Findings / uncertainty |
 |---|---:|---:|---:|---|
@@ -18,3 +18,20 @@
 For context, a sold eBay listing for seven used Pittsburgh ratcheting wrenches ended at $14.50 (June 2026), whereas a used Milwaukee seven-piece set was listed at $80 with a best offer accepted (July 2026; actual accepted price undisclosed). These are non-exact benchmarks only; no maker attribution for lot 18458 is established. Sources: https://www.ebay.com/itm/236889105763 and https://www.ebay.com/itm/168405530200 .
 
 **Next checkpoint:** continue with the next 10 *distinct* lot IDs, skipping any already reviewed in this deeper pass. Update both the master catalog and this report after every 10 lots. Do not mark the other 475 pictured lots individually examined.
+
+## Checkpoint 02 — next 10 lots (57 original photographs)
+
+| Lot | Original photos | Gross as-is resale | Conditional max hammer | Findings |
+|---|---:|---:|---:|---|
+| 18474 | 4 | $40–$110 | $18 | Four original images examined. Six used Central Pneumatic/CP-style straight pneumatic die grinders with various mounted stones and burrs; dirty housings, visibly used bits and untested air motors. Bulk tool resale; remove suspect mounted abrasives before testing. |
+| 18475 | 6 | $35–$100 | $15 | Six original images examined. Six mixed straight and angled pneumatic die grinders, including a black angle unit, mounted abrasive/wire wheels and dirty air fittings; significant visible shop use. Multiple tools but all untested; worn wheels may be unsafe. |
+| 18476 | 7 | $20–$70 | $5 | Seven original images examined. Multiple heavy plate-lifting clamps with eyelets and articulated gripping jaws; widespread rust and worn painted bodies, markings partially legible. No current load-rating or inspection record established. Safety-critical: sell only as uncertified cores or scrap until professionally inspected. |
+| 18477 | 4 | $50–$140 | $25 | Four original images examined. Long orange 8-ton ram/hydraulic jack in original worn cardboard carton with printed instruction manual; jack body appears bagged and comparatively clean, but pressure seals and rated operation unverified. Boxed condition raises value; no pressure test. |
+| 18478 | 6 | $30–$90 | $15 | Six original images examined. Older Lightnin electric industrial clamp-on mixer with two paddle/agitator elements, power cord, clamp and two metal toolboxes nearby; significant chipped paint and no electrical test. Toolboxes may be background rather than included; confirm lot boundary and motor voltage. |
+| 18479 | 7 | $40–$120 | $20 | Seven original images examined. Two full cartons of numerous large metalworking files and rasps, some packaged Nicholson/SuperTanium and many with improvised white golf-ball handles. Mixed used teeth and some oxidation. Potential individual file resale, but high sorting/listing labor and variable tooth life. |
+| 18480 | 6 | $35–$100 | $15 | Six original images examined. Second two-carton lot of assorted long metalworking files, narrow round files and rasps with improvised golf-ball handles. Most unboxed and worn; inspect teeth before splitting. Bulk local shop resale more realistic than listing every file. |
+| 18482 | 5 | $20–$55 | $10 | Five original images examined. Two large long-handled oil-filter pliers with turquoise and red grips, adjustable pivots and broad semicircular toothed jaws. Used with scuffed paint; no obvious major jaw break. Confirm adjustable pivot and jaw tooth condition. |
+| 18483 | 8 | $60–$160 | $30 | Eight original images examined. Large assortment of mostly red-handled snap-ring pliers in straight, bent and specialty tip patterns, plus some locking pliers. Several visible K-D and other maker marks; many tips appear used and some sets unmatched. Strong bulk assortment if tips are sound; identify branded pieces and verify tip alignment. |
+| 18484 | 4 | $10–$35 | $5 | Four original images examined. Kal Equip 2204 automotive digital multimeter with original manual, red and black test leads and soft zip pouch. Display is blank in photos; battery compartment, lead insulation and calibration untested. Aged electronic tester; do not represent as functional until tested. |
+
+**Durable checkpoint:** 20 original-image reviews and provisional valuations complete; 465 pictured lots remain in the deeper pass. The first 200 previously valued lots remain unchanged. The original-image review is separate from the completed contact-sheet review. No fresh bids or physical tests have been obtained.
