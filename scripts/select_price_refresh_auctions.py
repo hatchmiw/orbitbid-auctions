@@ -71,7 +71,10 @@ def select(mode: str, now_ts: int) -> list[str]:
 
         if mode == "auction-day":
             close_local_date = datetime.fromtimestamp(close_ts, timezone.utc).astimezone(LOCAL_TZ).date()
-            if close_local_date != now_local_date:
+            # Keep the 10-minute cadence through the post-close grace period,
+            # even when that six-hour window crosses local midnight.
+            in_post_close_grace = close_ts <= now_ts <= close_ts + cutoff_seconds
+            if close_local_date != now_local_date and not in_post_close_grace:
                 continue
 
         selected.append(auction_id)
