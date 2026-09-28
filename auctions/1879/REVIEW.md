@@ -90,3 +90,30 @@ Snap-on sockets, ratchets, extensions and wrenches: 18401â€“18403, 18405, 18407â
 - Sep 22 2026: Miller AEAD-200LE $110 with difficult mezzanine removal (HiBid); https://hibid.com/www.heretn.com/lot/321781537/miller-aead-200le
 
 **No active bid ceilings yet.** These are screening ranks, not verified margins. Original-photo inspection, condition-adjusted exact-model market comps, buyer premium, sales costs and live bid refresh remain necessary before bid recommendations.
+
+## September 28 ignored-lot second-pass checkpoint
+
+**Authoritative state used:** complete price-history snapshot `2026-09-28T15:28:43.487070Z` (487/487 lots) and imported OrbitBid watchlist captured `2026-09-28T15:23:01.021Z` (81 matched auction-1879 lots, 0 unmatched). The whole 487-lot catalog was screened against current bid, bid count, prior priority, current personal-watchlist membership, existing photo findings and existing research. At this snapshot, 338 lots were at $15 or less and 283 of those were not on the personal watchlist; cheap/no-bid status was used only as a discovery signal, not as a recommendation.
+
+### New detailed second-pass inspections
+Source-verified original JPGs were individually reopened from the existing Actions artifacts for **18162, 18224, 18279, 18281, 18288, 18314, 18327, 18502 and 18518**. Their findings and new market/replacement-cost evidence are recorded in `catalog-review.csv` at commit `7eb670457992d91c80f6ac4236ddab587d076bd9`, followed by added market evidence for 18468, 18501, 18530, 18537, 18590, 18192 and 18195 at commit `702752891996007c05c9febd00b98a4a934cb3d8`. Existing individual-original inspections of 18143, 18160, 18161 and 30-1332 were reused rather than repeated.
+
+Material findings that changed the ignored-lot screen:
+- **18502 hitch pins** contains substantial farm/trailer hardware, including a sealed Lawson 50-count package of 1/4 x 4 Hammerlock cotter pins plus heavier hitch/clevis pins.
+- **18518 tubing** contains multiple partial coils of identifiable Tectran 1928 SAE J844 Type B 1/2-inch air-brake tubing. Unknown age prevents assuming highway brake-service suitability, but replacement/shop utility is real.
+- **18288 hose** contains meaningful lengths of SAE 100R4-class suction/return hose and other heavy hose; new replacement cost is high, but old service history prevents valuing it as certified pressure hose.
+- **18327 80 x 48 steel mesh drag** is substantially intact despite uniform rust and is credible for grading/smoothing personal-use projects; tow hardware remains uncertain.
+- **18224 Ramco RH5000** is a substantial truck-jib frame/base but lacks the hydraulic lifting component; value is as a repair/fabrication base, not a proven 5,000-lb crane.
+- **18314 quick-attach jib** is a heavy adjustable/telescoping fabricated boom with hook and receiver structure, but fitment and rated capacity are not established.
+- **18162 blast pot** has visibly deteriorated closure/seal rubber and aged hose, materially reducing it to rebuild/parts status unless pressure-vessel integrity is verified.
+- **18279** is more than scrap grease buckets: a retractable reel, multiple pumps and hoses are present, though dirty and untested.
+- **18281** has three manual transfer-pump assemblies rather than a single low-value pump.
+
+### Current ignored-lot opportunity set
+
+The second pass promotes the following non-watchlisted or previously low-priority lots for decision review, subject to the exact hammer ceilings in the user-facing analysis: **18115, 18143, 18160, 18161, 18189, 18192, 18195, 18224, 18279, 18281, 18288, 18314, 18468, 18501, 18502, 18518, 18530, 18537, 18569, 18577, 18590 and 30-1332**. Lot **18327** remains on the personal watchlist and is retained as a personal-use target.
+
+Safety-critical or condition-limited items remain deliberately discounted: old lifting/rigging gear, unverified jack stands, aged air-brake components intended for highway service, old pressure-vessel equipment and damaged/unknown hydraulic lifting equipment are not valued as rated serviceable equipment.
+
+**Resume point:** re-read the newest complete price snapshot before bidding and compare each surviving target to its conditional hammer ceiling. Do not re-download or re-inspect the second-pass originals above unless new evidence creates a specific question.
+
