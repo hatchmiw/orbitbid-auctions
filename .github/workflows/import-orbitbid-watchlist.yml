@@ -1,0 +1,73 @@
+name: Import OrbitBid Watch List
+
+on:
+  workflow_dispatch:
+    inputs:
+      watchlist_json:
+        description: "Paste ID-only JSON from orbitbid-watchlist-exporter.js. Never paste cookies, tokens, passwords, bidder identity, or max/auto bids."
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orbitbid-metadata-writes
+  cancel-in-progress: false
+
+jobs:
+  import-watchlist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      WATCHLIST_JSON: ${{ inputs.watchlist_json }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run watch-list importer tests
+        run: python -m unittest tests.test_import_orbitbid_watchlist
+
+      - name: Import and publish watch-list membership
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          published=false
+          for attempt in 1 2 3; do
+            echo "Import/publish attempt $attempt of 3"
+            git fetch origin main
+            git reset --hard origin/main
+
+            printf '%s' "$WATCHLIST_JSON" | python scripts/import_orbitbid_watchlist.py --stdin
+
+            git add -- watchlists/orbitbid.json
+            if git diff --cached --quiet; then
+              echo "Watch List membership is already current."
+              published=true
+              break
+            fi
+
+            git commit -m "Import OrbitBid Watch List"
+            if git push origin HEAD:main; then
+              echo "Published sanitized OrbitBid Watch List membership."
+              published=true
+              break
+            fi
+
+            echo "Main changed during publish or push failed. Retrying from latest main."
+            sleep $((attempt * 5))
+          done
+
+          if [[ "$published" != "true" ]]; then
+            echo "Unable to publish OrbitBid Watch List after 3 attempts." >&2
+            exit 1
+          fi

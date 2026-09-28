@@ -56,6 +56,22 @@ Price refreshes are also scheduled automatically for saved auctions:
 
 The scheduler derives close times from each saved auction's `lots.json`, so newly imported auctions do not require hard-coded dates or auction IDs.
 
+## Import my authenticated OrbitBid Watch List
+
+The Watch List is captured in the signed-in browser, but authentication data never leaves the browser.
+
+1. Sign in to OrbitBid and open **Watch List**.
+2. Run the root `orbitbid-watchlist-exporter.js` in the browser console.
+3. The exporter collects only OrbitBid internal lot IDs and a capture timestamp. It does not read/export cookies, login/session tokens, bidder identity, card text, max bids or auto bids.
+4. Copy the compact JSON produced by the exporter.
+5. Run **Actions → Import OrbitBid Watch List** and paste that JSON.
+
+The importer writes `watchlists/orbitbid.json` and cross-references each watched internal lot ID against all saved `auctions/*/lots.json` records. Public bid/title/photo data stays in the existing auction files, so price refreshes continue unchanged and there is no duplicate bid-history pipeline.
+
+This repository is public. The imported Watch List file exposes **which lot IDs are personally watched**, even though it contains no login credentials or private bid amounts. See [watchlists/README.md](watchlists/README.md) before importing.
+
+This membership layer is separate from `catalog-review.csv`: a lot may independently be personally watched, an analysis/research candidate, or an opportunity discovered by screening without overwriting the other classifications.
+
 ## Troubleshooting workflows
 
 - **Export OrbitBid auction** — older metadata-only exporter; retained for troubleshooting.
@@ -76,3 +92,4 @@ Before every auction task, read [AGENTS.md](AGENTS.md), [AUCTION_REVIEW_SOP.md](
 ## Review records and archived procedures
 
 The sole editable per-lot review master is `auctions/<id>/catalog-review.csv`; `lots.json` is the source catalog. Current auction status and the exact resume checkpoint belong in `auctions/<id>/REVIEW.md`. Generated research queues, watchlists and status reports are derived from the master. Historical review reports are evidence, not competing completion ledgers. The superseded SOP and redundant auction 1879 reports are retained under [`archive/2026-09-25-pre-cleanup`](archive/2026-09-25-pre-cleanup/). The fixed pre-cleanup recovery branch is `archive/pre-sop-cleanup-2026-09-25` at commit `02b8ef03d88c7a4f31788fef13043252ace6ec0e`.
+
