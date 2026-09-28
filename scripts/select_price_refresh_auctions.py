@@ -2,8 +2,9 @@
 """Select saved OrbitBid auctions that should receive a scheduled price refresh.
 
 Hourly mode refreshes every saved auction until six hours after its final
-scheduled lot close. Auction-day mode refreshes only auctions whose final
-scheduled close falls on today's America/Detroit calendar date.
+scheduled lot close. Auction-day mode refreshes auctions with any lot closing
+on today's America/Detroit calendar date and remains active through the
+six-hour post-final-close grace period.
 
 Output is one auction ID per line. Manual workflow dispatch does not use this
 selector.
