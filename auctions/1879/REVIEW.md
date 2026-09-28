@@ -167,3 +167,93 @@ Lots in the active focus set without a value in this table do **not** yet have a
 
 **Current action:** use the 32-lot focus set as the combined working list. Retain the rest of the 111-lot union as secondary/background opportunities and promote them only when price, condition or a specific project creates a reason.
 
+## September 28 auction-day buying plan — 12:28 PM EDT refresh
+
+**Price basis:** repository refresh `2026-09-28T16:28:54.455208Z`, 487/487 lots refreshed with zero errors. The 32-lot focus set totals **$345 hammer at current bids**, while the sum of every individual ceiling is **$1,595**. The ceiling sum is intentionally *not* a budget; it only defines where each lot stops making sense individually.
+
+### Total-spend structure
+
+Use **$350 hammer as the planned target**, with a **$450 hammer hard cap** only if unusually strong lots remain below their good-buy levels after earlier losses free budget. Do not spend toward the cap merely because capacity remains. Buyer premium and tax are additional; auction 1879's exact premium has not been independently verified in this review, so keep the working budget in hammer dollars until terms are confirmed.
+
+Suggested allocation:
+- **Up to $120:** Milwaukee 18211 reserve. If it is lost early, that reserve returns to the general pool.
+- **About $150:** direct farm/shop property utility (compactor, drag, benches, bandsaw, grease equipment, steel/pipe tools).
+- **About $80:** hardware/consumables/organizers.
+- **About $50:** opportunistic resale/wildcards.
+These are flexible envelopes, not mandatory spending quotas.
+
+### Tier A — actively pursue if still under ceiling
+
+| Lot | Current | Max hammer | Role / overlap rule |
+|---|---:|---:|---|
+| 18211 | $55 | **$120** | Milwaukee M18 3/4 impact + driver + batteries/charger; strongest portable-tool value. |
+| 18573 | $10 | **$80** | Huot drill cabinet + large drill-bit inventory; strong shop utility/resale. |
+| 18101 | $10 | **$75** | Cantilever rack + fabrication steel. Buy for material utility; removal is the constraint. |
+| 18530 | $5 | **$75** | Long bench + 5-inch Wilton vise + hose reel. Prefer over 18103 unless steel stock is specifically wanted. |
+| 18115 | $5 | **$70** | Honda GX140 compactor; direct property-use candidate, repair risk accepted. |
+| 18327 | $15 | **$65** | Steel mesh drag; direct Morley yard/grading use. |
+| 18570 | $10 | **$60** | Johnson horizontal bandsaw; only because current price leaves room for guide/alignment repair. |
+| 18577 | $5 | **$60** | Steel bench + included tools. Can coexist with 18530 because contents/value proposition differ. |
+| 18590 | $5 | **$60** | Borg-Warner cabinet/Tung-Sol stock; collector/storage wildcard. |
+| 18161 | $5 | **$50** | Two grease-pump setups; preferred grease-equipment lot. |
+| 18468 | $5 | **$45** | Two Ingersoll-Rand impacts; do not assume 2235 value until model/function verified. |
+| 18140 | $5 | **$45** | Ridgid 36/24 + Fuller 18 pipe wrenches; practical shop/farm tools. |
+| 18561 | $5 | **$45** | Hitch balls/clevises/hooks/eyelets/threaded rod; contents-only but strong farm utility. |
+| 18502 | $5 | **$35** | Hitch/retaining pins including sealed Lawson stock; cheap consumable hardware. |
+| 18518 | $5 | **$30** | Tectran/other tubing; shop use, not assumed safe for highway air-brake service. |
+
+**Tier A current hammer total: $150.** Even if all fifteen were won at current prices, most of the planned budget would remain for competition and later lots.
+
+### Tier B — buy only when price remains favorable or Tier A losses free budget
+
+| Lot | Current | Max hammer | Decision rule |
+|---|---:|---:|---|
+| 18439 | $20 | **$60** | Snap-On PH3050A + chisels; good only while materially below functional-tool resale. |
+| 18189 | $10 | **$50** | Metabo grinder lot; secondary to 18211/18468 in portable-tool spending. |
+| 18193 | $20 | **$50** | Milwaukee Hole Hawg; preserve because its high-torque use is distinct from ordinary drills. |
+| 18544 | $10 | **$50** | Electrical/keys/lugs organizers. |
+| 18440 | $25 | **$45** | RTD33; already over halfway to ceiling, so don't chase. |
+| 18118 | $10 | **$40** | Ramco 5000 hoist; safety/unknown hydraulic hold keep this low. |
+| 18156 | $5 | **$40** | Pipe threading/cutting assortment; complements 18140 if still cheap. |
+| 18192 | $10 | **$40** | Sawzall + grinder; secondary portable-tool purchase. |
+| 18564 | $15 | **$40** | Hose-clamp racks; current price is okay but don't chase commodity inventory. |
+| 18203 | $5 | **$35** | Porta-power-type hydraulic kit; unknown brand/capacity/seals. |
+| 18501 | $5 | **$35** | Band-It tool/stock; model-dependent upside. |
+| 18563 | $5 | **$35** | Organizers + fittings/misc drawer contents. |
+| 18206 | $5 | **$30** | Heavy drills/bits; deprioritize if 18193 is won. |
+| 30-1332 | $5 | **$30** | Mixed lighting + Star minibar; choose against 18578 rather than automatically buying both. |
+| 18578 | $5 | **$25** | Truck/trailer lighting; direct utility but overlaps 30-1332. |
+| 18558 | $5 | **$20** | Bolts/nuts + bench grinder; organizers excluded. |
+| 18545 | $35 | **$55** | Metric/socket-cap/roll-pin organizers. Still viable, but highest current percentage of ceiling in the hardware group; cheaper hardware lots come first. |
+
+### Close-time sequence and reallocation
+
+- **6:00 PM EDT:** 30-1332 and the 181xx lots. This is where steel, compactor, grease equipment, pipe tools and several power tools resolve.
+- **6:30 PM EDT:** 18203, 18206 and especially **18211**. Do not spend the Milwaukee reserve before this group closes.
+- **7:00 PM EDT:** 18439/18440/18468 and early 185xx hardware/shop lots. Reallocate money from earlier losses here.
+- **7:30 PM EDT:** 18570, 18573, 18577, 18578 and 18590. This is a strong late cluster; preserve at least **$100-$150 of unused hammer capacity** for it if possible.
+- **8:00 PM EDT:** 18327 steel mesh drag. Because it has a known personal project, keep its **$65 ceiling** available rather than exhausting the budget at 7:30.
+
+### Hard substitution rules
+
+1. **Grease equipment:** 18161 first; do not add 18160/18279/18281 unless 18161 is lost or they stay essentially giveaway-price.
+2. **Drills:** 18193 first for high-torque work; 18206 only if cheap or 18193 is lost.
+3. **General portable tools:** 18211 first, then 18468; grinders/Sawzall are secondary.
+4. **Pipe tooling:** 18140 first; add 18156 only at a clear bargain.
+5. **Truck lighting:** choose 30-1332 vs. 18578 based on final price; buying both is acceptable only if both stay very low.
+6. **Hardware cabinets:** prioritize cheap specialized inventory (18502, 18518, 18561, 18563) before chasing 18545 above its current $35.
+7. **Benches:** 18530 and 18577 may both be bought because one is vise/reel-centered and one is tool-content-centered; 18103 becomes the fallback unless its fabrication steel is the reason to buy.
+8. **Budget discipline:** another bidder never changes a ceiling. Losing a lot increases available budget; it does not increase the value of the remaining lots.
+
+### Market anchors used for the new ceilings
+
+- Milwaukee 2864-20 used examples sold around **$249.99**, while new tool-only retail is currently around **$429**. This supports the $120 auction ceiling for 18211 after discounting batteries/tools for unknown condition.
+- Ridgid 36-inch pipe wrench replacement pricing is roughly **$209-$254**, with 24-inch around **$119**, supporting a low $45 ceiling on the worn three-wrench 18140 lot.
+- New portable hydraulic body/ram kits are roughly **$180-$270+**, supporting only a $35 ceiling on the unidentified old 18203 kit because seals, hose and capacity are unverified.
+- New basic 4x6 horizontal metal bandsaws are roughly **$350**, supporting a $60 repair-risk ceiling on 18570, which currently cuts crooked.
+- Commercial metric socket-cap/retaining-hardware assortments range from roughly **$50 into the hundreds**, supporting 18545's $55 ceiling while recognizing unknown fill.
+- Commercial 100-piece hose-clamp/rack assortments can run roughly **$180-$280**, though inexpensive commodity kits are far cheaper; this wide quality spread is why 18564 stops at $40.
+- A lot of three vintage Huot drill cabinets sold for **$125** in June 2026; 18573 includes one Huot cabinet plus substantial drill-bit inventory, supporting an $80 ceiling after condition discount.
+
+**Current stop condition:** the 32 focus lots now all have active conditional hammer ceilings in `catalog-review.csv`. Before live bidding, re-read the newest price snapshot and remove any lot already at/over its ceiling; otherwise follow the close-time and substitution rules above.
+
