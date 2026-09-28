@@ -1,0 +1,3 @@
+run_id=36489645309
+lot=18211
+artifact=orbitbid-1879-lot-18211-source-photos
