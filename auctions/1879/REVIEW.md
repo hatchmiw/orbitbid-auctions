@@ -117,3 +117,53 @@ Safety-critical or condition-limited items remain deliberately discounted: old l
 
 **Resume point:** re-read the newest complete price snapshot before bidding and compare each surviving target to its conditional hammer ceiling. Do not re-download or re-inspect the second-pass originals above unless new evidence creates a specific question.
 
+## September 28 combined personal-watchlist + ignored-lot decision set
+
+The current imported personal OrbitBid watchlist has **81 auction-1879 lots**. The September 28 ignored/deprioritized second pass produced **31 candidates**, with only **18327** already present on the personal watchlist, for a raw union of **111 unique lots**. Do not use 111 as the practical bidding list.
+
+Using the complete price snapshot `2026-09-28T15:28:43.487070Z`, the practical **active focus set is 32 lots** with a combined current hammer of **$340**. That dollar sum is descriptive only; it is not an auction budget and does not imply pursuing every lot to a ceiling.
+
+| Functional group | Active focus lots |
+|---|---|
+| Farm / property / material handling | 18101 ($10), 18115 ($5), 18118 ($10), 18327 ($15) |
+| Pipe / fabrication / shop equipment | 18140 ($5), 18156 ($5), 18530 ($5), 18570 ($5), 18577 ($5) |
+| Power tools / portable shop tools | 18189 ($10), 18192 ($10), 18193 ($20), 18206 ($5), 18211 ($55), 18439 ($20), 18468 ($5) |
+| Hydraulic / grease / service tools | 18161 ($5), 18203 ($5), 18440 ($25) |
+| Hardware / consumables / organizers | 18501 ($5), 18502 ($5), 18518 ($5), 18544 ($10), 18545 ($35), 18558 ($5), 18561 ($5), 18563 ($5), 18564 ($15), 18573 ($10) |
+| Truck / trailer / electrical stock | 18578 ($5), 30-1332 ($5) |
+| Vintage storage / parts-value wildcard | 18590 ($5) |
+
+### De-duplication rules for bidding
+
+- **Grease/transfer equipment:** favor 18161 over 18160 at the same $5 neighborhood because 18161 includes two rolling setups; treat 18279 and 18281 as backups/opportunistic additions rather than buying every pump lot.
+- **Benches/shop stations:** 18530 is the vise-centered target; 18577 is the bench-plus-tool-content target. 18103 becomes secondary unless its included steel stock is specifically needed. Buying both 18530 and 18577 can still make sense because their value propositions differ.
+- **Truck/trailer lighting:** 18578 is the more direct personal-use lot; 30-1332 has the better mixed-parts/minibar angle. Do not chase both merely because both are cheap.
+- **Pipe tools:** 18140 plus 18156 cover most practical pipe-wrench/threading needs. 18143 is secondary unless the chain wrench itself is specifically valuable.
+- **Portable grinders/drills:** 18189, 18192, 18193, 18206 and 18468 overlap enough that they should compete for spending rather than all being automatic buys. Preserve 18193 for the Hole Hawg's unique use and 18468 for the low-bid Ingersoll-Rand upside.
+- **Hardware organizers:** 18544, 18558, 18561, 18563, 18564 and 18573 remain complementary. 18545 is still useful but is already $35, so it should be judged against the cheaper organizers before adding more hardware inventory.
+- **Large/high-dollar watched equipment:** 18123, 18124, 18125, 18128, 18134 and 18541 remain on the personal watchlist but are no longer part of the cheap overlooked-opportunity sweep at their current bids. Treat each as a separate deliberate equipment purchase.
+- **Safety-sensitive load gear:** old chain, binders, hoists, jack stands, pressure equipment and similar lots remain condition-dependent. Low price alone does not promote them into the active focus set.
+
+### Working ceilings already established in current decision work
+
+| Lot | Working max hammer | Note |
+|---|---:|---|
+| 18115 | $70 | Honda GX140 compactor; function still uncertain |
+| 18161 | $50 | two grease-pump setups |
+| 18189 | $50 | three Metabo grinders + repairable Makita |
+| 18192 | $40 | Milwaukee Sawzall + 5211 grinder |
+| 18327 | $65 | personal-use steel mesh drag |
+| 18468 | $45 | two Ingersoll-Rand impacts; model/function verification matters |
+| 18501 | $35 | Band-It tool + banding |
+| 18502 | $35 | bulk hitch/retaining hardware |
+| 18518 | $30 | Tectran/other tubing; not assumed road-brake serviceable |
+| 18530 | $75 | long bench + rough 5-inch Wilton vise + hose reel |
+| 18577 | $60 | steel bench + assorted included shop tools |
+| 18590 | $60 | Borg-Warner cabinet + vintage parts/display stock |
+| 30-1332 | $30 | mixed truck/equipment lighting stock |
+| 18573 | $50 | carried-forward practical-use ceiling from prior decision work |
+
+Lots in the active focus set without a value in this table do **not** yet have a newly evidence-supported combined ceiling; do not substitute the withdrawn historical heuristic values in the master.
+
+**Current action:** use the 32-lot focus set as the combined working list. Retain the rest of the 111-lot union as secondary/background opportunities and promote them only when price, condition or a specific project creates a reason.
+
