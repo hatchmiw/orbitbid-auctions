@@ -6,10 +6,10 @@ on:
         description: Auction ID
         required: true
         default: '1879'
-      lot:
-        description: Lot number
+      lots:
+        description: Space-separated lot numbers
         required: true
-        default: '18541'
+        default: '18115 18530 18573 18577 18468 18156 18189 18193 18206 18440 18501 18544 18545'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
@@ -36,7 +36,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "AUCTION_ID=${{ github.event.inputs.auction_id || '1879' }}" >> "$GITHUB_ENV"
-          echo "LOT=${{ github.event.inputs.lot || '18541' }}" >> "$GITHUB_ENV"
+          echo "LOTS=${{ github.event.inputs.lots || '18115 18530 18573 18577 18468 18156 18189 18193 18206 18440 18501 18544 18545' }}" >> "$GITHUB_ENV"
           echo "SOURCE_RUN_ID=${{ github.event.inputs.source_run_id || '36039298628' }}" >> "$GITHUB_ENV"
           echo "SOURCE_ARTIFACT=${{ github.event.inputs.source_artifact || 'orbitbid-1879-photos' }}" >> "$GITHUB_ENV"
       - name: Download existing full-auction artifact
@@ -47,17 +47,19 @@ jobs:
           set -euo pipefail
           mkdir -p /tmp/orbitbid-source
           gh run download "$SOURCE_RUN_ID" --repo "$GITHUB_REPOSITORY" --name "$SOURCE_ARTIFACT" --dir /tmp/orbitbid-source
-          test -d "/tmp/orbitbid-source/$LOT"
-      - name: Extract selected lot only
+      - name: Extract selected lots only
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p /tmp/orbitbid-selected
-          cp -a "/tmp/orbitbid-source/$LOT" "/tmp/orbitbid-selected/$LOT"
-          find "/tmp/orbitbid-selected/$LOT" -maxdepth 1 -type f -print | sort
+          for lot in $LOTS; do
+            test -d "/tmp/orbitbid-source/$lot"
+            cp -a "/tmp/orbitbid-source/$lot" "/tmp/orbitbid-selected/$lot"
+          done
+          find /tmp/orbitbid-selected -maxdepth 2 -type f -print | sort
       - uses: actions/upload-artifact@v4
         with:
-          name: orbitbid-${{ env.AUCTION_ID }}-lot-${{ env.LOT }}-source-photos
+          name: orbitbid-${{ env.AUCTION_ID }}-shortlist-source-photos
           path: /tmp/orbitbid-selected/
           retention-days: 9
           compression-level: 0
@@ -66,9 +68,9 @@ jobs:
         run: |
           set -euo pipefail
           marker="auctions/$AUCTION_ID/selected-photo-artifact-run.txt"
-          printf 'run_id=%s\nlot=%s\nartifact=orbitbid-%s-lot-%s-source-photos\n' "$GITHUB_RUN_ID" "$LOT" "$AUCTION_ID" "$LOT" > "$marker"
+          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-shortlist-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$marker"
-          git commit -m "Record selected-lot photo artifact run for $LOT" || exit 0
+          git commit -m "Record shortlist photo artifact run" || exit 0
           git push
