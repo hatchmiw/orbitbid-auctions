@@ -24,7 +24,7 @@ on:
       - .github/workflows/extract-selected-lot-photos.yml
 permissions:
   actions: read
-  contents: read
+  contents: write
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -61,3 +61,14 @@ jobs:
           path: /tmp/orbitbid-selected/
           retention-days: 9
           compression-level: 0
+      - name: Record extractor run ID
+        shell: bash
+        run: |
+          set -euo pipefail
+          marker="auctions/$AUCTION_ID/selected-photo-artifact-run.txt"
+          printf 'run_id=%s\nlot=%s\nartifact=orbitbid-%s-lot-%s-source-photos\n' "$GITHUB_RUN_ID" "$LOT" "$AUCTION_ID" "$LOT" > "$marker"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$marker"
+          git commit -m "Record selected-lot photo artifact run for $LOT" || exit 0
+          git push
