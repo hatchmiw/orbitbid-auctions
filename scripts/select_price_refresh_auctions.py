@@ -36,18 +36,17 @@ def lot_close_timestamp(lot: dict) -> int | None:
     return max(values) if values else None
 
 
-def final_close_timestamp(path: Path) -> int | None:
+def auction_close_timestamps(path: Path) -> list[int]:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
-        return None
+        return []
 
-    closes = [
+    return [
         ts
         for lot in (data.get("lots") or [])
         if (ts := lot_close_timestamp(lot)) is not None
     ]
-    return max(closes) if closes else None
 
 
 def select(mode: str, now_ts: int) -> list[str]:
@@ -61,20 +60,25 @@ def select(mode: str, now_ts: int) -> list[str]:
 
     for path in sorted(AUCTIONS_DIR.glob("*/lots.json")):
         auction_id = path.parent.name
-        close_ts = final_close_timestamp(path)
-        if close_ts is None:
+        close_times = auction_close_timestamps(path)
+        if not close_times:
             print(f"Skipping {auction_id}: no valid lot close time", file=__import__("sys").stderr)
             continue
 
-        if now_ts > close_ts + cutoff_seconds:
+        final_close_ts = max(close_times)
+        if now_ts > final_close_ts + cutoff_seconds:
             continue
 
         if mode == "auction-day":
-            close_local_date = datetime.fromtimestamp(close_ts, timezone.utc).astimezone(LOCAL_TZ).date()
-            # Keep the 10-minute cadence through the post-close grace period,
-            # even when that six-hour window crosses local midnight.
-            in_post_close_grace = close_ts <= now_ts <= close_ts + cutoff_seconds
-            if close_local_date != now_local_date and not in_post_close_grace:
+            close_local_dates = {
+                datetime.fromtimestamp(ts, timezone.utc).astimezone(LOCAL_TZ).date()
+                for ts in close_times
+            }
+            # Any day with a scheduled lot close gets the 10-minute cadence.
+            # Keep that cadence through the post-final-close grace period even
+            # when the six-hour window crosses local midnight.
+            in_post_close_grace = final_close_ts <= now_ts <= final_close_ts + cutoff_seconds
+            if now_local_date not in close_local_dates and not in_post_close_grace:
                 continue
 
         selected.append(auction_id)
