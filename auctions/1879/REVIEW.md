@@ -257,3 +257,66 @@ These are flexible envelopes, not mandatory spending quotas.
 
 **Current stop condition:** the 32 focus lots now all have active conditional hammer ceilings in `catalog-review.csv`. Before live bidding, re-read the newest price snapshot and remove any lot already at/over its ceiling; otherwise follow the close-time and substitution rules above.
 
+## September 28 — today-only bid activation plan (6:24 PM EDT snapshot)
+
+**Price basis:** complete refresh `2026-09-28T22:24:09.068695Z`, 487/487 lots, zero refresh errors.
+
+The objective today is **not** to activate every individually defensible maximum. Use early hidden-max bidding only on unique/high-confidence targets where winning all active max bids would still fit the overall spend structure. Preserve flexibility on overlapping and lower-priority lots until tomorrow.
+
+### Activate max bid today
+
+| Lot | Current | Max hammer | Reason |
+|---|---:|---:|---|
+| **18211** | $65 | **$120** | Full 7-original photo review completed; 2864-20, 2757-series driver, XC5.0, HO XC6.0, third M18 battery and charger confirmed. Unique strong target. |
+| **18327** | $15 | **$65** | Full 4-original review completed; specific property/grading use; little substitute dependency. |
+
+These two create only **$185 worst-case hammer exposure** and are the cleanest candidates for early hidden maximums.
+
+### Strong targets, but wait today
+
+| Lot | Current | Max hammer | Why wait rather than activate now |
+|---|---:|---:|---|
+| **18115** | $10 | $70 | Strong property-use candidate, but only prior visual/contact-sheet review; preserve early-group flexibility and reassess latest price tomorrow. |
+| **18530** | $5 | $75 | Bench + Wilton vise remains strong, but prior batch review rather than fresh individual-original pass; late enough to review/reallocate tomorrow. |
+| **18161** | $5 | $50 | Excellent cheap grease-equipment alternative, but not necessary to tie up budget a day early. |
+| **18573** | $10 | $80 | Strong late-closing drill-storage/bit lot; preserve budget until earlier lots resolve. |
+| **18577** | $20 | $60 | Still attractive after moving from $5 to $20, but overlaps shop-bench spending and closes late. |
+| **18468** | $5 | $45 | Excellent low-price upside, but exact second impact/model/function uncertainty remains; wait. |
+| **18140** | $25 | $45 | Useful pipe wrenches but now over half of ceiling; no advantage to activating early. |
+| **18156** | $5 | $40 | Cheap threading/cutting tools; overlaps the pipe-tool category and should remain dormant until tomorrow. |
+| **18189** | $10 | $50 | Grinder lot is secondary to 18211/18468 portable-tool spending. |
+| **18192** | $10 | $40 | Sawzall/grinder secondary portable-tool purchase. |
+| **18193** | $20 | $50 | Hole Hawg has distinct use but is not budget-critical today. |
+| **18203** | $10 | $35 | Hydraulic kit remains condition/seal dependent. |
+| **18206** | $5 | $30 | Redundant with stronger drill opportunities. |
+| **18212** | $5 | $25 | Full original review confirms speculative vintage/parts value, not ready-use communications equipment. Cheap opportunity tomorrow only. |
+| **18440** | $25 | $45 | Already >55% of ceiling; no need to show additional activity today. |
+| **18501** | $5 | $35 | Band-It opportunity, but lower priority. |
+| **18502** | $10 | $35 | Useful hardware; no reason to tie budget early. |
+| **18518** | $5 | $30 | Useful tubing but lower priority/non-safety use only. |
+| **18544** | $10 | $50 | Hardware-organizer inventory; wait for budget picture. |
+| **18545** | $35 | $55 | Already close enough to ceiling that it should not receive an early max. |
+| **18561** | $5 | $45 | Strong farm hardware utility; late enough to preserve flexibility. |
+| **18563** | $5 | $35 | Mixed organizer/fitting inventory; lower priority. |
+| **18564** | $15 | $40 | Commodity hose-clamp inventory; don't activate early. |
+| **18570** | $15 | $60 | Bandsaw repair/alignment risk; late close and nonessential. |
+| **18578** | $5 | $25 | Overlaps 30-1332 lighting stock. |
+| **18590** | $5 | $60 | Collector/storage wildcard; wait until late budget is known. |
+| **30-1332** | $5 | $30 | Lighting stock overlaps 18578; choose later. |
+| **18558** | $5 | $20 | Low-priority clutter/bench-grinder lot; only consider if still giveaway-price. |
+
+### Do not bid / crossed off at current price
+
+| Lot | Current | Prior ceiling / issue | Action |
+|---|---:|---|---|
+| **18101** | **$150** | $75 ceiling | **No bid.** Jumped $55→$150 in the latest hour and is now 2× our ceiling. |
+| **18439** | **$105** | $60 ceiling | **No bid.** Snap-On air hammer is already far past the researched stop. |
+| **18541** | **$245** | Reappraisal supports market plausibility but no active ceiling | **No new bid today.** If already high bidder, leave it alone. Revisit only after confirming whether the photographed floor coils/conduit boxes are included. If all photographed contents are included, a roughly $250–$300 personal-use range may be defensible; do not chase above that without better footage/content confirmation. |
+| **18118** | **$30** | $40 ceiling, safety-critical engine hoist | **No max today.** Only $10 of headroom remains; reconsider tomorrow only if the hoist is specifically needed. |
+
+### Today's exposure rule
+
+Placing only the **18211 $120** and **18327 $65** hidden maximums creates **$185 maximum hammer exposure**. This preserves at least **$165 of the $350 planned target** for tomorrow's early and late clusters, while still gaining the earlier-max tie advantage on the two targets with the strongest completed analysis.
+
+If additional source-photo checks today upgrade 18115 or 18530 to the same confidence level, either can be activated then, but avoid having total simultaneously active maximums materially above the $350 planned target without deliberately raising the budget.
+
