@@ -1,0 +1,983 @@
+{
+  "schema": "orbitbid-watchlist-v1",
+  "captured_at": "2026-09-28T15:23:01.021Z",
+  "imported_at": "2026-09-28T15:23:01.021Z",
+  "source_host": "bid.orbitbid.com",
+  "total_lots": 81,
+  "matched_saved_lots": 81,
+  "unmatched_lots": 0,
+  "lots": [
+    {
+      "internal_id": 1705101,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18101",
+          "title": "(1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular b..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705102,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18102",
+          "title": "Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705103,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18103",
+          "title": "(1) 65\" length x 33\" height x 30\" depth wood work bench with assorted scrap steel, steel cuts, plate..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705108,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18108",
+          "title": "(1) make and model unknown automotive creeper with a 30\" length x 33\" height x 16\" depth, 2-tier ser..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705110,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18110",
+          "title": "(1) Blue Point 30\" width x 32\" height x 16\" depth, 2-tier steel shop cart, and (1) Blue Point 30\" le..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705113,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18113",
+          "title": "(1) Homelite portable trash pump with a make and model unknown gas engine, engine is seized, does no..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705118,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18118",
+          "title": "(1) Ramco Shop Hand 5000, 5000 lb. capacity engine hoist with extendable arm, and RM8000 long ram ja..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705122,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18122",
+          "title": "(1) 22\" width x 34\" height x 30\" depth steel tool box with assorted hand tools, includes adjustable ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705123,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18123",
+          "title": "(1) Miller, model AED-200LE, constant current AC/DC arc welder/generator, S/N JH202466 (120/240V-5 K..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705124,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18124",
+          "title": "(1) Miller, Millermatic 300, 3 phase MIG welder power source with Tweco MIG gun (no tank)."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705125,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18125",
+          "title": "(1) Lincoln Ideal Arc 250 arc welder, 230-460V input, S/N AC390125, working condition unknown, inclu..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705126,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18126",
+          "title": "(1) make and model unknown portable engine hoist with a RM8000 long Ram jack, and extendable hoist."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705127,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18127",
+          "title": "(1) oxygen/acetylene torch cart set up with approx. 20' of hose, built-in tool box, approx. 16\" diam..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705128,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18128",
+          "title": "(1) oxygen/acetylene torch cart set up with approx. 20' of hose, 8\" diameter solid wheels, face mask..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705130,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18130",
+          "title": "(1) Miller Dimension 650 CC/CV/DC arc welding power source, S/N KF790082, 230/460/575V, 3 phase inpu..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705132,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18132",
+          "title": "(1) Buffalo Tools extendable 3/8\" air hose reel with assorted lengths of various air hose."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705134,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18134",
+          "title": "Lot including (1) approx. 20 gallon capacity grease can with 4-wheel base, and a Lincoln Engineering..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705136,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18136",
+          "title": "(1) Craftsman 16-gallon capacity wet/dry vac, and (1) Master Mechanic approx. 6-gallon capacity, 1 p..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705140,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18140",
+          "title": "Lot including (1) Ridgid 36\", (1) 24\", and (1) Fuller 18\" pipe wrench."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705144,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18144",
+          "title": "Lot of (3) various sledgehammers with wedged end."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705145,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18145",
+          "title": "Lot of (5) various sledgehammers."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705151,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18151",
+          "title": "Lot including (3) approx. 20' long chains with 3/8\" hooks, (3) 2\" tow straps (2 approx. 20' long, 1 ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705153,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18153",
+          "title": "(1) RN, model 52PY 6/12/24V battery charger-100/80/50 amp, S/N 7241, includes jumper cables, working..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705155,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18156",
+          "title": "Large lot of assorted pipe threading and cutting tools, including dies, pipe cutters, (1) reamer, va..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705156,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18157",
+          "title": "Lot of assorted torch related items, includes (1) pair of Radnor insulated welding gloves, item #640..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705158,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18159",
+          "title": "(1) make and model unknown air powered, portable truck jack, capacity is unknown (label is illegible..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705192,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18193",
+          "title": "(1) Milwaukee, Cat #1675-1, heavy duty hole hawg drill with steel case."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705196,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18197",
+          "title": "(1) Kar Products, 20\" width x 8\" height x 17\" depth, 2-drawer hardware storage unit, with assorted t..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705201,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18202",
+          "title": "(1) Solar, model 660, Fleet 6/12/24V battery charger/starter, working condition unknown."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705202,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18203",
+          "title": "(1) manual hydraulic ram tool with steel case."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705203,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18204",
+          "title": "Entire shelf of various large wrenches and spanner wrenches."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705205,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18206",
+          "title": "Lot including (1) make and model unknown heavy duty drill with Jacobs 3/4\" capacity chuck, (1) Milwa..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705206,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18207",
+          "title": "Lot including (1) Keson, model RR318N, portable roller type measuring tool, (2) 300' tape measures, ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705207,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18208",
+          "title": "Lot including (1) Werner 4' fiberglass and aluminum step ladder, and (1) Werner 6' fiberglass and al..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705210,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18211",
+          "title": "Lot including (1) Milwaukee, Cat #2864-29, 3/4\" square ring, 18V rechargeable impact wrench, (1) Mil..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705211,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18212",
+          "title": "Lot including (3) Motorola Radius 2-way radios with (1) Regency monitor radio/scanner, (1) Motorola ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705215,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18216",
+          "title": "(1) Gardner-Denver, model ADD-608961011, approx. 60-gallon capacity air compressor with a 230/460V, ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705217,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18218",
+          "title": "Entire content of items shown on wall and in wood shelf, includes assorted hammers, rakes, pickaxes,..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705250,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18428",
+          "title": "(1) Snap-On 1/2\" drive swivel head, dial type torque wrench, model TQFR250D, with case, and (1) Snap..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705261,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18439",
+          "title": "(1) Snap-On, model PH3050A, air chisel with assorted bits."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705262,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18440",
+          "title": "(1) set of Snap-On, model RTD33, rethreading kit with case."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705271,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18449",
+          "title": "(1) Snap-On 1/8\" through 1/4\" T-handle hex head tool set."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705278,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18456",
+          "title": "Large lot of assorted grinding wheels, wire wheels, sanding wheels, (1) Makita, model GEO600, electr..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705293,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18471",
+          "title": "(1) Fowler, item #52-483-888, deburring kit with case, (1) Central Pneumatic 1/4\" air angle die grin..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705294,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18472",
+          "title": "(1) Dremel, model 290, electric engraver, and (5) Central Pneumatic 1/4\" air angle die grinders."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705299,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18477",
+          "title": "(1) Central Hydraulics, model 36397, 8-ton, round bottom, long ram hydraulic jack."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705303,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18481",
+          "title": "Lot of assorted Allen wrenches, and Torx wrenches."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705306,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18484",
+          "title": "(1) Kal Equip #2204, digital multimeter with case."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705312,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18490",
+          "title": "Lot of assorted vise grip style welding clamps."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705329,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18507",
+          "title": "(1) Lawson Products universal internal and external thread restorer, 5-piece combination set, #57588..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705336,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18514",
+          "title": "(1) Tool Aid quick change ratcheting terminal crimping kit, and assorted Blue Point wire pliers."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705351,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18529",
+          "title": "(1) lot of assorted bearing separators, various sizes, slide hammers, threaded rod, axle seal tools,..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705363,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18541",
+          "title": "(1) Kar Products electric wire reel stand with assorted size wire."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705364,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18542",
+          "title": "Contents of 2 shelves, includes assorted duct tape, electrical tape, (2) hand staplers with staples,..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705365,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18543",
+          "title": "Lot of (3) 4-drawer pull out parts organizers with contents including fender washers, grease fitting..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705366,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18544",
+          "title": "Lot of (3) 4-drawer parts organizers with contents including square keys, woodruff keys, cable ties,..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705367,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18545",
+          "title": "Lot of (3) 4-drawer pull out parts organizers with contents including metric bolts, socket head cap ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705369,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18547",
+          "title": "Lot of (2) metal framed tables, 1 is approx. 45\" wide, 1 is approx. 36\" wide, with contents of (1) 4..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705370,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18548",
+          "title": "(1) Schumacher multi battery charger, model SE-1072, (1) Chicago Electric battery tester, and (1) Ma..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705373,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18551",
+          "title": "(1) Miller MP-65E welder, 230/460V, 3 phase, S/N JA358881, with a Miller Matic 30-E wire feed, welde..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705380,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18558",
+          "title": "Contents of wood parts organizers, includes assorted bolts, nuts, assorted sizes, and (1) Ram bench ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705381,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18559",
+          "title": "Contents of wood organizer, includes assorted pipe fittings, elbows, 90° caps, reducers, and more, c..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705382,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18560",
+          "title": "Lot of (4) metal parts cabinets, 2 measure 35\" wide x approx. 42\" tall x 11.5\" deep, 1 is 18\" wide x..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705383,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18561",
+          "title": "Contents of wood organizers, includes assorted hitch balls, clevises, hooks, rope eyelets, threaded ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705384,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18562",
+          "title": "Contents of cabinet, includes assorted torch and welding supplies, Tweco replacement conduits (appea..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705385,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18563",
+          "title": "(2) metal framed plastic pull out parts organizers with contents, includes assorted springs, brass f..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705386,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18564",
+          "title": "Lot of assorted hose clamps with (2) wall mount hose clamp organizers."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705392,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18570",
+          "title": "(1) Johnson horizontal band saw, approx. 9\" throat, 120V, said to need adjustment, currently cuts cr..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705395,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18573",
+          "title": "(1) custom made pedestal stand with 4-drawer pull out metal organizer with contents of assorted dril..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705400,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18578",
+          "title": "Lot of assorted truck and trailer lights, includes tail lights, headlights, truck mirrors, and more."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705406,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18584",
+          "title": "Large lot of assorted welding rod, various types, includes Hotpoint vintage refrigerator, used for s..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705409,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18587",
+          "title": "Lot of assorted standard wrenches, includes 1/16\", 1 1/8\", 1 1/4, 1 5/16\", 1 3/8\", (2) 1 7/16\", (2) ..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705423,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18601",
+          "title": "Large lot of assorted WIX and NAPA oil filters, air filters, and fuel filters, includes WIX 42323 ai..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705477,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18289",
+          "title": "(4) partial spools of air hose, includes Parker 1/2\", 200 PSI max, 3/8\" air hose, Pioneer Farmax 3/4..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705478,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18290",
+          "title": "(1) Matthews Company HD, 3 pt. mower, model 10HDL, S/N 42021, approx. 10', 540 PTO."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705492,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18304",
+          "title": "Lot of (4) approx. 20' chains, (6) snap style chain binders, and (1) ratcheting chain binder, also i..."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705493,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18305",
+          "title": "Lot of 4 ratcheting chain binders, (3) 10' and (1) approx. 20', broom, and shovel."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705498,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18310",
+          "title": "Approx. (16) metal sign posts, approx. 8' tall."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705512,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18324",
+          "title": "(1) Ford 90I, 60\", 3 pt. brush hog, PTO driven, S/N 47431."
+        }
+      ]
+    },
+    {
+      "internal_id": 1705515,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18327",
+          "title": "(1) 80\" x 48\" steel mesh drag."
+        }
+      ]
+    },
+    {
+      "internal_id": 1723322,
+      "first_seen_at": "2026-09-28T15:23:01.021Z",
+      "last_seen_at": "2026-09-28T15:23:01.021Z",
+      "saved_lots": [
+        {
+          "auction_id": "1879",
+          "lot": "18612",
+          "title": "Air Supply CV97A11A352A Air Compressor"
+        }
+      ]
+    }
+  ]
+}
