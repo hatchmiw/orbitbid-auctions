@@ -46,7 +46,15 @@ This workflow reads the known internal OrbitBid lot IDs already saved in `lots.j
 
 Each refresh appends one timestamped row per lot to `price-history.csv`, preserving the bid amount and bid count from that moment. `summary.csv` also includes human-readable UTC closing-time columns alongside OrbitBid's raw timestamps.
 
-This is the preferred way to update live prices for auction **1970** (Mid Michigan Greenhouses) or any other already-saved auction.
+Price refreshes are also scheduled automatically for saved auctions:
+
+- **Hourly** before auction day, at minute 7 of each hour.
+- **Every 10 minutes** on any America/Detroit calendar day containing a scheduled lot close.
+- The 10-minute cadence continues through a **six-hour grace period after the final scheduled lot close**, including across local midnight.
+- After final close + six hours, that auction is automatically excluded from scheduled refreshes.
+- Manual **Refresh OrbitBid prices** runs remain available at any time for a specific saved auction.
+
+The scheduler derives close times from each saved auction's `lots.json`, so newly imported auctions do not require hard-coded dates or auction IDs.
 
 ## Troubleshooting workflows
 
