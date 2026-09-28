@@ -167,12 +167,14 @@ def read_payload(args: argparse.Namespace) -> dict[str, Any]:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    source = parser.add_mutually_exclusive_group(required=True)
-    source.add_argument("input", nargs="?", help="Path to sanitized Watch List JSON.")
-    source.add_argument("--stdin", action="store_true", help="Read sanitized Watch List JSON from stdin.")
+    parser.add_argument("input", nargs="?", help="Path to sanitized Watch List JSON.")
+    parser.add_argument("--stdin", action="store_true", help="Read sanitized Watch List JSON from stdin.")
     parser.add_argument("--root", default=".", help="Repository root.")
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT), help="Canonical output path.")
-    return parser.parse_args()
+    args = parser.parse_args()
+    if bool(args.input) == bool(args.stdin):
+        parser.error("Provide exactly one input path or --stdin.")
+    return args
 
 
 def main() -> int:
