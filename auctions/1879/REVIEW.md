@@ -320,3 +320,22 @@ Placing only the **18211 $120** and **18327 $65** hidden maximums creates **$185
 
 If additional source-photo checks today upgrade 18115 or 18530 to the same confidence level, either can be activated then, but avoid having total simultaneously active maximums materially above the $350 planned target without deliberately raising the budget.
 
+## September 28 — shortlist individual-original photo audit
+
+The following 17 active shortlist lots are now confirmed at the **individual-original JPG** review standard, not merely contact-sheet or batch screening:
+
+`18115, 18530, 18161, 18573, 18577, 18468, 18156, 18189, 18193, 18203, 18206, 18440, 18502, 18501, 18544, 18545, 30-1332`.
+
+The September 28 upgrade reopened **100 original JPGs** across the 13 lots that had previously only been batch/contact-sheet reviewed. Four lots (18161, 18203, 18502 and 30-1332) already had individual-original inspection and were not repeated unnecessarily.
+
+Material changes from the upgraded originals:
+- **18115:** serious catalog/photo identity ambiguity. Source photos do not cleanly show the cataloged Honda GX140 20x16 plate compactor and separately show a Honda GX160 and unrelated equipment. Previous $70 ceiling is withdrawn; temporary ceiling **$25 pending clarification**.
+- **18468:** one impact is clearly an Ingersoll-Rand **2235 TITANIUM** and appears consistent with the common 1/2-inch family rather than the cataloged 3/8-inch drive. Ceiling increased **$45 → $60**, still untested.
+- **18501:** full photos confirm genuine BAND-IT tensioning tool, BAND-IT JR adapter and substantial band/clamp stock. Ceiling increased **$35 → $45**.
+- **18544:** three organizer stacks are substantially stocked with keys, cable ties, terminals, battery lugs, heat-shrink, pigtails and clamps. Ceiling increased **$50 → $75**.
+- **18545:** three organizer stacks are materially stocked with metric/standard fasteners, socket-head screws, studs, retaining rings, spring pins, set screws and self-drilling/binding-head screws. Ceiling increased **$55 → $80**.
+- **18530:** vise/reel remain attractive but bench top is badly deteriorated around the vise; **$75 retained**.
+- **18573, 18577, 18156, 18189, 18193, 18206 and 18440:** originals support the existing active ceilings; detailed findings are in `catalog-review.csv`.
+
+**30-1332 is a valid auction-1879 lot**, OrbitBid item number `1-30-1332`, internal ID `1799881`, titled “5 boxes of truck and equipment lights, grommets, etc.” Its non-18xxx numbering is why it is easy to miss in the catalog. Five originals were individually inspected on September 25.
+
