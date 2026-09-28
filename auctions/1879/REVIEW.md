@@ -339,3 +339,24 @@ Material changes from the upgraded originals:
 
 **30-1332 is a valid auction-1879 lot**, OrbitBid item number `1-30-1332`, internal ID `1799881`, titled “5 boxes of truck and equipment lights, grommets, etc.” Its non-18xxx numbering is why it is easy to miss in the catalog. Five originals were individually inspected on September 25.
 
+## September 28 — complete 34-lot shortlist original-photo standard
+
+The **entire 34-lot working shortlist is now individually reviewed from every original source JPG**. This is no longer a mixed contact-sheet/batch-screening shortlist.
+
+- **34 / 34 shortlist lots:** individual-original review complete.
+- **248 / 248 source JPGs across those 34 lots:** individually inspected.
+- The final 11 upgrades were: `18118, 18140, 18192, 18439, 18558, 18561, 18563, 18564, 18570, 18578, 18590` (82 originals).
+- Detailed per-lot findings and active conditional hammer ceilings are in `catalog-review.csv`.
+
+Material changes from the final 11-lot upgrade:
+- **18558:** dense bolts/nuts/hardware contents plus RAM bench grinder are stronger than prior contact-sheet shorthand; ceiling **$20 → $30**. Wood organizer remains excluded.
+- **18561:** substantial hitch/fabrication hardware inventory confirmed; ceiling **$45 → $60**. Old hooks/eyes/rigging are not assumed certified for lifting.
+- **18563:** catalog explicitly includes the contents of the wood workbench drawers in addition to the two organizers; originals confirm meaningful springs, fittings, specialty tools and hardware; ceiling **$35 → $50**.
+- **18564:** two display racks hold dozens of hose clamps across many sizes; ceiling **$40 → $50**.
+- **18578:** originals confirm multiple packaged Maxxima LED lamps, Grote/Wagner/Philips/NAPA lighting and several RETRAC mirrors; ceiling **$25 → $45**, still coordinated against 30-1332.
+- **18590:** Borg-Warner illustrated automotive-parts cabinet plus Tung-Sol display and mixed vintage contents have stronger collector/display value than prior shorthand; ceiling **$60 → $75**.
+- **18118, 18140, 18192, 18439 and 18570:** full originals support the existing ceilings; no increase made.
+- **18439** remains over its $60 ceiling at the latest known bid despite the improved photo certainty.
+
+This checkpoint supersedes earlier statements that some shortlist lots were only contact-sheet or batch-reviewed. Any future shortlist recommendation should use the individual-original findings in the current master.
+
