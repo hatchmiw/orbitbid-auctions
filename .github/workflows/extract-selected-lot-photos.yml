@@ -9,7 +9,7 @@ on:
       lots:
         description: Space-separated lot numbers
         required: true
-        default: '18137 18153 18174 18187'
+        default: '18216 18197'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
