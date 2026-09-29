@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T08:06:48.155842Z",
+  "retrieved_at": "2026-09-29T08:28:36.034449Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -6508,9 +6508,9 @@
       "title": "(1) Ramco, model RS-90P, metal cutting band saw with approx. 16\" x 10\" cut area, S/N 12386, equipped...",
       "subtitle": null,
       "description": "",
-      "amount": 205,
+      "amount": 260,
       "max_amount": null,
-      "bid_count": 23,
+      "bid_count": 25,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -157596,9 +157596,9 @@
       "title": "Clark Forklift (1) Clark LP lift truck, model C300Y40, S/N Y466-122-4387380, 4000 lb. capacity, 127\"...",
       "subtitle": null,
       "description": "<div><p></p><p><strong>PLEASE NOTE: This forklift will be used to assist with removal of some auction items. Removal time for the forklift will be scheduled for a later date, possibly the next week.  Please call the site manager Dave @ 616-401-9059, if any questions. Transfer of ownership to the winning bidder will take effect at the time of buyer's removal of the forklift. </strong></p><p></p></div>",
-      "amount": 510,
+      "amount": 625,
       "max_amount": null,
-      "bid_count": 13,
+      "bid_count": 15,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T08:06:48.155842Z"
+  "last_price_refresh_at": "2026-09-29T08:28:36.034449Z"
 }
