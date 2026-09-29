@@ -394,3 +394,25 @@ All **9 original source JPGs** from artifact run 36516141629 were inspected indi
 - This is a heavy older farm implement, not a light compact-tractor 3-point disc; tractor horsepower/weight and transport logistics must be confirmed before use.
 
 **Bid ceiling:** raise provisional $125 to **$250 hammer** as an item-value ceiling, because the originals show a substantially complete heavy offset disc rather than scrap. Keep the ceiling conservative for unknown bearings/gang condition and removal logistics. This remains subordinate to tractor compatibility and the overall auction budget.
+
+
+## September 29 — auction-morning price checkpoint (7:51 AM EDT)
+
+**Price basis:** successful scheduled refresh `2026-09-29T11:51:10.446918Z`, 487/487 lots, zero refresh errors.
+
+Decision/status changes:
+- **18388 Turner offset disc: SKIP.** The prior $250 figure remains an underlying item-value conclusion from the completed nine-original review, but transport/removal of the approximately 10-ft wheel-less implement is not worthwhile. Remove it from the active bidding shortlist.
+- **18118 RAMCO Shop Hand 5000: OUT.** Current bid $75 exceeds the established $40 hard ceiling. Do not raise the ceiling merely because bidding increased.
+- **18440 Snap-On RTD33: OUT** at $55 versus $45 ceiling.
+- **18544 electrical/hardware organizers: OUT** at $200 versus $75 ceiling.
+- **18545 fastener organizers: OUT** at $135 versus $80 ceiling.
+- Existing out lots remain out: **18101** $155 versus $75 and **18439** $115 versus $60.
+- **18123 Miller AEAD-200LE** remains the primary welder target at $165 / $325 max; **18125 Lincoln Idealarc 250** is the substitute at $115 / $175 max. Do not budget both maxima as additive purchases.
+- **18161 grease-pump pair** remains exceptionally cheap at $5 / $50 max; under roughly $25 remains especially attractive.
+- **18211 Milwaukee M18 lot** remains $65 / $120 max and a strong target.
+- **18327 steel mesh drag** remains $20 / $65 max and retains direct personal-use value.
+- Master consistency fix: established ceilings for 18123 ($325), 18125 ($175) and 18133 ($65) are now populated in `catalog-review.csv`; these are not new valuation changes.
+
+Full-auction movement rescreen: meaningful upward moves are concentrated in already-expensive heavy equipment and several tool/hardware lots. No previously ignored/deprioritized lot became newly attractive *because of price movement*; OrbitBid bids only moved upward. Several still-cheap high/medium screening lots remain research possibilities, but none is promoted to an active target without adequate existing evidence or new market research.
+
+Morning strategy remains budget/substitution driven: protect the Miller/Lincoln alternative relationship, favor 18161 while cheap, keep 18211 reserve intact for 6:30, use 7:00 hardware/tool opportunities only if earlier targets are lost, preserve late capacity for 18573/18590/18561 and related low-price lots, and retain the $65 drag ceiling for 8:00.
