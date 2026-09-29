@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T04:32:16.472936Z",
+  "retrieved_at": "2026-09-29T04:50:17.738435Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -118480,9 +118480,9 @@
       "title": "(1) Borg Warner 2-door automotive tune up parts cabinet, 28.5\" wide x 12\" deep x 31.5\" tall, with co...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T04:32:16.472936Z"
+  "last_price_refresh_at": "2026-09-29T04:50:17.738435Z"
 }
