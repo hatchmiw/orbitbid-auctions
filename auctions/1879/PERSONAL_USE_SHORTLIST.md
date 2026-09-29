@@ -138,3 +138,28 @@ All 27 source originals from workflow run 36568082348 / artifact 11031894936 wer
 - **18153 — RN Industries model 52PY charger/starter:** photos confirm USA-made 6/12/24V charger, 100/80/50A charge ratings, 550A boost/crank / 650 peak, timer, ammeter, polarity check, wheeled cabinet and heavy clamps/leads. Visually complete with normal age/wear; operation unknown. Historical owner reports describe the 52PY as a heavy-duty semi/combine starter and cited ~$360 new-market pricing in 2018; exact current auction comp was not found. **Hammer ceiling: $75.** Strong practical buy below $50 if transformer/switches are healthy; 24V capability adds farm/heavy-equipment utility.
 - **18174 — CLS Super Mite laser package:** photos confirm CLS Super Mite laser, P/N 787, S/N 3225, manufactured Nov. 1984, with hard case, rod, aluminum tripod, Rod-Eye receiver and related sensor hardware. This is very old survey technology. A nearly identical 1985 CLS Super Mite (S/N 3252) sold at auction in 2024 for $10. **Hammer ceiling: $20.** Only a cheap experiment; age/calibration/electronics risk outweighs the apparent completeness.
 - **18187 — two older Bosch corded grinders:** originals show two large/heavy Bosch corded angle grinders, one set up with a wire cup and the other with an abrasive cutting/grinding wheel; both have side handles and substantial wear/dust. Exact model plates are not readable in the photos. Recent individual used Bosch grinder auction examples range from $9 for an older corded unit to $38 for an 8-in Bosch; a tested three-grinder Bosch/Makita group sold $110. **Hammer ceiling: $40.** Useful at $10–$30, but age, unknown operation and guard/accessory condition keep the ceiling modest.
+
+
+## OrbitBid watchlist sync snapshot — September 29, 2026 10:12 AM EDT
+
+Combined browser captures at 2026-09-29T14:12:03.665Z and 2026-09-29T14:12:49.679Z contain **73 unique auction-1879 lots**. Compared with the current actionable/researched personal-use set (including the three September 29 cheap-lot groups, excluding lots already declared OUT and the transport-skipped Turner disc), there are **31 lots on both lists, 11 actionable/researched lots missing from the user's OrbitBid watchlist, and 42 user-watchlist-only lots**.
+
+### Actionable/researched lots missing from OrbitBid watchlist
+
+- 18133 Predator 212 — current $85 versus $65 established ceiling: **do not add for bidding; now over ceiling**.
+- 18137 McCulloch saw/trimmer — current $10, ceiling $40.
+- 18140 Ridgid/Fuller pipe wrenches — current $35, ceiling $45; little remaining headroom.
+- 18152 Makita 9306 grinder — current $5, ceiling $35.
+- 18162 portable blast pot — current $5, ceiling $30.
+- 18174 CLS Super Mite laser package — current $5, ceiling $20; low-priority/obsolete-tech gamble.
+- 18187 two Bosch corded grinders — current $10, ceiling $40.
+- 18192 Milwaukee Sawzall + grinder — current $30, ceiling $40; little remaining headroom.
+- 18212 Motorola/Regency radio lot — current $5, ceiling $25.
+- 18501 BAND-IT tool/banding stock — current $5, ceiling $45.
+- 18518 Tectran/other tubing — current $5, ceiling $30.
+
+### User-watchlist-only lots to integrate into our review queue rather than remove blindly
+
+Highest-priority reconciliation candidates based on current project use and price: **18122, 18126, 18159, 18204, 18207, 18216, 18471, 18472, 18477, 18551, 18562, 18289, 18304, 18305, 18324**. In particular, 18216 Gardner-Denver compressor and 18551 Miller MP-65E/Millermatic 30-E wire feeder are active discussion items and should remain watched while their practicality/value is resolved.
+
+Known/non-actionable distinctions: 18544 and 18545 are already over established ceilings; 18124 and 18130 are 3-phase welding power sources and are not current single-phase shop priorities; other user-only lots remain watch candidates pending photo/value review and should not be deleted solely because they are absent from the actionable set.
