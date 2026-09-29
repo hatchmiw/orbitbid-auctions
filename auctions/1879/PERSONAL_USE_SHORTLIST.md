@@ -62,3 +62,15 @@
 ### Navigation and status
 
 Use [the official auction catalog](https://bid.orbitbid.com/?auction_id=1879) and search the exact **1- prefixed** lot identifier, e.g. `1-18119`. Do not use assistant-invented `/lot/` URLs. The CSV's first-photo URLs are copied from the source catalog, not stock images. The September 24 snapshot bids are historical, not current. **Outstanding before bidding:** reopen all original images for any selected item, inspect condition and functionality in person where possible, and compare actual replacement cost; no personal-use maximum bids have been assigned.
+
+
+## Auction-morning additions — September 29, 2026
+
+Added for original-photo investigation before assigning bid ceilings:
+
+| Lot | Item | Status |
+|---|---|---|
+| 18121 | Heavy-duty steel cart with assorted contents | Added — inspect all originals |
+| 18132 | Buffalo Tools retractable 3/8-in air-hose reel + assorted hose | Added — inspect all originals |
+| 18152 | Makita 9306 4-in bench grinder | Added — inspect all originals |
+| 18162 | Portable blast pot with nozzle and ~10 ft hose | Added — inspect all originals |
