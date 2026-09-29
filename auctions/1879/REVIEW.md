@@ -378,3 +378,19 @@ Current active ceilings:
 18115 $25; 18118 $40; 18123 $325; 18125 $175; 18133 $65; 18140 $45; 18156 $40; 18161 $50; 18189 $50; 18192 $40; 18193 $50; 18203 $35; 18206 $30; 18211 $120; 18212 $25; 18327 $65; 18388 $125 provisional; 18468 $60; 18501 $45; 18502 $35; 18518 $30; 18530 $75; 18558 $30; 18561 $60; 18563 $50; 18564 $50; 18570 $60; 18573 $80; 18577 $60; 18578 $45; 18590 $75; 30-1332 $30.
 
 Substitution/budget note: 18123 and 18125 are alternatives. The $325 Miller ceiling is an item-specific value ceiling, not authorization to exceed the prior overall auction spending target; aggregate exposure must be reassessed as lots resolve. 18578 and 30-1332 remain substitutes unless both stay exceptionally cheap. 18193 remains preferred over 18206 for heavy drilling.
+
+
+### Lot 18388 — original-photo review completed (September 29)
+
+All **9 original source JPGs** from artifact run 36516141629 were inspected individually.
+
+- Confirmed older **Turner Tillage** pull-type offset disc, cataloged at approximately 10 ft.
+- Heavy welded/bolted frame appears substantially complete with both disc gangs present.
+- Gang blades show broad surface rust and wear but no obvious wholesale missing gang/blade section in the nine views.
+- Frame has extensive weathering/lichen consistent with long outdoor storage, but no obvious catastrophic main-frame break is visible.
+- Hitch/drawbar hardware is present. Adjustment/transport hardware is old and should be expected to need freeing/lubrication.
+- The implement is deeply overgrown, so bearing freedom, gang seizure, bent axles, hidden weld repairs, and underside/frame condition cannot be verified from photos.
+- Several loose disc blades are stacked on top; treat them as possible spares only, not evidence that the installed gangs are defective.
+- This is a heavy older farm implement, not a light compact-tractor 3-point disc; tractor horsepower/weight and transport logistics must be confirmed before use.
+
+**Bid ceiling:** raise provisional $125 to **$250 hammer** as an item-value ceiling, because the originals show a substantially complete heavy offset disc rather than scrap. Keep the ceiling conservative for unknown bearings/gang condition and removal logistics. This remains subordinate to tractor compatibility and the overall auction budget.
