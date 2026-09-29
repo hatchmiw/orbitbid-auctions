@@ -116,3 +116,15 @@ All 27 source originals from workflow run 36567570636 / artifact 11031949156 wer
 - **18163 — Multiquip GA-6RZ:** all photos confirm GA-6RZ, 5500W output / “6000” series frame, 120/240V selectable output, GFCI receptacle, AC voltmeter, idle control and Wisconsin Robin WI-390 engine (spec 800687). Unit looks substantially complete with moderate cosmetic wear; battery provision/electric-start hardware is visible but battery status/function is not established. Exact-type Multiquip 6000/WI390 in unknown operating condition sold for $242 at Purple Wave (2020); current GA6 asking market spans roughly $395–$2,800 for newer/known units and one GA-6RZ excellent-condition ask is $900, so those asks are not directly capitalized into this untested older unit. **Hammer ceiling: $150.** Strong target below $100; portable generator usefulness remains distinct from the Miller welder/generator but aggregate spend should account for winning both.
 - **18165 — three-tool lot:** originals show Rota-Speed 230/9-in metal-cutting circular saw; Ramset DynaDrill Model 325 rotary hammer; and an older heavy Milwaukee rotary hammer in its genuine steel case with a useful assortment of long masonry bits/chisels. All are corded and visibly used; operation unknown. Ramset 325 with case/accessories sold C$40 in 2023; other Ramset DynaDrills sold around $21–$32, while a current functional 325 + bits ask is $75. The Milwaukee hammer/bits and metal saw add meaningful parts/use value even though exact models/operation remain unverified. **Hammer ceiling: $60.** Strong at $10–$40; do not pay as though all three are proven working.
 - **18186 — hydraulic wheel cart:** originals show a substantial yellow steel wheel/tire handling dolly with two long hydraulic cylinders, four casters and adjustable upright/retaining structure. Very dirty/used but no obvious major frame break is visible; make/model/capacity unreadable. Catalog says it “appears to be in working condition,” which is not a load test. Auction comps vary strongly by brand: OTC 1770A dual-wheel dolly sold $94, while identified Lincoln 765 Series B sold $325 in Michigan in 2023. **Hammer ceiling: $75** because this unit is unidentified and untested. Strong buy below $50 for F-250/heavy wheel handling if hydraulics hold; do not assign Lincoln/OTC premium without identification.
+
+
+## Third auction-morning cheap-lot group — September 29, 2026
+
+Selected for the next original-photo/research cycle from the refreshed $5–$10 range:
+
+| Lot | Current bid | Catalog item | Investigation rationale |
+|---|---:|---|---|
+| 18137 | $10 | McCulloch 20-in chainsaw + related items | Farm/tree/property work; determine exact contents/condition |
+| 18153 | $10 | RN 52PY 6/12/24V 100/80/50A battery charger + jumper cables | Older heavy charger may be useful for truck/equipment batteries |
+| 18174 | $5 | CLS Super Mite rotary laser + rod eye + two 9907 Accu-Sensors/tripod | Grading, ramp, drainage, building/site-layout work if usable |
+| 18187 | $10 | Bosch angle grinder + Bosch 8-in 120V saw | General fabrication/cutting utility; inspect exact tools/condition |
