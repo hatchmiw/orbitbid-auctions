@@ -94,3 +94,15 @@ Research follows individual-original review; ceilings are hammer prices and assu
 - **18132 — Buffalo Tools hose reel + old hose:** Buffalo AHREEL-type manual steel reel is currently roughly $38–$40 new and holds 100 ft of 3/8-in hose; photos show substantial additional hose but visibly aged/weathered. **Hammer ceiling: $20.** Prefer $5–$10; bulk hose gets little assigned value until pressure-tested/inspected.
 - **18152 — Makita 9306 6-in bench grinder:** manufacturer confirms 6-in wheel, 3600 RPM, 120V-class machine; current used asking example $50 plus shipping, and a tested accessory-equipped auction example sold CAD 170 in 2022. Photos show a visually complete but untested unit. **Hammer ceiling: $35.** Strong at $5–$20; above $35 the unknown function and ordinary 6-in grinder alternatives reduce appeal.
 - **18162 — portable blast pot:** generic/consumer small pots have much lower auction values than identified commercial ASME pots; recent 10-gallon Powerfist sold C$42, while commercial portable pots can be hundreds to thousands when brand, ASME status and condition are established. This lot has no identified maker/rating and visibly cracked blast hose. **Hammer ceiling: $30.** Treat as project/parts until vessel marking and condition are verified; do not capitalize commercial-blast-pot values into this lot.
+
+
+## Second auction-morning cheap-lot group — September 29, 2026
+
+Selected from the refreshed cheap-bid screen for original-photo investigation:
+
+| Lot | Current bid | Catalog item | Reason to investigate |
+|---|---:|---|---|
+| 18136 | $5 | Craftsman 16-gal + Master Mechanic ~6-gal wet/dry vacs | Renovation/farm/shop cleanup; zero bids |
+| 18163 | $10 | Multiquip GA-6RZ 5500W generator, Wisconsin WI-390 | Potential farm/emergency portable power; identity known but untested |
+| 18165 | $10 | Mixed corded power tools incl. Rota-Speed metal saw and Ramset Dyna Drill | Possible fabrication/renovation utility if contents are worthwhile |
+| 18186 | $5 | Hydraulic portable wheel cart | Potential truck/equipment tire handling; catalog says appears working |
