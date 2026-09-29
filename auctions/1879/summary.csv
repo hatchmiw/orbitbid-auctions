@@ -10,7 +10,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18107,1-18107,1705107,25,4,4,1,0,1790719200,2026-09-29T22:00:00Z,,,"(2) NAPA Blue-Comfort, item #BK 815-6219, automotive creepers."
 18108,1-18108,1705108,20,4,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) make and model unknown automotive creeper with a 30"" length x 33"" height x 16"" depth, 2-tier ser..."
 18109,1-18109,1705109,10,2,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 32"" width x 57"" height x 19"" depth, 2-sided rolling display rack with contents, including variou..."
-18110,1-18110,1705110,30,6,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Blue Point 30"" width x 32"" height x 16"" depth, 2-tier steel shop cart, and (1) Blue Point 30"" le..."
+18110,1-18110,1705110,65,14,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Blue Point 30"" width x 32"" height x 16"" depth, 2-tier steel shop cart, and (1) Blue Point 30"" le..."
 18111,1-18111,1705111,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,(1) skid of assorted pump hose.
 18112,1-18112,1705112,5,1,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Gorman-Rupp portable centrifugal pump with a Wisconsin, model AENLD, gas engine, S/N 5076635, wo..."
 18113,1-18113,1705113,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Homelite portable trash pump with a make and model unknown gas engine, engine is seized, does no..."
@@ -40,7 +40,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18137,1-18137,1705137,10,2,11,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) McCulloch gas powered chain saw with 20"" bar, bar cover, engine pulls through and ..."
 18138,1-18138,1705138,35,7,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Stihl, model unknown, gas powered 14"" concrete saw, engine pulls through and has compression, wo..."
 18139,1-18139,1705139,100,4,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Partner, model K700, Active III, approx. 12"" diameter gas powered concrete saw, engine pulls thr..."
-18140,1-18140,1705140,30,7,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Ridgid 36"", (1) 24"", and (1) Fuller 18"" pipe wrench."
+18140,1-18140,1705140,35,8,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Ridgid 36"", (1) 24"", and (1) Fuller 18"" pipe wrench."
 18141,1-18141,1705141,5,1,8,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) approx. 16"", (1) Pipe Master 14"", (1) Ridgid 14"" (handle was broken and is welded), and (1) Till..."
 18142,1-18142,1705142,25,6,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Ridgid 36"" pipe wrench, (1) Ridgid 36"" (handle is broken to 12""), and (1) Ridgid 18"" pipe wrench..."
 18143,1-18143,1705143,10,2,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) approx. 32"" pipe wrench, and (1) heavy duty chain style pipe wrench."
@@ -51,7 +51,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18148,1-18148,1705148,155,10,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of assorted C-clamps, includes (3) 3"", (11) 4"", (3) 5"", (3) 6"", (1) 8"", and (2) 10"" C-clamps."
 18149,1-18149,1705149,30,6,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Power Pull 48"" mechanical lift jack."
 18150,1-18150,1705150,45,7,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) approx. 9' long, 4-leg steel wire lift sling."
-18151,1-18151,1705151,45,9,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (3) approx. 20' long chains with 3/8"" hooks, (3) 2"" tow straps (2 approx. 20' long, 1 ..."
+18151,1-18151,1705151,55,12,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (3) approx. 20' long chains with 3/8"" hooks, (3) 2"" tow straps (2 approx. 20' long, 1 ..."
 18152,1-18152,1705152,5,1,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Makita, model 9306, 120V, single phase, 4"" bench grinder, working condition unknown, unit is unt..."
 18153,1-18153,1705153,10,2,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) RN, model 52PY 6/12/24V battery charger-100/80/50 amp, S/N 7241, includes jumper cables, working..."
 18154,1-18154,1705154,55,10,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of assorted hammers, mallets, and sledgehammers."
@@ -63,7 +63,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18161,1-18161,1705160,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) approx. 30-gallon grease pumps with (1) ARO air powered pump, and (1) make and model unk..."
 18162,1-18162,1705161,5,1,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) make and model unknown portable blast pot with nozzle, and approx. 10' of hose, working conditio..."
 18163,1-18163,1705162,10,2,8,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Multiquip, model GA-6RZ, 5500 watt, portable generator, with a Wisconsin, model WI-390, gas engi..."
-18164,1-18164,1705163,45,9,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted chain, includes (2) buckets of tire chains."
+18164,1-18164,1705163,50,10,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted chain, includes (2) buckets of tire chains."
 18165,1-18165,1705164,10,2,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of power tools, includes (1) Rota-Speed 230/9"" metal cutting circular saw, (1) Ramset Dyna Drill..."
 18166,1-18166,1705165,105,16,10,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Harrington 2-ton capacity, (1) Haul Master 3/4-ton capacity, and (1) Yale 1.5-ton ..."
 18167,1-18167,1705166,15,3,8,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted heavy duty lift hooks, shackles, (1) block pulley, and miscellaneous other ite..."
@@ -91,7 +91,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18189,1-18189,1705188,10,2,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (3) Matabo, 120V angle grinders, (1) Makita, model 9508BH, 4.5"" disc grinder (switch n..."
 18190,1-18190,1705189,25,3,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Radnor, model 250M123035, 250 amp Tweco style MIG gun with 12' hose."
 18191,1-18191,1705190,5,1,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) K.R. Wilson, model 6050B, flat head cylinder head cutter valve, 1940S with wood case and paperwo..."
-18192,1-18192,1705191,15,3,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Milwaukee Sawzall with steel case, and (1) Milwaukee, Cat #5211, 120V grinder."
+18192,1-18192,1705191,20,4,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Milwaukee Sawzall with steel case, and (1) Milwaukee, Cat #5211, 120V grinder."
 18193,1-18193,1705192,20,4,4,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Milwaukee, Cat #1675-1, heavy duty hole hawg drill with steel case."
 18194,1-18194,1705193,5,0,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Bench mount 4"" hand grinder, and (1) manual bench mount drill with steel case."
 18195,1-18195,1705194,5,0,8,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) 3/8"" reversable, 120V electric drill with 3/8"" keyless chuck, (1) Makita, model 6013B, 15V, 13mm..."
@@ -156,7 +156,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18431,1-18431,1705253,25,4,5,1,0,1790721000,2026-09-29T22:30:00Z,,,(1) set of Snap-On mini-screwdrivers with vinyl carrying case.
 18432,1-18432,1705254,50,11,6,1,0,1790721000,2026-09-29T22:30:00Z,,,Lot of Snap-On pick tools.
 18433,1-18433,1705255,25,6,8,1,0,1790721000,2026-09-29T22:30:00Z,,,Lot of assorted Snap-On pry bars with handles.
-18434,1-18434,1705256,45,8,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Snap-On, model HBFE56, dead blow hammer, (1) Snap-On, model HBFE48, dead blow hamm..."
+18434,1-18434,1705256,50,9,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Snap-On, model HBFE56, dead blow hammer, (1) Snap-On, model HBFE48, dead blow hamm..."
 18435,1-18435,1705257,80,14,4,1,0,1790721000,2026-09-29T22:30:00Z,,,Lot of (8) Snap-On heavy duty pry bar tools.
 18436,1-18436,1705258,50,10,6,1,0,1790721000,2026-09-29T22:30:00Z,,,Lot of assorted Snap-On chisels and punch tools.
 18437,1-18437,1705259,10,2,8,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Snap-On, model MG325, 3/8"" drive air impact tool, (2) Snap-On air chisel tools, an..."
@@ -223,14 +223,14 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18495,1-18495,1705317,5,1,5,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of assorted nut drivers.
 18496,1-18496,1705318,55,11,13,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of 8""-10"", and 12""-13"" adjustable wrenches."
 18497,1-18497,1705319,15,3,7,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of assorted hole saws and accessories.
-18498,1-18498,1705320,50,8,6,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of Grip, size 1 3/8"" up to 1 3/4"" crow foot wrenches with case."
+18498,1-18498,1705320,55,9,6,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of Grip, size 1 3/8"" up to 1 3/4"" crow foot wrenches with case."
 18499,1-18499,1705321,10,2,14,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted nut drivers, Alden wrenches, size 3/8"" up to 13/16"", assorted 3/8"" drive sockets, wr..."
 18500,1-18500,1705322,10,2,9,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted screw extractor tools with (2) Irwin nut driver sets, and miscellaneous other items."
 18501,1-18501,1705323,5,1,7,1,0,1790722800,2026-09-29T23:00:00Z,,,(1) Band-It banding tool with bands and hand tools.
 18502,1-18502,1705324,10,2,7,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of assorted hitch pins.
 18503,1-18503,1705325,25,5,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot including (1) 16"", and (2) 18"" adjustable wrenches, (1) Irwin, model GV20, channel locks, and (1..."
 18504,1-18504,1705326,15,3,5,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of (3) assorted Pex or water pipe cutters.
-18505,1-18505,1705327,15,3,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted channel lock pliers, (1) wire cutter, and pliers."
+18505,1-18505,1705327,55,5,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted channel lock pliers, (1) wire cutter, and pliers."
 18506,1-18506,1705328,10,2,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Hemf loader tire remover/mounting tool, model EM8-75."
 18507,1-18507,1705329,10,2,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Lawson Products universal internal and external thread restorer, 5-piece combination set, #57588..."
 18508,1-18508,1705330,55,5,4,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of 6 assorted pipe wrenches, (1) 8"", (4) 6"", and (1) 5""."
@@ -358,7 +358,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18584,1-18584,1705406,25,5,12,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of assorted welding rod, various types, includes Hotpoint vintage refrigerator, used for s..."
 18585,1-18585,1705407,5,1,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Van Norman Company portable boring machine with wood crate, missing electric motor, appears all ..."
 18586,1-18586,1705408,5,1,11,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) vintage Sun Tune Up tester, includes (1) Kal-Equip Company time gun, engine speed testers, Dwell..."
-18587,1-18587,1705409,55,5,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted standard wrenches, includes 1/16"", 1 1/8"", 1 1/4, 1 5/16"", 1 3/8"", (2) 1 7/16"", (2) ..."
+18587,1-18587,1705409,110,13,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted standard wrenches, includes 1/16"", 1 1/8"", 1 1/4, 1 5/16"", 1 3/8"", (2) 1 7/16"", (2) ..."
 18588,1-18588,1705410,80,11,6,1,0,1790724600,2026-09-29T23:30:00Z,,,(1) Hine &amp; Warner hydraulic transmission jack with adapters for assorted transmission.
 18589,1-18589,1705411,10,2,15,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Borg Warner 2-door automotive tune up parts cabinet, 28.5"" wide x 12"" deep x 31.5"" tall, with co..."
 18590,1-18590,1705412,5,1,10,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Borg Warner 2-door vintage parts cabinet, 29"" wide x 12"" deep x 31.5"" tall, with contents of ass..."
@@ -370,7 +370,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18596,1-18596,1705418,5,0,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of assorted automotive belts, brands include Goodyear 17425, Gates K080720 Micro-V belts, ..."
 18597,1-18597,1705419,155,21,11,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of standard heavy duty impact sockets, sizes 1 1/16"" up to 3 1/8"", and Snap-On 1"" to 3/4"" ..."
 18598,1-18598,1705420,10,2,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted 3/8"" rubber tubing, and 1/8"", partial roll of 3/8"" fuel line hose, gas hose, and mor..."
-18599,1-18599,1705421,30,6,9,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Gray Mills parts washer, model 300A, 1/3 HP, 41"" wide x 30"" deep x approx. 35"" tall, 120V, inclu..."
+18599,1-18599,1705421,80,8,9,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Gray Mills parts washer, model 300A, 1/3 HP, 41"" wide x 30"" deep x approx. 35"" tall, 120V, inclu..."
 18600,1-18600,1705422,30,6,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) lot of assorted oil cans, funnels, Zero Start engine ether for loaders and excavators, quarts of..."
 18601,1-18601,1705423,110,19,15,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of assorted WIX and NAPA oil filters, air filters, and fuel filters, includes WIX 42323 ai..."
 18602,1-18602,1705424,5,1,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"Partial roll of 1"" heavy duty heater hose, (1) approx. 3/4"" piece of heavy duty heater hose, clear p..."
