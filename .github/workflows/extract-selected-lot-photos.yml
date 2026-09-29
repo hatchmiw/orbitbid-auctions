@@ -9,7 +9,7 @@ on:
       lots:
         description: Space-separated lot numbers
         required: true
-        default: '18123 18125'
+        default: '18388'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
@@ -36,7 +36,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "AUCTION_ID=${{ github.event.inputs.auction_id || '1879' }}" >> "$GITHUB_ENV"
-          echo "LOTS=${{ github.event.inputs.lots || '18123 18125' }}" >> "$GITHUB_ENV"
+          echo "LOTS=${{ github.event.inputs.lots || '18388' }}" >> "$GITHUB_ENV"
           echo "SOURCE_RUN_ID=${{ github.event.inputs.source_run_id || '36039298628' }}" >> "$GITHUB_ENV"
           echo "SOURCE_ARTIFACT=${{ github.event.inputs.source_artifact || 'orbitbid-1879-photos' }}" >> "$GITHUB_ENV"
       - name: Download existing full-auction artifact
@@ -58,7 +58,7 @@ jobs:
           done
       - uses: actions/upload-artifact@v4
         with:
-          name: orbitbid-${{ env.AUCTION_ID }}-welder-source-photos
+          name: orbitbid-${{ env.AUCTION_ID }}-lot-18388-source-photos
           path: /tmp/orbitbid-selected/
           retention-days: 9
           compression-level: 0
@@ -67,7 +67,7 @@ jobs:
         run: |
           set -euo pipefail
           marker="auctions/$AUCTION_ID/selected-photo-artifact-run.txt"
-          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-welder-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
+          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-lot-18388-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$marker"
