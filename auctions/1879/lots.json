@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T07:11:33.300698Z",
+  "retrieved_at": "2026-09-29T07:27:55.087540Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -24631,9 +24631,9 @@
       "title": "(1) vintage brass and bronze surveyors transit with (2) wood leg/steel frame tripods.",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 15,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 3,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -24906,9 +24906,9 @@
       "title": "(1) make and model unknown surveyors transit with wood case, (1) wood tripod, (1) aluminum tripod, a...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 20,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 3,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -128555,9 +128555,9 @@
       "title": "(1) Sullair single axle, towable air compressor, shows 151 hours, 4-cylinder gas engine, 2\" ball, ma...",
       "subtitle": null,
       "description": "",
-      "amount": 560,
+      "amount": 630,
       "max_amount": null,
-      "bid_count": 44,
+      "bid_count": 46,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T07:11:33.300698Z"
+  "last_price_refresh_at": "2026-09-29T07:27:55.087540Z"
 }
