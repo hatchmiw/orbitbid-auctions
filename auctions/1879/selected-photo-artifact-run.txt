@@ -1,3 +1,3 @@
-run_id=36509368869
-lots=18123 18125
-artifact=orbitbid-1879-welder-source-photos
+run_id=36516141629
+lots=18388
+artifact=orbitbid-1879-lot-18388-source-photos
