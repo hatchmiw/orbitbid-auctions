@@ -360,3 +360,21 @@ Material changes from the final 11-lot upgrade:
 
 This checkpoint supersedes earlier statements that some shortlist lots were only contact-sheet or batch-reviewed. Any future shortlist recommendation should use the individual-original findings in the current master.
 
+
+
+## September 29 — quick full-auction price rescreen and active shortlist
+
+**Price basis:** latest successful scheduled refresh run checked at 2026-09-29T01:54:58Z. The repository price snapshot remains 2026-09-29T01:24:16Z because subsequent successful refreshes produced no committed price changes. Auction terms remain as-is/where-is, 13% buyer premium (10% with qualifying cash/cashier's check/wire), and 10-minute dynamic extensions.
+
+The active shortlist below supersedes earlier active-list sections. Lots already over their ceilings remain historical review records but are not active targets.
+
+New/revised targets from this rescreen:
+- **18123 Miller AEAD-200LE welder/generator — max $325 hammer.** Ten original JPGs reviewed from GitHub artifact run 36509368869. Complete-looking Onan-powered AC/DC stick welder/generator, substantial leads, cart, 120/240V auxiliary generation; operation unknown. Recent unknown-condition AEAD-200LE comp $522.50. Treat 18125 as substitute, not additive.
+- **18125 Lincoln Idealarc 250 — max $175 hammer.** Eight original JPGs reviewed. Nameplate confirms 230/460V, 70/35A, 60Hz, **single phase**. Complete-looking AC/DC stick machine with heavy leads/cart; operation unknown. Substitute if 18123 is lost or Miller exceeds ceiling.
+- **18388 Turner Tillage ~10-ft offset disc — provisional max $125 hammer pending transport/fit/use confirmation.** Full-auction price rescreen found it at only $10. High farm/property utility potential, but it is not yet at the same photo/market-review confidence as the established shortlist; do not raise beyond provisional ceiling without reviewing originals.
+- **18133 new boxed Predator 212cc engine — max $65 hammer.** At $35 in current snapshot; useful replacement-power inventory but commodity item, so ceiling remains conservative.
+
+Current active ceilings:
+18115 $25; 18118 $40; 18123 $325; 18125 $175; 18133 $65; 18140 $45; 18156 $40; 18161 $50; 18189 $50; 18192 $40; 18193 $50; 18203 $35; 18206 $30; 18211 $120; 18212 $25; 18327 $65; 18388 $125 provisional; 18468 $60; 18501 $45; 18502 $35; 18518 $30; 18530 $75; 18558 $30; 18561 $60; 18563 $50; 18564 $50; 18570 $60; 18573 $80; 18577 $60; 18578 $45; 18590 $75; 30-1332 $30.
+
+Substitution/budget note: 18123 and 18125 are alternatives. The $325 Miller ceiling is an item-specific value ceiling, not authorization to exceed the prior overall auction spending target; aggregate exposure must be reassessed as lots resolve. 18578 and 30-1332 remain substitutes unless both stay exceptionally cheap. 18193 remains preferred over 18206 for heavy drilling.
