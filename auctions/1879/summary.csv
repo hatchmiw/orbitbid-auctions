@@ -1,8 +1,8 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
 30-1332,1-30-1332,1799881,5,1,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"5 boxes of truck and equipment lights, grommets, etc"
 18100,1-18100,1705100,185,19,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Set of scaffolding, including (17) 60"" x 60"" upright, approx. (25) individual approx. 8' cross brace..."
-18101,1-18101,1705101,155,11,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular b..."
-18102,1-18102,1705102,165,10,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-..."
+18101,1-18101,1705101,160,12,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular b..."
+18102,1-18102,1705102,205,19,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-..."
 18103,1-18103,1705103,60,7,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 65"" length x 33"" height x 30"" depth wood work bench with assorted scrap steel, steel cuts, plate..."
 18104,1-18104,1705104,100,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 48"" length x 34.5"" height x 24"" depth, 2-tier steel cart, (1) plastic step stool, (1) 26"" length..."
 18105,1-18105,1705105,30,6,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Lisle Jeepers Creepers, and (1) Pro Gear automotive creeper, and (2) approx. 6-ton..."
@@ -37,7 +37,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18134,1-18134,1705134,205,12,4,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) approx. 20 gallon capacity grease can with 4-wheel base, and a Lincoln Engineering..."
 18135,1-18135,1705135,105,6,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Kendall, partially full 55-gallon drum of NS-MP HYPOID gear lubricant SAE85W-140 (approx. 1/4 fu..."
 18136,1-18136,1705136,5,0,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Craftsman 16-gallon capacity wet/dry vac, and (1) Master Mechanic approx. 6-gallon capacity, 1 p..."
-18137,1-18137,1705137,10,2,11,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) McCulloch gas powered chain saw with 20"" bar, bar cover, engine pulls through and ..."
+18137,1-18137,1705137,15,3,11,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) McCulloch gas powered chain saw with 20"" bar, bar cover, engine pulls through and ..."
 18138,1-18138,1705138,35,7,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Stihl, model unknown, gas powered 14"" concrete saw, engine pulls through and has compression, wo..."
 18139,1-18139,1705139,100,4,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Partner, model K700, Active III, approx. 12"" diameter gas powered concrete saw, engine pulls thr..."
 18140,1-18140,1705140,35,8,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Ridgid 36"", (1) 24"", and (1) Fuller 18"" pipe wrench."
@@ -68,10 +68,10 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18166,1-18166,1705165,105,16,10,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Harrington 2-ton capacity, (1) Haul Master 3/4-ton capacity, and (1) Yale 1.5-ton ..."
 18167,1-18167,1705166,15,3,8,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted heavy duty lift hooks, shackles, (1) block pulley, and miscellaneous other ite..."
 18168,1-18168,1705167,60,11,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (6) various ratcheting chain binders, and (5) mechanical chain binders, also a block p..."
-18169,1-18169,1705168,35,8,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
-18170,1-18170,1705169,41,10,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
-18171,1-18171,1705170,40,9,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
-18172,1-18172,1705171,40,10,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
+18169,1-18169,1705168,40,9,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
+18170,1-18170,1705169,55,13,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
+18171,1-18171,1705170,55,12,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
+18172,1-18172,1705171,55,13,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (2) unused 20' sections of chain with 3/8"" hook on either side."
 18173,1-18173,1705172,65,9,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) DeWalt, model DCGG571, 20V, rechargeable, cordless grease gun with (2) battery chargers (batteri..."
 18174,1-18174,1705173,5,1,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) CLS Super Mite rotary laser level with a rod eye, and (2) model 9907 Accu-Sensors, includes alum..."
 18175,1-18175,1705174,25,5,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) Lasco Auto, model L1-A5, rotary laser, and (1) Lasco, model L2, rotary laser, both..."
@@ -81,7 +81,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18179,1-18179,1705178,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) vintage brass and bronze surveyors transit (cracked glass) with wood case, aluminum tripod, and ..."
 18180,1-18180,1705179,460,14,18,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Laser Alignment, Inc., laser receiver with mounting bracket and case, in working condition, (1) ..."
 18181,1-18181,1705180,5,1,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (3) approx. 22"" diameter, 10-lug rims, (5) 22"" x 12"" rings, and (1) 18"" x 3.5"" ring."
-18182,1-18182,1705181,20,4,9,1,0,1790719200,2026-09-29T22:00:00Z,,,Lot of (4) various size 385/65R 22.5 tubeless tires with 10-lug rims.
+18182,1-18182,1705181,115,10,9,1,0,1790719200,2026-09-29T22:00:00Z,,,Lot of (4) various size 385/65R 22.5 tubeless tires with 10-lug rims.
 18183,1-18183,1705182,5,0,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot of (3) various size 285/75R 245, and (1) size 10.00-20 tires with rings."
 18184,1-18184,1705183,5,0,10,1,0,1790719200,2026-09-29T22:00:00Z,,,Lot of (5) various size 275/70R 22.5 tires with 10-lug rims.
 18185,1-18185,1705184,5,0,12,1,0,1790719200,2026-09-29T22:00:00Z,,,"Lot including (1) size 8.25R 15TR tire with ring, (1) size 235/85R16 tire with 8-lug rim, (1) size 9..."
@@ -106,7 +106,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18204,1-18204,1705203,10,2,8,1,0,1790721000,2026-09-29T22:30:00Z,,,Entire shelf of various large wrenches and spanner wrenches.
 18205,1-18205,1705204,30,4,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) make and model unknown, 120V, single phase MAG drill with wood case, working condition unknown."
 18206,1-18206,1705205,5,1,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) make and model unknown heavy duty drill with Jacobs 3/4"" capacity chuck, (1) Milwa..."
-18207,1-18207,1705206,10,2,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Keson, model RR318N, portable roller type measuring tool, (2) 300' tape measures, ..."
+18207,1-18207,1705206,20,4,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Keson, model RR318N, portable roller type measuring tool, (2) 300' tape measures, ..."
 18208,1-18208,1705207,55,11,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Werner 4' fiberglass and aluminum step ladder, and (1) Werner 6' fiberglass and al..."
 18209,1-18209,1705208,40,5,4,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Coats, model 1010, Super Powermate tire changer with assorted tools, working condition unknown."
 18210,1-18210,1705209,55,11,4,1,0,1790721000,2026-09-29T22:30:00Z,,,Lot of (2) 3-phase extension cords.
@@ -131,22 +131,22 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18406,1-18406,1705228,55,6,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(2) sets of Snap-On deep impact sockets, both 3/8"" drive, 1 has sizes 17mm up to 27mm, 1 has sizes 9..."
 18407,1-18407,1705229,15,4,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of assorted Snap-On sockets with (4) holders, includes 1/2"" and 3/8"" drive sockets."
 18408,1-18408,1705230,60,10,8,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) set of Snap-On sockets (1/4"" drive, 3/8"" drive, and 1/2"" drive), 1/4"" sizes from 4..."
-18409,1-18409,1705231,55,7,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On swivel head 1/4"" drive ratchet, and (1) Snap-On swivel head 3/8"" drive ratchet."
-18410,1-18410,1705232,40,5,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/4"" drive socket set with ratchet, 2"", 4"", and 6"" extension, 5"" swivel head breaker, sw..."
-18411,1-18411,1705233,105,7,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/2"" drive extension set with 1/2"" drive Snap-On ratchet."
-18412,1-18412,1705234,55,4,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) 1/2"" drive Snap-On ratchet with 8"" handle, (1) 1/2"" drive Snap-On ratchet with 12""..."
+18409,1-18409,1705231,60,8,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On swivel head 1/4"" drive ratchet, and (1) Snap-On swivel head 3/8"" drive ratchet."
+18410,1-18410,1705232,55,8,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/4"" drive socket set with ratchet, 2"", 4"", and 6"" extension, 5"" swivel head breaker, sw..."
+18411,1-18411,1705233,165,19,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/2"" drive extension set with 1/2"" drive Snap-On ratchet."
+18412,1-18412,1705234,95,12,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) 1/2"" drive Snap-On ratchet with 8"" handle, (1) 1/2"" drive Snap-On ratchet with 12""..."
 18413,1-18413,1705235,20,4,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/2"" drive ratchet with Snap-On 3/8"" drive swivel head angle handle ratchet."
 18414,1-18414,1705236,315,26,10,1,0,1790721000,2026-09-29T22:30:00Z,,,"(2) Snap-On 3/8"" drive extension sets with 3/8"" drive ratchet."
 18415,1-18415,1705237,60,12,9,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) lot of Snap-On hex head tool sockets (3/8"" drive, 1/2"" drive, and impact), (1) set of Snap-On To..."
 18416,1-18416,1705238,80,12,10,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of Snap-On 1/2"" and 3/8"" drive crow foot wrench heads."
-18417,1-18417,1705239,155,4,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On wrenches, size 9/32"" up to 3/4"", (1) set of Snap-On stubby wrenches, sizes 7/16"", 1/2..."
+18417,1-18417,1705239,205,15,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On wrenches, size 9/32"" up to 3/4"", (1) set of Snap-On stubby wrenches, sizes 7/16"", 1/2..."
 18418,1-18418,1705240,105,8,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of 3/8"" and 1/2"" drive Snap-On tube sockets, set of Snap-On 3/8"" drive crow foot sockets, sizes ..."
 18419,1-18419,1705241,80,13,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On wrenches, sizes 3/4"" up to 1"", and (1) set of Snap-On wrenches, sizes 7/16"" up to 5/8..."
 18420,1-18420,1705242,20,4,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On combination box end wrenches, sizes 3/8"" up to 3/4"", and (1) combination curve Snap-O..."
 18421,1-18421,1705243,105,13,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On metric wrenches, size 10mm up to 19mm."
-18422,1-18422,1705244,10,2,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On combination wrenches, sizes 5/16"" up to 7/8""."
-18423,1-18423,1705245,150,25,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of Snap-On wrenches, sizes ranging between 7/16"" and 1 1/4""."
-18424,1-18424,1705246,215,15,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot with (2) boxes of Snap-On angle head wrenches, sizes 3/8"" up to 1 1/2""."
+18422,1-18422,1705244,15,3,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On combination wrenches, sizes 5/16"" up to 7/8""."
+18423,1-18423,1705245,155,26,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of Snap-On wrenches, sizes ranging between 7/16"" and 1 1/4""."
+18424,1-18424,1705246,245,21,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot with (2) boxes of Snap-On angle head wrenches, sizes 3/8"" up to 1 1/2""."
 18425,1-18425,1705247,10,2,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On ratcheting combination end wrenches, sizes 3/8"" up to 3/4"", and (1) metric 13/15mm ra..."
 18426,1-18426,1705248,60,7,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of (4) Snap-On heavy duty long wrenches, sizes 11/16"" up to 2"", lengths are 20"" up to 24""."
 18427,1-18427,1705249,15,3,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"Set of Snap-On wrenches, sizes 1 5/16"" up to 1 5/8""."
@@ -170,7 +170,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18445,1-18445,1705267,5,1,8,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On, model PB25, diesel tune up set with clamp."
 18446,1-18446,1705268,38,8,10,1,0,1790721000,2026-09-29T22:30:00Z,,,(1) set of Snap-On ring plier tools.
 18447,1-18447,1705269,30,6,8,1,0,1790721000,2026-09-29T22:30:00Z,,,(1) Snap-On collet set with stud remover.
-18448,1-18448,1705270,10,2,10,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Snap-On, model YAKS32A, gas soldering auto ignition multi-kit (25-130 watt) with a..."
+18448,1-18448,1705270,15,3,10,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Snap-On, model YAKS32A, gas soldering auto ignition multi-kit (25-130 watt) with a..."
 18449,1-18449,1705271,20,4,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Snap-On 1/8"" through 1/4"" T-handle hex head tool set."
 18450,1-18450,1705272,10,2,10,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) set of Snap-On, model MT320, armature tester, (1) Snap-On, model TA360, torque angle gauge, (1) ..."
 18451,1-18451,1705273,230,35,9,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot of assorted Snap-On needle nose pliers, side cutters, channel locks, curved needle nose pliers, ..."
@@ -215,7 +215,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18487,1-18487,1705309,25,4,10,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Ridgid brake line flaring tool, (3) various brake line bending tools, (1) Old Forge #7203, doubl..."
 18488,1-18488,1705310,10,2,9,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Blue Point #1020, screw extractor set with plastic case, (1) Blue Point, model PGH8A, 11-piece g..."
 18489,1-18489,1705311,45,6,5,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of (5) various rubber handle prying and scraping tools.
-18490,1-18490,1705312,75,10,13,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of assorted vise grip style welding clamps.
+18490,1-18490,1705312,95,12,13,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of assorted vise grip style welding clamps.
 18491,1-18491,1705313,80,13,5,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) approx. 60"" crow bar, and (2) approx. 60"" pry bars (1 with handle)."
 18492,1-18492,1705314,10,2,11,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted wrenches, and (1) bit driver set with hand held driver tool."
 18493,1-18493,1705315,10,2,7,1,0,1790722800,2026-09-29T23:00:00Z,,,Set of (3) portable LED lights with magnetic base.
@@ -405,8 +405,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18309,1-18309,1705497,20,5,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of assorted steel beams, various sizes and lengths, includes 8"" x 8"", heavy duty steel pla..."
 18310,1-18310,1705498,25,6,4,1,0,1790726400,2026-09-30T00:00:00Z,,,"Approx. (16) metal sign posts, approx. 8' tall."
 18311,1-18311,1705499,10,2,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Diebold data safe, auto 1100, dual door combination safe, 56.5"" width x 35"" depth x 80"" height, ..."
-18312,1-18312,1705500,4150,40,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Cat, model CV18B, 73"" skid steer quick attach roller, work tool is 2318601, S/N RCA03284."
-18313,1-18313,1705501,30,8,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) set of forks, 42"" x 4"", and set of 87"" x 6"" fork extensions."
+18312,1-18312,1705500,4550,44,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Cat, model CV18B, 73"" skid steer quick attach roller, work tool is 2318601, S/N RCA03284."
+18313,1-18313,1705501,106,13,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) set of forks, 42"" x 4"", and set of 87"" x 6"" fork extensions."
 18314,1-18314,1705502,10,2,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Quick Attach jib crane attachment, 68"" neck base with a Crosley WL15 hook."
 18315,1-18315,1705503,40,5,8,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) approx. 500-gallon steel, fiberglass coated fuel tank, top fill."
 18316,1-18316,1705504,15,3,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Clawson approx. 500-gallon fuel tank, approx. 48"" diameter x 73"" long."
@@ -421,8 +421,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18325,1-18325,1705513,60,11,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 3 pt. back blade, 72""."
 18326,1-18326,1705514,55,11,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 3 pt. back blade, 84""."
 18327,1-18327,1705515,20,5,4,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 80"" x 48"" steel mesh drag."
-18328,1-18328,1705516,775,17,15,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Massey Ferguson 35 Deluxe wide front tractor, 3 pt., PTO, 4-cylinder gas engine, model Z134, 3-s..."
-18329,1-18329,1705517,2000,30,13,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Ford 4000 tractor, 2-WD, open station, 3 pt., 2075 hours showing, 540 PTO, 3-cylinder diesel eng..."
+18328,1-18328,1705516,825,19,15,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Massey Ferguson 35 Deluxe wide front tractor, 3 pt., PTO, 4-cylinder gas engine, model Z134, 3-s..."
+18329,1-18329,1705517,2150,32,13,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Ford 4000 tractor, 2-WD, open station, 3 pt., 2075 hours showing, 540 PTO, 3-cylinder diesel eng..."
 18330,1-18330,1705518,5,1,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute for excavator, 28"" diameter x 31"" tall."
 18331,1-18331,1705519,5,1,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute, 44"" diameter x 37"" tall."
 18332,1-18332,1705520,5,1,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete loader chute, 20"" x 20"" on one side, and 7"" x 20"" opening on bottom."
@@ -454,7 +454,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18358,1-18358,1705546,2550,34,21,1,0,1790726400,2026-09-30T00:00:00Z,,,"2013 Ram 2500 Regular Cab Plow Truck 4-WD, 5.7 liter Hemi engine, power windows, locks, and mirrors,..."
 18359,1-18359,1705547,2050,52,37,1,0,1790726400,2026-09-30T00:00:00Z,,,"1995 White GMC Volvo Semi Truck manual transmission, cruise control, heated mirrors, manual windows,..."
 18360,1-18360,1705548,2250,87,37,1,0,1790726400,2026-09-30T00:00:00Z,,,"1980 Ford F9000 Winch/Plow Truck under belly plow truck, 28,000 lb. GVWR, 5-speed manual high low PT..."
-18361,1-18361,1705549,3775,83,30,1,0,1790726400,2026-09-30T00:00:00Z,,,"1988 Ford 8000 Semi Truck tandem axle, Road Ranger RTO-11613-14613, manual transmission, high low PT..."
+18361,1-18361,1705549,3875,85,30,1,0,1790726400,2026-09-30T00:00:00Z,,,"1988 Ford 8000 Semi Truck tandem axle, Road Ranger RTO-11613-14613, manual transmission, high low PT..."
 18362,1-18362,1705550,675,11,31,1,0,1790726400,2026-09-30T00:00:00Z,,,"1978 GMC 6500 Fuel Oil Truck 5-speed transmission with high low PTO, 27,500 lb. GVWR, V8 gas engine,..."
 18364,1-18364,1705551,4150,41,35,1,0,1790726400,2026-09-30T00:00:00Z,,,"1990 White GMC Tandem Axle Dump Truck 22,675 lb. GVWR, 5,442 lb. front axle, 8,617 lb. first and rea..."
 18365,1-18365,1705552,10150,42,39,1,0,1790726400,2026-09-30T00:00:00Z,,,"1998 Kenworth T800 B Dump Truck 46,000 lb. GVWR, front axle 12,000 lb., first intermediate axle 17,0..."
@@ -467,7 +467,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18372,1-18372,1705559,11005,49,28,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1999 Fiat Allis, model FR180.2, articulated frame wheel loader, enclosed cab, 4998 hours showing..."
 18373,1-18373,1705560,4650,45,35,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Terex, model 80-C articulated frame wheel loader, S/N 72857, rated payload 16,500 lbs., enclosed..."
 18374,1-18374,1705561,2300,29,24,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1990 Case 550 crawler dozer, 9688 hours showing, open station, ROPS canopy, 96"" 6-way blade, 16""..."
-18375,1-18375,1705562,4400,55,26,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1996 Case 1150G crawler dozer, 690 hours showing, open station, ROPS canopy, 22"" single grouser ..."
+18375,1-18375,1705562,4500,57,26,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1996 Case 1150G crawler dozer, 690 hours showing, open station, ROPS canopy, 22"" single grouser ..."
 18376,1-18376,1705563,1350,52,29,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1981 Case 1150C crawler dozer, 8921 hours showing, foot pedal/joystick controls, open station, R..."
 18377,1-18377,1705564,1300,38,30,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1983 Case 1150C crawler dozer, 1399 hours showing, foot pedal/joystick controls, open station, R..."
 18378,1-18378,1705565,3100,101,30,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 1994 Case 1150E long track crawler dozer, 8449 hours showing, foot pedal and joystick controls, ..."
@@ -484,5 +484,5 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18613,1-18613,1723323,105,8,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"1 yard dump hopper, one wheel needs replacement, in working condition"
 18614,1-18614,1723324,3250,19,27,1,0,1790726400,2026-09-30T00:00:00Z,,,Tel Smith Crusher Line
 18615,1-18615,1722853,505,3,29,1,0,1790726400,2026-09-30T00:00:00Z,,,Terex 72-61AA Articulated Loader
-18616,1-18616,1723069,1850,35,33,1,0,1790726400,2026-09-30T00:00:00Z,,,1980 Northwest Engineering Model 6 Drag Line Crane
+18616,1-18616,1723069,2550,50,33,1,0,1790726400,2026-09-30T00:00:00Z,,,1980 Northwest Engineering Model 6 Drag Line Crane
 19094,1-19094,1717855,4100,17,27,1,0,1790726400,2026-09-30T00:00:00Z,,,1986 Case 580 Super E Construction King Backhoe Loader
