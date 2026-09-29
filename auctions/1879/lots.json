@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T11:51:10.446918Z",
+  "retrieved_at": "2026-09-29T12:06:07.446969Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -53241,9 +53241,9 @@
       "title": "Lot including (1) Snap-On drill extractor set, (1) partial Snap-On solid carbide bur set, (1) comple...",
       "subtitle": null,
       "description": "",
-      "amount": 30,
+      "amount": 35,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 8,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -154405,9 +154405,9 @@
       "title": "1990 White GMC Tandem Axle Dump Truck 22,675 lb. GVWR, 5,442 lb. front axle, 8,617 lb. first and rea...",
       "subtitle": null,
       "description": "",
-      "amount": 3550,
+      "amount": 3600,
       "max_amount": null,
-      "bid_count": 36,
+      "bid_count": 37,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -171103,9 +171103,9 @@
       "title": "Tel Smith Crusher Line",
       "subtitle": null,
       "description": "",
-      "amount": 1075,
+      "amount": 1175,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T11:51:10.446918Z"
+  "last_price_refresh_at": "2026-09-29T12:06:07.446969Z"
 }
