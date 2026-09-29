@@ -9,7 +9,7 @@ on:
       lots:
         description: Space-separated lot numbers
         required: true
-        default: '18388'
+        default: '18121 18132 18152 18162'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
@@ -58,7 +58,7 @@ jobs:
           done
       - uses: actions/upload-artifact@v4
         with:
-          name: orbitbid-${{ env.AUCTION_ID }}-lot-18388-source-photos
+          name: orbitbid-${{ env.AUCTION_ID }}-selected-source-photos
           path: /tmp/orbitbid-selected/
           retention-days: 9
           compression-level: 0
@@ -67,7 +67,7 @@ jobs:
         run: |
           set -euo pipefail
           marker="auctions/$AUCTION_ID/selected-photo-artifact-run.txt"
-          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-lot-18388-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
+          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-selected-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$marker"
