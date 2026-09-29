@@ -74,3 +74,13 @@ Added for original-photo investigation before assigning bid ceilings:
 | 18132 | Buffalo Tools retractable 3/8-in air-hose reel + assorted hose | Added — inspect all originals |
 | 18152 | Makita 9306 4-in bench grinder | Added — inspect all originals |
 | 18162 | Portable blast pot with nozzle and ~10 ft hose | Added — inspect all originals |
+
+
+### Original-photo review — newly added utility lots (September 29, 2026)
+
+All 21 extracted source originals were opened individually from workflow run 36566466848 / artifact 11032460314 (not contact sheets): 18121 = 7 images, 18132 = 4, 18152 = 5, 18162 = 5.
+
+- **18121:** Heavy steel rolling cart is substantially more interesting than the title shorthand. Photos show multiple hydraulic cylinders/rams and an air/hydraulic foot pump, plus hoses/fittings and assorted heavy machined adapters/components. Equipment is dusty/used and untested; one ram saddle/top shows visible edge damage/chipping. Keep on shortlist; value should be based on hydraulic components plus cart, not cart alone.
+- **18132:** Buffalo Tools retractable air-hose reel plus a very large quantity of loose air hose with many installed fittings/couplers. Reel housing appears intact. Much of the loose hose is old, dirty and visibly weathered/aged; treat hose condition cautiously and value the reel separately from the bulk hose. Keep only as a low-price utility buy.
+- **18152:** Makita model 9306 bench grinder. Nameplate visible: 115V, 2.7A, 60Hz, 300W, 3600/min; wheel specification 150 x 16 x 12.7 mm (about 6 in), despite catalog shorthand calling it 4 in. Both wheel guards and tool rests are present; left side includes an additional adjustable fixture. Dirty but visually complete; cord present; operation untested. Keep on shortlist.
+- **18162:** Portable pressure blast pot with hose and ceramic-style blast nozzle/valve assembly. Pot/frame and plumbing appear substantially complete, but hose exterior is heavily aged/weathered with visible cracking/deterioration and should be assumed replacement material. No readable make/model or pressure rating was established from the photos. Keep only at low money pending pressure-vessel condition/function; do not assign value as a ready-to-use unit.
