@@ -1,5 +1,5 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
-30-1332,1-30-1332,1799881,5,1,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"5 boxes of truck and equipment lights, grommets, etc"
+30-1332,1-30-1332,1799881,10,3,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"5 boxes of truck and equipment lights, grommets, etc"
 18100,1-18100,1705100,322,41,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"Set of scaffolding, including (17) 60"" x 60"" upright, approx. (25) individual approx. 8' cross brace..."
 18101,1-18101,1705101,205,18,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 12' length x 8' height steel cantilever rack with contents of assorted flat stock, rectangular b..."
 18102,1-18102,1705102,205,19,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"Large lot of assorted scrap steel, includes various angle, various sizes of pipe, solid cut offs, C-..."
@@ -9,13 +9,13 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18106,1-18106,1705106,45,6,4,1,0,1790719200,2026-09-29T22:00:00Z,,,(1) Crewline automotive creeper with (2) approx. 6-ton capacity jack stands.
 18107,1-18107,1705107,35,6,4,1,0,1790719200,2026-09-29T22:00:00Z,,,"(2) NAPA Blue-Comfort, item #BK 815-6219, automotive creepers."
 18108,1-18108,1705108,30,6,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) make and model unknown automotive creeper with a 30"" length x 33"" height x 16"" depth, 2-tier ser..."
-18109,1-18109,1705109,10,2,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 32"" width x 57"" height x 19"" depth, 2-sided rolling display rack with contents, including variou..."
+18109,1-18109,1705109,15,3,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 32"" width x 57"" height x 19"" depth, 2-sided rolling display rack with contents, including variou..."
 18110,1-18110,1705110,70,15,9,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Blue Point 30"" width x 32"" height x 16"" depth, 2-tier steel shop cart, and (1) Blue Point 30"" le..."
 18111,1-18111,1705111,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,(1) skid of assorted pump hose.
 18112,1-18112,1705112,15,3,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Gorman-Rupp portable centrifugal pump with a Wisconsin, model AENLD, gas engine, S/N 5076635, wo..."
 18113,1-18113,1705113,15,3,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Homelite portable trash pump with a make and model unknown gas engine, engine is seized, does no..."
 18114,1-18114,1705114,295,50,13,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Hobart, model 6-261, portable, tow-behind generator (250 amp, 40V), HP illegible, S/N 120W-45251..."
-18115,1-18115,1705115,10,2,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) gas powered 20"" x 16"" compactor with a Honda GX140, 5 HP gas engine, engine pulls through and ha..."
+18115,1-18115,1705115,15,3,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) gas powered 20"" x 16"" compactor with a Honda GX140, 5 HP gas engine, engine pulls through and ha..."
 18116,1-18116,1705116,110,18,5,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) 20"" x 16"" gas powered compactor with a 212cc Predator gas engine, engine pulls through and has c..."
 18117,1-18117,1705117,110,22,8,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Stone, model 938, 20"" x 16"" gas powered compactor with a 212cc Predator gas engine, engine pulls..."
 18118,1-18118,1705118,75,14,7,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Ramco Shop Hand 5000, 5000 lb. capacity engine hoist with extendable arm, and RM8000 long ram ja..."
@@ -96,7 +96,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18194,1-18194,1705193,5,1,6,1,0,1790719200,2026-09-29T22:00:00Z,,,"(1) Bench mount 4"" hand grinder, and (1) manual bench mount drill with steel case."
 18195,1-18195,1705194,5,0,8,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) 3/8"" reversable, 120V electric drill with 3/8"" keyless chuck, (1) Makita, model 6013B, 15V, 13mm..."
 18196,1-18196,1705195,10,2,5,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) SPX OTC, item #5038, break anchor pin/bushing set with high-impact plastic case."
-18197,1-18197,1705196,50,10,18,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Kar Products, 20"" width x 8"" height x 17"" depth, 2-drawer hardware storage unit, with assorted t..."
+18197,1-18197,1705196,66,13,18,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) Kar Products, 20"" width x 8"" height x 17"" depth, 2-drawer hardware storage unit, with assorted t..."
 18198,1-18198,1705197,15,3,6,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) T &amp; E, #A772A, 8-piece interchangeable long reach chisel and punch set with high-impact plas..."
 18199,1-18199,1705198,10,2,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"(1) make and model unknown, 120V collet type bench top electric threader."
 18200,1-18200,1705199,5,1,7,1,0,1790721000,2026-09-29T22:30:00Z,,,"Lot including (1) Ramset air actuated tool with steel case, (1) Ramset 610 Dyna drill with bits, ste..."
@@ -263,9 +263,9 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18535,1-18535,1705357,20,4,5,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of (2) 20-ton hydraulic bottle jacks.
 18536,1-18536,1705358,5,1,6,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of (4) vintage jack stands.
 18537,1-18537,1705359,20,4,4,1,0,1790722800,2026-09-29T23:00:00Z,,,Lot of (2) tractor top links.
-18538,1-18538,1705360,10,2,6,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Ingersoll-Rand 1"" pneumatic impact gun, and (1) Ingersoll-Rand 3/4"" impact gun."
-18539,1-18539,1705361,10,2,7,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted propane tanks with heating heads, and (1) Weller soldering gun."
-18540,1-18540,1705362,5,0,7,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Cole Tool Manufacturing hand drill press, #7."
+18538,1-18538,1705360,15,3,6,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Ingersoll-Rand 1"" pneumatic impact gun, and (1) Ingersoll-Rand 3/4"" impact gun."
+18539,1-18539,1705361,15,3,7,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of assorted propane tanks with heating heads, and (1) Weller soldering gun."
+18540,1-18540,1705362,5,1,7,1,0,1790722800,2026-09-29T23:00:00Z,,,"(1) Cole Tool Manufacturing hand drill press, #7."
 18541,1-18541,1705363,395,53,10,1,0,1790722800,2026-09-29T23:00:00Z,,,(1) Kar Products electric wire reel stand with assorted size wire.
 18542,1-18542,1705364,15,3,10,1,0,1790722800,2026-09-29T23:00:00Z,,,"Contents of 2 shelves, includes assorted duct tape, electrical tape, (2) hand staplers with staples,..."
 18543,1-18543,1705365,210,25,14,1,0,1790722800,2026-09-29T23:00:00Z,,,"Lot of (3) 4-drawer pull out parts organizers with contents including fender washers, grease fitting..."
@@ -293,7 +293,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18225,1-18225,1705436,50,7,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Apache Bullseye III, laser receiver, with case and measuring stick, battery powered, in working ..."
 18226,1-18226,1705437,305,14,9,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Spectra Precision Laser receiver, model LR50, with case, and magnetic mounting bar, in working c..."
 18250,1-18250,1705438,150,23,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (2) new Gladiator 11R24.5 tires, model QR92P0S."
-18251,1-18251,1705439,30,6,7,1,0,1790724600,2026-09-29T23:30:00Z,,,(2) new Sailun 25570R225 tires with rims.
+18251,1-18251,1705439,35,7,7,1,0,1790724600,2026-09-29T23:30:00Z,,,(2) new Sailun 25570R225 tires with rims.
 18252,1-18252,1705440,55,12,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (3) new Power King 9.50-16.5 tires, 10P.R."
 18253,1-18253,1705441,5,1,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) new Sumitomo ST720, 385/65R225 tire with steel rim, tire is in new condition."
 18254,1-18254,1705442,15,3,9,1,0,1790724600,2026-09-29T23:30:00Z,,,Lot of (2) new Sumitomo ST727 8.25R15TR tires with rims.
@@ -306,12 +306,12 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18261,1-18261,1705449,25,5,7,1,0,1790724600,2026-09-29T23:30:00Z,,,(4) steel 22.5 rims.
 18262,1-18262,1705450,115,8,8,1,0,1790724600,2026-09-29T23:30:00Z,,,Lot of (2) new Kelly Armor Steel KTSA11R 225 tires with steel rims.
 18263,1-18263,1705451,5,0,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (4) approx. 43.5"" diameter spool tops used as crane mats."
-18264,1-18264,1705452,5,1,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) 2 pt. lift apparatus with 5-ton Crosby hooks, 48"" reach."
-18265,1-18265,1705453,5,1,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (2) wheelbarrows with wood handles, single wheel."
-18266,1-18266,1705454,10,2,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) 24' aluminum extension ladder, and (1) 6' aluminum extension ladder."
+18264,1-18264,1705452,10,2,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) 2 pt. lift apparatus with 5-ton Crosby hooks, 48"" reach."
+18265,1-18265,1705453,10,2,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (2) wheelbarrows with wood handles, single wheel."
+18266,1-18266,1705454,35,7,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) 24' aluminum extension ladder, and (1) 6' aluminum extension ladder."
 18267,1-18267,1705455,35,6,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) skid full of assorted conveyor belt, 20"" wide, 23.5"" wide, 24"" wide, and more."
 18268,1-18268,1705456,31,7,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(6) Luff Industries Ltd., model ST1043, conveyor belt with 43° steel belt conveyor shafts."
-18269,1-18269,1705457,40,8,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) steel counterweight, 32"" wide x 11.5"" deep x 17"" tall."
+18269,1-18269,1705457,50,10,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) steel counterweight, 32"" wide x 11.5"" deep x 17"" tall."
 18270,1-18270,1705458,5,1,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Crane cable counterweight, 13 1/4"" diameter x 12.5"" tall."
 18271,1-18271,1705459,20,4,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) forklift counterweight, approx. 27.5"" wide x 16.5"" deep x approx. 7 1/4"" tall."
 18272,1-18272,1705460,15,3,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (2) pipe handling clamps, OT-800, and OT-400."
@@ -321,14 +321,14 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18276,1-18276,1705464,5,1,7,1,0,1790724600,2026-09-29T23:30:00Z,,,Lot of (3) Hercules 23.5-25 tires.
 18277,1-18277,1705465,5,0,12,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (7) various 29.5-25 tires, various conditions."
 18278,1-18278,1705466,5,0,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (7) various 20.5-25 tires, various conditions."
-18279,1-18279,1705467,5,0,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) skid of assorted grease buckets, includes manual pumps, (1) pneumatic, and (1) retractable greas..."
+18279,1-18279,1705467,5,1,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) skid of assorted grease buckets, includes manual pumps, (1) pneumatic, and (1) retractable greas..."
 18280,1-18280,1705468,5,1,9,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted heavy duty truck parts, includes set of 16"" diameter drums, Meritor brake disc, (4) ..."
 18281,1-18281,1705469,5,0,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (3) assorted manual barrel pumps with hoses, 1 includes nozzle."
 18282,1-18282,1705470,180,18,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (8) assorted heavy duty motors, includes 25, 20, and 5 HP, and more, all motors are for parts..."
 18283,1-18283,1705471,10,2,4,1,0,1790724600,2026-09-29T23:30:00Z,,,"Various cuts of heavy duty steel lifting cable, includes 7/8"" x 82', and others."
 18284,1-18284,1705472,10,2,3,1,0,1790724600,2026-09-29T23:30:00Z,,,"(2) partial spools of galvanized hoist line, includes partial 3/4"", and partial 1/2""."
 18285,1-18285,1705473,5,1,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(2) skids of assorted Truck Oversize load banners/flags, Men Working safety signs, traffic cones, bu..."
-18286,1-18286,1705474,5,1,4,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted hand saws, includes bow saws, 64"" 2-man saw, and more."
+18286,1-18286,1705474,17,4,4,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted hand saws, includes bow saws, 64"" 2-man saw, and more."
 18287,1-18287,1705475,5,1,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) skid with a Clipper Lacing belt, Flexco Quick Fit 190E connectors, various scalloped edges, and ..."
 18288,1-18288,1705476,5,1,5,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of assorted hoses, includes 2"" OD, 1.5"" SAE, 100R4 Flame resistant hoses, hydraulic, and m..."
 18289,1-18289,1705477,15,3,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(4) partial spools of air hose, includes Parker 1/2"", 200 PSI max, 3/8"" air hose, Pioneer Farmax 3/4..."
@@ -347,7 +347,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18573,1-18573,1705395,66,13,10,1,0,1790724600,2026-09-29T23:30:00Z,,,(1) custom made pedestal stand with 4-drawer pull out metal organizer with contents of assorted dril...
 18574,1-18574,1705396,10,2,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Duro Metal Products Company drill press, S/N R81780H, 120V, 10"" x 10"" plate, 120V, in working co..."
 18575,1-18575,1705397,205,14,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Snap-On 6"" bench vise, currently mounted to bench, winning bidder responsible for proper dismoun..."
-18576,1-18576,1705398,180,26,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Wilton bench vise, #09-600, 6"" wide jaws, currently bolted to work bench, winning bidder respons..."
+18576,1-18576,1705398,212,30,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Wilton bench vise, #09-600, 6"" wide jaws, currently bolted to work bench, winning bidder respons..."
 18577,1-18577,1705399,30,6,11,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) steel work bench, approx. 82"" long x 33"" deep x 38"" tall, includes contents of assorted chisels,..."
 18578,1-18578,1705400,5,1,11,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted truck and trailer lights, includes tail lights, headlights, truck mirrors, and more."
 18579,1-18579,1705401,35,8,13,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of (2) organizers with contents, 1 metal organizer is 34"" wide x 24"" tall x 12"" deep, with conte..."
@@ -364,8 +364,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18590,1-18590,1705412,15,3,10,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) Borg Warner 2-door vintage parts cabinet, 29"" wide x 12"" deep x 31.5"" tall, with contents of ass..."
 18591,1-18591,1705413,10,2,8,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) NAPA 2-door, wall mount metal cabinet, 30.5"" wide x 10"" deep x 20"" tall, includes contents of as..."
 18592,1-18592,1705414,10,2,9,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) approx. 250-gallon hydraulic oil tank, holding approx. 50-gallons of oil, metal framed rack with..."
-18593,1-18593,1705415,15,3,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) approx. 250-gallon oil tank, holding AW hydraulic oil 46, approx. 1/8 to 1/4 full, winning bidde..."
-18594,1-18594,1705416,15,3,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) approx. 250-gallon oil tank, holding 15W-40 engine oil, approx. 1/4 full, winning bidder respons..."
+18593,1-18593,1705415,55,11,7,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) approx. 250-gallon oil tank, holding AW hydraulic oil 46, approx. 1/8 to 1/4 full, winning bidde..."
+18594,1-18594,1705416,55,5,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"(1) approx. 250-gallon oil tank, holding 15W-40 engine oil, approx. 1/4 full, winning bidder respons..."
 18595,1-18595,1705417,10,2,10,1,0,1790724600,2026-09-29T23:30:00Z,,,"Lot of assorted filter wrenches, muffler clamps, exhaust caps, and more."
 18596,1-18596,1705418,5,0,6,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of assorted automotive belts, brands include Goodyear 17425, Gates K080720 Micro-V belts, ..."
 18597,1-18597,1705419,255,34,11,1,0,1790724600,2026-09-29T23:30:00Z,,,"Large lot of standard heavy duty impact sockets, sizes 1 1/16"" up to 3 1/8"", and Snap-On 1"" to 3/4"" ..."
@@ -387,9 +387,9 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18291,1-18291,1705479,107,22,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Stur Levan 7256, 3 pt. PTO with belt drive blower fan."
 18292,1-18292,1705480,10,2,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"Lot of assorted crane parts, includes a crane block, 941 crane ball, and more."
 18293,1-18293,1705481,35,7,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) General Electric 20 HP heavy duty industrial motor, 230/440V, 3 phase electric."
-18294,1-18294,1705482,5,1,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of galvanized steel chokers/lift straps, various sizes and lengths up to 2"" diameter, and ..."
+18294,1-18294,1705482,15,3,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of galvanized steel chokers/lift straps, various sizes and lengths up to 2"" diameter, and ..."
 18295,1-18295,1705483,825,48,10,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Sullair single axle, towable air compressor, shows 151 hours, 4-cylinder gas engine, 2"" ball, ma..."
-18296,1-18296,1705484,5,1,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of assorted heavy duty air hose, and assorted air tools."
+18296,1-18296,1705484,10,2,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of assorted heavy duty air hose, and assorted air tools."
 18297,1-18297,1705485,15,3,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of assorted expanded steel grates, full 6' x 8' sheet of expanded steel, partial steel she..."
 18298,1-18298,1705486,10,2,11,1,0,1790726400,2026-09-30T00:00:00Z,,,"(3) skids of assorted semi-truck exhaust pipe, includes flex pipe, tips, 90's, filters, mufflers, an..."
 18299,1-18299,1705487,10,2,4,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 10' x 45"" wide screen deck with mounting plates."
@@ -423,8 +423,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18327,1-18327,1705515,20,5,4,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 80"" x 48"" steel mesh drag."
 18328,1-18328,1705516,950,25,15,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Massey Ferguson 35 Deluxe wide front tractor, 3 pt., PTO, 4-cylinder gas engine, model Z134, 3-s..."
 18329,1-18329,1705517,2250,34,13,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Ford 4000 tractor, 2-WD, open station, 3 pt., 2075 hours showing, 540 PTO, 3-cylinder diesel eng..."
-18330,1-18330,1705518,5,1,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute for excavator, 28"" diameter x 31"" tall."
-18331,1-18331,1705519,15,3,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute, 44"" diameter x 37"" tall."
+18330,1-18330,1705518,10,2,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute for excavator, 28"" diameter x 31"" tall."
+18331,1-18331,1705519,20,4,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete chute, 44"" diameter x 37"" tall."
 18332,1-18332,1705520,5,1,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) concrete loader chute, 20"" x 20"" on one side, and 7"" x 20"" opening on bottom."
 18333,1-18333,1705521,10,2,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) steel rack, 56"" wide x 28.5"" deep x 46"" tall."
 18334,1-18334,1705522,265,43,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) 134"" wide dozer root rake."
@@ -434,7 +434,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18338,1-18338,1705526,10,2,6,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) excavator bucket, 72"" wide."
 18339,1-18339,1705527,20,4,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) excavator bucket, approx. 42"" wide x 65"" deep."
 18340,1-18340,1705528,20,4,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) excavator bucket, 12"" wide x 28""."
-18341,1-18341,1705529,55,10,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of heavy duty steel I-beams, assorted sizes and lengths, includes channel steel, and much ..."
+18341,1-18341,1705529,60,11,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"Large lot of heavy duty steel I-beams, assorted sizes and lengths, includes channel steel, and much ..."
 18342,1-18342,1705530,625,73,11,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Seaman Corp., model AT.3.176.597, 84"" asphalt roller attachment, 540 PTO drive, pin hitch, S/N 8..."
 18343,1-18343,1705531,5,1,4,1,0,1790726400,2026-09-30T00:00:00Z,,,"(6) various PVC pipes, includes Schedule 40 2.5"", Schedule 80 3"", various lengths."
 18344,1-18344,1705532,86,10,5,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) ADSN-12 dual wall HDPE corrugated pipe with smooth interior, 243"" long."
@@ -479,10 +479,10 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18384,1-18384,1705571,5150,27,19,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Ohio Central Steel Company screen machine, model 45D46-3-3458, Lister engine #FNT803105*300-1739..."
 18385,1-18385,1705572,430,22,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) steel grizzly box, approx. 128"" length x 64"" depth x 88"" to top, 3 3/4"" spacing in between bars,..."
 18386,1-18386,1705573,255,16,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) steel grizzly box, approx. 132.5"" length x 64"" depth x 106"" to top, 5.5"" spacing in between bars..."
-18387,1-18387,1705574,100,8,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) steel grizzly box, approx. 150"" length x 70"" depth x 104"" to top, 12"" spacing in between bars, w..."
+18387,1-18387,1705574,205,16,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) steel grizzly box, approx. 150"" length x 70"" depth x 104"" to top, 12"" spacing in between bars, w..."
 18388,1-18388,1705575,10,2,9,1,0,1790726400,2026-09-30T00:00:00Z,,,"(1) Turner Tillage Pit Style offset disc harrow, adjustable, approx. 10', winning bidder responsible..."
 18613,1-18613,1723323,105,8,7,1,0,1790726400,2026-09-30T00:00:00Z,,,"1 yard dump hopper, one wheel needs replacement, in working condition"
-18614,1-18614,1723324,3250,19,27,1,0,1790726400,2026-09-30T00:00:00Z,,,Tel Smith Crusher Line
+18614,1-18614,1723324,3450,23,27,1,0,1790726400,2026-09-30T00:00:00Z,,,Tel Smith Crusher Line
 18615,1-18615,1722853,1300,29,29,1,0,1790726400,2026-09-30T00:00:00Z,,,Terex 72-61AA Articulated Loader
 18616,1-18616,1723069,2550,50,33,1,0,1790726400,2026-09-30T00:00:00Z,,,1980 Northwest Engineering Model 6 Drag Line Crane
 19094,1-19094,1717855,4800,23,27,1,0,1790726400,2026-09-30T00:00:00Z,,,1986 Case 580 Super E Construction King Backhoe Loader
