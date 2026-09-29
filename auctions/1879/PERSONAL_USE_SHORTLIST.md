@@ -163,3 +163,21 @@ Combined browser captures at 2026-09-29T14:12:03.665Z and 2026-09-29T14:12:49.67
 Highest-priority reconciliation candidates based on current project use and price: **18122, 18126, 18159, 18204, 18207, 18216, 18471, 18472, 18477, 18551, 18562, 18289, 18304, 18305, 18324**. In particular, 18216 Gardner-Denver compressor and 18551 Miller MP-65E/Millermatic 30-E wire feeder are active discussion items and should remain watched while their practicality/value is resolved.
 
 Known/non-actionable distinctions: 18544 and 18545 are already over established ceilings; 18124 and 18130 are 3-phase welding power sources and are not current single-phase shop priorities; other user-only lots remain watch candidates pending photo/value review and should not be deleted solely because they are absent from the actionable set.
+
+
+## User-directed skips — September 29, 2026
+
+User is not interested enough to pursue these unless materially new evidence changes the case. Remove from current actionable focus rather than trying to fill out the list:
+
+- **18192** Milwaukee Sawzall + grinder — skip.
+- **18140** Ridgid/Fuller pipe wrenches — skip.
+- **18212** Motorola/Regency radio lot — skip.
+- **18518** Tectran/other tubing — skip.
+
+These remain historical research records only; do not reactivate merely because price stays low.
+
+## 15-lot reconciliation queue — September 29, 2026
+
+Review originals, research market evidence and decide whether each user's OrbitBid watchlist-only lot should be promoted, retained as a casual watch, or dropped:
+
+18122, 18126, 18159, 18204, 18207, 18216, 18471, 18472, 18477, 18551, 18562, 18289, 18304, 18305, 18324.
