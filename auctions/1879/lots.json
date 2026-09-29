@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T09:52:46.562076Z",
+  "retrieved_at": "2026-09-29T10:05:44.298071Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -39269,9 +39269,9 @@
       "title": "(1) First Jefferson Tool, approx. 4.5\" heavy duty bench vise with rotating base.",
       "subtitle": null,
       "description": "",
-      "amount": 80,
+      "amount": 100,
       "max_amount": null,
-      "bid_count": 14,
+      "bid_count": 19,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -86421,9 +86421,9 @@
       "title": "(1) Kar Products electric wire reel stand with assorted size wire.",
       "subtitle": null,
       "description": "",
-      "amount": 315,
+      "amount": 395,
       "max_amount": null,
-      "bid_count": 45,
+      "bid_count": 53,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T09:52:46.562076Z"
+  "last_price_refresh_at": "2026-09-29T10:05:44.298071Z"
 }
