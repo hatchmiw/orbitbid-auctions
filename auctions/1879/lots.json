@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T04:26:05.649610Z",
+  "retrieved_at": "2026-09-29T04:32:16.472936Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -96533,9 +96533,9 @@
       "title": "Lot of (3) new Power King 9.50-16.5 tires, 10P.R.",
       "subtitle": null,
       "description": "",
-      "amount": 25,
+      "amount": 55,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 12,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -98142,9 +98142,9 @@
       "title": "Lot of (2) new Firestone Transforce HT 9.50R16.5LT load range E tires, includes (1) steel rim.",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 15,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 4,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T04:26:05.649610Z"
+  "last_price_refresh_at": "2026-09-29T04:32:16.472936Z"
 }
