@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T12:35:03.950737Z",
+  "retrieved_at": "2026-09-29T12:38:49.561450Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -134004,9 +134004,9 @@
       "title": "(1) Cat, model CV18B, 73\" skid steer quick attach roller, work tool is 2318601, S/N RCA03284.",
       "subtitle": null,
       "description": "",
-      "amount": 3900,
+      "amount": 4050,
       "max_amount": null,
-      "bid_count": 36,
+      "bid_count": 38,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T12:35:03.950737Z"
+  "last_price_refresh_at": "2026-09-29T12:38:49.561450Z"
 }
