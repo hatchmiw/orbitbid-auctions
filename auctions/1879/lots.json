@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T13:15:46.650476Z",
+  "retrieved_at": "2026-09-29T13:30:24.928207Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -95528,9 +95528,9 @@
       "title": "(1) Spectra Precision Laser receiver, model LR50, with case, and magnetic mounting bar, in working c...",
       "subtitle": null,
       "description": "",
-      "amount": 205,
+      "amount": 305,
       "max_amount": null,
-      "bid_count": 12,
+      "bid_count": 14,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -168870,9 +168870,9 @@
       "title": "(1) Ohio Central Steel Company screen machine, model 45D46-3-3458, Lister engine #FNT803105*300-1739...",
       "subtitle": null,
       "description": "",
-      "amount": 4150,
+      "amount": 5150,
       "max_amount": null,
-      "bid_count": 23,
+      "bid_count": 27,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T13:15:46.650476Z"
+  "last_price_refresh_at": "2026-09-29T13:30:24.928207Z"
 }
