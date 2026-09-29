@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?auction_id=1879&items=all&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-09-29T09:34:02.547375Z",
+  "retrieved_at": "2026-09-29T09:52:46.562076Z",
   "total_discovered": 487,
   "total_retrieved": 487,
   "total_errors": 0,
@@ -162252,9 +162252,9 @@
       "title": "(1) 1996 Case 1150G crawler dozer, 690 hours showing, open station, ROPS canopy, 22\" single grouser ...",
       "subtitle": null,
       "description": "",
-      "amount": 3750,
+      "amount": 4400,
       "max_amount": null,
-      "bid_count": 53,
+      "bid_count": 55,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -174179,5 +174179,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-09-29T09:34:02.547375Z"
+  "last_price_refresh_at": "2026-09-29T09:52:46.562076Z"
 }
