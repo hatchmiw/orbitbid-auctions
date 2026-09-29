@@ -181,3 +181,34 @@ These remain historical research records only; do not reactivate merely because 
 Review originals, research market evidence and decide whether each user's OrbitBid watchlist-only lot should be promoted, retained as a casual watch, or dropped:
 
 18122, 18126, 18159, 18204, 18207, 18216, 18471, 18472, 18477, 18551, 18562, 18289, 18304, 18305, 18324.
+
+
+## 15-lot watchlist reconciliation completed — September 29, 2026
+
+All **100 individual source-original JPGs** from workflow run 36584025992 / artifact 11041241361 were opened individually before pricing. Current bids below are from the latest repository summary snapshot read after photo/market review. All ceilings are **hammer-price ceilings**, not all-in costs, and assume as-is auction risk.
+
+| Lot | Current | Ceiling | Decision | Photo/research conclusion |
+|---|---:|---:|---|---|
+| 18122 | $5 | **$40** | **Promote** | Rough steel box but dense older mechanics-tool contents: Diamond USA adjustable wrench, sockets/ratchets, pry bars, punches/files, hex keys and assorted hand tools. Recent mixed-toolbox auction comps commonly $6–$43; this lot is denser than many of those examples. |
+| 18126 | $30 | **$50** | Casual/backup | Full-size welded engine hoist with telescoping boom, hook/casters and RM8000 long ram; no readable frame-capacity label. A known 2-ton hoist in great condition realized $65 in June 2026. Do not value this unknown-capacity frame as a known 2-ton hoist. |
+| 18159 | $25 | **$60** | **Promote, conditional** | Substantial wheeled air/hydraulic truck/axle jack with Milton air valve and large threaded saddle. Capacity plate is destroyed/illegible. Current generic 22-ton air/hydraulic truck jacks are roughly $190–$390, with professional units much higher; rating/function must be verified before relying on it. |
+| 18204 | $10 | **$40** | Casual | Shelf of large specialty/heavy-equipment wrenches, sockets and spanners; at least one large J.H. Williams/Superrench-type forged wrench, plus some custom/fabricated tools. Useful but specialized. |
+| 18207 | $20 | **$75** | **Promote** | Keson RR318N wheel plus multiple long open-reel tapes, including at least two 300-ft reels. Current RR318N retail roughly $85–$145; current 300-ft fiberglass tapes roughly $46–$129 each depending model. Strong direct farm/property-layout utility. |
+| 18216 | $30 | **$75** | **Promote as project** | Heavy Gardner-Denver horizontal compressor appears substantially complete. Lincoln motor nameplate confirms 5 HP, 230/460V, 3-phase, 184T. A current 5-HP 184T single-phase compressor motor is roughly $378–$711 at the economical end; a recent working 5-HP/60-gal Ingersoll-Rand compressor realized $380. At $30 this is attractive pump/tank hardware, but conversion cost prevents chasing. |
+| 18471 | $5 | **$60** | **Promote** | Better than catalog shorthand: Fowler 52-483-888 deburring/countersink kit, Blue-Point AT157R 3-in reversible cut-off tool, and additional Central Pneumatic air tools. Fowler kit retails roughly $75–$101; used AT157R asking examples roughly $64–$120. Untested auction discount retained. |
+| 18472 | $10 | **$30** | Casual cheap buy | Five older Central Pneumatic pneumatic die/angle grinders in several configurations plus boxed Dremel 290 engraver. Useful quantity but commodity-grade and untested; do not chase. |
+| 18477 | $5 | **$35** | **Promote if cheap** | Central Hydraulics 36397 8-ton round-bottom long ram is still in original box/plastic with manual and appears unused old stock. Current 8-ton long-ram replacements span roughly $36–$123. Age-related seal risk caps auction value. |
+| 18551 | $30 | **$85** | **Keep / conditional welding target** | Miller MP-65E nameplate confirms 230/460V **three-phase**, 650A at 100% duty, with Millermatic 30-E feeder, cabling and feeder mechanism. 30-E manual confirms 115VAC feeder power. A Miller MP-65E wire-feed welder realized $85 at a July 2026 welding dispersal; another MP-65E power source with cylinder realized $210 in 2025. Current used 30-E feeder asking market is materially higher, but no sold price justifies capitalizing those asks. Power source has little immediate personal utility without 3-phase; feeder/gun/cables are the reason to watch. |
+| 18562 | $25 | **$40** | Casual welding-stock buy | Dense cabinet contents include Tweco heavy-gun liners/conduits, copper nozzles/contact parts, regulators/torch parts, nozzle compounds, PPE/respirator items and miscellaneous welding supplies. Identified Tweco 45H-764-15 is a 15-ft 7/64-in liner for 500–650A-class guns; much of the stock is specialized/old. Cabinet itself is not assumed included unless catalog says so. |
+| 18289 | $15 | **$30** | Low priority | Several partial reels of Parker/Pioneer/other air hose in mixed diameters. Useful shop stock only after inspecting for weathering/cracking; bulk used hose is commodity inventory. |
+| 18304 | $20 | **$75** | **Promote, grade-dependent** | Four ~20-ft chain lengths plus six lever/snap binders and one ratchet binder. Current new 3/8-in x 20-ft G70 chains run roughly $43–$105 each and ratchet binders around $29–$30, but no reliable grade/WLL markings were established from photos. Treat as farm/utility chain unless markings pass inspection; not overhead lifting gear. |
+| 18305 | $15 | **$60** | **Promote, grade-dependent** | Cleaner/easier-to-assess group with four chain lengths (three ~10 ft, one ~20 ft) and four yellow ratchet binders. Same grade/WLL caveat as 18304. Prefer this lot if wanting ratchet binders specifically; both lots overlap. |
+| 18324 | $20 | **$150** | **Promote — strong farm opportunity** | Old Ford 60-in 3-point PTO rotary cutter; heavy/weathered deck, driveline/gearbox/A-frame/tailwheel and rear chain guarding present. No obvious catastrophic top-side frame failure, but underside/blades/stump-jumper, PTO shielding and gearbox seals/bearings need inspection. Recent 5-ft rotary-cutter auction results span about $110 for rough/basic examples, $280 for an older heavy-duty example, and $410–$625 for cleaner machines. Ceiling assumes repair risk. |
+
+### Reconciliation outcome
+
+**Promote / actively keep in decision set:** 18122, 18159, 18207, 18216, 18471, 18477, 18551, 18304, 18305, 18324.
+
+**Casual/low-price watches rather than active targets:** 18126, 18204, 18472, 18562, 18289.
+
+**Overlap rules:** 18304 and 18305 are substitutes unless both remain very cheap; 18126 is only a backup hoist after 18118 went over its ceiling; 18216 is a conversion/project purchase, not a working single-phase compressor; 18551 is primarily a feeder/cables opportunity given the 3-phase MP-65E power source.
