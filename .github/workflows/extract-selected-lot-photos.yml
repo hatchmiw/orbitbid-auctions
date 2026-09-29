@@ -9,7 +9,7 @@ on:
       lots:
         description: Space-separated lot numbers
         required: true
-        default: '18136 18163 18165 18186'
+        default: '18137 18153 18174 18187'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
@@ -36,7 +36,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "AUCTION_ID=${{ github.event.inputs.auction_id || '1879' }}" >> "$GITHUB_ENV"
-          echo "LOTS=${{ github.event.inputs.lots || '18136 18163 18165 18186' }}" >> "$GITHUB_ENV"
+          echo "LOTS=${{ github.event.inputs.lots || '18137 18153 18174 18187' }}" >> "$GITHUB_ENV"
           echo "SOURCE_RUN_ID=${{ github.event.inputs.source_run_id || '36039298628' }}" >> "$GITHUB_ENV"
           echo "SOURCE_ARTIFACT=${{ github.event.inputs.source_artifact || 'orbitbid-1879-photos' }}" >> "$GITHUB_ENV"
       - name: Download existing full-auction artifact
