@@ -1,6 +1,6 @@
 # OrbitBid Auction 2064
 
-- Price refresh: 2026-10-02T13:26:07.656199Z
+- Price refresh: 2026-10-02T14:26:28.455718Z
 - Source: https://bid.orbitbid.com/?auction_id=2064
 - Saved lots refreshed: 32
 - Refresh errors: 0
@@ -524,13 +524,25 @@
 - Internal ID: 1811448
 - Current bid: $5
 - Bid count: 0
-- Photo count: 0
+- Photo count: 9
 - End time (UTC): 2026-10-13T23:30:00Z
 
 **Fields:**
 
 - General Description: Ingersoll Rand 25T air compressor. 230/460 volts, 25 hp electric motor.
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
+
+**Photos:**
+
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/efb9aab8fcd69b7d36d8/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/8204b5d834fc776e7d86/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/da690f04c9181e050108/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/d3c145543e517b1d0362/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/e4acc654fb534b2df037/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c2cfa9b68728e820e1f9/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/7f519806a9e8f73a3269/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/0487427ecbcfcb946162/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/71f973c1d01adb1a3f57/large)
 
 ---
 

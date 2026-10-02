@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-02T13:26:07.656199Z",
+  "retrieved_at": "2026-10-02T14:26:28.455718Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -7301,7 +7301,170 @@
           }
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 11177741,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/efb9aab8fcd69b7d36d8/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/efb9aab8fcd69b7d36d8/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177740,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8204b5d834fc776e7d86/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8204b5d834fc776e7d86/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177742,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/da690f04c9181e050108/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/da690f04c9181e050108/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177743,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d3c145543e517b1d0362/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d3c145543e517b1d0362/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177744,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e4acc654fb534b2df037/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/e4acc654fb534b2df037/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177745,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c2cfa9b68728e820e1f9/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c2cfa9b68728e820e1f9/large",
+          "metadata": {
+            "type": "image",
+            "width": 3024,
+            "height": 4032,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177751,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f519806a9e8f73a3269/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7f519806a9e8f73a3269/large",
+          "metadata": {
+            "type": "image",
+            "width": 4284,
+            "height": 5712,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177752,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0487427ecbcfcb946162/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/0487427ecbcfcb946162/large",
+          "metadata": {
+            "type": "image",
+            "width": 3024,
+            "height": 4032,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
+          "id": 11177738,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/71f973c1d01adb1a3f57/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/71f973c1d01adb1a3f57/large",
+          "metadata": {
+            "type": "image",
+            "width": 3024,
+            "height": 4032,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        }
+      ],
       "fields": [
         {
           "id": 20099401,
@@ -7467,7 +7630,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 0
+      "photo_count": 9
     },
     {
       "requested_lot_number": "9853",
@@ -16127,5 +16290,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-02T13:26:07.656199Z"
+  "last_price_refresh_at": "2026-10-02T14:26:28.455718Z"
 }
