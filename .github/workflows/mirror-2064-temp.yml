@@ -1,0 +1,77 @@
+name: Temporary mirror OrbitBid 2064 photos
+
+on:
+  push:
+    branches:
+      - mirror-2064-temp
+
+permissions:
+  contents: read
+
+jobs:
+  mirror-2064:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade curl_cffi pillow playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Test auction photo checks
+        run: python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Export OrbitBid auction 2064
+        run: python scripts/export_orbitbid_rendered.py 2064
+
+      - name: Verify exported metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s auctions/2064/lots.json
+          python - <<'PY'
+          import json, pathlib
+          p = pathlib.Path("auctions/2064/lots.json")
+          data = json.loads(p.read_text(encoding="utf-8"))
+          lots = data.get("lots", [])
+          expected = data.get("total_discovered")
+          errors = data.get("total_errors")
+          if not lots or len(lots) != expected or errors:
+              raise SystemExit(f"Incomplete export: {len(lots)} retrieved, {expected} discovered, {errors} errors")
+          print(f"Verified {len(lots)} lots.")
+          PY
+
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py 2064 >> "$GITHUB_OUTPUT"
+
+      - name: Mirror photos
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/mirror_photos.py 2064
+
+      - name: Build review sheets
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/build_contact_sheets.py 2064
+
+      - name: Verify photo outputs
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/verify_photo_outputs.py 2064
+
+      - name: Upload temporary photo archive
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-2064-photos
+          path: auctions/2064/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
