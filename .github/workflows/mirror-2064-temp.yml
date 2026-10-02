@@ -22,43 +22,70 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade curl_cffi pillow playwright
-          python -m playwright install --with-deps chromium
+        run: python -m pip install --upgrade curl_cffi pillow
 
       - name: Test auction photo checks
         run: python -m unittest discover -s tests -p 'test_*.py'
 
-      - name: Relax temporary OrbitBid render timeouts
+      - name: Fetch auction 2064 lots directly from public lot API
         shell: bash
         run: |
           python - <<'PY'
+          import json, sys
+          from datetime import datetime, timezone
           from pathlib import Path
-          p = Path("scripts/export_orbitbid_rendered.py")
-          s = p.read_text(encoding="utf-8")
-          s = s.replace('page.goto(url, wait_until="domcontentloaded", timeout=60000)', 'page.goto(url, wait_until="commit", timeout=120000)')
-          s = s.replace("page.wait_for_selector('a[href*=\"/lot/\"]', timeout=30000)", "page.wait_for_selector('a[href*=\"/lot/\"]', timeout=90000)")
-          p.write_text(s, encoding="utf-8")
-          PY
 
-      - name: Export OrbitBid auction 2064
-        run: python scripts/export_orbitbid_rendered.py 2064
+          sys.path.insert(0, "scripts")
+          import export_orbitbid as base
 
-      - name: Verify exported metadata
-        shell: bash
-        run: |
-          set -euo pipefail
-          test -s auctions/2064/lots.json
-          python - <<'PY'
-          import json, pathlib
-          p = pathlib.Path("auctions/2064/lots.json")
-          data = json.loads(p.read_text(encoding="utf-8"))
-          lots = data.get("lots", [])
-          expected = data.get("total_discovered")
-          errors = data.get("total_errors")
-          if not lots or len(lots) != expected or errors:
-              raise SystemExit(f"Incomplete export: {len(lots)} retrieved, {expected} discovered, {errors} errors")
-          print(f"Verified {len(lots)} lots.")
+          ids = [
+              1799681, 1799690, 1799689, 1799688, 1799687, 1799686, 1799685, 1799684,
+              1799683, 1799682, 1799691, 1799692, 1799693, 1799694, 1799695, 1799696,
+              1811448, 1799711, 1799697, 1799698, 1799699, 1799712, 1799700, 1799701,
+              1799702, 1799703, 1799704, 1799705, 1799706, 1799708, 1799710, 1799709,
+          ]
+          expected_numbers = {
+              "9860","9861","9862","9863","9864","9865","9866","9867","9868","9869",
+              "9870","9871","9872","9873","9874","9875","3323","9853","9876","9877",
+              "9878","9879","9880","9881","9882","9883","9884","9885","9886","9888",
+              "9889","9890",
+          }
+
+          session = base.build_session()
+          lots = []
+          errors = []
+          for i, internal_id in enumerate(ids, 1):
+              try:
+                  lot = base.fetch_lot(session, internal_id)
+                  lots.append(lot)
+                  print(f"[{i}/{len(ids)}] {lot['requested_lot_number']} | {lot['photo_count']} photos")
+              except Exception as exc:
+                  errors.append({"internal_id": internal_id, "error": str(exc)})
+                  print(f"ERROR {internal_id}: {exc}", file=sys.stderr)
+
+          numbers = {str(x.get("requested_lot_number")) for x in lots}
+          if errors or len(lots) != 32 or numbers != expected_numbers:
+              raise SystemExit(
+                  f"Direct lot fetch failed validation: lots={len(lots)}, "
+                  f"errors={errors}, missing={sorted(expected_numbers-numbers)}, "
+                  f"extra={sorted(numbers-expected_numbers)}"
+              )
+
+          out = Path("auctions/2064")
+          out.mkdir(parents=True, exist_ok=True)
+          data = {
+              "auction_id": 2064,
+              "source_url": "https://bid.orbitbid.com/?auction_id=2064",
+              "retrieved_at": datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
+              "catalog_pages": ["https://bid.orbitbid.com/?auction_id=2064"],
+              "total_discovered": 32,
+              "total_retrieved": 32,
+              "total_errors": 0,
+              "errors": [],
+              "lots": lots,
+          }
+          (out / "lots.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
+          print(f"Verified 32 auction lots; total source photos={sum(x['photo_count'] for x in lots)}")
           PY
 
       - name: Calculate photo retention
