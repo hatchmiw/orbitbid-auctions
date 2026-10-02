@@ -29,6 +29,18 @@ jobs:
       - name: Test auction photo checks
         run: python -m unittest discover -s tests -p 'test_*.py'
 
+      - name: Relax temporary OrbitBid render timeouts
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("scripts/export_orbitbid_rendered.py")
+          s = p.read_text(encoding="utf-8")
+          s = s.replace('page.goto(url, wait_until="domcontentloaded", timeout=60000)', 'page.goto(url, wait_until="commit", timeout=120000)')
+          s = s.replace("page.wait_for_selector('a[href*=\"/lot/\"]', timeout=30000)", "page.wait_for_selector('a[href*=\"/lot/\"]', timeout=90000)")
+          p.write_text(s, encoding="utf-8")
+          PY
+
       - name: Export OrbitBid auction 2064
         run: python scripts/export_orbitbid_rendered.py 2064
 
