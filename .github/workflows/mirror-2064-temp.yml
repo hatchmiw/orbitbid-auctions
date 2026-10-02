@@ -1,4 +1,4 @@
-name: Temporary mirror OrbitBid 2064 photos
+name: Publish OrbitBid 2064 metadata
 
 on:
   push:
@@ -6,35 +6,33 @@ on:
       - mirror-2064-temp
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  mirror-2064:
+  publish-2064:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
     steps:
-      - name: Check out repository
+      - name: Check out main
         uses: actions/checkout@v5
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: python -m pip install --upgrade curl_cffi pillow
+      - name: Install dependency
+        run: python -m pip install --upgrade curl_cffi
 
-      - name: Test auction photo checks
-        run: python -m unittest discover -s tests -p 'test_*.py'
-
-      - name: Fetch auction 2064 lots directly from public lot API
+      - name: Fetch and write verified auction metadata
         shell: bash
         run: |
           python - <<'PY'
           import json, sys
           from datetime import datetime, timezone
           from pathlib import Path
-
           sys.path.insert(0, "scripts")
           import export_orbitbid as base
 
@@ -52,8 +50,7 @@ jobs:
           }
 
           session = base.build_session()
-          lots = []
-          errors = []
+          lots, errors = [], []
           for i, internal_id in enumerate(ids, 1):
               try:
                   lot = base.fetch_lot(session, internal_id)
@@ -66,76 +63,38 @@ jobs:
           numbers = {str(x.get("requested_lot_number")) for x in lots}
           if errors or len(lots) != 32 or numbers != expected_numbers:
               raise SystemExit(
-                  f"Direct lot fetch failed validation: lots={len(lots)}, "
-                  f"errors={errors}, missing={sorted(expected_numbers-numbers)}, "
-                  f"extra={sorted(numbers-expected_numbers)}"
+                  f"Validation failed: lots={len(lots)}, errors={errors}, "
+                  f"missing={sorted(expected_numbers-numbers)}, extra={sorted(numbers-expected_numbers)}"
               )
 
+          retrieved_at = datetime.now(timezone.utc).isoformat().replace("+00:00","Z")
           out = Path("auctions/2064")
           out.mkdir(parents=True, exist_ok=True)
           data = {
               "auction_id": 2064,
               "source_url": "https://bid.orbitbid.com/?auction_id=2064",
-              "retrieved_at": datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
               "catalog_pages": ["https://bid.orbitbid.com/?auction_id=2064"],
+              "retrieved_at": retrieved_at,
               "total_discovered": 32,
               "total_retrieved": 32,
               "total_errors": 0,
-              "errors": [],
               "lots": lots,
+              "errors": [],
           }
-          (out / "lots.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
-          print(f"Verified 32 auction lots; total source photos={sum(x['photo_count'] for x in lots)}")
+          (out / "lots.json").write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          (out / "summary.md").write_text(base.make_summary(data), encoding="utf-8")
+          (out / "summary.csv").write_text(base.make_csv(lots), encoding="utf-8", newline="")
+          base.append_price_history(out, retrieved_at, lots, "export")
+          (out / "README.md").write_text(base.make_readme(data), encoding="utf-8")
+          print(f"Verified 32 active lots; {sum(x['photo_count'] for x in lots)} source photos.")
           PY
 
-      - name: Calculate photo retention
-        id: retention
-        shell: bash
-        run: python scripts/photo_retention.py 2064 >> "$GITHUB_OUTPUT"
-
-      - name: Mirror photos
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/mirror_photos.py 2064
-
-      - name: Build review sheets
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/build_contact_sheets.py 2064
-
-      - name: Verify photo outputs
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/verify_photo_outputs.py 2064
-
-      - name: Upload temporary photo archive
-        if: steps.retention.outputs.expired != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: orbitbid-2064-photos
-          path: auctions/2064/photos/
-          retention-days: ${{ steps.retention.outputs.retention_days }}
-          compression-level: 0
-          if-no-files-found: error      - name: Export OrbitBid auction 2064 from verified lot IDs
+      - name: Commit metadata to main
         shell: bash
         run: |
-          python - <<'PY'
-          import sys
-          from pathlib import Path
-          sys.path.insert(0, str(Path("scripts").resolve()))
-          import export_orbitbid as base
-
-          lot_ids = [
-              1799681, 1799690, 1799689, 1799688, 1799687, 1799686, 1799685, 1799684,
-              1799683, 1799682, 1799691, 1799692, 1799693, 1799694, 1799695, 1799696,
-              1811448, 1799711, 1799697, 1799698, 1799699, 1799712, 1799700, 1799701,
-              1799702, 1799703, 1799704, 1799705, 1799706, 1799708, 1799710, 1799709,
-          ]
-
-          def verified_discover(_session, auction_id):
-              assert auction_id == "2064"
-              return lot_ids, ["https://bid.orbitbid.com/?auction_id=2064"]
-
-          base.discover_lot_ids = verified_discover
-          sys.argv = ["export_orbitbid.py", "2064"]
-          raise SystemExit(base.main())
-          PY
-
-
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add auctions/2064/README.md auctions/2064/summary.md auctions/2064/summary.csv auctions/2064/lots.json auctions/2064/price-history.csv
+          git commit -m "Import OrbitBid auction 2064 metadata"
+          git push origin HEAD:main
