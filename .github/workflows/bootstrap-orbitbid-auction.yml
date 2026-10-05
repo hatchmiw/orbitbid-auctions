@@ -16,12 +16,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
       - name: Find changed auction requests
         id: requests
         shell: bash
         run: |
           set -euo pipefail
-          mapfile -t request_files < <(jq -r '[.head_commit.added[]?, .head_commit.modified[]?, .commits[]?.added[]?, .commits[]?.modified[]?] | .[]' "$GITHUB_EVENT_PATH" | grep -E '^auction-requests/[0-9]+[.]txt$' | sort -u || true)
+          mapfile -t request_files < <(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- 'auction-requests/*.txt' | grep -E '^auction-requests/[0-9]+[.]txt$' | sort -u || true)
 
           if (( ${#request_files[@]} == 0 )); then
             echo "No numeric OrbitBid auction request files changed."
