@@ -45,16 +45,23 @@ jobs:
 
           while IFS= read -r auction_id; do
             [[ -n "$auction_id" ]] || continue
-            artifact_names=("orbitbid-$auction_id-photos" "orbitbid-$auction_id-review-photos")
             echo "Checking expired auction $auction_id"
 
-            for artifact_name in "${artifact_names[@]}"; do
-              gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$artifact_name&per_page=100" --jq '.artifacts[].id' |
-              while IFS= read -r artifact_id; do
-                [[ -n "$artifact_id" ]] || continue
-                echo "Deleting artifact $artifact_id for auction $auction_id"
-                gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
-              done
+            gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?per_page=100" |
+            jq -r --arg auction_id "$auction_id" '
+              .artifacts[]
+              | select(
+                  .name == ("orbitbid-" + $auction_id + "-photos")
+                  or .name == ("orbitbid-" + $auction_id + "-review-photos")
+                  or .name == ("orbitbid-" + $auction_id + "-review-sheets")
+                  or (.name | startswith("orbitbid-" + $auction_id + "-photos-"))
+                )
+              | .id
+            ' |
+            while IFS= read -r artifact_id; do
+              [[ -n "$artifact_id" ]] || continue
+              echo "Deleting artifact $artifact_id for auction $auction_id"
+              gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
             done
 
             if [[ -d "auctions/$auction_id/photos" ]]; then
