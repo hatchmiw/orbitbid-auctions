@@ -3,9 +3,10 @@
 Automated snapshot of OrbitBid auction **1920**.
 
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
-- Last price refresh: 2026-10-05T15:28:59.581483Z
-- Saved lots refreshed: 247
-- Refresh errors: 0
+- Retrieved: 2026-10-05T16:02:45.909558Z
+- Catalog lots discovered: 247
+- Lots retrieved: 247
+- Retrieval errors: 0
 
 ## Files
 
