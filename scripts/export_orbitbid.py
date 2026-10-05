@@ -195,6 +195,61 @@ def catalog_lot_ids_from_html(html: str) -> list[int]:
     return parser.ids
 
 
+def graph_query_headers(operation_name: str) -> dict[str, str]:
+    return {
+        "accept": "*/*",
+        "content-type": "application/json",
+        "x-client-host": "bid.orbitbid.com",
+        "x-client-token": CLIENT_TOKEN,
+        "x-operation-name": operation_name,
+        "origin": "https://bid.orbitbid.com",
+        "referer": "https://bid.orbitbid.com/",
+    }
+
+
+def probe_public_query_fields(session: requests.Session) -> None:
+    """Print public GraphQL query names for diagnostics when catalog HTML is only an app shell."""
+    query = """
+    query OrbitBidSchemaProbe {
+      __schema {
+        queryType {
+          fields {
+            name
+            args {
+              name
+              type { kind name ofType { kind name } }
+            }
+          }
+        }
+      }
+    }
+    """
+    try:
+        response = session.post(
+            GRAPHQL_URL,
+            headers=graph_query_headers("OrbitBidSchemaProbe"),
+            json={"operationName": "OrbitBidSchemaProbe", "variables": {}, "query": query},
+            timeout=30,
+        )
+        if response.status_code != 200:
+            print(f"GraphQL schema probe failed: HTTP {response.status_code}", file=sys.stderr)
+            return
+        payload = response.json()
+        if payload.get("errors"):
+            print(
+                "GraphQL schema probe errors: "
+                + json.dumps(payload["errors"], ensure_ascii=False),
+                file=sys.stderr,
+            )
+            return
+        fields = (((payload.get("data") or {}).get("__schema") or {}).get("queryType") or {}).get("fields") or []
+        names = [field.get("name", "") for field in fields]
+        likely = [name for name in names if re.search(r"(auction|lot|catalog)", name, re.I)]
+        print("Public GraphQL query fields matching auction/lot/catalog:", likely, file=sys.stderr)
+    except Exception as exc:
+        print(f"GraphQL schema probe failed: {exc}", file=sys.stderr)
+
+
 def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[int], list[str]]:
     """Discover lot IDs without launching a browser.
 
@@ -228,6 +283,7 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
         )
 
         if page == 1 and not page_ids:
+            probe_public_query_fields(session)
             raise RuntimeError(
                 "No OrbitBid lot links were found inside the catalog main content. "
                 "Refusing to scrape unrelated application-shell links."
@@ -252,15 +308,7 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
     return all_ids, page_urls
 
 def fetch_lot(session: requests.Session, internal_id: int) -> dict[str, Any]:
-    headers = {
-        "accept": "*/*",
-        "content-type": "application/json",
-        "x-client-host": "bid.orbitbid.com",
-        "x-client-token": CLIENT_TOKEN,
-        "x-operation-name": "getPublicLot",
-        "origin": "https://bid.orbitbid.com",
-        "referer": "https://bid.orbitbid.com/",
-    }
+    headers = graph_query_headers("getPublicLot")
     payload = {
         "operationName": "getPublicLot",
         "variables": {"id": internal_id, "increment_view": False},
