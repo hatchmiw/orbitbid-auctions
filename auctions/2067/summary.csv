@@ -40,7 +40,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9918,1-9918,1808126,15,3,14,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 920 moco disc mower conditioner, 9'9"" cutting width, rotary disc, impeller, 540 PTO, ..."
 9919,1-9919,1808127,5,1,9,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Kicker wagon on John Deere running gear, 18'"
 9920,1-9920,1808128,50,1,7,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Kicker wagon on Kory model 6872 running gear, 16'"
-9921,1-9921,1808129,15,3,8,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 74 5-bar hay rake, SN E00074G102820"
+9921,1-9921,1808129,105,20,8,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 74 5-bar hay rake, SN E00074G102820"
 9922,1-9922,1808130,515,41,12,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Hay wagon with rear rack, 16' x 8' with Kory 6872 running gear"
 9923,1-9923,1808131,2100,25,11,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Brillion SST-1201 Seeder, SN 140299"
 9924,1-9924,1808132,5,1,7,1,0,1791325800,2026-10-06T22:30:00Z,,,(1) Stan-Hoist Running Gear
@@ -92,17 +92,17 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9952,1-9952,1808181,5,0,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) New Holland 56 Hay rake, SN 68582"
 9953,1-9953,1808189,205,3,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 40-U Tractor Gas, with side mounted sickle bar mower, SN 64344"
 9954,1-9954,1808184,5,1,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bush hog SM60 Ditch bank mower, 60"", SN 00921"
-9955,1-9955,1808185,245,11,12,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho..."
+9955,1-9955,1808185,510,27,12,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho..."
 9956,1-9956,1808186,125,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Brillion cultipacker, 10'"
 9957,1-9957,1808183,5,1,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Portable sign, mounted on trailer, 8' x 72"" wide"
 9958,1-9958,1808177,100,0,41,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5..."
 9959,1-9959,1808178,5,0,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 920 grain head, SN H00920E661671"
 9960,1-9960,1808179,5,0,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 216 grain head, 16', SN NA"
 9961,1-9961,1808182,101,13,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Disk, 3PT, 6'"
-9962,1-9962,1808180,500,5,14,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n..."
+9962,1-9962,1808180,510,6,14,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n..."
 9846,1-9846,1887149,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Howse Auger Attachment 3-Point
 9852,1-9852,1887151,5,1,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Back blade, 3 PT, 8'"
-9821,1-9821,1887129,405,3,22,1,0,1791333000,2026-10-07T00:30:00Z,,,1971 AM General 6X6 Military Truck
-9822,1-9822,1887132,100,1,15,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
-9823,1-9823,1887106,1550,88,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
-9824,1-9824,1887144,825,6,25,1,0,1791333000,2026-10-07T00:30:00Z,,,1967 International 6X6 Military Dump Truck
+9821,1-9821,1887129,1550,11,22,1,0,1791333000,2026-10-07T00:30:00Z,,,1971 AM General 6X6 Military Truck
+9822,1-9822,1887132,105,2,15,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
+9823,1-9823,1887106,1600,89,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
+9824,1-9824,1887144,1530,12,25,1,0,1791333000,2026-10-07T00:30:00Z,,,1967 International 6X6 Military Dump Truck
