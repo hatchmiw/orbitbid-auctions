@@ -1,4 +1,5 @@
-name: Extract selected OrbitBid lot photos
+name: Extract OrbitBid photo subset
+
 on:
   workflow_dispatch:
     inputs:
@@ -7,9 +8,9 @@ on:
         required: true
         default: '1879'
       lots:
-        description: Space-separated lot numbers
+        description: Space-separated lot numbers, or ALL
         required: true
-        default: '18122 18126 18159 18204 18207 18216 18471 18472 18477 18551 18562 18289 18304 18305 18324'
+        default: 'ALL'
       source_run_id:
         description: Workflow run containing full photo artifact
         required: true
@@ -18,27 +19,70 @@ on:
         description: Full photo artifact name
         required: true
         default: 'orbitbid-1879-photos'
+      mode:
+        description: selected-originals or review-sheets
+        required: true
+        default: 'selected-originals'
   push:
     branches: [main]
     paths:
-      - .github/workflows/extract-selected-lot-photos.yml
+      - 'photo-requests/*.json'
+      - '.github/workflows/extract-selected-lot-photos.yml'
+
 permissions:
   actions: read
   contents: write
+
 jobs:
   extract:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Resolve selection
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - name: Resolve request
         shell: bash
         run: |
           set -euo pipefail
-          echo "AUCTION_ID=${{ github.event.inputs.auction_id || '1879' }}" >> "$GITHUB_ENV"
-          echo "LOTS=${{ github.event.inputs.lots || '18122 18126 18159 18204 18207 18216 18471 18472 18477 18551 18562 18289 18304 18305 18324' }}" >> "$GITHUB_ENV"
-          echo "SOURCE_RUN_ID=${{ github.event.inputs.source_run_id || '36039298628' }}" >> "$GITHUB_ENV"
-          echo "SOURCE_ARTIFACT=${{ github.event.inputs.source_artifact || 'orbitbid-1879-photos' }}" >> "$GITHUB_ENV"
+
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            auction_id="${{ inputs.auction_id }}"
+            lots="${{ inputs.lots }}"
+            source_run_id="${{ inputs.source_run_id }}"
+            source_artifact="${{ inputs.source_artifact }}"
+            mode="${{ inputs.mode }}"
+          else
+            request_file="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- 'photo-requests/*.json' | head -n1)"
+            if [[ -z "$request_file" ]]; then
+              echo "No photo request file changed; nothing to do."
+              exit 0
+            fi
+            auction_id="$(jq -r '.auction_id' "$request_file")"
+            lots="$(jq -r 'if .lots == "ALL" then "ALL" else (.lots | join(" ")) end' "$request_file")"
+            source_run_id="$(jq -r '.source_run_id' "$request_file")"
+            source_artifact="$(jq -r '.source_artifact' "$request_file")"
+            mode="$(jq -r '.mode // "selected-originals"' "$request_file")"
+          fi
+
+          [[ "$auction_id" =~ ^[0-9]+$ ]]
+          [[ "$source_run_id" =~ ^[0-9]+$ ]]
+          [[ "$mode" == "selected-originals" || "$mode" == "review-sheets" ]]
+
+          echo "AUCTION_ID=$auction_id" >> "$GITHUB_ENV"
+          echo "LOTS=$lots" >> "$GITHUB_ENV"
+          echo "SOURCE_RUN_ID=$source_run_id" >> "$GITHUB_ENV"
+          echo "SOURCE_ARTIFACT=$source_artifact" >> "$GITHUB_ENV"
+          echo "MODE=$mode" >> "$GITHUB_ENV"
+
+          if [[ "$mode" == "review-sheets" ]]; then
+            echo "OUTPUT_ARTIFACT=orbitbid-$auction_id-review-sheets" >> "$GITHUB_ENV"
+          else
+            echo "OUTPUT_ARTIFACT=orbitbid-$auction_id-selected-source-photos" >> "$GITHUB_ENV"
+          fi
+
       - name: Download existing full-auction artifact
         env:
           GH_TOKEN: ${{ github.token }}
@@ -47,29 +91,58 @@ jobs:
           set -euo pipefail
           mkdir -p /tmp/orbitbid-source
           gh run download "$SOURCE_RUN_ID" --repo "$GITHUB_REPOSITORY" --name "$SOURCE_ARTIFACT" --dir /tmp/orbitbid-source
-      - name: Extract selected lots only
+
+      - name: Extract requested photo subset
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p /tmp/orbitbid-selected
-          for lot in $LOTS; do
-            test -d "/tmp/orbitbid-source/$lot"
-            cp -a "/tmp/orbitbid-source/$lot" "/tmp/orbitbid-selected/$lot"
-          done
+
+          if [[ "$MODE" == "review-sheets" ]]; then
+            if [[ -f /tmp/orbitbid-source/manifest.json ]]; then
+              cp /tmp/orbitbid-source/manifest.json /tmp/orbitbid-selected/manifest.json
+            fi
+            while IFS= read -r sheet; do
+              lot="$(basename "$(dirname "$sheet")")"
+              mkdir -p "/tmp/orbitbid-selected/$lot"
+              cp "$sheet" "/tmp/orbitbid-selected/$lot/review.jpg"
+            done < <(find /tmp/orbitbid-source -mindepth 2 -maxdepth 2 -type f -name review.jpg | sort)
+
+            count="$(find /tmp/orbitbid-selected -type f -name review.jpg | wc -l)"
+            if (( count == 0 )); then
+              echo "No review sheets found in source artifact." >&2
+              exit 1
+            fi
+            echo "Extracted $count review sheets."
+          else
+            if [[ "$LOTS" == "ALL" ]]; then
+              echo "ALL is not allowed for selected-originals mode." >&2
+              exit 1
+            fi
+            for lot in $LOTS; do
+              test -d "/tmp/orbitbid-source/$lot"
+              cp -a "/tmp/orbitbid-source/$lot" "/tmp/orbitbid-selected/$lot"
+            done
+          fi
+
       - uses: actions/upload-artifact@v4
         with:
-          name: orbitbid-${{ env.AUCTION_ID }}-selected-source-photos
+          name: ${{ env.OUTPUT_ARTIFACT }}
           path: /tmp/orbitbid-selected/
           retention-days: 9
           compression-level: 0
-      - name: Record extractor run ID
+          if-no-files-found: error
+
+      - name: Record selected-originals artifact
+        if: env.MODE == 'selected-originals'
         shell: bash
         run: |
           set -euo pipefail
           marker="auctions/$AUCTION_ID/selected-photo-artifact-run.txt"
-          printf 'run_id=%s\nlots=%s\nartifact=orbitbid-%s-selected-source-photos\n' "$GITHUB_RUN_ID" "$LOTS" "$AUCTION_ID" > "$marker"
+          printf 'run_id=%s\nlots=%s\nartifact=%s\n' "$GITHUB_RUN_ID" "$LOTS" "$OUTPUT_ARTIFACT" > "$marker"
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898218+github-actions[bot]@users.noreply.github.com"
           git add "$marker"
-          git commit -m "Record final shortlist photo artifact run" || exit 0
+          git commit -m "Record selected OrbitBid photo artifact" || exit 0
+          git pull --rebase origin main
           git push
