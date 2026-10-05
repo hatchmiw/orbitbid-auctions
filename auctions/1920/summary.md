@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Retrieved: 2026-10-05T14:58:19.263559Z
+- Retrieved: 2026-10-05T15:09:44.458190Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Catalog lots discovered: 247
 - Lots retrieved: 247
@@ -2592,8 +2592,8 @@
 
 - OrbitBid item number: 1-10060
 - Internal ID: 1761129
-- Current bid: $7450
-- Bid count: 56
+- Current bid: $7800
+- Bid count: 63
 - Photo count: 46
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -7076,7 +7076,7 @@
 
 ---
 
-## Lot 18707 — (1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby ...
+## Lot 18707 — Frigidaire FFTR18140WD Refrigerator (1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1...
 
 - OrbitBid item number: 1-18707
 - Internal ID: 1761222
@@ -7087,7 +7087,12 @@
 
 **Fields:**
 
-- General Description: (1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby microwave oven.
+- Make: Frigidaire
+- Model: FFTR18140WD
+- Type: Refrigerator
+- Appliance Power: Electric Powered
+- General Description: (1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby microwave oven. Delayed removal until after Thursday 3pm. Please contact site manager to schedule pick up (616) 558-0163
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 
 **Photos:**
 

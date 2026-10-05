@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-05T14:58:19.263559Z",
+  "retrieved_at": "2026-10-05T15:09:44.458190Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -39028,9 +39028,9 @@
       "title": "2020 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-TP diesel engine, rear...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 7450,
+      "amount": 7800,
       "max_amount": null,
-      "bid_count": 56,
+      "bid_count": 63,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -101471,7 +101471,7 @@
       "internal_id": 1761222,
       "id": 1761222,
       "item_number": "1-18707",
-      "title": "(1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby ...",
+      "title": "Frigidaire FFTR18140WD Refrigerator (1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1...",
       "subtitle": null,
       "description": "",
       "amount": 5,
@@ -101637,10 +101637,45 @@
       ],
       "fields": [
         {
+          "id": 21701020,
+          "type": "textbox",
+          "label": "Make",
+          "value": "Frigidaire",
+          "other_value": null
+        },
+        {
+          "id": 21701021,
+          "type": "textbox",
+          "label": "Model",
+          "value": "FFTR18140WD",
+          "other_value": null
+        },
+        {
+          "id": 21701022,
+          "type": "checkbox",
+          "label": "Type",
+          "value": "Refrigerator",
+          "other_value": null
+        },
+        {
+          "id": 21701030,
+          "type": "checkbox",
+          "label": "Appliance Power",
+          "value": "Electric Powered",
+          "other_value": null
+        },
+        {
           "id": 19386611,
           "type": "textbox",
           "label": "General Description",
-          "value": "(1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby microwave oven.",
+          "value": "(1) Frigidaire refrigerator, model FFTR18140WD, with freezer, (1) Oster Toaster Oven, and (1) Danby microwave oven. Delayed removal until after Thursday 3pm. Please contact site manager to schedule pick up (616) 558-0163",
+          "other_value": null
+        },
+        {
+          "id": 21701033,
+          "type": "radio",
+          "label": "Working Condition",
+          "value": "Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)",
           "other_value": null
         }
       ],
