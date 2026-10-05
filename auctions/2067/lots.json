@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-05T16:38:31.720430Z",
+  "retrieved_at": "2026-10-05T17:25:59.063620Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -1083,9 +1083,9 @@
       "title": "(1) Bush hog SQ84T Brush Hog, 84\" 3 PT, SN: 12-02930",
       "subtitle": null,
       "description": "",
-      "amount": 680,
+      "amount": 780,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -4292,9 +4292,9 @@
       "title": "John Deere 3010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours ...",
       "subtitle": null,
       "description": "",
-      "amount": 560,
+      "amount": 625,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 10,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -7628,7 +7628,7 @@
       "internal_id": 1808112,
       "id": 1808112,
       "item_number": "1-9904",
-      "title": "John Deere 4040 Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 ...",
+      "title": "John Deere 4040 Tractor Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, ...",
       "subtitle": null,
       "description": "",
       "amount": 105,
@@ -8186,10 +8186,24 @@
           "other_value": null
         },
         {
+          "id": 21722710,
+          "type": "checkbox",
+          "label": "Type",
+          "value": "Tractor",
+          "other_value": null
+        },
+        {
           "id": 19967992,
           "type": "textbox",
           "label": "General Description",
-          "value": "Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 rear tires, 6243 hours showing, SN: R4040H 001000R",
+          "value": "Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 rear tires, 6243 hours showing, SN: R4040H 001080R",
+          "other_value": null
+        },
+        {
+          "id": 21722736,
+          "type": "radio",
+          "label": "Working Condition",
+          "value": "Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)",
           "other_value": null
         }
       ],
@@ -15148,9 +15162,9 @@
       "title": "(1) Older grain/fertilizer, wagon, dump, wooden box",
       "subtitle": null,
       "description": "",
-      "amount": 50,
+      "amount": 55,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -27559,7 +27573,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -29402,7 +29416,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -30479,7 +30493,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -30790,7 +30804,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47351,5 +47365,6 @@
       "photo_count": 25
     }
   ],
-  "errors": []
+  "errors": [],
+  "last_price_refresh_at": "2026-10-05T17:25:59.063620Z"
 }

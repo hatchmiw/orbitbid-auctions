@@ -1,10 +1,9 @@
 # OrbitBid Auction 2067
 
-- Retrieved: 2026-10-05T16:38:31.720430Z
+- Price refresh: 2026-10-05T17:25:59.063620Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1
-- Catalog lots discovered: 107
-- Lots retrieved: 107
-- Errors: 0
+- Saved lots refreshed: 107
+- Refresh errors: 0
 
 ---
 
@@ -91,8 +90,8 @@
 
 - OrbitBid item number: 1-9894
 - Internal ID: 1808102
-- Current bid: $680
-- Bid count: 5
+- Current bid: $780
+- Bid count: 9
 - Photo count: 5
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -309,8 +308,8 @@
 
 - OrbitBid item number: 1-9899
 - Internal ID: 1808107
-- Current bid: $560
-- Bid count: 7
+- Current bid: $625
+- Bid count: 10
 - Photo count: 18
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -529,7 +528,7 @@
 
 ---
 
-## Lot 9904 — John Deere 4040 Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 ...
+## Lot 9904 — John Deere 4040 Tractor Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, ...
 
 - OrbitBid item number: 1-9904
 - Internal ID: 1808112
@@ -542,7 +541,9 @@
 
 - Make: John Deere
 - Model: 4040 Tractor
-- General Description: Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 rear tires, 6243 hours showing, SN: R4040H 001000R
+- Type: Tractor
+- General Description: Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, 16.9-38 rear tires, 6243 hours showing, SN: R4040H 001080R
+- Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 
 **Photos:**
 
@@ -1050,8 +1051,8 @@
 
 - OrbitBid item number: 1-9917
 - Internal ID: 1808125
-- Current bid: $50
-- Bid count: 1
+- Current bid: $55
+- Bid count: 2
 - Photo count: 8
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1950,7 +1951,7 @@
 - OrbitBid item number: 1-9776
 - Internal ID: 1808170
 - Current bid: $5
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -2086,7 +2087,7 @@
 - OrbitBid item number: 1-9797
 - Internal ID: 1808154
 - Current bid: $5
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -2166,7 +2167,7 @@
 - OrbitBid item number: 1-9800
 - Internal ID: 1808172
 - Current bid: $5
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -2190,7 +2191,7 @@
 - OrbitBid item number: 1-9801
 - Internal ID: 1808157
 - Current bid: $5
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:00:00Z
 
