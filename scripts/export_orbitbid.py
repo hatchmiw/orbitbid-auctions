@@ -207,6 +207,44 @@ def graph_query_headers(operation_name: str) -> dict[str, str]:
     }
 
 
+def probe_frontend_graphql_operations(
+    session: requests.Session, script_srcs: list[str]
+) -> None:
+    """Inspect public frontend bundles for GraphQL operation names when discovery breaks."""
+    found: set[str] = set()
+    for src in script_srcs:
+        if "d1ljvnrgb7j023.cloudfront.net" not in src or not src.endswith(".js"):
+            continue
+        try:
+            response = session.get(src, timeout=30)
+            if response.status_code != 200:
+                continue
+            body = response.text
+        except Exception:
+            continue
+
+        for name in re.findall(r"\b(?:query|mutation)\s+([A-Za-z_][A-Za-z0-9_]*)", body):
+            if re.search(r"(auction|lot|catalog|item)", name, re.I):
+                found.add(name)
+
+        for token in re.findall(r"[A-Za-z_][A-Za-z0-9_]{4,60}", body):
+            if re.search(r"(Public.*(?:Auction|Lot)|(?:Auction|Lot).*Public|AuctionLots|LotsByAuction)", token, re.I):
+                found.add(token)
+
+        if "getPublicLot" in body:
+            for match in re.finditer("getPublicLot", body):
+                start = max(0, match.start() - 500)
+                end = min(len(body), match.end() + 1000)
+                snippet = re.sub(r"\s+", " ", body[start:end])
+                print(f"Frontend bundle context near getPublicLot ({src}): {snippet}", file=sys.stderr)
+                break
+
+    print(
+        "Frontend GraphQL/catalog operation candidates: " + repr(sorted(found)[:200]),
+        file=sys.stderr,
+    )
+
+
 def probe_public_query_fields(session: requests.Session) -> None:
     """Print public GraphQL query names for diagnostics when catalog HTML is only an app shell."""
     query = """
@@ -292,6 +330,7 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
             print(f"Catalog diagnostic body prefix: {compact[:1500]}", file=sys.stderr)
             script_srcs = re.findall(r'<script[^>]+src=["\\\']([^"\\\']+)', response.text, re.I)
             print(f"Catalog diagnostic script sources: {script_srcs[:20]}", file=sys.stderr)
+            probe_frontend_graphql_operations(session, script_srcs)
             probe_public_query_fields(session)
             raise RuntimeError(
                 "No OrbitBid lot links were found inside the catalog main content. "
