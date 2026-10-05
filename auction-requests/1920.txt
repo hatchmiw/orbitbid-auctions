@@ -3,3 +3,4 @@ Created to verify the push-triggered bootstrap workflow and start a fresh normal
 Retry bootstrap after request-file detection fix.
 Second bootstrap retry after shell parser hardening.
 Third bootstrap retry using git diff change detection.
+Retry after rendered catalog navigation fix.
