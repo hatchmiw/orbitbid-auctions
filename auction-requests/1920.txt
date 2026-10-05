@@ -7,3 +7,4 @@ Retry after rendered catalog navigation fix.
 Retry using direct validated catalog discovery.
 Probe public GraphQL catalog operations.
 Capture direct catalog response diagnostics.
+Inspect OrbitBid frontend GraphQL operation names.
