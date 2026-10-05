@@ -210,11 +210,22 @@ def graph_query_headers(operation_name: str) -> dict[str, str]:
 def probe_frontend_graphql_operations(
     session: requests.Session, script_srcs: list[str]
 ) -> None:
-    """Inspect public frontend bundles for GraphQL operation names when discovery breaks."""
-    found: set[str] = set()
-    for src in script_srcs:
-        if "d1ljvnrgb7j023.cloudfront.net" not in src or not src.endswith(".js"):
+    """Inspect public frontend bundles, including lazy chunks, for catalog API clues."""
+    queue = [
+        src for src in script_srcs
+        if "d1ljvnrgb7j023.cloudfront.net" in src and ".js" in src
+    ]
+    seen_urls: set[str] = set()
+    candidates: set[str] = set()
+    interesting_contexts: list[str] = []
+
+    while queue and len(seen_urls) < 120:
+        src = queue.pop(0)
+        src = src.replace("&amp;", "&")
+        if src in seen_urls:
             continue
+        seen_urls.add(src)
+
         try:
             response = session.get(src, timeout=30)
             if response.status_code != 200:
@@ -223,26 +234,43 @@ def probe_frontend_graphql_operations(
         except Exception:
             continue
 
+        # Discover absolute public JS chunks referenced from runtime/lazy-loader code.
+        for discovered in re.findall(
+            r"https://d1ljvnrgb7j023[.]cloudfront[.]net/assets/public/2[.]0[.]990/js/[A-Za-z0-9._/?=-]+[.]js",
+            body,
+        ):
+            if discovered not in seen_urls and discovered not in queue:
+                queue.append(discovered)
+
         for name in re.findall(r"\b(?:query|mutation)\s+([A-Za-z_][A-Za-z0-9_]*)", body):
             if re.search(r"(auction|lot|catalog|item)", name, re.I):
-                found.add(name)
+                candidates.add(name)
 
-        for token in re.findall(r"[A-Za-z_][A-Za-z0-9_]{4,60}", body):
-            if re.search(r"(Public.*(?:Auction|Lot)|(?:Auction|Lot).*Public|AuctionLots|LotsByAuction)", token, re.I):
-                found.add(token)
+        for name in re.findall(r"operationName[\"']?\s*[:=]\s*[\"']([A-Za-z_][A-Za-z0-9_]*)", body):
+            if re.search(r"(auction|lot|catalog|item)", name, re.I):
+                candidates.add(name)
 
-        if "getPublicLot" in body:
-            for match in re.finditer("getPublicLot", body):
-                start = max(0, match.start() - 500)
-                end = min(len(body), match.end() + 1000)
-                snippet = re.sub(r"\s+", " ", body[start:end])
-                print(f"Frontend bundle context near getPublicLot ({src}): {snippet}", file=sys.stderr)
-                break
+        for token in re.findall(r"[A-Za-z_][A-Za-z0-9_]{4,70}", body):
+            if re.search(
+                r"(Public.*(?:Auction|Lot)|(?:Auction|Lot).*Public|AuctionLots|LotsByAuction|Auction.*Items|Items.*Auction)",
+                token,
+                re.I,
+            ):
+                candidates.add(token)
+
+        for needle in ("getPublicLot", "__graphql__", "auction_id", "auctionId"):
+            pos = body.find(needle)
+            if pos >= 0 and len(interesting_contexts) < 30:
+                excerpt = re.sub(r"\s+", " ", body[max(0, pos - 600):pos + 1600])
+                interesting_contexts.append(f"{src} :: {needle} :: {excerpt}")
 
     print(
-        "Frontend GraphQL/catalog operation candidates: " + repr(sorted(found)[:200]),
+        f"Frontend bundle probe fetched {len(seen_urls)} JS assets; "
+        f"catalog candidates={sorted(candidates)[:250]}",
         file=sys.stderr,
     )
+    for context in interesting_contexts:
+        print("Frontend bundle context: " + context, file=sys.stderr)
 
 
 def probe_public_query_fields(session: requests.Session) -> None:
