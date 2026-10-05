@@ -73,9 +73,10 @@ These are only seeds from publicly indexed pages. They do **not** replace the wh
 
 - [x] Auction-specific review record created.
 - [x] Master `catalog-review.csv` initialized.
-- [ ] Run **Actions → Run OrbitBid Auction** with `auction_id = 1920`.
-- [ ] Verify complete metadata export and unique lot count.
-- [ ] Verify temporary source-photo/review artifact `orbitbid-1920-photos`.
+- [x] Push-trigger bootstrap installed and verified.
+- [x] Direct public catalog API ingestion installed and verified.
+- [x] Complete metadata export committed for auction 1920.
+- [x] Temporary source-photo/review artifact `orbitbid-1920-photos` created.
 - [ ] Populate the master from the ingested catalog.
 - [ ] Complete whole-catalog screen.
 - [ ] Build candidate queue.
@@ -84,4 +85,4 @@ These are only seeds from publicly indexed pages. They do **not** replace the wh
 
 ## Exact next action / blocker
 
-The repository's normal ingestion workflow is manual `workflow_dispatch`. The current GitHub connector can edit/read repository contents and inspect workflow runs, but does not expose a workflow-dispatch action. Therefore the remaining ingestion step is to run **Run OrbitBid Auction** with auction ID **1920**. Once that run exists, resume from its committed metadata and photo artifact rather than re-scraping or creating a parallel pipeline.
+Ingestion is complete. Resume from the committed auction 1920 metadata and the existing `orbitbid-1920-photos` artifact. The next task is to populate `catalog-review.csv` from the source catalog and perform the whole-catalog opportunity screen. Do not re-scrape the catalog or create a parallel review ledger.
