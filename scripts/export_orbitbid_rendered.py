@@ -61,9 +61,17 @@ def rendered_discover(_session, auction_id: str):
             for page_number in range(1, MAX_PAGES + 1):
                 url = page_url(auction_id, page_number)
                 print(f"Rendered catalog page {page_number}: {url}")
-                page.goto(url, wait_until="domcontentloaded", timeout=60000)
                 try:
-                    page.wait_for_selector('a[href*="/lot/"]', timeout=30000)
+                    page.goto(url, wait_until="commit", timeout=60000)
+                except PlaywrightTimeoutError as exc:
+                    if page_number == 1:
+                        raise RuntimeError(
+                            "OrbitBid catalog navigation did not commit within 60 seconds."
+                        ) from exc
+                    break
+
+                try:
+                    page.wait_for_selector('a[href*="/lot/"]', timeout=45000)
                 except PlaywrightTimeoutError:
                     if page_number == 1:
                         raise RuntimeError("No rendered OrbitBid lot links found.")
