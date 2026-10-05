@@ -105,6 +105,15 @@ Advance these first, subject to original-photo inspection and market/value resea
 
 Keep watching if prices remain low or pickup can be combined with stronger wins: 10022, 10025, 17851, 17855, 17858, 17860, 17861, 17864, 17926, 18654, 18657, 18660, 18663, 18672, 18674, 18678, 18685, 17893, 18702, 18703, 18708, 18711, 18713, 18714, 18719, 18722, 18731 and other Medium-priority rows in the master.
 
+## User decision / monitoring posture
+
+The user does **not** plan to make the trip to Indiana for this auction. Treat auction 1920 as a **results-tracking auction**, not an active buying project unless the user explicitly changes that decision.
+
+- Do not spend time building bid ceilings for ordinary candidates.
+- Use selective original-photo review only to understand noteworthy equipment and interpret final prices.
+- Track the High/Medium screening lots, especially farm/shop attachments, general shop equipment, the New Holland skid steer, and unusual resale lots.
+- Preserve final hammer/current closing results so the auction can serve as future market-reference data.
+
 ## Pickup economics
 
 Many promising shop lots are currently low-dollar items. Do not evaluate them as isolated bargains: Hammond pickup time, fuel, loading and removal burden mean the auction becomes materially more attractive only if several useful lots can be won together, or if a larger capital item justifies the trip.
