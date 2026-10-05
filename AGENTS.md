@@ -9,20 +9,14 @@ Read [AUCTION_REVIEW_SOP.md](AUCTION_REVIEW_SOP.md), the root README, the auctio
 5. Continue working after commits until the agreed deliverable is reached or a genuine tool/execution limit intervenes. Keep the exact next research candidate and any blocker in the auction's `REVIEW.md`. Never imply unattended work continues without an actual running workflow.
 
 
-## Open tooling TODOs
+## Photo artifact retrieval
 
-### Make original-photo retrieval direct and reusable
+New auction ingestions use temporary, connector-sized photo artifacts rather than one monolithic archive.
 
-Replace the current selected-photo recovery process that requires editing workflow YAML, committing the edit, triggering a run, unpacking the monolithic full-auction artifact, and re-uploading a temporary selection.
+- Download `orbitbid-<auction-id>-review-sheets` for whole-catalog screening.
+- Read `auctions/<auction-id>/photo-artifact-index.json` to map any pictured lot to its numbered `orbitbid-<auction-id>-photos-NNN` artifact.
+- Download only the shard(s) covering shortlisted lots, then inspect every JPG for those lots individually.
+- Photo artifacts are temporary and follow final auction close + 7 days retention. JPGs, ZIPs and contact sheets must never be committed.
+- Older monolithic artifacts may still use **Extract OrbitBid photo subset** as a recovery helper, but new ingestion should not create monolithic photo artifacts.
 
-Requirements:
-- Use a generic retrieval utility whose workflow definition does **not** change for each request.
-- Accept auction_id and one or more lot_ids as runtime inputs.
-- Keep a durable manifest/index mapping each auction lot to its original-photo storage location.
-- Use predictable artifact/file naming independent of the specific lot requested.
-- For future auction ingestion, prefer original-photo storage split into individually retrievable lot archives or reasonably sized lot groups rather than one monolithic full-auction artifact.
-- If practical, provide a script/API retrieval path that can fetch a lot's originals directly without starting a GitHub Actions runner.
-- Preserve the existing rule that original JPGs are temporary research inputs and are not committed to the repository.
-- Document the retrieval command/workflow in the root README and AUCTION_REVIEW_SOP.md once implemented.
-
-**Done when:** an agent can request original photos for an arbitrary previously ingested lot using only auction ID + lot ID(s), without modifying or committing workflow files, and can immediately inspect the returned original-resolution images.
+The ingestion workflow targets 275 MiB per numbered photo shard and rejects any shard above 450 MiB so connector downloads remain below the 512 MiB limit.
