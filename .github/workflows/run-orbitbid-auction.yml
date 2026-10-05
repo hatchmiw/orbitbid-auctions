@@ -381,18 +381,28 @@ jobs:
             done
           fi
 
-      - name: Delete superseded monolithic photo artifacts
+      - name: Delete superseded photo artifacts from older runs
         if: steps.retention.outputs.expired != 'true'
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          legacy_name="orbitbid-${{ inputs.auction_id }}-photos"
-          gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$legacy_name&per_page=100" --jq '.artifacts[].id' |
+          auction_id="${{ inputs.auction_id }}"
+          gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?per_page=100" |
+          jq -r --arg auction_id "$auction_id" --argjson current_run "$GITHUB_RUN_ID" '
+            .artifacts[]
+            | select((.workflow_run.id // 0) != $current_run)
+            | select(
+                .name == ("orbitbid-" + $auction_id + "-photos")
+                or .name == ("orbitbid-" + $auction_id + "-review-sheets")
+                or (.name | startswith("orbitbid-" + $auction_id + "-photos-"))
+              )
+            | .id
+          ' |
           while IFS= read -r artifact_id; do
             [[ -n "$artifact_id" ]] || continue
-            echo "Deleting superseded monolithic artifact $artifact_id ($legacy_name)"
+            echo "Deleting superseded photo artifact $artifact_id"
             gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
           done
 
