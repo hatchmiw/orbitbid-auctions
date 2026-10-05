@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --upgrade curl_cffi pillow
 
-      - name: Test auction photo checks
+      - name: Run tests
         run: python -m unittest discover -s tests -p 'test_*.py'
 
       - name: Export OrbitBid auction
@@ -63,8 +63,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Photos/review sheets are temporary artifacts and are intentionally
-          # excluded from Git history.
           git add "auctions/${{ inputs.auction_id }}/README.md" \
                   "auctions/${{ inputs.auction_id }}/summary.md" \
                   "auctions/${{ inputs.auction_id }}/summary.csv" \
@@ -76,25 +74,26 @@ jobs:
           else
             git commit -m "Run OrbitBid auction ${{ inputs.auction_id }}"
             for attempt in 1 2 3; do
-              echo "Synchronizing with main (attempt $attempt/3)..."
               git fetch origin main
               git rebase origin/main
               if git push origin HEAD:main; then
                 echo "Auction metadata committed and pushed."
-                exit 0
+                break
+              fi
+              if [[ "$attempt" == "3" ]]; then
+                echo "Failed to push after 3 attempts." >&2
+                exit 1
               fi
               sleep 5
             done
-            echo "Failed to push after 3 attempts." >&2
-            exit 1
           fi
 
-      - name: Calculate photo retention
+      - name: Calculate temporary photo retention
         id: retention
         shell: bash
         run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
 
-      - name: Mirror lot photos
+      - name: Mirror lot photos into temporary runner workspace
         if: steps.retention.outputs.expired != 'true'
         run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
 
@@ -106,20 +105,269 @@ jobs:
         if: steps.retention.outputs.expired != 'true'
         run: python scripts/verify_photo_outputs.py "${{ inputs.auction_id }}"
 
-      - name: Upload temporary photo and review archive
+      - name: Partition temporary photo artifacts
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: |
+          python scripts/partition_photo_artifacts.py "${{ inputs.auction_id }}" \
+            --target-mib 275 \
+            --hard-max-mib 450 \
+            --run-id "$GITHUB_RUN_ID" \
+            --cleanup-at "${{ steps.retention.outputs.cleanup_at }}"
+
+      - name: Commit photo artifact index only
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
+          test -s "$index"
+          git add -- "$index"
+
+          if git diff --cached --quiet; then
+            echo "Photo artifact index already current."
+          else
+            git commit -m "Index OrbitBid ${{ inputs.auction_id }} temporary photo artifacts"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Photo artifact index committed and pushed."
+                break
+              fi
+              if [[ "$attempt" == "3" ]]; then
+                echo "Failed to publish artifact index after 3 attempts." >&2
+                exit 1
+              fi
+              sleep 5
+            done
+          fi
+
+      - name: Upload all-lot review sheets
         if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: orbitbid-${{ inputs.auction_id }}-photos
-          path: auctions/${{ inputs.auction_id }}/photos/
+          name: orbitbid-${{ inputs.auction_id }}-review-sheets
+          path: .artifact-staging/${{ inputs.auction_id }}/review-sheets/
           retention-days: ${{ steps.retention.outputs.retention_days }}
           compression-level: 0
           if-no-files-found: error
 
+      - name: Upload original-photo shard 001
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-001
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-001/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 002
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-002
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-002/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 003
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-003
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-003/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 004
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-004
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-004/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 005
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-005
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-005/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 006
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-006
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-006/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 007
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-007
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-007/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 008
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-008
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-008/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 009
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-009
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-009/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 010
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-010
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-010/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 011
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-011
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-011/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 012
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-012
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-012/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 013
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-013
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-013/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 014
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-014
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-014/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 015
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-015
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-015/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 016
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-016
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-016/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 017
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-017
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-017/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 018
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-018
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-018/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 019
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-019
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-019/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 020
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: orbitbid-${{ inputs.auction_id }}-photos-020
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-020/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Remove temporary photo workspace
+        if: always()
+        shell: bash
+        run: |
+          rm -rf "auctions/${{ inputs.auction_id }}/photos"
+          rm -rf ".artifact-staging/${{ inputs.auction_id }}"
+
       - name: Summary
+        if: always()
         shell: bash
         run: |
           echo "## OrbitBid auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Permanent metadata committed. Photos and review sheets are temporary." >> "$GITHUB_STEP_SUMMARY"
-          echo "Auction final scheduled close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Permanent: metadata and photo-artifact index only." >> "$GITHUB_STEP_SUMMARY"
+          echo "Temporary: review sheets and sharded source-photo artifacts." >> "$GITHUB_STEP_SUMMARY"
+          echo "Target shard size: 275 MiB; hard shard ceiling: 450 MiB." >> "$GITHUB_STEP_SUMMARY"
           echo "Photo cleanup after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
