@@ -10,7 +10,7 @@ Public working repository for OrbitBid auction research.
 1. Open **Actions → Run OrbitBid Auction**.
 2. Click **Run workflow**.
 3. Enter the OrbitBid auction ID.
-4. GitHub renders the auction catalog in Chromium, exports the lot metadata, downloads the photos, and builds the per-lot review sheets.
+4. GitHub queries OrbitBid's public catalog API directly, validates that every returned lot belongs to the requested auction, exports the lot metadata, downloads the photos, and builds the per-lot review sheets.
 5. Permanent metadata is committed under `auctions/<auction-id>/`:
    - `README.md`
    - `summary.md`
@@ -20,7 +20,7 @@ Public working repository for OrbitBid auction research.
 6. Photos and `review.jpg` sheets are stored in a temporary Actions artifact named:
    - `orbitbid-<auction-id>-photos`
 
-The rendered-catalog exporter includes a mixed-auction safety check so a suspicious catalog result fails instead of silently committing unrelated OrbitBid lots.
+The direct catalog exporter uses OrbitBid's public `searchPublicItems` GraphQL operation for lot discovery and `getPublicLot` for lot details. It verifies the catalog's reported total, rejects lots belonging to another auction, requires a complete unique lot set, and applies a closing-time span safety check before writing metadata. No Chromium browser is required for normal ingestion.
 
 
 ## Start an auction by committing a request file
@@ -84,18 +84,25 @@ This repository is public. The imported Watch List file exposes **which lot IDs 
 
 This membership layer is separate from `catalog-review.csv`: a lot may independently be personally watched, an analysis/research candidate, or an opportunity discovered by screening without overwriting the other classifications.
 
-## Troubleshooting workflows
+## Active workflows
 
-- **Export OrbitBid auction** — older metadata-only exporter; retained for troubleshooting.
+The Actions list is intentionally small:
+
+- **Bootstrap OrbitBid auction request** — starts a new ingestion when `auction-requests/<id>.txt` is created or updated.
+- **Run OrbitBid Auction** — primary ingestion pipeline: direct catalog API, lot metadata, photos, review sheets and temporary artifact.
+- **Refresh OrbitBid prices** — scheduled/manual metadata-only price refresh for saved auctions.
 - **Mirror auction photos** — rebuilds a temporary photo + review-sheet artifact from an existing `lots.json`.
-- **Build auction contact sheets** — legacy helper for photo folders already present in the repository.
-- **Purge expired OrbitBid photos** — can be manually triggered instead of waiting for its six-hour schedule.
+- **Extract selected OrbitBid lot photos** — recovers only chosen lot folders from a prior full-auction photo artifact.
+- **Import OrbitBid Watch List** — imports the sanitized ID-only watch list.
+- **Purge expired OrbitBid photos** — removes expired temporary artifacts and old committed photo folders.
+
+Historical one-off 1879 audit/recovery workflows and the duplicate standalone exporter were removed from the active Actions list; their definitions remain recoverable through Git history.
 
 ## Notes
 
 - No bidder password or personal OrbitBid login credential is stored in this repository.
 - The permanent `lots.json` snapshot contains original OrbitBid image URLs, allowing high-resolution source images to be revisited even after temporary mirrors expire.
-- `orbitbid-exporter.js` remains as a browser-console fallback/debugging tool; it is no longer the normal workflow.
+- `orbitbid-exporter.js` and the rendered-browser exporter remain fallback/debugging tools; direct public catalog API discovery is the normal ingestion path.
 
 ## Required procedure for opportunity-first auction research
 
