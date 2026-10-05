@@ -22,6 +22,18 @@ Public working repository for OrbitBid auction research.
 
 The rendered-catalog exporter includes a mixed-auction safety check so a suspicious catalog result fails instead of silently committing unrelated OrbitBid lots.
 
+
+## Start an auction by committing a request file
+
+A numeric request file under `auction-requests/` can bootstrap the normal auction workflow without using the GitHub Actions UI.
+
+1. Create or update `auction-requests/<auction-id>.txt`.
+2. The push starts **Bootstrap OrbitBid auction request**.
+3. That bootstrap workflow dispatches **Run OrbitBid Auction** with the auction ID taken from the filename.
+4. The normal ingestion workflow handles metadata, photos, review sheets and the temporary artifact exactly as it does for a manually started run.
+
+The file contents are informational only. Updating an existing request file retriggers that auction, so this path can be used by connected tools that can write repository files but cannot directly call `workflow_dispatch`. The manual **Run OrbitBid Auction** action remains available as a fallback.
+
 ## Photo retention
 
 Photo artifacts are temporary. The 1879 source-verified batch review also uploads original photos and per-lot review sheets to a temporary Actions artifact, rather than committing them to the repository. Previous committed review-preview images are removed from the current branch; old Git history may still contain them.
