@@ -11,3 +11,4 @@ Inspect OrbitBid frontend GraphQL operation names.
 Probe lazy frontend catalog bundles.
 Capture frontend catalog GraphQL request via fulfilled app shell.
 Run permanent direct searchPublicItems ingestion.
+Capture OrbitBid catalog shell diagnostics.
