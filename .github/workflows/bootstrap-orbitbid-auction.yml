@@ -24,9 +24,45 @@ jobs:
 
           mapfile -t request_files < <(
             jq -r '
-              .commits[]?
-              | (.added[]?, .modified[]?)
-            ' "$GITHUB_EVENT_PATH"               | grep -E '^auction-requests/[0-9]+\.txt$'               | sort -u || true
+              [
+                (.head_commit.added[]?),
+                (.head_commit.modified[]?),
+                (.commits[]?.added[]?),
+                (.commits[]?.modified[]?)
+              ]
+              | .[]
+            ' "$GITHUB_EVENT_PATH"               | grep -E '^auction-requests/[0-9]+\.txt
+          if (( ${#request_files[@]} == 0 )); then
+            echo "No numeric OrbitBid auction request files changed."
+            exit 0
+          fi
+
+          printf '%s\n' "${request_files[@]}" > /tmp/orbitbid-auction-requests.txt
+          echo "has_requests=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch requested auctions
+        if: steps.requests.outputs.has_requests == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          while IFS= read -r request_file; do
+            [[ -n "$request_file" ]] || continue
+
+            auction_id="${request_file##*/}"
+            auction_id="${auction_id%.txt}"
+
+            if [[ ! "$auction_id" =~ ^[0-9]+$ ]]; then
+              echo "Invalid auction request path: $request_file" >&2
+              exit 1
+            fi
+
+            echo "Dispatching Run OrbitBid Auction for auction $auction_id"
+            gh workflow run run-orbitbid-auction.yml               --repo "$GITHUB_REPOSITORY"               --ref "$GITHUB_REF_NAME"               -f auction_id="$auction_id"
+          done < /tmp/orbitbid-auction-requests.txt
+               | sort -u || true
           )
 
           if (( ${#request_files[@]} == 0 )); then
