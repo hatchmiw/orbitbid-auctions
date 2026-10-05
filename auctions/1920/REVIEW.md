@@ -69,20 +69,46 @@ Public OrbitBid pages already identify several categories worth checking careful
 
 These are only seeds from publicly indexed pages. They do **not** replace the whole-catalog screen.
 
-## Setup state
+## Whole-catalog screening status
 
-- [x] Auction-specific review record created.
-- [x] Master `catalog-review.csv` initialized.
-- [x] Push-trigger bootstrap installed and verified.
-- [x] Direct public catalog API ingestion installed and verified.
-- [x] Complete metadata export committed for auction 1920.
-- [x] Temporary source-photo/review artifact `orbitbid-1920-photos` created.
-- [ ] Populate the master from the ingested catalog.
-- [ ] Complete whole-catalog screen.
-- [ ] Build candidate queue.
-- [ ] Individually inspect originals and research completed sales for each candidate.
-- [ ] Produce actionable shortlist and live-bid ceilings where evidence supports them.
+First-pass screening is complete for all **247 catalog lots** and is recorded in `catalog-review.csv`.
 
-## Exact next action / blocker
+- **High screening priority:** 29 lots
+- **Medium screening priority:** 48 lots
+- **Low / screened out:** 170 lots
+- High/Medium/Low are screening priorities only, not valuations or bid recommendations.
+- Review sheets were opened for the viable shop/farm/equipment candidates; low-fit commercial vehicles, trailers, office contents and specialized truck inventory were screened primarily from catalog metadata.
+- No lot is marked as having completed individual-original-photo inspection unless that later step is explicitly recorded.
+- Current bids in the master are snapshots and must be refreshed before live bidding decisions.
 
-Ingestion is complete. Resume from the committed auction 1920 metadata and the existing `orbitbid-1920-photos` artifact. The next task is to populate `catalog-review.csv` from the source catalog and perform the whole-catalog opportunity screen. Do not re-scrape the catalog or create a parallel review ledger.
+### First research wave — strongest personal-use fit
+
+Advance these first, subject to original-photo inspection and market/value research:
+
+- **10023** — Road Boss 76 in. 3-point / skid-steer grader attachment.
+- **10021** — 48 in. quick-attach forks.
+- **10024** — quick-attach jib boom.
+- **17875** — Lincoln AC/DC 225/125 stick welder.
+- **17878** — 3-ton lever hoist + 1-ton chain fall.
+- **17879** — Hein-Werner 2-ton engine crane.
+- **17886** — Bessey 6 in. vise + heavy steel table.
+- **17887** — Delta/Rockwell drill press + Huot drill index.
+- **17903** — Dake heavy H-frame press; catalog says working.
+- **18682** — pair of 10-ton pin-style jack stands.
+- **18689** — TSI Cheetah bead seater + heavy-duty jack stands.
+- **18726** — DeWalt D28715 14 in. cutoff saw + three new blades.
+- **17857 / 17884 / 17905 / 17908** — fastener/hardware/organizer lots with strong farm-shop consumable value.
+- **17125** — clean Ariens two-stage snowblower; potential personal replacement/resale.
+- **10020** — New Holland L223 skid steer remains a capital-item watch, but current early bid is already materially higher than the shop lots and user has access to other equipment.
+
+### Secondary queue
+
+Keep watching if prices remain low or pickup can be combined with stronger wins: 10022, 10025, 17851, 17855, 17858, 17860, 17861, 17864, 17926, 18654, 18657, 18660, 18663, 18672, 18674, 18678, 18685, 17893, 18702, 18703, 18708, 18711, 18713, 18714, 18719, 18722, 18731 and other Medium-priority rows in the master.
+
+## Pickup economics
+
+Many promising shop lots are currently low-dollar items. Do not evaluate them as isolated bargains: Hammond pickup time, fuel, loading and removal burden mean the auction becomes materially more attractive only if several useful lots can be won together, or if a larger capital item justifies the trip.
+
+## Exact next action
+
+Use `photo-artifact-index.json` to pull the numbered original-photo shard(s) covering the **first research wave**, inspect every original JPG for those candidates, then research matching completed sales/replacement values before assigning any active bid ceilings. Refresh current bids before the final live-bid shortlist.
