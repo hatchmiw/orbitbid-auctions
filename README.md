@@ -17,8 +17,10 @@ Public working repository for OrbitBid auction research.
    - `summary.csv`
    - `lots.json`
    - `price-history.csv`
-6. Photos and `review.jpg` sheets are stored in a temporary Actions artifact named:
-   - `orbitbid-<auction-id>-photos`
+6. Photos are **not committed**. The workflow creates temporary Actions artifacts:
+   - `orbitbid-<auction-id>-review-sheets` — all per-lot review sheets in one lightweight screening artifact.
+   - `orbitbid-<auction-id>-photos-001`, `-002`, ... — whole-lot original-photo shards targeted at 275 MiB and hard-capped at 450 MiB.
+7. A permanent `photo-artifact-index.json` maps every pictured lot to its temporary artifact name and workflow run ID. The index contains metadata only, never image bytes.
 
 The direct catalog exporter uses OrbitBid's public `searchPublicItems` GraphQL operation for lot discovery and `getPublicLot` for lot details. It verifies the catalog's reported total, rejects lots belonging to another auction, requires a complete unique lot set, and applies a closing-time span safety check before writing metadata. No Chromium browser is required for normal ingestion.
 
@@ -36,11 +38,11 @@ The file contents are informational only. Updating an existing request file retr
 
 ## Photo retention
 
-Photo artifacts are temporary. The 1879 source-verified batch review also uploads original photos and per-lot review sheets to a temporary Actions artifact, rather than committing them to the repository. Previous committed review-preview images are removed from the current branch; old Git history may still contain them.
+Photo artifacts are temporary. Mirrored JPGs exist only in the ephemeral GitHub runner workspace and temporary Actions artifacts. The repository permanently retains only metadata, source image URLs and the lot-to-artifact index. A root `.gitignore` explicitly excludes `auctions/*/photos/` and generated artifact staging.
 
 - The retention deadline is based on the **latest scheduled lot closing time in the auction + 7 days**.
 - It is not based on when the GitHub workflow was run.
-- **Purge expired OrbitBid photos** runs every six hours and removes expired artifacts.
+- **Purge expired OrbitBid photos** runs every six hours and removes expired review-sheet artifacts, numbered photo shards, and legacy monolithic photo artifacts.
 - It also removes any legacy `auctions/<id>/photos/` folders committed by the older workflow.
 - Permanent metadata and original OrbitBid image URLs remain after cleanup.
 
@@ -89,10 +91,10 @@ This membership layer is separate from `catalog-review.csv`: a lot may independe
 The Actions list is intentionally small:
 
 - **Bootstrap OrbitBid auction request** — starts a new ingestion when `auction-requests/<id>.txt` is created or updated.
-- **Run OrbitBid Auction** — primary ingestion pipeline: direct catalog API, lot metadata, photos, review sheets and temporary artifact.
+- **Run OrbitBid Auction** — primary ingestion pipeline: direct catalog API, permanent metadata/index, one temporary review-sheet artifact, and temporary connector-sized photo shards.
 - **Refresh OrbitBid prices** — scheduled/manual metadata-only price refresh for saved auctions.
 - **Mirror auction photos** — rebuilds a temporary photo + review-sheet artifact from an existing `lots.json`.
-- **Extract selected OrbitBid lot photos** — recovers only chosen lot folders from a prior full-auction photo artifact.
+- **Extract OrbitBid photo subset** — legacy/recovery helper for older monolithic artifacts; new auctions normally use the committed photo-artifact index and numbered shards directly.
 - **Import OrbitBid Watch List** — imports the sanitized ID-only watch list.
 - **Purge expired OrbitBid photos** — removes expired temporary artifacts and old committed photo folders.
 
