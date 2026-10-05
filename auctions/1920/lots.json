@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-05T15:09:44.458190Z",
+  "retrieved_at": "2026-10-05T15:28:59.581483Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -21915,9 +21915,9 @@
       "title": "2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 15400,
+      "amount": 16600,
       "max_amount": null,
-      "bid_count": 26,
+      "bid_count": 28,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -41340,9 +41340,9 @@
       "title": "2020 Hino 268A 24' Box Truck with lift gate, Allison automatic transmission, Hino, model J05E-TP die...",
       "subtitle": null,
       "description": "<div><div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div></div>",
-      "amount": 3050,
+      "amount": 3100,
       "max_amount": null,
-      "bid_count": 74,
+      "bid_count": 75,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -42640,9 +42640,9 @@
       "title": "2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 625,
+      "amount": 650,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -131387,5 +131387,6 @@
       "photo_count": 4
     }
   ],
-  "errors": []
+  "errors": [],
+  "last_price_refresh_at": "2026-10-05T15:28:59.581483Z"
 }
