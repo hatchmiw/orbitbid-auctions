@@ -283,6 +283,15 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
         )
 
         if page == 1 and not page_ids:
+            print(
+                f"Catalog diagnostic: status={response.status_code} "
+                f"final_url={response.url} bytes={len(response.content)}",
+                file=sys.stderr,
+            )
+            compact = clean(response.text)
+            print(f"Catalog diagnostic body prefix: {compact[:1500]}", file=sys.stderr)
+            script_srcs = re.findall(r'<script[^>]+src=["\\\']([^"\\\']+)', response.text, re.I)
+            print(f"Catalog diagnostic script sources: {script_srcs[:20]}", file=sys.stderr)
             probe_public_query_fields(session)
             raise RuntimeError(
                 "No OrbitBid lot links were found inside the catalog main content. "
