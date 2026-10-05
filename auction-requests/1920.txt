@@ -9,3 +9,4 @@ Probe public GraphQL catalog operations.
 Capture direct catalog response diagnostics.
 Inspect OrbitBid frontend GraphQL operation names.
 Probe lazy frontend catalog bundles.
+Capture frontend catalog GraphQL request via fulfilled app shell.
