@@ -24,6 +24,7 @@ import re
 import sys
 import time
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlencode
@@ -43,6 +44,7 @@ LOT_DELAY_SECONDS = 0.20
 PAGE_DELAY_SECONDS = 0.10
 BATCH_PAUSE_EVERY = 20
 BATCH_PAUSE_SECONDS = 1.0
+MAX_CLOSE_SPAN_SECONDS = 2 * 24 * 60 * 60
 
 LOT_QUERY = r"""
 query getPublicLot($id: Int!, $increment_view: Boolean) {
@@ -149,7 +151,58 @@ def build_session() -> requests.Session:
     return session
 
 
+class MainLotLinkParser(HTMLParser):
+    """Collect OrbitBid lot links from the catalog's main content only."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self._main_depth = 0
+        self.ids: list[int] = []
+        self._seen: set[int] = set()
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        tag = tag.lower()
+        if tag == "main":
+            self._main_depth += 1
+            return
+        if self._main_depth <= 0 or tag != "a":
+            return
+
+        href = ""
+        for name, value in attrs:
+            if name.lower() == "href" and value:
+                href = value
+                break
+
+        match = re.search(r"/lot/(\d+)(?:/|$|[?#])", href)
+        if not match:
+            return
+
+        lot_id = int(match.group(1))
+        if lot_id not in self._seen:
+            self._seen.add(lot_id)
+            self.ids.append(lot_id)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.lower() == "main" and self._main_depth > 0:
+            self._main_depth -= 1
+
+
+def catalog_lot_ids_from_html(html: str) -> list[int]:
+    parser = MainLotLinkParser()
+    parser.feed(html)
+    parser.close()
+    return parser.ids
+
+
 def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[int], list[str]]:
+    """Discover lot IDs without launching a browser.
+
+    OrbitBid currently server-renders the auction catalog. Restricting extraction
+    to links inside <main> avoids the unrelated lot links that can appear in the
+    surrounding application shell.
+    """
+
     all_ids: list[int] = []
     seen: set[int] = set()
     page_urls: list[str] = []
@@ -167,28 +220,26 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
         if response.status_code != 200:
             raise RuntimeError(f"Catalog page {page} failed: HTTP {response.status_code}")
 
-        html = response.text
-        page_ids = [int(x) for x in re.findall(r"/lot/(\d+)(?:/|[?\"'])", html)]
-        if not page_ids:
-            page_ids = [int(x) for x in re.findall(r"/lot/(\d+)", html)]
+        page_ids = catalog_lot_ids_from_html(response.text)
+        fresh = [lot_id for lot_id in page_ids if lot_id not in seen]
+        print(
+            f"Catalog page {page}: {len(page_ids)} main-content lot links, "
+            f"{len(fresh)} new"
+        )
 
-        unique_page_ids: list[int] = []
-        page_seen: set[int] = set()
-        for lot_id in page_ids:
-            if lot_id not in page_seen:
-                page_seen.add(lot_id)
-                unique_page_ids.append(lot_id)
+        if page == 1 and not page_ids:
+            raise RuntimeError(
+                "No OrbitBid lot links were found inside the catalog main content. "
+                "Refusing to scrape unrelated application-shell links."
+            )
 
-        fresh = [lot_id for lot_id in unique_page_ids if lot_id not in seen]
-        print(f"Catalog page {page}: {len(unique_page_ids)} lot links, {len(fresh)} new")
-
-        if fresh:
-            page_urls.append(url)
-            for lot_id in fresh:
-                seen.add(lot_id)
-                all_ids.append(lot_id)
-        else:
+        if not fresh:
             break
+
+        page_urls.append(url)
+        for lot_id in fresh:
+            seen.add(lot_id)
+            all_ids.append(lot_id)
 
         time.sleep(PAGE_DELAY_SECONDS)
 
@@ -199,7 +250,6 @@ def discover_lot_ids(session: requests.Session, auction_id: str) -> tuple[list[i
         )
 
     return all_ids, page_urls
-
 
 def fetch_lot(session: requests.Session, internal_id: int) -> dict[str, Any]:
     headers = {
@@ -236,6 +286,38 @@ def fetch_lot(session: requests.Session, internal_id: int) -> dict[str, Any]:
         **lot,
         "photo_count": len(lot.get("images") or []),
     }
+
+
+def validate_lot_set(lots: list[dict[str, Any]]) -> None:
+    """Reject an obviously mixed-auction discovery before files are written."""
+
+    closes: list[int] = []
+    for lot in lots:
+        for key in ("end_time", "offer_end_time"):
+            raw = lot.get(key)
+            if raw in (None, "", 0, "0"):
+                continue
+            try:
+                value = int(float(raw))
+            except (TypeError, ValueError):
+                continue
+            if value > 10_000_000_000:
+                value //= 1000
+            closes.append(value)
+
+    if not closes:
+        raise RuntimeError(
+            "No scheduled closing times were returned; refusing to write an "
+            "unverifiable auction snapshot."
+        )
+
+    span = max(closes) - min(closes)
+    if span > MAX_CLOSE_SPAN_SECONDS:
+        raise RuntimeError(
+            "Mixed-auction safety check failed: lot close times span "
+            f"{span / 86400:.1f} days. Nothing will be written."
+        )
+
 
 
 def make_summary(data: dict[str, Any]) -> str:
@@ -427,6 +509,14 @@ def main() -> int:
         time.sleep(LOT_DELAY_SECONDS)
         if index % BATCH_PAUSE_EVERY == 0:
             time.sleep(BATCH_PAUSE_SECONDS)
+
+    if errors:
+        raise RuntimeError(
+            f"Lot-detail retrieval was incomplete: {len(errors)} of {len(lot_ids)} "
+            "catalog lots failed. Refusing to write a partial auction snapshot."
+        )
+
+    validate_lot_set(lots)
 
     retrieved_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     data = {
