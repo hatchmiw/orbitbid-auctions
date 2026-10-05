@@ -4,3 +4,4 @@ Retry bootstrap after request-file detection fix.
 Second bootstrap retry after shell parser hardening.
 Third bootstrap retry using git diff change detection.
 Retry after rendered catalog navigation fix.
+Retry using direct validated catalog discovery.
