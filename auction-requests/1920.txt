@@ -1,2 +1,3 @@
 OrbitBid auction 1920 ingestion request.
 Created to verify the push-triggered bootstrap workflow and start a fresh normal ingestion run.
+Retry bootstrap after request-file detection fix.
