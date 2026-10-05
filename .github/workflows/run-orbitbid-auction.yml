@@ -116,36 +116,6 @@ jobs:
             --run-id "$GITHUB_RUN_ID" \
             --cleanup-at "${{ steps.retention.outputs.cleanup_at }}"
 
-      - name: Commit photo artifact index only
-        if: steps.retention.outputs.expired != 'true'
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
-          test -s "$index"
-          git add -- "$index"
-
-          if git diff --cached --quiet; then
-            echo "Photo artifact index already current."
-          else
-            git commit -m "Index OrbitBid ${{ inputs.auction_id }} temporary photo artifacts"
-            for attempt in 1 2 3; do
-              git fetch origin main
-              git rebase origin/main
-              if git push origin HEAD:main; then
-                echo "Photo artifact index committed and pushed."
-                break
-              fi
-              if [[ "$attempt" == "3" ]]; then
-                echo "Failed to publish artifact index after 3 attempts." >&2
-                exit 1
-              fi
-              sleep 5
-            done
-          fi
-
       - name: Upload all-lot review sheets
         if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
@@ -355,6 +325,61 @@ jobs:
           retention-days: ${{ steps.retention.outputs.retention_days }}
           compression-level: 0
           if-no-files-found: ignore
+
+      - name: Verify temporary artifact uploads
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
+          mapfile -t expected < <(python - "$index" <<'PY'
+          import json, sys
+          data=json.load(open(sys.argv[1], encoding="utf-8"))
+          print(data["review_sheets"]["artifact_name"])
+          for shard in data["photo_shards"]:
+              print(shard["artifact_name"])
+          PY
+          )
+          mapfile -t actual < <(gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?per_page=100" --jq '.artifacts[].name')
+          for name in "${expected[@]}"; do
+            if ! printf '%s\n' "${actual[@]}" | grep -Fxq "$name"; then
+              echo "Expected temporary artifact is missing: $name" >&2
+              exit 1
+            fi
+          done
+          echo "Verified ${#expected[@]} temporary photo artifacts."
+
+      - name: Commit photo artifact index only
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
+          test -s "$index"
+          git add -- "$index"
+
+          if git diff --cached --quiet; then
+            echo "Photo artifact index already current."
+          else
+            git commit -m "Index OrbitBid ${{ inputs.auction_id }} temporary photo artifacts"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Photo artifact index committed and pushed."
+                break
+              fi
+              if [[ "$attempt" == "3" ]]; then
+                echo "Failed to publish artifact index after 3 attempts." >&2
+                exit 1
+              fi
+              sleep 5
+            done
+          fi
 
       - name: Delete superseded monolithic photo artifacts
         if: steps.retention.outputs.expired != 'true'
