@@ -30,18 +30,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade curl_cffi pillow playwright
-          python -m playwright install --with-deps chromium
+        run: python -m pip install --upgrade curl_cffi pillow
 
       - name: Test auction photo checks
         run: python -m unittest discover -s tests -p 'test_*.py'
 
-      - name: Probe OrbitBid catalog API
-        run: python scripts/probe_orbitbid_catalog.py "${{ inputs.auction_id }}"
-
       - name: Export OrbitBid auction
-        run: python scripts/export_orbitbid.py "${{ inputs.auction_id }}"
+        run: python scripts/export_orbitbid_direct.py "${{ inputs.auction_id }}"
 
       - name: Verify exported metadata
         shell: bash
