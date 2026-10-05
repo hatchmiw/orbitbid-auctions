@@ -28,6 +28,7 @@ from mirror_photos import lot_sort_key
 
 DEFAULT_TARGET_MIB = 275
 DEFAULT_HARD_MAX_MIB = 450
+MAX_UPLOAD_SHARDS = 20
 
 
 def mib(value: float) -> int:
@@ -146,6 +147,11 @@ def main() -> int:
     target_bytes = mib(args.target_mib)
     hard_max_bytes = mib(args.hard_max_mib)
     shards = plan_shards(lot_sizes, target_bytes, hard_max_bytes)
+    if len(shards) > MAX_UPLOAD_SHARDS:
+        raise SystemExit(
+            f"Partition requires {len(shards)} shards but the workflow supports "
+            f"at most {MAX_UPLOAD_SHARDS}. Lower photo resolution or raise the workflow shard capacity."
+        )
 
     review_root = staging_root / "review-sheets"
     review_lots: list[str] = []
