@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: orbitbid-metadata-writes
@@ -354,6 +355,21 @@ jobs:
           retention-days: ${{ steps.retention.outputs.retention_days }}
           compression-level: 0
           if-no-files-found: ignore
+
+      - name: Delete superseded monolithic photo artifacts
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          legacy_name="orbitbid-${{ inputs.auction_id }}-photos"
+          gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$legacy_name&per_page=100" --jq '.artifacts[].id' |
+          while IFS= read -r artifact_id; do
+            [[ -n "$artifact_id" ]] || continue
+            echo "Deleting superseded monolithic artifact $artifact_id ($legacy_name)"
+            gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
+          done
 
       - name: Remove temporary photo workspace
         if: always()
