@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T05:25:19.601093Z
+- Price refresh: 2026-10-06T05:31:49.958176Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -1862,8 +1862,8 @@
 
 - OrbitBid item number: 1-10050
 - Internal ID: 1761119
-- Current bid: $3550
-- Bid count: 42
+- Current bid: $4050
+- Bid count: 51
 - Photo count: 43
 - End time (UTC): 2026-10-06T22:30:00Z
 
