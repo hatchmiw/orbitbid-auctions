@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T15:32:20.630420Z
+- Price refresh: 2026-10-06T15:51:23.295380Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -964,8 +964,9 @@
 - VIN: 4V4NC9TG0LN253499
 - Type: Day Cab
 - Odometer Reading: 296836
+- Metered Hours: 8377.5
 - Titled Status: Clear
-- General Description: tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, crack in hood on driver's side, crack in front hood passenger side grill area, check engine light is on. Unit #228
+- General Description: tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, crack in hood on driver's side, crack in front hood passenger side grill area, check engine light is on. Unit #228 Engine Hours 8377.5
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
 
@@ -1161,8 +1162,9 @@
 - VIN: 4V4NC9TG2LN253505
 - Type: Day Cab
 - Odometer Reading: 291609
+- Metered Hours: 9313.5
 - Titled Status: Clear
-- General Description: tandem axle, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, minor scratches, small scratches and dent on front grill area. Unit #230
+- General Description: tandem axle, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, minor scratches, small scratches and dent on front grill area. Unit #230 Engine Hours 9313.5
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
 
@@ -3751,8 +3753,8 @@
 
 - OrbitBid item number: 1-17105
 - Internal ID: 1761068
-- Current bid: $130
-- Bid count: 7
+- Current bid: $155
+- Bid count: 11
 - Photo count: 43
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -3949,8 +3951,8 @@
 
 - OrbitBid item number: 1-17108
 - Internal ID: 1761071
-- Current bid: $125
-- Bid count: 6
+- Current bid: $130
+- Bid count: 7
 - Photo count: 36
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -8485,8 +8487,8 @@
 
 - OrbitBid item number: 1-17908
 - Internal ID: 1761309
-- Current bid: $55
-- Bid count: 11
+- Current bid: $60
+- Bid count: 12
 - Photo count: 13
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8585,8 +8587,8 @@
 
 - OrbitBid item number: 1-18686
 - Internal ID: 1761202
-- Current bid: $10
-- Bid count: 2
+- Current bid: $25
+- Bid count: 5
 - Photo count: 3
 - End time (UTC): 2026-10-07T00:00:00Z
 
