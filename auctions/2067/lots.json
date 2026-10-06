@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T09:34:12.160265Z",
+  "retrieved_at": "2026-10-06T09:52:31.969756Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -26643,9 +26643,9 @@
       "title": "(1) John Deere 7000 6-row planter, dry fertilizer, row markers",
       "subtitle": null,
       "description": "",
-      "amount": 565,
+      "amount": 615,
       "max_amount": null,
-      "bid_count": 9,
+      "bid_count": 11,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47366,5 +47366,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T09:34:12.160265Z"
+  "last_price_refresh_at": "2026-10-06T09:52:31.969756Z"
 }
