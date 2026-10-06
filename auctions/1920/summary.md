@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T15:51:23.295380Z
+- Price refresh: 2026-10-06T16:06:08.384315Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -91,8 +91,8 @@
 
 - OrbitBid item number: 1-10001
 - Internal ID: 1761140
-- Current bid: $255
-- Bid count: 5
+- Current bid: $275
+- Bid count: 7
 - Photo count: 48
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -325,8 +325,8 @@
 
 - OrbitBid item number: 1-10004
 - Internal ID: 1761143
-- Current bid: $2650
-- Bid count: 31
+- Current bid: $2700
+- Bid count: 32
 - Photo count: 75
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -5019,7 +5019,7 @@
 - OrbitBid item number: 1-17850
 - Internal ID: 1761247
 - Current bid: $5
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5952,8 +5952,8 @@
 
 - OrbitBid item number: 1-17931
 - Internal ID: 1761108
-- Current bid: $15
-- Bid count: 4
+- Current bid: $25
+- Bid count: 6
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6622,8 +6622,8 @@
 
 - OrbitBid item number: 1-18666
 - Internal ID: 1761181
-- Current bid: $39
-- Bid count: 6
+- Current bid: $44
+- Bid count: 7
 - Photo count: 8
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6807,8 +6807,8 @@
 
 - OrbitBid item number: 1-18674
 - Internal ID: 1761189
-- Current bid: $45
-- Bid count: 9
+- Current bid: $50
+- Bid count: 10
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -7405,8 +7405,8 @@
 
 - OrbitBid item number: 1-17866
 - Internal ID: 1761264
-- Current bid: $15
-- Bid count: 3
+- Current bid: $20
+- Bid count: 4
 - Photo count: 5
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -7758,8 +7758,8 @@
 
 - OrbitBid item number: 1-17881
 - Internal ID: 1761280
-- Current bid: $44
-- Bid count: 9
+- Current bid: $49
+- Bid count: 10
 - Photo count: 10
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -7786,8 +7786,8 @@
 
 - OrbitBid item number: 1-17882
 - Internal ID: 1761281
-- Current bid: $24
-- Bid count: 5
+- Current bid: $29
+- Bid count: 6
 - Photo count: 10
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8122,8 +8122,8 @@
 
 - OrbitBid item number: 1-17894
 - Internal ID: 1761294
-- Current bid: $29
-- Bid count: 6
+- Current bid: $49
+- Bid count: 10
 - Photo count: 6
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8146,8 +8146,8 @@
 
 - OrbitBid item number: 1-17895
 - Internal ID: 1761295
-- Current bid: $119
-- Bid count: 25
+- Current bid: $152
+- Bid count: 27
 - Photo count: 15
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8294,8 +8294,8 @@
 
 - OrbitBid item number: 1-17901
 - Internal ID: 1761301
-- Current bid: $31
-- Bid count: 7
+- Current bid: $36
+- Bid count: 8
 - Photo count: 9
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8733,8 +8733,8 @@
 
 - OrbitBid item number: 1-18692
 - Internal ID: 1761208
-- Current bid: $25
-- Bid count: 5
+- Current bid: $30
+- Bid count: 6
 - Photo count: 7
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9005,8 +9005,8 @@
 
 - OrbitBid item number: 1-18721
 - Internal ID: 1761236
-- Current bid: $105
-- Bid count: 9
+- Current bid: $155
+- Bid count: 16
 - Photo count: 6
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9095,8 +9095,8 @@
 
 - OrbitBid item number: 1-18725
 - Internal ID: 1761240
-- Current bid: $40
-- Bid count: 9
+- Current bid: $45
+- Bid count: 10
 - Photo count: 6
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9143,8 +9143,8 @@
 
 - OrbitBid item number: 1-18727
 - Internal ID: 1761242
-- Current bid: $75
-- Bid count: 15
+- Current bid: $95
+- Bid count: 19
 - Photo count: 10
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9305,8 +9305,8 @@
 
 - OrbitBid item number: 1-18734
 - Internal ID: 1761312
-- Current bid: $15
-- Bid count: 4
+- Current bid: $20
+- Bid count: 5
 - Photo count: 5
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9328,8 +9328,8 @@
 
 - OrbitBid item number: 1-18735
 - Internal ID: 1761313
-- Current bid: $55
-- Bid count: 8
+- Current bid: $60
+- Bid count: 9
 - Photo count: 8
 - End time (UTC): 2026-10-07T00:00:00Z
 

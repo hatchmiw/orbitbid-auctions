@@ -1,9 +1,9 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
 10000,1-10000,1761139,310,8,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
-10001,1-10001,1761140,255,5,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
+10001,1-10001,1761140,275,7,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
 10002,1-10002,1761141,510,21,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
 10003,1-10003,1761142,1075,13,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
-10004,1-10004,1761143,2650,31,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
+10004,1-10004,1761143,2700,32,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3100,20,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
 10006,1-10006,1761145,2550,43,64,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles..."
 10007,1-10007,1761146,1175,18,80,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, ..."
@@ -68,7 +68,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10023,1-10023,1761162,550,47,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Road Boss 76"", 3 pt./skid steer quick attach grater attachment."
 10024,1-10024,1761163,30,5,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Jib boom attachment with 78"" arm."
 10025,1-10025,1761164,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sweep EX Pro 480, 48"" sweeper attachment."
-17850,1-17850,1761247,5,0,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Vintage candy vending machine, pull type, includes keys, approx. 34"" wide x 11"" deep x 61"" tall."
+17850,1-17850,1761247,5,1,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Vintage candy vending machine, pull type, includes keys, approx. 34"" wide x 11"" deep x 61"" tall."
 17851,1-17851,1761248,5,1,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Large lot of assorted hand tools, includes post hole digger, pickaxe, assorted brushes, spring tooth..."
 17852,1-17852,1761249,390,15,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) new Firestone FS591, 11R225, 16PR semi truck tires."
 17853,1-17853,1761250,1350,46,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) new Firestone FS591, 29575R225 tires, 16 PR."
@@ -105,7 +105,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17928,1-17928,1761105,5,1,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) rack, 36"" x 17.5"" deep x 72"" tall, with contents of assorted paper driver's log books, inspectio..."
 17929,1-17929,1761106,5,1,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) plastic rack, approx. 36"" x 17"" x 72"" tall, with contents of seat cushions, (6) snow brushes, as..."
 17930,1-17930,1761107,5,1,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Duet, portable 80"" projection screen, (1) Epson LCD projector, model H309A, with case and cords,..."
-17931,1-17931,1761108,15,4,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) 2-in-1, 2-wheel dolly cart."
+17931,1-17931,1761108,25,6,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) 2-in-1, 2-wheel dolly cart."
 17932,1-17932,1761109,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of assorted Ricoh printer ink cartridges, colors include yellow, blue, and pink, and (1) Hewlett..."
 17933,1-17933,1761110,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) Capture IR Bullet camera with varifocal lens, model BLIR30VF46TVL, new in package."
 17934,1-17934,1761111,5,0,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of Atomictime time clock, model 1500E, with time cards."
@@ -132,7 +132,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18663,1-18663,1761178,215,26,14,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Uline, model H-1564M-Y, flammable storage cabinet, 45-gallon capacity, 43"" wide x 18"" deep x 65...."
 18664,1-18664,1761179,255,30,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) cases of Diesel 911, and (1) case of 32 oz. bottles of Diesel Fuel Supplement Octane Boost."
 18665,1-18665,1761180,205,33,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"Rack with contents, includes (12) bottles of Diesel Fuel Supplement, (27) bottles of Diesel 911, DEF..."
-18666,1-18666,1761181,39,6,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"Rack with contents, includes assorted Hino Filters, assorted WIX filters, Volvo filters, and much mo..."
+18666,1-18666,1761181,44,7,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"Rack with contents, includes assorted Hino Filters, assorted WIX filters, Volvo filters, and much mo..."
 18667,1-18667,1761182,5,0,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (4) assorted aluminum load bars.
 18668,1-18668,1761183,25,5,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Kimball Midwest 4-drawer pull out cabinet with assorted contents, and assorted grinding wheels a..."
 18669,1-18669,1761184,65,12,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
@@ -140,7 +140,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18671,1-18671,1761186,135,27,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
 18672,1-18672,1761187,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Auto Specialties, model D8200, heavy duty hydraulic transmission jack, in working condition."
 18673,1-18673,1761188,29,6,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) sledgehammers with wood handles, 10 lb. and 6 lb., tire beader, and tire iron."
-18674,1-18674,1761189,45,9,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sunex 1"" pneumatic impact, and (1) Chicago Pneumatic 1/2"" pneumatic impact gun."
+18674,1-18674,1761189,50,10,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sunex 1"" pneumatic impact, and (1) Chicago Pneumatic 1/2"" pneumatic impact gun."
 18675,1-18675,1761190,90,20,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) pulley puller, (1) custom built jaw puller, (1) 8"", and (1) 6"" C-clamp."
 18676,1-18676,1761191,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) heavy duty air hoses.
 18677,1-18677,1761192,35,8,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (3) heavy duty air hoses.
@@ -166,7 +166,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18718,1-18718,1761233,120,25,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco pneumatic pump dispenser with a partial 16-gallon drum of automotive gear oil, SAE 85W-140..."
 18719,1-18719,1761234,110,6,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco Fireball 300 pneumatic grease pump, with Graco digital grease gun dispenser, and partial b..."
 18720,1-18720,1761235,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) steel foreman's desk, 34.5"" wide."
-17866,1-17866,1761264,15,3,5,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Imperial 3-in-1 electrical and air assemblies for semi.
+17866,1-17866,1761264,20,4,5,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Imperial 3-in-1 electrical and air assemblies for semi.
 17867,1-17867,1761265,15,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) clutch actuator cylinder, pneumatic clutch."
 17868,1-17868,1761266,25,4,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Delco Remy 8200433, 39MT semi truck starter."
 17869,1-17869,1761268,10,2,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Lot of (2) model 8075917 air tanks.
@@ -181,8 +181,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17878,1-17878,1761277,40,9,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 3-ton lever lock ratcheting chain hoist, and (1) 1-ton chain fall."
 17879,1-17879,1761278,5,1,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Hein-Werner 2-ton, portable engine crane."
 17880,1-17880,1761279,255,27,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) OTC low lift transmission jack, 2200 lb. capacity, model 5019A."
-17881,1-17881,1761280,44,9,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted truck parts, includes belt, Red Dot filter drier receiver, Sensor clip kits, s..."
-17882,1-17882,1761281,24,5,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Hino box truck parts, includes heater hose, pins, belts, U-joints, and radiator hose..."
+17881,1-17881,1761280,49,10,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted truck parts, includes belt, Red Dot filter drier receiver, Sensor clip kits, s..."
+17882,1-17882,1761281,29,6,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Hino box truck parts, includes heater hose, pins, belts, U-joints, and radiator hose..."
 17883,1-17883,1761282,34,7,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted tools, includes banding ratchet tool, crimper with clamps, cutter, partial tap and d..."
 17884,1-17884,1761283,15,3,11,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted hardware, includes nuts, bolts, 16"" x 32"" x 1 1/4"", Tapcons, 1/4"" x 14"" x 1.5""..."
 17885,1-17885,1761284,45,9,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted light bulbs, includes (6) Sylvania 9003, (6) 9005, (5) 9006, (5) 9007, include..."
@@ -194,14 +194,14 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17891,1-17891,1761291,600,51,13,1,0,1791331200,2026-10-07T00:00:00Z,,,Large lot of new/old stock Volvo truck parts. Refer to list.
 17892,1-17892,1761292,255,52,16,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted truck lights, includes tail lights, marker lights, clearance lights, 31"" stain..."
 17893,1-17893,1761293,30,6,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Black Hawk 5-ton pneumatic jack, model SJ-65, in working condition."
-17894,1-17894,1761294,29,6,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Bosch AL9961LH alternator from Mercedes Benz diesel engine, Delco Remy 29MT starter from same en..."
-17895,1-17895,1761295,119,25,15,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) rack with contents, includes assorted Timken bearings, SKF bearings, wheel seals, tapered roller..."
+17894,1-17894,1761294,49,10,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Bosch AL9961LH alternator from Mercedes Benz diesel engine, Delco Remy 29MT starter from same en..."
+17895,1-17895,1761295,152,27,15,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) rack with contents, includes assorted Timken bearings, SKF bearings, wheel seals, tapered roller..."
 17896,1-17896,1761296,15,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) set of ASL calipers, model HSG kits, part #0204719661."
 17897,1-17897,1761297,55,12,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted new and used glad hands, leveling valves, electric light cord pins, plugs, cord adap..."
 17898,1-17898,1761298,5,1,3,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new set of arms for a Palfinger lift gate.
 17899,1-17899,1761299,10,2,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Parts for a Waltco lift gate, and other miscellaneous lift gate parts."
 17900,1-17900,1761300,25,5,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) tire inflator safety cage, and (2) tire dollies."
-17901,1-17901,1761301,31,7,9,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted tire valves and parts, includes (52) bags of Equal, 1 gallon of bead breakers,..."
+17901,1-17901,1761301,36,8,9,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted tire valves and parts, includes (52) bags of Equal, 1 gallon of bead breakers,..."
 17902,1-17902,1761303,5,0,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Whiting semi trailer rear door boards, approx. 98.5"" long, and (3) Todco boards, win..."
 17903,1-17903,1761304,410,57,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Dake manual, heavy duty H-frame press with attachments, in working condition, winning bidder res..."
 17904,1-17904,1761305,105,21,12,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (4) semi tires, 1 with rim, 3 are 11R225, and 1 is 295/75R225 tire, 10-lug steel rim."
@@ -218,7 +218,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18689,1-18689,1761205,75,16,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) TSI Cheetah bead sealer, and (1) set of heavy duty 6-ton jack stands."
 18690,1-18690,1761206,125,26,6,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) heavy duty pneumatic bottle jack.
 18691,1-18691,1761207,25,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) heavy duty pneumatic bottle jack.
-18692,1-18692,1761208,25,5,7,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Sunex Tools pneumatic bottle jack lift.
+18692,1-18692,1761208,30,6,7,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Sunex Tools pneumatic bottle jack lift.
 18693,1-18693,1761209,25,5,6,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ATD-Blast pneumatic sandblaster.
 18694,1-18694,1761210,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
 18695,1-18695,1761211,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
@@ -230,19 +230,19 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18701,1-18701,1761217,320,19,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (5) Fleetrite semi batteries, 4 are 950 cold cranking amp, and 1 is 925 cold cranking amp."
 18702,1-18702,1761218,460,48,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Lot of (5) new Fleetrite Gold 950 cranking amp batteries.
 18703,1-18703,1761219,65,7,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (2) new Fleetrite Gold 950 cranking amp batteries, includes battery rack, 69"" x 13.5"" deep x ..."
-18721,1-18721,1761236,105,9,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) boxes of Cummins parts, includes Pilot cam shaft, and Cummins 15X cam gear puller."
+18721,1-18721,1761236,155,16,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) boxes of Cummins parts, includes Pilot cam shaft, and Cummins 15X cam gear puller."
 18722,1-18722,1761237,55,12,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Craftsman 4.5"" bench mounted vise, winning bidder responsible for proper removal."
 18723,1-18723,1761238,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ADT 8696 ball joint puller.
 18724,1-18724,1761239,15,3,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) pressure tester, and (1) partial Snap-On 8.2 liter diesel tune up set."
-18725,1-18725,1761240,40,9,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large assortment of clamps, filter clamps, pipe clamps, and (2) wall mounted Stemco clamp display ho..."
+18725,1-18725,1761240,45,10,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large assortment of clamps, filter clamps, pipe clamps, and (2) wall mounted Stemco clamp display ho..."
 18726,1-18726,1761241,5,1,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) DeWalt, model D28715, 14"" abrasive cut off saw, and (3) new 14"" blades."
-18727,1-18727,1761242,75,15,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (8) assorted Type 30, 30 piggyback air chamber kits."
+18727,1-18727,1761242,95,19,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (8) assorted Type 30, 30 piggyback air chamber kits."
 18728,1-18728,1761243,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 5"" bench mounted vise, includes (2) steel tables, total of 133"" (tables are welded together), in..."
 18729,1-18729,1761244,30,6,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
 18730,1-18730,1761245,25,5,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
 18731,1-18731,1761246,5,0,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) ZEP Dyna Clean parts washer cleaning station, flip top, 120V."
 18732,1-18732,1761310,105,22,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Ricoh Super G3, commercial multi-function printer, item #415473-U2, S/N C84046114."
 18733,1-18733,1761311,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Meritor, part #R955065225X, Reman, model 9, dryer."
-18734,1-18734,1761312,15,4,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Morgan, model 62C6520, trailer corners, 1 left/1 right side."
-18735,1-18735,1761313,55,8,8,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Caterpillar parts, includes gaskets, hose, fittings, wiring, clamps, and more."
+18734,1-18734,1761312,20,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Morgan, model 62C6520, trailer corners, 1 left/1 right side."
+18735,1-18735,1761313,60,9,8,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Caterpillar parts, includes gaskets, hose, fittings, wiring, clamps, and more."
 17125,1-17125,1779931,110,24,4,1,0,1791333000,2026-10-07T00:30:00Z,,,Ariens 2-Stage electric start
