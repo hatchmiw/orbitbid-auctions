@@ -1,7 +1,7 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
-10000,1-10000,1761139,255,6,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
-10001,1-10001,1761140,100,0,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
-10002,1-10002,1761141,115,4,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
+10000,1-10000,1761139,310,8,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
+10001,1-10001,1761140,255,5,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
+10002,1-10002,1761141,510,21,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
 10003,1-10003,1761142,1025,12,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
 10004,1-10004,1761143,2650,31,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3100,20,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
@@ -15,7 +15,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10013,1-10013,1761152,50250,96,63,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D..."
 10014,1-10014,1761153,24450,75,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10015,1-10015,1761154,24600,72,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10016,1-10016,1761155,15600,37,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10016,1-10016,1761155,15700,38,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10017,1-10017,1761156,43500,60,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
 10018,1-10018,1761157,2550,32,49,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis..."
 10019,1-10019,1761158,1125,30,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummi..."
@@ -157,7 +157,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18709,1-18709,1761224,5,0,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Amano Cincinnati digital time card clock with card holder.
 18710,1-18710,1761225,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Werner 6' fiberglass step ladder.
 18711,1-18711,1761226,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Werner 10' fiberglass step ladder.
-18712,1-18712,1761227,10,2,3,1,0,1791329400,2026-10-06T23:30:00Z,,,"Approx. 3/4 of a drum of Duramax Liquid Armor NC brake clean fluid, winning bidder responsible for p..."
+18712,1-18712,1761227,20,4,3,1,0,1791329400,2026-10-06T23:30:00Z,,,"Approx. 3/4 of a drum of Duramax Liquid Armor NC brake clean fluid, winning bidder responsible for p..."
 18713,1-18713,1761228,50,10,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) torch cart, includes gun, (2) Radnor, 1 acetylene, 1 oxygen regulator, hose, and more."
 18714,1-18714,1761229,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) torch cart, includes gun, (2) Radnor, 1 acetylene, 1 oxygen regulator, hose, and more."
 18715,1-18715,1761230,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) metal hand truck dollies with solid tires, 1 with 14"" wide plate, 1 with 12"" wide plate."
@@ -238,8 +238,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18726,1-18726,1761241,5,1,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) DeWalt, model D28715, 14"" abrasive cut off saw, and (3) new 14"" blades."
 18727,1-18727,1761242,75,15,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (8) assorted Type 30, 30 piggyback air chamber kits."
 18728,1-18728,1761243,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 5"" bench mounted vise, includes (2) steel tables, total of 133"" (tables are welded together), in..."
-18729,1-18729,1761244,20,4,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
-18730,1-18730,1761245,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
+18729,1-18729,1761244,25,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
+18730,1-18730,1761245,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
 18731,1-18731,1761246,5,0,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) ZEP Dyna Clean parts washer cleaning station, flip top, 120V."
 18732,1-18732,1761310,105,22,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Ricoh Super G3, commercial multi-function printer, item #415473-U2, S/N C84046114."
 18733,1-18733,1761311,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Meritor, part #R955065225X, Reman, model 9, dryer."
