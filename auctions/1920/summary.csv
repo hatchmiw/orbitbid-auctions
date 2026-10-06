@@ -3,10 +3,10 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10001,1-10001,1761140,100,0,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
 10002,1-10002,1761141,100,1,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
 10003,1-10003,1761142,1025,12,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
-10004,1-10004,1761143,2600,30,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
+10004,1-10004,1761143,2650,31,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3100,20,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
-10006,1-10006,1761145,2050,32,64,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles..."
-10007,1-10007,1761146,1075,16,80,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, ..."
+10006,1-10006,1761145,2550,43,64,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles..."
+10007,1-10007,1761146,1125,17,80,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, ..."
 10008,1-10008,1761147,9050,37,85,1,0,1791324000,2026-10-06T22:00:00Z,,,"2015 Volvo VNVNL Sleeper Semi Truck tandem axle, Eaton Fuller 10-speed transmission, Volvo D13, 475 ..."
 10009,1-10009,1761148,25600,31,76,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Semi Truck tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP di..."
 10010,1-10010,1761149,13550,182,68,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
@@ -245,4 +245,4 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18733,1-18733,1761311,10,2,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Meritor, part #R955065225X, Reman, model 9, dryer."
 18734,1-18734,1761312,10,2,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Morgan, model 62C6520, trailer corners, 1 left/1 right side."
 18735,1-18735,1761313,50,7,8,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Caterpillar parts, includes gaskets, hose, fittings, wiring, clamps, and more."
-17125,1-17125,1779931,65,14,4,1,0,1791333000,2026-10-07T00:30:00Z,,,Ariens 2-Stage electric start
+17125,1-17125,1779931,95,20,4,1,0,1791333000,2026-10-07T00:30:00Z,,,Ariens 2-Stage electric start
