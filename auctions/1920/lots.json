@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-06T06:38:13.150476Z",
+  "retrieved_at": "2026-10-06T06:58:35.351608Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -34541,9 +34541,9 @@
       "title": "2006 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International DT466E di...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 120,
+      "amount": 1505,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -131370,5 +131370,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T06:38:13.150476Z"
+  "last_price_refresh_at": "2026-10-06T06:58:35.351608Z"
 }
