@@ -1,6 +1,6 @@
 # OrbitBid Auction 2067
 
-- Price refresh: 2026-10-06T19:32:07.963913Z
+- Price refresh: 2026-10-06T19:49:40.274036Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1
 - Saved lots refreshed: 107
 - Refresh errors: 0
@@ -159,8 +159,8 @@
 
 - OrbitBid item number: 1-9896
 - Internal ID: 1808104
-- Current bid: $875
-- Bid count: 31
+- Current bid: $900
+- Bid count: 32
 - Photo count: 22
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -412,8 +412,8 @@
 
 - OrbitBid item number: 1-9902
 - Internal ID: 1808110
-- Current bid: $3150
-- Bid count: 50
+- Current bid: $3200
+- Bid count: 51
 - Photo count: 39
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -815,8 +815,8 @@
 
 - OrbitBid item number: 1-9909
 - Internal ID: 1808117
-- Current bid: $365
-- Bid count: 13
+- Current bid: $410
+- Bid count: 15
 - Photo count: 10
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1026,8 +1026,8 @@
 
 - OrbitBid item number: 1-9916
 - Internal ID: 1808124
-- Current bid: $580
-- Bid count: 52
+- Current bid: $605
+- Bid count: 53
 - Photo count: 7
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1800,8 +1800,8 @@
 
 - OrbitBid item number: 1-9771
 - Internal ID: 1808171
-- Current bid: $815
-- Bid count: 23
+- Current bid: $965
+- Bid count: 29
 - Photo count: 7
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -2195,8 +2195,8 @@
 
 - OrbitBid item number: 1-9801
 - Internal ID: 1808157
-- Current bid: $40
-- Bid count: 8
+- Current bid: $65
+- Bid count: 13
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -2467,18 +2467,21 @@
 
 ---
 
-## Lot 8538 — (1) Flatbed wagon, 16', includes dump bed
+## Lot 8538 — Flatbed Wagon 16', includes dump bed
 
 - OrbitBid item number: 1-8538
 - Internal ID: 1808190
-- Current bid: $50
+- Current bid: $25
 - Bid count: 0
 - Photo count: 8
 - End time (UTC): 2026-10-06T23:30:00Z
 
 **Fields:**
 
-- General Description: (1) Flatbed wagon, 16', includes dump bed
+- Model: Flatbed
+- Type: Wagon
+- Titled Status: Title Not Required: State does not require plate or registration
+- General Description: 16', includes dump bed
 
 **Photos:**
 
@@ -3321,8 +3324,8 @@
 
 - OrbitBid item number: 1-9823
 - Internal ID: 1887106
-- Current bid: $2700
-- Bid count: 113
+- Current bid: $3500
+- Bid count: 121
 - Photo count: 20
 - End time (UTC): 2026-10-07T00:30:00Z
 
