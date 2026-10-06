@@ -22,7 +22,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9911,1-9911,1808119,911,9,15,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) John Deere 8300 Grain Drill, 23 hole, was used in early August and cylinder went bad, sell with ..."
 9912,1-9912,1808120,900,37,18,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere MT Tractor Gas, narrow front, PTO &amp; belt pully, 10-34 rear tires, SN MT11785"
 9913,1-9913,1808121,315,16,5,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Brush hog 60"", 3 PT, make unknown"
-9914,1-9914,1808122,55,11,7,1,0,1791324000,2026-10-06T22:00:00Z,,,(1) Running gear
+9914,1-9914,1808122,60,12,7,1,0,1791324000,2026-10-06T22:00:00Z,,,(1) Running gear
 9915,1-9915,1808123,250,17,13,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Bradford Industries gravity wagon, model 220 deluxe, extendable tongue, bin extensions, SN 19219..."
 9916,1-9916,1808124,555,51,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) J&amp;M Gravity Wagon, extendable tongue, model 350-20, SN 16908"
 9917,1-9917,1808125,155,22,8,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Older grain/fertilizer, wagon, dump, wooden box"
@@ -43,9 +43,9 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9921,1-9921,1808129,1070,43,8,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 74 5-bar hay rake, SN E00074G102820"
 9922,1-9922,1808130,650,47,12,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Hay wagon with rear rack, 16' x 8' with Kory 6872 running gear"
 9923,1-9923,1808131,2250,29,11,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Brillion SST-1201 Seeder, SN 140299"
-9924,1-9924,1808132,90,9,7,1,0,1791325800,2026-10-06T22:30:00Z,,,(1) Stan-Hoist Running Gear
+9924,1-9924,1808132,155,22,7,1,0,1791325800,2026-10-06T22:30:00Z,,,(1) Stan-Hoist Running Gear
 9925,1-9925,1808133,185,11,6,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Lowery 300 Cone Seeder/Spreader, 3 PT, 540 PTO"
-9926,1-9926,1808134,510,11,8,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Westfield WR 60-51 transport auger, 51', PTO driven"
+9926,1-9926,1808134,535,12,8,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Westfield WR 60-51 transport auger, 51', PTO driven"
 9927,1-9927,1808135,675,23,14,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 336 Square Baler with John Deere kicker, SN 01897E"
 9928,1-9928,1808136,825,9,7,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Sitrex 26L-302 Hay Tedder, 10' working width, PTO"
 9929,1-9929,1808137,25,5,12,1,0,1791325800,2026-10-06T22:30:00Z,,,(1) 13' DMI Chizel Champ disc chisel plow
@@ -71,7 +71,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9804,1-9804,1808160,110,9,9,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) J&amp;M 250-7 Gravity wagon with harvest trail running gear, SN 764392"
 9805,1-9805,1808161,255,3,11,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Bradford model 240-316 Gravity Wagon with bladtorn 10 ton gear, SN 8217114"
 9806,1-9806,1808162,461,15,8,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) Killbros 300 gravity wagon on John Deere gear
-9807,1-9807,1808163,105,21,8,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) John Deere running gear
+9807,1-9807,1808163,235,47,8,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) John Deere running gear
 9808,1-9808,1808164,410,22,9,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) Grain/Fertilizer dump wagon on John Deere gear
 9809,1-9809,1808165,1310,91,10,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) Killbro model 385 Gravity wagon on Killbros 1386 running gear
 9810,1-9810,1808166,108,3,14,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) John Deere van brunt drill, 17-hole"
@@ -81,13 +81,13 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 8542,1-8542,1808193,95,16,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere quick attach
 9854,1-9854,1808197,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Grain auger electric, 5"" auger x 20' long"
 9891,1-9891,1808175,630,54,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere 6-row corn head
-9892,1-9892,1808176,2300,42,40,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
+9892,1-9892,1808176,2500,46,40,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
 9944,1-9944,1808198,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Cardinal grain auger, no motor, 5"" auger x 10' long"
 9945,1-9945,1808199,160,6,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Gilmore grain cleaner, portable, electric, 230V, 3 HP, single phase"
 9947,1-9947,1808196,30,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Grain auger electric, 3"" auger x 20' long"
 9948,1-9948,1808194,10,2,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) Sweeper augers, 7' and 9'"
 9949,1-9949,1808195,50,6,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Plastic poly hopper for augers
-9950,1-9950,1808187,10,2,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
+9950,1-9950,1808187,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
 9951,1-9951,1808188,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(2) Titan 23.1-34 tires
 9952,1-9952,1808181,205,11,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) New Holland 56 Hay rake, SN 68582"
 9953,1-9953,1808189,625,42,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 40-U Tractor Gas, with side mounted sickle bar mower, SN 64344"
@@ -104,5 +104,5 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9852,1-9852,1887151,35,7,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Back blade, 3 PT, 8'"
 9821,1-9821,1887129,2050,22,22,1,0,1791333000,2026-10-07T00:30:00Z,,,1971 AM General 6X6 Military Truck
 9822,1-9822,1887132,510,8,15,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
-9823,1-9823,1887106,2350,105,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
+9823,1-9823,1887106,2450,108,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
 9824,1-9824,1887144,1530,12,25,1,0,1791333000,2026-10-07T00:30:00Z,,,1967 International 6X6 Military Dump Truck
