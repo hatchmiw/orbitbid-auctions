@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T11:26:03.283663Z",
+  "retrieved_at": "2026-10-06T11:32:14.133922Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -11904,9 +11904,9 @@
       "title": "(1) John Deere 235 Disc, hydraulic wing fold, approx.16' Reminger 3-bar spike tooth drag, SN 013113A",
       "subtitle": null,
       "description": "",
-      "amount": 105,
+      "amount": 365,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 13,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -23489,9 +23489,9 @@
       "title": "(1) John Deere 336 Square Baler with John Deere kicker, SN 01897E",
       "subtitle": null,
       "description": "",
-      "amount": 385,
+      "amount": 540,
       "max_amount": null,
-      "bid_count": 9,
+      "bid_count": 17,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -33722,9 +33722,9 @@
       "title": "(1) Killbro model 385 Gravity wagon on Killbros 1386 running gear",
       "subtitle": null,
       "description": "",
-      "amount": 255,
+      "amount": 310,
       "max_amount": null,
-      "bid_count": 42,
+      "bid_count": 44,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47366,5 +47366,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T11:26:03.283663Z"
+  "last_price_refresh_at": "2026-10-06T11:32:14.133922Z"
 }
