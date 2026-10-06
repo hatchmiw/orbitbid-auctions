@@ -73,13 +73,13 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17852,1-17852,1761249,390,15,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) new Firestone FS591, 11R225, 16PR semi truck tires."
 17853,1-17853,1761250,1350,46,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) new Firestone FS591, 29575R225 tires, 16 PR."
 17854,1-17854,1761251,155,10,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bridgestone M890, 27580R225, tire, and (1) Sailun 29575R225 tire with rim."
-17855,1-17855,1761252,100,20,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Landa Gold Series commercial pressure washer, model UHW4-20021A, S/N P1295-9543, 230V, single ph..."
+17855,1-17855,1761252,255,26,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Landa Gold Series commercial pressure washer, model UHW4-20021A, S/N P1295-9543, 230V, single ph..."
 17856,1-17856,1761253,180,21,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) metal parts bins with assorted hex head bolts, various sizes, lower cabinet is 35.5"" x 12"" x 42""..."
 17857,1-17857,1761254,110,9,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) metal parts storage rack, with assorted bolts, nuts, washers, screws, cap screws, carriage bolts..."
 17858,1-17858,1761255,60,12,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) KM metal parts organizer, includes assorted galvanized black pipe fittings, joint unions, elbows..."
 17859,1-17859,1761256,5,1,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Dayton table top bench grinder, model 42183C, 120V, single phase, includes steel table, 61"" x 27..."
 17860,1-17860,1761257,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Enerpac Porta Power pump with Enerpac hydraulic bottle, 2"" diameter, pump may need repair."
-17861,1-17861,1761258,30,7,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) OTC King Pin wall mount with OTC 400 stage hand pump, with accessories."
+17861,1-17861,1761258,35,8,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) OTC King Pin wall mount with OTC 400 stage hand pump, with accessories."
 17862,1-17862,1761259,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) hydraulic frame and body tool.
 17863,1-17863,1761260,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Matco hydraulic porta power.
 17864,1-17864,1761262,10,3,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Ridgid 16-gallon shop vac.
@@ -148,7 +148,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18679,1-18679,1761195,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) steel shop carts, 36"" x 24""."
 18680,1-18680,1761196,55,12,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) set of heavy duty semi jack stands, pin style."
 18681,1-18681,1761197,70,11,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) set of heavy duty semi jack stands, pin style."
-18682,1-18682,1761198,10,2,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) 10-ton, heavy duty pin style jack stands."
+18682,1-18682,1761198,15,3,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) 10-ton, heavy duty pin style jack stands."
 18683,1-18683,1761199,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Barrett, #1A, jack stand."
 18705,1-18705,1761220,5,0,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) steel shop table, 72"" x 30"", includes (3) rolling office chairs, and desk lamp."
 18706,1-18706,1761221,5,0,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of furniture in office, includes (2) 60"" desks, (1) 42"" desk, (1) 32"" wide entertainment st..."
@@ -162,13 +162,13 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18714,1-18714,1761229,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) torch cart, includes gun, (2) Radnor, 1 acetylene, 1 oxygen regulator, hose, and more."
 18715,1-18715,1761230,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) metal hand truck dollies with solid tires, 1 with 14"" wide plate, 1 with 12"" wide plate."
 18716,1-18716,1761231,155,5,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco pneumatic grease pump dispenser with a partial barrel of Lithoplex Industrial #2 Grease, w..."
-18717,1-18717,1761232,205,6,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco Fireball 300 air powered grease dispensing pump, with Graco digital pump display, and part..."
+18717,1-18717,1761232,360,13,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco Fireball 300 air powered grease dispensing pump, with Graco digital pump display, and part..."
 18718,1-18718,1761233,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco pneumatic pump dispenser with a partial 16-gallon drum of automotive gear oil, SAE 85W-140..."
 18719,1-18719,1761234,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Graco Fireball 300 pneumatic grease pump, with Graco digital grease gun dispenser, and partial b..."
 18720,1-18720,1761235,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) steel foreman's desk, 34.5"" wide."
 17866,1-17866,1761264,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Imperial 3-in-1 electrical and air assemblies for semi.
 17867,1-17867,1761265,10,2,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) clutch actuator cylinder, pneumatic clutch."
-17868,1-17868,1761266,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Delco Remy 8200433, 39MT semi truck starter."
+17868,1-17868,1761266,10,2,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Delco Remy 8200433, 39MT semi truck starter."
 17869,1-17869,1761268,10,2,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Lot of (2) model 8075917 air tanks.
 17870,1-17870,1761269,5,1,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Power brake and spring assembly, item #2376, 93"" shaft."
 17871,1-17871,1761270,5,1,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted storage items, includes 36"" plastic shelf, (2) Durabilt Extreme Storage 27-gallon to..."
@@ -207,7 +207,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17904,1-17904,1761305,15,3,12,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (4) semi tires, 1 with rim, 3 are 11R225, and 1 is 295/75R225 tire, 10-lug steel rim."
 17905,1-17905,1761306,35,8,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including Grit disc, washers, ..."
 17906,1-17906,1761307,120,19,14,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including head lamps, air fitt..."
-17907,1-17907,1761308,115,6,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including assorted screws, she..."
+17907,1-17907,1761308,120,7,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including assorted screws, she..."
 17908,1-17908,1761309,15,3,13,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 6-drawer Kimball parts organizer stand with pull out drawers, includes vinyl terminals, black zi..."
 17910,1-17910,1761314,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) White/Westinghouse refrigerator/freezer, model MRT15CPEW4."
 18684,1-18684,1761200,5,0,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (2) 36"" x 24"" steel shop carts."
@@ -230,7 +230,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18701,1-18701,1761217,320,19,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (5) Fleetrite semi batteries, 4 are 950 cold cranking amp, and 1 is 925 cold cranking amp."
 18702,1-18702,1761218,460,48,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Lot of (5) new Fleetrite Gold 950 cranking amp batteries.
 18703,1-18703,1761219,55,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (2) new Fleetrite Gold 950 cranking amp batteries, includes battery rack, 69"" x 13.5"" deep x ..."
-18721,1-18721,1761236,10,2,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) boxes of Cummins parts, includes Pilot cam shaft, and Cummins 15X cam gear puller."
+18721,1-18721,1761236,76,6,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) boxes of Cummins parts, includes Pilot cam shaft, and Cummins 15X cam gear puller."
 18722,1-18722,1761237,55,12,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Craftsman 4.5"" bench mounted vise, winning bidder responsible for proper removal."
 18723,1-18723,1761238,5,1,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ADT 8696 ball joint puller.
 18724,1-18724,1761239,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) pressure tester, and (1) partial Snap-On 8.2 liter diesel tune up set."
