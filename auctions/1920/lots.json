@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-06T17:50:14.986974Z",
+  "retrieved_at": "2026-10-06T18:03:52.453601Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -37900,9 +37900,9 @@
       "title": "2016 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-WU diesel engine, 24' ...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 1450,
+      "amount": 2750,
       "max_amount": null,
-      "bid_count": 23,
+      "bid_count": 49,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -131362,5 +131362,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T17:50:14.986974Z"
+  "last_price_refresh_at": "2026-10-06T18:03:52.453601Z"
 }
