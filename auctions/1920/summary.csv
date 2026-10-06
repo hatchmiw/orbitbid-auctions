@@ -22,7 +22,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10050,1-10050,1761119,4050,51,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck Allison automatic transmission, power windows/locks, CD player, Air rid..."
 10051,1-10051,1761120,705,3,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2007 International 4300SBA4X2 24' Box Truck Allison International DT466E transmission, 25,999 lb. GV..."
 10052,1-10052,1761121,2100,26,39,1,0,1791325800,2026-10-06T22:30:00Z,,,"2014 Chevrolet 16' Box Truck Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/..."
-10053,1-10053,1761122,5100,78,35,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 195-20 12' Box Truck with lift gate, Seiki Toyota automatic transmission, Hino J05E-TP die..."
+10053,1-10053,1761122,6050,80,35,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 195-20 12' Box Truck with lift gate, Seiki Toyota automatic transmission, Hino J05E-TP die..."
 10054,1-10054,1761123,1650,37,45,1,0,1791325800,2026-10-06T22:30:00Z,,,"2008 Freightliner M2106 24' Box Truck Allison 2000 automatic transmission, Cummins ISB diesel motor,..."
 10055,1-10055,1761124,1550,18,46,1,0,1791325800,2026-10-06T22:30:00Z,,,"2005 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International 466 E die..."
 10056,1-10056,1761125,1505,7,47,1,0,1791325800,2026-10-06T22:30:00Z,,,"2006 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International DT466E di..."
@@ -110,12 +110,12 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17933,1-17933,1761110,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) Capture IR Bullet camera with varifocal lens, model BLIR30VF46TVL, new in package."
 17934,1-17934,1761111,5,0,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of Atomictime time clock, model 1500E, with time cards."
 17935,1-17935,1761112,5,0,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Brother P-Touch label printer, model D610BT, with assorted ink cartridges, and (1) Ingenico cred..."
-17936,1-17936,1761113,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Steelcase, 6-drawer wooden office desk, 72"" length x 36"" depth x 29"" height."
-17937,1-17937,1761114,5,1,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) wood table, 84"" length x 40"" width x 30"" height, includes (6) padded chairs, and includes an 18""..."
-17938,1-17938,1761115,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) Sandusky, 2-drawer horizontal file cabinets, 30"" wide x 18"" deep x 27"" tall, does not inc..."
-17939,1-17939,1761116,10,2,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) BBF office desk, 72"" width x 30"" depth x 30"" height, includes chair and plastic chair mat, does ..."
-17940,1-17940,1761117,25,5,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) plastic tote with approx. 160 gallons of DEF fluid.
-17941,1-17941,1761118,420,19,3,1,0,1791329400,2026-10-06T23:30:00Z,,,Approx. 250 gallons of Armor Trac antifreeze ELC50/50 with plastic tote.
+17936,1-17936,1761113,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Steelcase, 6-drawer wooden office desk, 72"" length x 36"" depth x 29"" height."
+17937,1-17937,1761114,10,2,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) wood table, 84"" length x 40"" width x 30"" height, includes (6) padded chairs, and includes an 18""..."
+17938,1-17938,1761115,10,2,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) Sandusky, 2-drawer horizontal file cabinets, 30"" wide x 18"" deep x 27"" tall, does not inc..."
+17939,1-17939,1761116,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) BBF office desk, 72"" width x 30"" depth x 30"" height, includes chair and plastic chair mat, does ..."
+17940,1-17940,1761117,30,6,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) plastic tote with approx. 160 gallons of DEF fluid.
+17941,1-17941,1761118,430,20,3,1,0,1791329400,2026-10-06T23:30:00Z,,,Approx. 250 gallons of Armor Trac antifreeze ELC50/50 with plastic tote.
 18650,1-18650,1761165,5,1,2,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) manual grease guns, (6) assorted caulk guns, and weather stripping."
 18651,1-18651,1761166,40,9,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Milwaukee 7 1/4"" tilt lock circular saw with case, 120V."
 18652,1-18652,1761167,35,7,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Milwaukee 18-gauge shear, 120V."
