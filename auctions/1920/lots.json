@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-06T19:24:03.912952Z",
+  "retrieved_at": "2026-10-06T19:31:21.228808Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -19073,9 +19073,9 @@
       "title": "2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 52500,
+      "amount": 53000,
       "max_amount": null,
-      "bid_count": 106,
+      "bid_count": 108,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -24417,9 +24417,9 @@
       "title": "2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis...",
       "subtitle": null,
       "description": "<div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div>",
-      "amount": 45500,
+      "amount": 46500,
       "max_amount": null,
-      "bid_count": 68,
+      "bid_count": 70,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -131356,5 +131356,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T19:24:03.912952Z"
+  "last_price_refresh_at": "2026-10-06T19:31:21.228808Z"
 }
