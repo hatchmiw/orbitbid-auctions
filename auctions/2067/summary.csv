@@ -54,7 +54,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9771,1-9771,1808171,1015,31,7,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Virnig 72 Skid Steer rock bucket, 72"", SN 161689"
 9772,1-9772,1808167,560,66,16,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) DMI Colter-Champ II disk chisel plow, 9 shank"
 9773,1-9773,1808168,1550,88,8,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Kicker wagon on John Deere running gear, 18', extendable tongue"
-9774,1-9774,1808173,3700,67,23,1,0,1791329333,2026-10-06T23:28:53Z,,,"(1) John Deere 7000 6-row planter, dry fertilizer, row markers"
+9774,1-9774,1808173,3700,67,23,2,0,1791329333,2026-10-06T23:28:53Z,,,"(1) John Deere 7000 6-row planter, dry fertilizer, row markers"
 9775,1-9775,1808169,1550,35,11,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Kicker wagon on Gehl tandem running gear, 18' extendable tongue"
 9776,1-9776,1808170,115,23,10,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) International 14 Hay Rake, 8'"
 9777,1-9777,1808174,360,26,12,2,0,1791328179,2026-10-06T23:09:39Z,,,"(1) John Deere 220 grain head, SN H00220F611257"
@@ -63,7 +63,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9796,1-9796,1808153,1600,56,10,2,0,1791328364,2026-10-06T23:12:44Z,,,"(1) Kuhn GA4101GT Hay Rake, 540 PTO, SN 950086"
 9797,1-9797,1808154,30,6,5,2,0,1791327799,2026-10-06T23:03:19Z,,,(1) 3-section drag
 9798,1-9798,1808155,705,14,8,2,0,1791327600,2026-10-06T23:00:00Z,,,(1) John Deere 1-row corn picker
-9799,1-9799,1808156,1115,57,13,1,0,1791329180,2026-10-06T23:26:20Z,,,"(1) Field cultivator with 5-bar spike tooth drag, 13'"
+9799,1-9799,1808156,1115,57,13,2,0,1791329180,2026-10-06T23:26:20Z,,,"(1) Field cultivator with 5-bar spike tooth drag, 13'"
 9800,1-9800,1808172,170,34,6,2,0,1791327600,2026-10-06T23:00:00Z,,,(1) 3-bottom plow
 9801,1-9801,1808157,215,37,5,2,0,1791327872,2026-10-06T23:04:32Z,,,"(1) Back blade, 8', 3PT"
 9802,1-9802,1808158,251,30,6,2,0,1791327600,2026-10-06T23:00:00Z,,,(1) Flow EZ Gravity Wagon with EZ Trail running gear
@@ -75,31 +75,31 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9808,1-9808,1808164,555,28,9,2,0,1791327600,2026-10-06T23:00:00Z,,,(1) Grain/Fertilizer dump wagon on John Deere gear
 9809,1-9809,1808165,1610,97,10,2,0,1791327600,2026-10-06T23:00:00Z,,,(1) Killbro model 385 Gravity wagon on Killbros 1386 running gear
 9810,1-9810,1808166,108,3,14,2,0,1791327600,2026-10-06T23:00:00Z,,,"(1) John Deere van brunt drill, 17-hole"
-8538,1-8538,1808190,130,19,8,1,0,1791329792,2026-10-06T23:36:32Z,,,"Flatbed Wagon 16', includes dump bed"
-8540,1-8540,1808191,151,17,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Firestone 24.5-32 tire, mounted on John Deere 8-bolt rim"
-8541,1-8541,1808192,815,35,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Smyth model 60S 3 PT snow blower, 60"" SN AD1608111"
-8542,1-8542,1808193,310,43,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere quick attach
-9854,1-9854,1808197,160,21,4,1,0,1791329855,2026-10-06T23:37:35Z,,,"(1) Grain auger electric, 5"" auger x 20' long"
-9891,1-9891,1808175,1150,73,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere 6-row corn head
-9892,1-9892,1808176,5501,76,40,1,0,1791329828,2026-10-06T23:37:08Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
-9944,1-9944,1808198,45,6,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Cardinal grain auger, no motor, 5"" auger x 10' long"
-9945,1-9945,1808199,410,43,9,1,0,1791329830,2026-10-06T23:37:10Z,,,"(1) Gilmore grain cleaner, portable, electric, 230V, 3 HP, single phase"
-9947,1-9947,1808196,100,12,6,1,0,1791329791,2026-10-06T23:36:31Z,,,"(1) Grain auger electric, 3"" auger x 20' long"
-9948,1-9948,1808194,45,6,4,1,0,1791329862,2026-10-06T23:37:42Z,,,"(2) Sweeper augers, 7' and 9'"
+8538,1-8538,1808190,155,25,8,1,0,1791330128,2026-10-06T23:42:08Z,,,"Flatbed Wagon 16', includes dump bed"
+8540,1-8540,1808191,151,17,4,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Firestone 24.5-32 tire, mounted on John Deere 8-bolt rim"
+8541,1-8541,1808192,815,35,8,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Smyth model 60S 3 PT snow blower, 60"" SN AD1608111"
+8542,1-8542,1808193,310,43,5,2,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere quick attach
+9854,1-9854,1808197,235,29,4,1,0,1791330188,2026-10-06T23:43:08Z,,,"(1) Grain auger electric, 5"" auger x 20' long"
+9891,1-9891,1808175,1350,75,6,1,0,1791329974,2026-10-06T23:39:34Z,,,(1) John Deere 6-row corn head
+9892,1-9892,1808176,6551,83,40,1,0,1791330061,2026-10-06T23:41:01Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
+9944,1-9944,1808198,45,6,6,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Cardinal grain auger, no motor, 5"" auger x 10' long"
+9945,1-9945,1808199,460,49,9,1,0,1791330004,2026-10-06T23:40:04Z,,,"(1) Gilmore grain cleaner, portable, electric, 230V, 3 HP, single phase"
+9947,1-9947,1808196,125,15,6,1,0,1791330037,2026-10-06T23:40:37Z,,,"(1) Grain auger electric, 3"" auger x 20' long"
+9948,1-9948,1808194,55,9,4,1,0,1791330031,2026-10-06T23:40:31Z,,,"(2) Sweeper augers, 7' and 9'"
 9949,1-9949,1808195,195,30,5,1,0,1791329871,2026-10-06T23:37:51Z,,,(1) Plastic poly hopper for augers
-9950,1-9950,1808187,175,28,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
-9951,1-9951,1808188,10,2,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(2) Titan 23.1-34 tires
-9952,1-9952,1808181,295,25,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) New Holland 56 Hay rake, SN 68582"
+9950,1-9950,1808187,175,28,6,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
+9951,1-9951,1808188,10,2,5,2,0,1791329400,2026-10-06T23:30:00Z,,,(2) Titan 23.1-34 tires
+9952,1-9952,1808181,295,25,9,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) New Holland 56 Hay rake, SN 68582"
 9953,1-9953,1808189,705,46,9,1,0,1791329663,2026-10-06T23:34:23Z,,,"John Deere 40-U Tractor Gas, with side mounted sickle bar mower, SN 64344"
-9954,1-9954,1808184,1950,58,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bush hog SM60 Ditch bank mower, 60"", SN 00921"
-9955,1-9955,1808185,1650,54,12,1,0,1791329687,2026-10-06T23:34:47Z,,,"John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho..."
-9956,1-9956,1808186,512,50,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Brillion cultipacker, 10'"
+9954,1-9954,1808184,1950,58,9,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bush hog SM60 Ditch bank mower, 60"", SN 00921"
+9955,1-9955,1808185,1800,57,12,1,0,1791330081,2026-10-06T23:41:21Z,,,"John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho..."
+9956,1-9956,1808186,512,50,6,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Brillion cultipacker, 10'"
 9957,1-9957,1808183,290,25,10,1,0,1791329861,2026-10-06T23:37:41Z,,,"(1) Portable sign, mounted on trailer, 8' x 72"" wide"
-9958,1-9958,1808177,2950,60,41,1,0,1791329444,2026-10-06T23:30:44Z,,,"John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5..."
-9959,1-9959,1808178,1600,48,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 920 grain head, SN H00920E661671"
+9958,1-9958,1808177,3550,73,41,1,0,1791329975,2026-10-06T23:39:35Z,,,"John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5..."
+9959,1-9959,1808178,1600,48,11,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 920 grain head, SN H00920E661671"
 9960,1-9960,1808179,250,15,7,1,0,1791329421,2026-10-06T23:30:21Z,,,"(1) John Deere 216 grain head, 16', SN NA"
-9961,1-9961,1808182,630,34,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Disk, 3PT, 6'"
-9962,1-9962,1808180,3300,73,14,1,0,1791329775,2026-10-06T23:36:15Z,,,"John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n..."
+9961,1-9961,1808182,630,34,4,2,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Disk, 3PT, 6'"
+9962,1-9962,1808180,4250,92,14,1,0,1791330243,2026-10-06T23:44:03Z,,,"John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n..."
 9846,1-9846,1887149,285,28,7,1,0,1791331200,2026-10-07T00:00:00Z,,,Howse Auger Attachment with 4’ 12” wide auger 3-Point
 9852,1-9852,1887151,210,23,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Back blade, 3 PT, 8'"
 9821,1-9821,1887129,2050,22,22,1,0,1791333000,2026-10-07T00:30:00Z,,,1971 AM General 6X6 Military Truck
