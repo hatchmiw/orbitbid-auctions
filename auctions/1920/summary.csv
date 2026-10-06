@@ -1,7 +1,7 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
-10000,1-10000,1761139,510,29,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
-10001,1-10001,1761140,565,33,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
-10002,1-10002,1761141,560,23,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
+10000,1-10000,1761139,535,30,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
+10001,1-10001,1761140,765,41,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
+10002,1-10002,1761141,775,29,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
 10003,1-10003,1761142,1125,15,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
 10004,1-10004,1761143,4200,62,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3100,20,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
@@ -14,7 +14,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10012,1-10012,1761151,20100,59,72,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 ..."
 10013,1-10013,1761152,52500,106,63,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D..."
 10014,1-10014,1761153,33250,104,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10015,1-10015,1761154,26100,75,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10015,1-10015,1761154,32150,83,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10016,1-10016,1761155,17100,40,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10017,1-10017,1761156,45500,68,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
 10018,1-10018,1761157,2550,32,49,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis..."
@@ -70,8 +70,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10025,1-10025,1761164,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sweep EX Pro 480, 48"" sweeper attachment."
 17850,1-17850,1761247,360,19,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Vintage candy vending machine, pull type, includes keys, approx. 34"" wide x 11"" deep x 61"" tall."
 17851,1-17851,1761248,5,1,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Large lot of assorted hand tools, includes post hole digger, pickaxe, assorted brushes, spring tooth..."
-17852,1-17852,1761249,390,15,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) new Firestone FS591, 11R225, 16PR semi truck tires."
-17853,1-17853,1761250,1350,46,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) new Firestone FS591, 29575R225 tires, 16 PR."
+17852,1-17852,1761249,460,17,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) new Firestone FS591, 11R225, 16PR semi truck tires."
+17853,1-17853,1761250,1400,47,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) new Firestone FS591, 29575R225 tires, 16 PR."
 17854,1-17854,1761251,155,10,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bridgestone M890, 27580R225, tire, and (1) Sailun 29575R225 tire with rim."
 17855,1-17855,1761252,315,33,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Landa Gold Series commercial pressure washer, model UHW4-20021A, S/N P1295-9543, 230V, single ph..."
 17856,1-17856,1761253,195,24,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) metal parts bins with assorted hex head bolts, various sizes, lower cabinet is 35.5"" x 12"" x 42""..."
@@ -96,12 +96,12 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17919,1-17919,1761096,5,0,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) wooden office desk, 72"" length x 36"" depth x 29"" height, (1) wood credenza, 66"" width x 20"" dept..."
 17920,1-17920,1761097,55,11,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) Steelcase 4-drawer vertical file cabinet, each measures 14 3/4"" width x 28.5"" depth x 52""..."
 17921,1-17921,1761098,15,3,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) 4-drawer file cabinets, 17 7/8"" width x 28.5"" depth x 52 1/4"" height, (2) Hon 4-drawer ve..."
-17922,1-17922,1761099,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) wood office desk, approx. 72"" x 104"" table, 30"" x 30"" x 17.5"" tall,..."
+17922,1-17922,1761099,30,6,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) wood office desk, approx. 72"" x 104"" table, 30"" x 30"" x 17.5"" tall,..."
 17923,1-17923,1761100,5,1,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) U-shaped desk with upper shelf, 70"" x 104"" x 64.5"" overall height, ..."
 17924,1-17924,1761101,55,11,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bungalow, #121, cast iron wood stove, approx. 22"" wide x 21"" deep x 26"" tall, winning bidder res..."
 17925,1-17925,1761102,15,3,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) plastic rack, 36"" wide x 18"" deep x 72.5"" tall, includes contents of assorted corded keyboards, ..."
 17926,1-17926,1761103,15,3,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sentry gun safe, 21"" wide x 16"" deep x 59"" tall, combination is available, winning bidder respon..."
-17927,1-17927,1761104,110,6,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) metal 2-door cabinet, 36"" wide x approx. 17"" deep x 78"" tall, with contents including assorted o..."
+17927,1-17927,1761104,115,7,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) metal 2-door cabinet, 36"" wide x approx. 17"" deep x 78"" tall, with contents including assorted o..."
 17928,1-17928,1761105,25,5,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) rack, 36"" x 17.5"" deep x 72"" tall, with contents of assorted paper driver's log books, inspectio..."
 17929,1-17929,1761106,35,7,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) plastic rack, approx. 36"" x 17"" x 72"" tall, with contents of seat cushions, (6) snow brushes, as..."
 17930,1-17930,1761107,10,2,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Duet, portable 80"" projection screen, (1) Epson LCD projector, model H309A, with case and cords,..."
@@ -115,7 +115,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17938,1-17938,1761115,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) Sandusky, 2-drawer horizontal file cabinets, 30"" wide x 18"" deep x 27"" tall, does not inc..."
 17939,1-17939,1761116,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) BBF office desk, 72"" width x 30"" depth x 30"" height, includes chair and plastic chair mat, does ..."
 17940,1-17940,1761117,35,7,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) plastic tote with approx. 160 gallons of DEF fluid.
-17941,1-17941,1761118,520,29,3,1,0,1791329400,2026-10-06T23:30:00Z,,,Approx. 250 gallons of Armor Trac antifreeze ELC50/50 with plastic tote.
+17941,1-17941,1761118,575,31,3,1,0,1791329400,2026-10-06T23:30:00Z,,,Approx. 250 gallons of Armor Trac antifreeze ELC50/50 with plastic tote.
 18650,1-18650,1761165,5,1,2,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) manual grease guns, (6) assorted caulk guns, and weather stripping."
 18651,1-18651,1761166,40,9,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Milwaukee 7 1/4"" tilt lock circular saw with case, 120V."
 18652,1-18652,1761167,35,7,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Milwaukee 18-gauge shear, 120V."
@@ -126,7 +126,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18657,1-18657,1761172,130,13,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Eagle, model 2310, 24-gallon capacity safety storage cabinet, 23 1/4"" wide x approx. 18"" deep x ..."
 18658,1-18658,1761173,20,4,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Safe Manufacturing National Association F2ND fire-proof file safe, 4-drawer with assorted conten..."
 18659,1-18659,1761174,5,1,13,1,0,1791329400,2026-10-06T23:30:00Z,,,"Large lot of assorted roller hinges, center hinges, approx. 151"" door rollers, screws, hardware, and..."
-18660,1-18660,1761175,510,77,18,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (51) Samsung Tab Active3 tablets, with Samsara VG34 electronic log/camera for trucking, inclu..."
+18660,1-18660,1761175,825,86,18,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (51) Samsung Tab Active3 tablets, with Samsara VG34 electronic log/camera for trucking, inclu..."
 18661,1-18661,1761176,120,25,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Aurora all steel, 2-door metal storage cabinet, 36"" wide, includes assorted heavy duty sockets, ..."
 18662,1-18662,1761177,35,5,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Large lot of assorted windshield wipers, includes brands (6) ANCO 26"", (6) Fleetrite 26"", (4) ANCO 1..."
 18663,1-18663,1761178,220,27,14,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Uline, model H-1564M-Y, flammable storage cabinet, 45-gallon capacity, 43"" wide x 18"" deep x 65...."
@@ -140,7 +140,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18671,1-18671,1761186,140,28,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
 18672,1-18672,1761187,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Auto Specialties, model D8200, heavy duty hydraulic transmission jack, in working condition."
 18673,1-18673,1761188,39,8,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) sledgehammers with wood handles, 10 lb. and 6 lb., tire beader, and tire iron."
-18674,1-18674,1761189,105,14,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sunex 1"" pneumatic impact, and (1) Chicago Pneumatic 1/2"" pneumatic impact gun."
+18674,1-18674,1761189,160,19,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sunex 1"" pneumatic impact, and (1) Chicago Pneumatic 1/2"" pneumatic impact gun."
 18675,1-18675,1761190,90,20,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) pulley puller, (1) custom built jaw puller, (1) 8"", and (1) 6"" C-clamp."
 18676,1-18676,1761191,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) heavy duty air hoses.
 18677,1-18677,1761192,35,8,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (3) heavy duty air hoses.
@@ -245,4 +245,4 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18733,1-18733,1761311,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Meritor, part #R955065225X, Reman, model 9, dryer."
 18734,1-18734,1761312,20,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Morgan, model 62C6520, trailer corners, 1 left/1 right side."
 18735,1-18735,1761313,60,9,8,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Caterpillar parts, includes gaskets, hose, fittings, wiring, clamps, and more."
-17125,1-17125,1779931,110,24,4,1,0,1791333000,2026-10-07T00:30:00Z,,,Ariens 2-Stage electric start
+17125,1-17125,1779931,120,26,4,1,0,1791333000,2026-10-07T00:30:00Z,,,Ariens 2-Stage electric start
