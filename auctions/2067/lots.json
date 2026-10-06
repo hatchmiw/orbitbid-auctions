@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T20:27:22.953216Z",
+  "retrieved_at": "2026-10-06T20:33:47.221262Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -44294,9 +44294,9 @@
       "title": "Howse Auger Attachment with 4’ 12” wide auger 3-Point",
       "subtitle": null,
       "description": "<div><p>With 4 foot 12 inch wide auger</p></div>",
-      "amount": 80,
+      "amount": 155,
       "max_amount": null,
-      "bid_count": 16,
+      "bid_count": 20,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -44481,7 +44481,7 @@
           "id": 21505832,
           "type": "textbox",
           "label": "Additional Information",
-          "value": "partial PTO shaft,",
+          "value": "partial PTO shaft, and longer PTO shaft",
           "other_value": null
         }
       ],
@@ -47513,5 +47513,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T20:27:22.953216Z"
+  "last_price_refresh_at": "2026-10-06T20:33:47.221262Z"
 }

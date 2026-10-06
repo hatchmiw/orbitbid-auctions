@@ -1,6 +1,6 @@
 # OrbitBid Auction 2067
 
-- Price refresh: 2026-10-06T20:27:22.953216Z
+- Price refresh: 2026-10-06T20:33:47.221262Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1
 - Saved lots refreshed: 107
 - Refresh errors: 0
@@ -3184,8 +3184,8 @@
 
 - OrbitBid item number: 1-9846
 - Internal ID: 1887149
-- Current bid: $80
-- Bid count: 16
+- Current bid: $155
+- Bid count: 20
 - Photo count: 7
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -3196,7 +3196,7 @@
 - Make: Howse
 - Type: Auger Attachment with 4’ 12” wide auger
 - Attachments & Implements Additional Info: 3-Point
-- Additional Information: partial PTO shaft,
+- Additional Information: partial PTO shaft, and longer PTO shaft
 
 **Photos:**
 
