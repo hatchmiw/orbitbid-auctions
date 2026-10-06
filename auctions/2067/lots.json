@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T20:04:19.532978Z",
+  "retrieved_at": "2026-10-06T20:27:22.953216Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -6676,9 +6676,9 @@
       "title": "John Deere 8650 Tractor 8-Wheeler, 4WD, 23.1-34 tires, 3PT, PTO, (3) remotes, 778 hours showing on 4...",
       "subtitle": null,
       "description": "",
-      "amount": 5050,
+      "amount": 5350,
       "max_amount": null,
-      "bid_count": 99,
+      "bid_count": 105,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -9862,9 +9862,9 @@
       "title": "John Deere 544E Wheel Loader JRB 4-in-1 bucket, 101\", cab, 20.5-25 tires, 12045 hours showing, SN: D...",
       "subtitle": null,
       "description": "",
-      "amount": 9100,
+      "amount": 9550,
       "max_amount": null,
-      "bid_count": 34,
+      "bid_count": 36,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -17343,9 +17343,9 @@
       "title": "(1) John Deere 235 Disc, 14' hydraulic wing fold, SN T0020",
       "subtitle": null,
       "description": "",
-      "amount": 230,
+      "amount": 310,
       "max_amount": null,
-      "bid_count": 14,
+      "bid_count": 25,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -20186,9 +20186,9 @@
       "title": "(1) John Deere 920 moco disc mower conditioner, 9'9\" cutting width, rotary disc, impeller, 540 PTO, ...",
       "subtitle": null,
       "description": "",
-      "amount": 2050,
+      "amount": 2100,
       "max_amount": null,
-      "bid_count": 26,
+      "bid_count": 27,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -21335,9 +21335,9 @@
       "title": "(1) John Deere 74 5-bar hay rake, SN E00074G102820",
       "subtitle": null,
       "description": "",
-      "amount": 1070,
+      "amount": 1120,
       "max_amount": null,
-      "bid_count": 43,
+      "bid_count": 44,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -40738,9 +40738,9 @@
       "title": "John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho...",
       "subtitle": null,
       "description": "",
-      "amount": 875,
+      "amount": 1125,
       "max_amount": null,
-      "bid_count": 35,
+      "bid_count": 43,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -44291,12 +44291,12 @@
       "internal_id": 1887149,
       "id": 1887149,
       "item_number": "1-9846",
-      "title": "Howse Auger Attachment 3-Point",
+      "title": "Howse Auger Attachment with 4’ 12” wide auger 3-Point",
       "subtitle": null,
-      "description": "",
-      "amount": 65,
+      "description": "<div><p>With 4 foot 12 inch wide auger</p></div>",
+      "amount": 80,
       "max_amount": null,
-      "bid_count": 14,
+      "bid_count": 16,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -44328,6 +44328,24 @@
         }
       ],
       "images": [
+        {
+          "id": 11302935,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8772a436d7a6978cb303/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8772a436d7a6978cb303/large",
+          "metadata": {
+            "type": "image",
+            "width": 4032,
+            "height": 3024,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "landscape"
+          }
+        },
         {
           "id": 11177417,
           "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/778e669d919b98497115/small",
@@ -44449,7 +44467,7 @@
           "id": 21505823,
           "type": "textbox",
           "label": "Type",
-          "value": "Auger Attachment",
+          "value": "Auger Attachment with 4’ 12” wide auger",
           "other_value": null
         },
         {
@@ -44463,7 +44481,7 @@
           "id": 21505832,
           "type": "textbox",
           "label": "Additional Information",
-          "value": "partial PTO shaft, no bit",
+          "value": "partial PTO shaft,",
           "other_value": null
         }
       ],
@@ -44616,7 +44634,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 6
+      "photo_count": 7
     },
     {
       "requested_lot_number": "9852",
@@ -46129,9 +46147,9 @@
       "title": "1980 AM General 6X6 Military Truck",
       "subtitle": null,
       "description": "",
-      "amount": 3550,
+      "amount": 4000,
       "max_amount": null,
-      "bid_count": 122,
+      "bid_count": 125,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47495,5 +47513,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T20:04:19.532978Z"
+  "last_price_refresh_at": "2026-10-06T20:27:22.953216Z"
 }

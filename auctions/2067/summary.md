@@ -1,6 +1,6 @@
 # OrbitBid Auction 2067
 
-- Price refresh: 2026-10-06T20:04:19.532978Z
+- Price refresh: 2026-10-06T20:27:22.953216Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1
 - Saved lots refreshed: 107
 - Refresh errors: 0
@@ -471,8 +471,8 @@
 
 - OrbitBid item number: 1-9903
 - Internal ID: 1808111
-- Current bid: $5050
-- Bid count: 99
+- Current bid: $5350
+- Bid count: 105
 - Photo count: 41
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -681,8 +681,8 @@
 
 - OrbitBid item number: 1-9907
 - Internal ID: 1808115
-- Current bid: $9100
-- Bid count: 34
+- Current bid: $9550
+- Bid count: 36
 - Photo count: 41
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1207,8 +1207,8 @@
 
 - OrbitBid item number: 1-9787
 - Internal ID: 1808144
-- Current bid: $230
-- Bid count: 14
+- Current bid: $310
+- Bid count: 25
 - Photo count: 14
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -1412,8 +1412,8 @@
 
 - OrbitBid item number: 1-9918
 - Internal ID: 1808126
-- Current bid: $2050
-- Bid count: 26
+- Current bid: $2100
+- Bid count: 27
 - Photo count: 14
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -1496,8 +1496,8 @@
 
 - OrbitBid item number: 1-9921
 - Internal ID: 1808129
-- Current bid: $1070
-- Bid count: 43
+- Current bid: $1120
+- Bid count: 44
 - Photo count: 8
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -2929,8 +2929,8 @@
 
 - OrbitBid item number: 1-9955
 - Internal ID: 1808185
-- Current bid: $875
-- Bid count: 35
+- Current bid: $1125
+- Bid count: 43
 - Photo count: 12
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -3180,30 +3180,33 @@
 
 ---
 
-## Lot 9846 — Howse Auger Attachment 3-Point
+## Lot 9846 — Howse Auger Attachment with 4’ 12” wide auger 3-Point
 
 - OrbitBid item number: 1-9846
 - Internal ID: 1887149
-- Current bid: $65
-- Bid count: 14
-- Photo count: 6
+- Current bid: $80
+- Bid count: 16
+- Photo count: 7
 - End time (UTC): 2026-10-07T00:00:00Z
+
+**Description:** &lt;div&gt;&lt;p&gt;With 4 foot 12 inch wide auger&lt;/p&gt;&lt;/div&gt;
 
 **Fields:**
 
 - Make: Howse
-- Type: Auger Attachment
+- Type: Auger Attachment with 4’ 12” wide auger
 - Attachments & Implements Additional Info: 3-Point
-- Additional Information: partial PTO shaft, no bit
+- Additional Information: partial PTO shaft,
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/778e669d919b98497115/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/097dbcb87ce29d20a337/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e3bc5001d11211a8ebf/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/3199679e12f3618d00b6/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab68723e3428c0ce6c39/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c881d562487d3029924/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/8772a436d7a6978cb303/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/778e669d919b98497115/large)
+- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/097dbcb87ce29d20a337/large)
+- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e3bc5001d11211a8ebf/large)
+- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/3199679e12f3618d00b6/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ab68723e3428c0ce6c39/large)
+- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/1c881d562487d3029924/large)
 
 ---
 
@@ -3324,8 +3327,8 @@
 
 - OrbitBid item number: 1-9823
 - Internal ID: 1887106
-- Current bid: $3550
-- Bid count: 122
+- Current bid: $4000
+- Bid count: 125
 - Photo count: 20
 - End time (UTC): 2026-10-07T00:30:00Z
 
