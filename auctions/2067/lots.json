@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T15:32:56.502612Z",
+  "retrieved_at": "2026-10-06T15:52:03.640184Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -1376,9 +1376,9 @@
       "title": "John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires...",
       "subtitle": null,
       "description": "",
-      "amount": 830,
+      "amount": 855,
       "max_amount": null,
-      "bid_count": 29,
+      "bid_count": 30,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -4833,9 +4833,9 @@
       "title": "(1) King Kutter II TG-60-Y Rototiller, 60\", 3PT, all gear driven, SN LV44005141580",
       "subtitle": null,
       "description": "",
-      "amount": 600,
+      "amount": 625,
       "max_amount": null,
-      "bid_count": 32,
+      "bid_count": 33,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -8366,9 +8366,9 @@
       "title": "John Deere 4440 Tractor Diesel, 2WD, wide front, cab, 3 PT, PTO, (2) remotes, 18.4R38 rear duals, 70...",
       "subtitle": null,
       "description": "",
-      "amount": 5300,
+      "amount": 7100,
       "max_amount": null,
-      "bid_count": 91,
+      "bid_count": 127,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -9862,9 +9862,9 @@
       "title": "John Deere 544E Wheel Loader JRB 4-in-1 bucket, 101\", cab, 20.5-25 tires, 12045 hours showing, SN: D...",
       "subtitle": null,
       "description": "",
-      "amount": 8200,
+      "amount": 8550,
       "max_amount": null,
-      "bid_count": 26,
+      "bid_count": 28,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -12287,9 +12287,9 @@
       "title": "(1) John Deere 230 Disc, hydraulic wing fold, 18', 3 bar spike tooth drag, SN 021097",
       "subtitle": null,
       "description": "",
-      "amount": 581,
+      "amount": 632,
       "max_amount": null,
-      "bid_count": 64,
+      "bid_count": 67,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -14833,9 +14833,9 @@
       "title": "(1) J&amp;M Gravity Wagon, extendable tongue, model 350-20, SN 16908",
       "subtitle": null,
       "description": "",
-      "amount": 530,
+      "amount": 555,
       "max_amount": null,
-      "bid_count": 50,
+      "bid_count": 51,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -18528,9 +18528,9 @@
       "title": "(1) Glencoe soil saver chisel plow, 7-shank, 3 bar spike tooth drag",
       "subtitle": null,
       "description": "",
-      "amount": 20,
+      "amount": 155,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 32,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -26984,6 +26984,96 @@
           }
         },
         {
+          "id": 11285302,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ffef79fe547e11f39f0b/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ffef79fe547e11f39f0b/large",
+          "metadata": {
+            "type": "image",
+            "width": 4032,
+            "height": 3024,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "landscape"
+          }
+        },
+        {
+          "id": 11285303,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7e5c133983658ea85b45/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7e5c133983658ea85b45/large",
+          "metadata": {
+            "type": "image",
+            "width": 4032,
+            "height": 3024,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "landscape"
+          }
+        },
+        {
+          "id": 11285343,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/07b9705b4966905c1996/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/07b9705b4966905c1996/large",
+          "metadata": {
+            "type": "image",
+            "width": 4032,
+            "height": 3024,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "landscape"
+          }
+        },
+        {
+          "id": 11285342,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/510e7f0265c3c68bf166/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/510e7f0265c3c68bf166/large",
+          "metadata": {
+            "type": "image",
+            "width": 4032,
+            "height": 3024,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "landscape"
+          }
+        },
+        {
+          "id": 11285355,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/22faeb12e87e5f4a2011/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/22faeb12e87e5f4a2011/large",
+          "metadata": {
+            "type": "image",
+            "width": 3024,
+            "height": 4032,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
           "id": 10517732,
           "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c2293748efb60351aa17/small",
           "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c2293748efb60351aa17/large",
@@ -27160,7 +27250,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 18
+      "photo_count": 23
     },
     {
       "requested_lot_number": "9775",
@@ -28373,9 +28463,9 @@
       "title": "(1) Chisel plow, 11 shank, SN 950086",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 20,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 4,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -29031,9 +29121,9 @@
       "title": "(1) Kuhn GA4101GT Hay Rake, 540 PTO, SN 950086",
       "subtitle": null,
       "description": "",
-      "amount": 1150,
+      "amount": 1350,
       "max_amount": null,
-      "bid_count": 46,
+      "bid_count": 50,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -36097,9 +36187,9 @@
       "title": "(1) John Deere 6-row corn head",
       "subtitle": null,
       "description": "",
-      "amount": 345,
+      "amount": 355,
       "max_amount": null,
-      "bid_count": 31,
+      "bid_count": 33,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -36408,9 +36498,9 @@
       "title": "John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30...",
       "subtitle": null,
       "description": "",
-      "amount": 1325,
+      "amount": 2100,
       "max_amount": null,
-      "bid_count": 25,
+      "bid_count": 37,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -41754,9 +41844,9 @@
       "title": "John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5...",
       "subtitle": null,
       "description": "",
-      "amount": 900,
+      "amount": 1050,
       "max_amount": null,
-      "bid_count": 22,
+      "bid_count": 28,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -42709,9 +42799,9 @@
       "title": "(1) John Deere 920 grain head, SN H00920E661671",
       "subtitle": null,
       "description": "",
-      "amount": 705,
+      "amount": 825,
       "max_amount": null,
-      "bid_count": 25,
+      "bid_count": 30,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -44290,6 +44380,24 @@
           }
         },
         {
+          "id": 11285197,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ab68723e3428c0ce6c39/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ab68723e3428c0ce6c39/large",
+          "metadata": {
+            "type": "image",
+            "width": 3024,
+            "height": 4032,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
+        },
+        {
           "id": 11177407,
           "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1c881d562487d3029924/small",
           "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/1c881d562487d3029924/large",
@@ -44487,7 +44595,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 5
+      "photo_count": 6
     },
     {
       "requested_lot_number": "9852",
@@ -47366,5 +47474,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T15:32:56.502612Z"
+  "last_price_refresh_at": "2026-10-06T15:52:03.640184Z"
 }
