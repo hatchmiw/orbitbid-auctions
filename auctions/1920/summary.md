@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T22:48:22.459372Z
+- Price refresh: 2026-10-06T22:59:59.841969Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -325,10 +325,10 @@
 
 - OrbitBid item number: 1-10004
 - Internal ID: 1761143
-- Current bid: $11250
-- Bid count: 175
+- Current bid: $12150
+- Bid count: 185
 - Photo count: 75
-- End time (UTC): 2026-10-06T22:55:01Z
+- End time (UTC): 2026-10-06T23:06:38Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -528,10 +528,10 @@
 
 - OrbitBid item number: 1-10006
 - Internal ID: 1761145
-- Current bid: $8900
-- Bid count: 142
+- Current bid: $9000
+- Bid count: 144
 - Photo count: 64
-- End time (UTC): 2026-10-06T22:54:44Z
+- End time (UTC): 2026-10-06T23:04:32Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -1048,10 +1048,10 @@
 
 - OrbitBid item number: 1-10011
 - Internal ID: 1761150
-- Current bid: $27850
-- Bid count: 251
+- Current bid: $28350
+- Bid count: 253
 - Photo count: 71
-- End time (UTC): 2026-10-06T22:56:11Z
+- End time (UTC): 2026-10-06T23:02:59Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -1938,10 +1938,10 @@
 
 - OrbitBid item number: 1-10051
 - Internal ID: 1761120
-- Current bid: $2100
-- Bid count: 35
+- Current bid: $2450
+- Bid count: 43
 - Photo count: 43
-- End time (UTC): 2026-10-06T22:55:14Z
+- End time (UTC): 2026-10-06T23:04:03Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2010,10 +2010,10 @@
 
 - OrbitBid item number: 1-10052
 - Internal ID: 1761121
-- Current bid: $4700
-- Bid count: 69
+- Current bid: $4750
+- Bid count: 70
 - Photo count: 39
-- End time (UTC): 2026-10-06T22:56:44Z
+- End time (UTC): 2026-10-06T23:02:08Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2078,10 +2078,10 @@
 
 - OrbitBid item number: 1-10053
 - Internal ID: 1761122
-- Current bid: $12550
-- Bid count: 165
+- Current bid: $12850
+- Bid count: 169
 - Photo count: 35
-- End time (UTC): 2026-10-06T22:53:44Z
+- End time (UTC): 2026-10-06T23:00:12Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2142,10 +2142,10 @@
 
 - OrbitBid item number: 1-10054
 - Internal ID: 1761123
-- Current bid: $4250
-- Bid count: 90
+- Current bid: $4450
+- Bid count: 94
 - Photo count: 45
-- End time (UTC): 2026-10-06T22:53:56Z
+- End time (UTC): 2026-10-06T23:07:00Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2367,10 +2367,10 @@
 
 - OrbitBid item number: 1-10057
 - Internal ID: 1761126
-- Current bid: $3350
-- Bid count: 46
+- Current bid: $3650
+- Bid count: 52
 - Photo count: 49
-- End time (UTC): 2026-10-06T22:55:27Z
+- End time (UTC): 2026-10-06T23:06:35Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2445,10 +2445,10 @@
 
 - OrbitBid item number: 1-10058
 - Internal ID: 1761127
-- Current bid: $3500
-- Bid count: 62
+- Current bid: $3750
+- Bid count: 67
 - Photo count: 43
-- End time (UTC): 2026-10-06T22:55:45Z
+- End time (UTC): 2026-10-06T23:06:58Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2517,10 +2517,10 @@
 
 - OrbitBid item number: 1-10059
 - Internal ID: 1761128
-- Current bid: $14550
-- Bid count: 154
+- Current bid: $15200
+- Bid count: 157
 - Photo count: 49
-- End time (UTC): 2026-10-06T22:50:44Z
+- End time (UTC): 2026-10-06T22:57:27Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2595,10 +2595,10 @@
 
 - OrbitBid item number: 1-10060
 - Internal ID: 1761129
-- Current bid: $18600
-- Bid count: 159
+- Current bid: $18800
+- Bid count: 161
 - Photo count: 46
-- End time (UTC): 2026-10-06T22:56:27Z
+- End time (UTC): 2026-10-06T23:07:03Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2670,10 +2670,10 @@
 
 - OrbitBid item number: 1-10061
 - Internal ID: 1761130
-- Current bid: $4400
-- Bid count: 98
+- Current bid: $4900
+- Bid count: 108
 - Photo count: 52
-- End time (UTC): 2026-10-06T22:50:00Z
+- End time (UTC): 2026-10-06T23:06:22Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -2751,10 +2751,10 @@
 
 - OrbitBid item number: 1-10062
 - Internal ID: 1761131
-- Current bid: $14100
-- Bid count: 254
+- Current bid: $15650
+- Bid count: 270
 - Photo count: 57
-- End time (UTC): 2026-10-06T22:53:12Z
+- End time (UTC): 2026-10-06T23:05:46Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2837,10 +2837,10 @@
 
 - OrbitBid item number: 1-10063
 - Internal ID: 1761132
-- Current bid: $6950
-- Bid count: 100
+- Current bid: $7200
+- Bid count: 105
 - Photo count: 48
-- End time (UTC): 2026-10-06T22:54:59Z
+- End time (UTC): 2026-10-06T23:04:08Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -2914,10 +2914,10 @@
 
 - OrbitBid item number: 1-10064
 - Internal ID: 1761133
-- Current bid: $6300
-- Bid count: 111
+- Current bid: $7100
+- Bid count: 127
 - Photo count: 123
-- End time (UTC): 2026-10-06T22:55:11Z
+- End time (UTC): 2026-10-06T23:07:20Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3066,10 +3066,10 @@
 
 - OrbitBid item number: 1-10065
 - Internal ID: 1761134
-- Current bid: $6600
-- Bid count: 124
+- Current bid: $7500
+- Bid count: 140
 - Photo count: 47
-- End time (UTC): 2026-10-06T22:55:04Z
+- End time (UTC): 2026-10-06T23:07:06Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3142,10 +3142,10 @@
 
 - OrbitBid item number: 1-10066
 - Internal ID: 1761135
-- Current bid: $6250
-- Bid count: 104
+- Current bid: $6700
+- Bid count: 113
 - Photo count: 49
-- End time (UTC): 2026-10-06T22:56:00Z
+- End time (UTC): 2026-10-06T23:06:43Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3220,10 +3220,10 @@
 
 - OrbitBid item number: 1-10067
 - Internal ID: 1761136
-- Current bid: $5100
-- Bid count: 62
+- Current bid: $5550
+- Bid count: 71
 - Photo count: 58
-- End time (UTC): 2026-10-06T22:56:59Z
+- End time (UTC): 2026-10-06T23:06:24Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3307,10 +3307,10 @@
 
 - OrbitBid item number: 1-10068
 - Internal ID: 1761137
-- Current bid: $6100
-- Bid count: 72
+- Current bid: $7150
+- Bid count: 94
 - Photo count: 52
-- End time (UTC): 2026-10-06T22:49:26Z
+- End time (UTC): 2026-10-06T23:08:36Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3461,10 +3461,10 @@
 
 - OrbitBid item number: 1-17100
 - Internal ID: 1761063
-- Current bid: $800
-- Bid count: 36
+- Current bid: $850
+- Bid count: 38
 - Photo count: 58
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:16Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3545,10 +3545,10 @@
 
 - OrbitBid item number: 1-17101
 - Internal ID: 1761064
-- Current bid: $760
-- Bid count: 26
+- Current bid: $785
+- Bid count: 27
 - Photo count: 26
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:03:47Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3596,10 +3596,10 @@
 
 - OrbitBid item number: 1-17102
 - Internal ID: 1761065
-- Current bid: $735
-- Bid count: 36
+- Current bid: $785
+- Bid count: 39
 - Photo count: 25
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:31Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3647,10 +3647,10 @@
 
 - OrbitBid item number: 1-17103
 - Internal ID: 1761066
-- Current bid: $7150
-- Bid count: 120
+- Current bid: $7550
+- Bid count: 128
 - Photo count: 20
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:13Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3693,10 +3693,10 @@
 
 - OrbitBid item number: 1-17104
 - Internal ID: 1761067
-- Current bid: $5051
-- Bid count: 55
+- Current bid: $5101
+- Bid count: 57
 - Photo count: 37
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:21Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3755,10 +3755,10 @@
 
 - OrbitBid item number: 1-17105
 - Internal ID: 1761068
-- Current bid: $665
-- Bid count: 63
+- Current bid: $925
+- Bid count: 72
 - Photo count: 43
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:43Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3825,10 +3825,10 @@
 
 - OrbitBid item number: 1-17106
 - Internal ID: 1761069
-- Current bid: $735
-- Bid count: 37
+- Current bid: $835
+- Bid count: 42
 - Photo count: 37
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:04:32Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3888,10 +3888,10 @@
 
 - OrbitBid item number: 1-17107
 - Internal ID: 1761070
-- Current bid: $5000
-- Bid count: 34
+- Current bid: $5150
+- Bid count: 37
 - Photo count: 39
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:38Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -3953,10 +3953,10 @@
 
 - OrbitBid item number: 1-17108
 - Internal ID: 1761071
-- Current bid: $680
-- Bid count: 33
+- Current bid: $780
+- Bid count: 37
 - Photo count: 36
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:23Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4015,10 +4015,10 @@
 
 - OrbitBid item number: 1-17109
 - Internal ID: 1761072
-- Current bid: $5000
-- Bid count: 22
+- Current bid: $5050
+- Bid count: 23
 - Photo count: 38
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:15Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -4079,10 +4079,10 @@
 
 - OrbitBid item number: 1-17110
 - Internal ID: 1761073
-- Current bid: $1025
-- Bid count: 73
+- Current bid: $1075
+- Bid count: 74
 - Photo count: 39
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:00:22Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -4145,10 +4145,10 @@
 
 - OrbitBid item number: 1-17111
 - Internal ID: 1761074
-- Current bid: $1025
-- Bid count: 39
+- Current bid: $1925
+- Bid count: 57
 - Photo count: 41
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:45Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4213,10 +4213,10 @@
 
 - OrbitBid item number: 1-17112
 - Internal ID: 1761075
-- Current bid: $6050
-- Bid count: 47
+- Current bid: $7350
+- Bid count: 73
 - Photo count: 35
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:31Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -4275,10 +4275,10 @@
 
 - OrbitBid item number: 1-17113
 - Internal ID: 1761076
-- Current bid: $720
-- Bid count: 32
+- Current bid: $800
+- Bid count: 36
 - Photo count: 40
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:06:52Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4341,10 +4341,10 @@
 
 - OrbitBid item number: 1-17114
 - Internal ID: 1761077
-- Current bid: $6050
-- Bid count: 62
+- Current bid: $7050
+- Bid count: 82
 - Photo count: 31
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:06:13Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4398,10 +4398,10 @@
 
 - OrbitBid item number: 1-17115
 - Internal ID: 1761078
-- Current bid: $6550
-- Bid count: 88
+- Current bid: $7150
+- Bid count: 100
 - Photo count: 28
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:06:34Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4509,10 +4509,10 @@
 
 - OrbitBid item number: 1-17117
 - Internal ID: 1761080
-- Current bid: $650
-- Bid count: 50
+- Current bid: $725
+- Bid count: 53
 - Photo count: 32
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:59Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4567,10 +4567,10 @@
 
 - OrbitBid item number: 1-17118
 - Internal ID: 1761081
-- Current bid: $315
-- Bid count: 19
+- Current bid: $615
+- Bid count: 43
 - Photo count: 29
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:04Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4622,10 +4622,10 @@
 
 - OrbitBid item number: 1-17119
 - Internal ID: 1761082
-- Current bid: $825
-- Bid count: 19
+- Current bid: $1075
+- Bid count: 29
 - Photo count: 25
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:27Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4673,10 +4673,10 @@
 
 - OrbitBid item number: 1-17120
 - Internal ID: 1761083
-- Current bid: $555
-- Bid count: 24
+- Current bid: $800
+- Bid count: 34
 - Photo count: 34
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:37Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4733,10 +4733,10 @@
 
 - OrbitBid item number: 1-17121
 - Internal ID: 1761084
-- Current bid: $530
-- Bid count: 25
+- Current bid: $780
+- Bid count: 36
 - Photo count: 36
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:08:10Z
 
 **Description:** &lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -4795,10 +4795,10 @@
 
 - OrbitBid item number: 1-17122
 - Internal ID: 1761085
-- Current bid: $530
-- Bid count: 56
+- Current bid: $780
+- Bid count: 67
 - Photo count: 33
-- End time (UTC): 2026-10-06T23:00:00Z
+- End time (UTC): 2026-10-06T23:07:57Z
 
 **Description:** &lt;div&gt;&lt;p&gt;&lt;strong&gt;** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -4905,8 +4905,8 @@
 
 - OrbitBid item number: 1-10021
 - Internal ID: 1761160
-- Current bid: $340
-- Bid count: 61
+- Current bid: $350
+- Bid count: 62
 - Photo count: 4
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -4951,8 +4951,8 @@
 
 - OrbitBid item number: 1-10023
 - Internal ID: 1761162
-- Current bid: $825
-- Bid count: 58
+- Current bid: $850
+- Bid count: 59
 - Photo count: 6
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5045,8 +5045,8 @@
 
 - OrbitBid item number: 1-17851
 - Internal ID: 1761248
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 7
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5148,8 +5148,8 @@
 
 - OrbitBid item number: 1-17855
 - Internal ID: 1761252
-- Current bid: $410
-- Bid count: 41
+- Current bid: $460
+- Bid count: 46
 - Photo count: 9
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5203,8 +5203,8 @@
 
 - OrbitBid item number: 1-17857
 - Internal ID: 1761254
-- Current bid: $460
-- Bid count: 59
+- Current bid: $510
+- Bid count: 64
 - Photo count: 10
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5231,8 +5231,8 @@
 
 - OrbitBid item number: 1-17858
 - Internal ID: 1761255
-- Current bid: $215
-- Bid count: 40
+- Current bid: $295
+- Bid count: 52
 - Photo count: 11
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5311,8 +5311,8 @@
 
 - OrbitBid item number: 1-17861
 - Internal ID: 1761258
-- Current bid: $410
-- Bid count: 50
+- Current bid: $420
+- Bid count: 51
 - Photo count: 7
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5689,8 +5689,8 @@
 
 - OrbitBid item number: 1-17921
 - Internal ID: 1761098
-- Current bid: $15
-- Bid count: 3
+- Current bid: $20
+- Bid count: 4
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5897,8 +5897,8 @@
 
 - OrbitBid item number: 1-17929
 - Internal ID: 1761106
-- Current bid: $35
-- Bid count: 7
+- Current bid: $45
+- Bid count: 9
 - Photo count: 11
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -5952,8 +5952,8 @@
 
 - OrbitBid item number: 1-17931
 - Internal ID: 1761108
-- Current bid: $35
-- Bid count: 8
+- Current bid: $40
+- Bid count: 9
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6095,8 +6095,8 @@
 
 - OrbitBid item number: 1-17937
 - Internal ID: 1761114
-- Current bid: $110
-- Bid count: 23
+- Current bid: $115
+- Bid count: 24
 - Photo count: 8
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6694,8 +6694,8 @@
 
 - OrbitBid item number: 1-18669
 - Internal ID: 1761184
-- Current bid: $115
-- Bid count: 23
+- Current bid: $150
+- Bid count: 30
 - Photo count: 4
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6716,8 +6716,8 @@
 
 - OrbitBid item number: 1-18670
 - Internal ID: 1761185
-- Current bid: $35
-- Bid count: 7
+- Current bid: $40
+- Bid count: 8
 - Photo count: 4
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6738,8 +6738,8 @@
 
 - OrbitBid item number: 1-18671
 - Internal ID: 1761186
-- Current bid: $230
-- Bid count: 46
+- Current bid: $235
+- Bid count: 47
 - Photo count: 6
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6807,8 +6807,8 @@
 
 - OrbitBid item number: 1-18674
 - Internal ID: 1761189
-- Current bid: $205
-- Bid count: 28
+- Current bid: $210
+- Bid count: 29
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -6985,8 +6985,8 @@
 
 - OrbitBid item number: 1-18682
 - Internal ID: 1761198
-- Current bid: $350
-- Bid count: 42
+- Current bid: $370
+- Bid count: 44
 - Photo count: 5
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -7449,8 +7449,8 @@
 
 - OrbitBid item number: 1-17868
 - Internal ID: 1761266
-- Current bid: $50
-- Bid count: 10
+- Current bid: $55
+- Bid count: 11
 - Photo count: 5
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8399,8 +8399,8 @@
 
 - OrbitBid item number: 1-17905
 - Internal ID: 1761306
-- Current bid: $210
-- Bid count: 24
+- Current bid: $285
+- Bid count: 37
 - Photo count: 10
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8427,8 +8427,8 @@
 
 - OrbitBid item number: 1-17906
 - Internal ID: 1761307
-- Current bid: $410
-- Bid count: 60
+- Current bid: $420
+- Bid count: 61
 - Photo count: 14
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8459,8 +8459,8 @@
 
 - OrbitBid item number: 1-17907
 - Internal ID: 1761308
-- Current bid: $410
-- Bid count: 47
+- Current bid: $420
+- Bid count: 48
 - Photo count: 10
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8487,8 +8487,8 @@
 
 - OrbitBid item number: 1-17908
 - Internal ID: 1761309
-- Current bid: $135
-- Bid count: 26
+- Current bid: $155
+- Bid count: 31
 - Photo count: 13
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -8733,8 +8733,8 @@
 
 - OrbitBid item number: 1-18692
 - Internal ID: 1761208
-- Current bid: $40
-- Bid count: 8
+- Current bid: $45
+- Bid count: 9
 - Photo count: 7
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9171,8 +9171,8 @@
 
 - OrbitBid item number: 1-18728
 - Internal ID: 1761243
-- Current bid: $15
-- Bid count: 3
+- Current bid: $105
+- Bid count: 22
 - Photo count: 5
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9305,8 +9305,8 @@
 
 - OrbitBid item number: 1-18734
 - Internal ID: 1761312
-- Current bid: $30
-- Bid count: 7
+- Current bid: $35
+- Bid count: 8
 - Photo count: 5
 - End time (UTC): 2026-10-07T00:00:00Z
 
@@ -9354,8 +9354,8 @@
 
 - OrbitBid item number: 1-17125
 - Internal ID: 1779931
-- Current bid: $140
-- Bid count: 30
+- Current bid: $155
+- Bid count: 32
 - Photo count: 4
 - End time (UTC): 2026-10-07T00:30:00Z
 
