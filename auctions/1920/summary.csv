@@ -13,15 +13,15 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10011,1-10011,1761150,20100,191,71,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
 10012,1-10012,1761151,20100,59,72,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 ..."
 10013,1-10013,1761152,50250,96,63,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D..."
-10014,1-10014,1761153,24450,75,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10015,1-10015,1761154,24600,72,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10016,1-10016,1761155,15700,38,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10014,1-10014,1761153,26100,77,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10015,1-10015,1761154,26100,75,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10016,1-10016,1761155,17100,40,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10017,1-10017,1761156,43500,60,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
 10018,1-10018,1761157,2550,32,49,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis..."
 10019,1-10019,1761158,1125,30,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummi..."
 10050,1-10050,1761119,4050,51,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck Allison automatic transmission, power windows/locks, CD player, Air rid..."
 10051,1-10051,1761120,705,3,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2007 International 4300SBA4X2 24' Box Truck Allison International DT466E transmission, 25,999 lb. GV..."
-10052,1-10052,1761121,2050,25,39,1,0,1791325800,2026-10-06T22:30:00Z,,,"2014 Chevrolet 16' Box Truck Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/..."
+10052,1-10052,1761121,2100,26,39,1,0,1791325800,2026-10-06T22:30:00Z,,,"2014 Chevrolet 16' Box Truck Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/..."
 10053,1-10053,1761122,5050,77,35,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 195-20 12' Box Truck with lift gate, Seiki Toyota automatic transmission, Hino J05E-TP die..."
 10054,1-10054,1761123,1550,35,45,1,0,1791325800,2026-10-06T22:30:00Z,,,"2008 Freightliner M2106 24' Box Truck Allison 2000 automatic transmission, Cummins ISB diesel motor,..."
 10055,1-10055,1761124,960,13,46,1,0,1791325800,2026-10-06T22:30:00Z,,,"2005 International 4300 SBA4X2 24' Box Truck Allison automatic transmission, International 466 E die..."
@@ -32,7 +32,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10060,1-10060,1761129,7800,63,46,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-TP diesel engine, rear..."
 10061,1-10061,1761130,1550,40,52,1,0,1791325800,2026-10-06T22:30:00Z,,,"2012 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Max For..."
 10062,1-10062,1761131,6200,137,57,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck with lift gate, Allison automatic transmission, Hino, model J05E-TP die..."
-10063,1-10063,1761132,1525,15,48,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
+10063,1-10063,1761132,1825,21,48,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10064,1-10064,1761133,1750,25,123,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10065,1-10065,1761134,1650,44,47,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10066,1-10066,1761135,1650,16,49,1,0,1791325800,2026-10-06T22:30:00Z,,,"2017 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
@@ -44,26 +44,26 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17102,1-17102,1761065,105,2,25,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension. Unit 738."
 17103,1-17103,1761066,115,4,20,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 751."
 17104,1-17104,1761067,130,7,37,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 744."
-17105,1-17105,1761068,110,3,43,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 734."
-17106,1-17106,1761069,105,2,37,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 732."
-17107,1-17107,1761070,110,3,39,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, model ZGPVW-..."
+17105,1-17105,1761068,130,7,43,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 734."
+17106,1-17106,1761069,110,3,37,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle. Unit 732."
+17107,1-17107,1761070,115,4,39,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, model ZGPVW-..."
 17108,1-17108,1761071,125,6,36,1,0,1791327600,2026-10-06T23:00:00Z,,,"2010 Great Dane 45' Dry Van Trailer tandem axle, rear roll up door, air suspension. Unit #745."
-17109,1-17109,1761072,115,4,38,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, model ZGPVW-..."
-17110,1-17110,1761073,115,4,39,1,0,1791327600,2026-10-06T23:00:00Z,,,"2007 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, 68,000 lb. GVWR..."
+17109,1-17109,1761072,120,5,38,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, model ZGPVW-..."
+17110,1-17110,1761073,120,5,39,1,0,1791327600,2026-10-06T23:00:00Z,,,"2007 Wabash 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, 68,000 lb. GVWR..."
 17111,1-17111,1761074,120,5,41,1,0,1791327600,2026-10-06T23:00:00Z,,,"2008 Stoughton 53' Dry Van Trailer rear roll up door, air ride suspension, tandem axle, 70,000 lb. G..."
 17112,1-17112,1761075,1025,34,35,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, tandem axle, 70,000..."
-17113,1-17113,1761076,105,2,40,1,0,1791327600,2026-10-06T23:00:00Z,,,"2006 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle, 68,000 lb. GVWR..."
+17113,1-17113,1761076,110,3,40,1,0,1791327600,2026-10-06T23:00:00Z,,,"2006 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle, 68,000 lb. GVWR..."
 17114,1-17114,1761077,535,49,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, rear roll up door, ..."
 17115,1-17115,1761078,1025,49,28,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, rear roll up door, ..."
-17116,1-17116,1761079,115,4,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,..."
+17116,1-17116,1761079,120,5,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,..."
 17117,1-17117,1761080,105,2,32,1,0,1791327600,2026-10-06T23:00:00Z,,,"2001 Utility 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle. Unit 741."
 17118,1-17118,1761081,105,2,29,1,0,1791327600,2026-10-06T23:00:00Z,,,"1999 Trailmobile 53' Dry Van Trailer rear roll up door, tandem axle. Unit 727."
 17119,1-17119,1761082,100,1,25,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle. Unit 737."
-17120,1-17120,1761083,105,2,34,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, 68,000 lb. GVWR. Unit 733."
-17121,1-17121,1761084,105,2,36,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer tandem axle, air ride suspension, rear roll up door, 68,000 lb. GVWR..."
-17122,1-17122,1761085,170,15,33,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer tandem axle, air ride suspension, rear roll up door, 68,000 lb. GVWR..."
+17120,1-17120,1761083,110,3,34,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, 68,000 lb. GVWR. Unit 733."
+17121,1-17121,1761084,110,3,36,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer tandem axle, air ride suspension, rear roll up door, 68,000 lb. GVWR..."
+17122,1-17122,1761085,190,19,33,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer tandem axle, air ride suspension, rear roll up door, 68,000 lb. GVWR..."
 10020,1-10020,1761159,16050,119,33,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) 2011 New Holland L223, rubber tire skid steer, 716 hours showing, enclosed cab, A/C, heat, Siriu..."
-10021,1-10021,1761160,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) set of 48"" skid steer, quick attach forks. DELAYED REMOVAL, please contact auction manager for ..."
+10021,1-10021,1761160,45,9,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) set of 48"" skid steer, quick attach forks. DELAYED REMOVAL, please contact auction manager for ..."
 10022,1-10022,1761161,330,40,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Snow Wolf Ultra 96"" skid steer, 4-way snow plow blade, S/N 9490."
 10023,1-10023,1761162,550,47,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Road Boss 76"", 3 pt./skid steer quick attach grater attachment."
 10024,1-10024,1761163,30,5,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Jib boom attachment with 78"" arm."
@@ -79,7 +79,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17858,1-17858,1761255,60,12,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) KM metal parts organizer, includes assorted galvanized black pipe fittings, joint unions, elbows..."
 17859,1-17859,1761256,5,1,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Dayton table top bench grinder, model 42183C, 120V, single phase, includes steel table, 61"" x 27..."
 17860,1-17860,1761257,10,2,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Enerpac Porta Power pump with Enerpac hydraulic bottle, 2"" diameter, pump may need repair."
-17861,1-17861,1761258,155,13,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) OTC King Pin wall mount with OTC 400 stage hand pump, with accessories."
+17861,1-17861,1761258,205,24,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) OTC King Pin wall mount with OTC 400 stage hand pump, with accessories."
 17862,1-17862,1761259,10,2,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) hydraulic frame and body tool.
 17863,1-17863,1761260,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Matco hydraulic porta power.
 17864,1-17864,1761262,10,3,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Ridgid 16-gallon shop vac.
@@ -137,7 +137,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18668,1-18668,1761183,25,5,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Kimball Midwest 4-drawer pull out cabinet with assorted contents, and assorted grinding wheels a..."
 18669,1-18669,1761184,55,10,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
 18670,1-18670,1761185,20,4,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) 9-step warehouse safety ladder.
-18671,1-18671,1761186,130,26,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
+18671,1-18671,1761186,135,27,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
 18672,1-18672,1761187,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Auto Specialties, model D8200, heavy duty hydraulic transmission jack, in working condition."
 18673,1-18673,1761188,24,5,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) sledgehammers with wood handles, 10 lb. and 6 lb., tire beader, and tire iron."
 18674,1-18674,1761189,40,8,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Sunex 1"" pneumatic impact, and (1) Chicago Pneumatic 1/2"" pneumatic impact gun."
@@ -205,7 +205,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17902,1-17902,1761303,5,0,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of assorted Whiting semi trailer rear door boards, approx. 98.5"" long, and (3) Todco boards, win..."
 17903,1-17903,1761304,380,54,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Dake manual, heavy duty H-frame press with attachments, in working condition, winning bidder res..."
 17904,1-17904,1761305,20,4,12,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (4) semi tires, 1 with rim, 3 are 11R225, and 1 is 295/75R225 tire, 10-lug steel rim."
-17905,1-17905,1761306,40,9,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including Grit disc, washers, ..."
+17905,1-17905,1761306,50,11,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including Grit disc, washers, ..."
 17906,1-17906,1761307,155,22,14,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including head lamps, air fitt..."
 17907,1-17907,1761308,155,9,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) Kimball Midwest 4-drawer parts organizers, with assorted contents including assorted screws, she..."
 17908,1-17908,1761309,20,4,13,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 6-drawer Kimball parts organizer stand with pull out drawers, includes vinyl terminals, black zi..."
@@ -220,26 +220,26 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18691,1-18691,1761207,20,4,5,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) heavy duty pneumatic bottle jack.
 18692,1-18692,1761208,20,4,7,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) Sunex Tools pneumatic bottle jack lift.
 18693,1-18693,1761209,20,4,6,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ATD-Blast pneumatic sandblaster.
-18694,1-18694,1761210,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
-18695,1-18695,1761211,15,3,3,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
-18696,1-18696,1761212,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
-18697,1-18697,1761213,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
+18694,1-18694,1761210,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
+18695,1-18695,1761211,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
+18696,1-18696,1761212,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
+18697,1-18697,1761213,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
 18698,1-18698,1761214,10,2,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
 18699,1-18699,1761215,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) new 15-gallon can of Sitgear synthetic HD gear lubricant SAE 50.
 18700,1-18700,1761216,5,1,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) 12' aluminum extension ladder.
 18701,1-18701,1761217,320,19,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (5) Fleetrite semi batteries, 4 are 950 cold cranking amp, and 1 is 925 cold cranking amp."
 18702,1-18702,1761218,460,48,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Lot of (5) new Fleetrite Gold 950 cranking amp batteries.
-18703,1-18703,1761219,55,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (2) new Fleetrite Gold 950 cranking amp batteries, includes battery rack, 69"" x 13.5"" deep x ..."
+18703,1-18703,1761219,65,7,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (2) new Fleetrite Gold 950 cranking amp batteries, includes battery rack, 69"" x 13.5"" deep x ..."
 18721,1-18721,1761236,105,9,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(2) boxes of Cummins parts, includes Pilot cam shaft, and Cummins 15X cam gear puller."
 18722,1-18722,1761237,55,12,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Craftsman 4.5"" bench mounted vise, winning bidder responsible for proper removal."
-18723,1-18723,1761238,10,2,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ADT 8696 ball joint puller.
-18724,1-18724,1761239,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) pressure tester, and (1) partial Snap-On 8.2 liter diesel tune up set."
+18723,1-18723,1761238,15,3,4,1,0,1791331200,2026-10-07T00:00:00Z,,,(1) ADT 8696 ball joint puller.
+18724,1-18724,1761239,10,2,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) pressure tester, and (1) partial Snap-On 8.2 liter diesel tune up set."
 18725,1-18725,1761240,35,8,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large assortment of clamps, filter clamps, pipe clamps, and (2) wall mounted Stemco clamp display ho..."
 18726,1-18726,1761241,5,1,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) DeWalt, model D28715, 14"" abrasive cut off saw, and (3) new 14"" blades."
 18727,1-18727,1761242,75,15,10,1,0,1791331200,2026-10-07T00:00:00Z,,,"Lot of (8) assorted Type 30, 30 piggyback air chamber kits."
 18728,1-18728,1761243,5,1,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) 5"" bench mounted vise, includes (2) steel tables, total of 133"" (tables are welded together), in..."
 18729,1-18729,1761244,25,5,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
-18730,1-18730,1761245,20,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
+18730,1-18730,1761245,25,5,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) SKF portable, low-profile oil coolant collection cart with electric pump."
 18731,1-18731,1761246,5,0,5,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) ZEP Dyna Clean parts washer cleaning station, flip top, 120V."
 18732,1-18732,1761310,105,22,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Ricoh Super G3, commercial multi-function printer, item #415473-U2, S/N C84046114."
 18733,1-18733,1761311,20,4,3,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Meritor, part #R955065225X, Reman, model 9, dryer."
