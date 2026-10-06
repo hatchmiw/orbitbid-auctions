@@ -2,7 +2,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10000,1-10000,1761139,310,8,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
 10001,1-10001,1761140,255,5,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
 10002,1-10002,1761141,510,21,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
-10003,1-10003,1761142,1025,12,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
+10003,1-10003,1761142,1075,13,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
 10004,1-10004,1761143,2650,31,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3100,20,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
 10006,1-10006,1761145,2550,43,64,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles..."
@@ -16,9 +16,9 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10014,1-10014,1761153,26100,77,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10015,1-10015,1761154,26100,75,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10016,1-10016,1761155,17100,40,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10017,1-10017,1761156,43500,60,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
+10017,1-10017,1761156,44500,64,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
 10018,1-10018,1761157,2550,32,49,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis..."
-10019,1-10019,1761158,1125,30,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummi..."
+10019,1-10019,1761158,1175,31,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller, RTOC16909A, 9-speed transmission, Cummi..."
 10050,1-10050,1761119,4050,51,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck Allison automatic transmission, power windows/locks, CD player, Air rid..."
 10051,1-10051,1761120,705,3,43,1,0,1791325800,2026-10-06T22:30:00Z,,,"2007 International 4300SBA4X2 24' Box Truck Allison International DT466E transmission, 25,999 lb. GV..."
 10052,1-10052,1761121,2100,26,39,1,0,1791325800,2026-10-06T22:30:00Z,,,"2014 Chevrolet 16' Box Truck Supreme 16' box body, automatic transmission, 6.0 liter gas engine, AM/..."
@@ -73,7 +73,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17852,1-17852,1761249,390,15,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) new Firestone FS591, 11R225, 16PR semi truck tires."
 17853,1-17853,1761250,1350,46,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) new Firestone FS591, 29575R225 tires, 16 PR."
 17854,1-17854,1761251,155,10,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bridgestone M890, 27580R225, tire, and (1) Sailun 29575R225 tire with rim."
-17855,1-17855,1761252,305,32,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Landa Gold Series commercial pressure washer, model UHW4-20021A, S/N P1295-9543, 230V, single ph..."
+17855,1-17855,1761252,315,33,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Landa Gold Series commercial pressure washer, model UHW4-20021A, S/N P1295-9543, 230V, single ph..."
 17856,1-17856,1761253,180,21,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) metal parts bins with assorted hex head bolts, various sizes, lower cabinet is 35.5"" x 12"" x 42""..."
 17857,1-17857,1761254,110,9,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) metal parts storage rack, with assorted bolts, nuts, washers, screws, cap screws, carriage bolts..."
 17858,1-17858,1761255,60,12,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) KM metal parts organizer, includes assorted galvanized black pipe fittings, joint unions, elbows..."
@@ -96,7 +96,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17919,1-17919,1761096,5,0,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) wooden office desk, 72"" length x 36"" depth x 29"" height, (1) wood credenza, 66"" width x 20"" dept..."
 17920,1-17920,1761097,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (4) Steelcase 4-drawer vertical file cabinet, each measures 14 3/4"" width x 28.5"" depth x 52""..."
 17921,1-17921,1761098,5,1,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"Lot of (2) 4-drawer file cabinets, 17 7/8"" width x 28.5"" depth x 52 1/4"" height, (2) Hon 4-drawer ve..."
-17922,1-17922,1761099,5,0,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) wood office desk, approx. 72"" x 104"" table, 30"" x 30"" x 17.5"" tall,..."
+17922,1-17922,1761099,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) wood office desk, approx. 72"" x 104"" table, 30"" x 30"" x 17.5"" tall,..."
 17923,1-17923,1761100,5,0,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"Contents of office, includes (1) U-shaped desk with upper shelf, 70"" x 104"" x 64.5"" overall height, ..."
 17924,1-17924,1761101,10,2,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Bungalow, #121, cast iron wood stove, approx. 22"" wide x 21"" deep x 26"" tall, winning bidder res..."
 17925,1-17925,1761102,5,1,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) plastic rack, 36"" wide x 18"" deep x 72.5"" tall, includes contents of assorted corded keyboards, ..."
@@ -135,7 +135,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18666,1-18666,1761181,39,6,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"Rack with contents, includes assorted Hino Filters, assorted WIX filters, Volvo filters, and much mo..."
 18667,1-18667,1761182,5,0,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (4) assorted aluminum load bars.
 18668,1-18668,1761183,25,5,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Kimball Midwest 4-drawer pull out cabinet with assorted contents, and assorted grinding wheels a..."
-18669,1-18669,1761184,60,11,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
+18669,1-18669,1761184,65,12,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
 18670,1-18670,1761185,30,6,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) 9-step warehouse safety ladder.
 18671,1-18671,1761186,135,27,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
 18672,1-18672,1761187,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Auto Specialties, model D8200, heavy duty hydraulic transmission jack, in working condition."
@@ -193,7 +193,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17890,1-17890,1761289,145,24,18,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted International truck parts, new/old stock, includes Eaton Fuller brand, SKF, Ga..."
 17891,1-17891,1761291,600,51,13,1,0,1791331200,2026-10-07T00:00:00Z,,,Large lot of new/old stock Volvo truck parts. Refer to list.
 17892,1-17892,1761292,255,52,16,1,0,1791331200,2026-10-07T00:00:00Z,,,"Large lot of assorted truck lights, includes tail lights, marker lights, clearance lights, 31"" stain..."
-17893,1-17893,1761293,20,4,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Black Hawk 5-ton pneumatic jack, model SJ-65, in working condition."
+17893,1-17893,1761293,30,6,7,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Black Hawk 5-ton pneumatic jack, model SJ-65, in working condition."
 17894,1-17894,1761294,29,6,6,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) Bosch AL9961LH alternator from Mercedes Benz diesel engine, Delco Remy 29MT starter from same en..."
 17895,1-17895,1761295,119,25,15,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) rack with contents, includes assorted Timken bearings, SKF bearings, wheel seals, tapered roller..."
 17896,1-17896,1761296,15,4,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"(1) set of ASL calipers, model HSG kits, part #0204719661."
