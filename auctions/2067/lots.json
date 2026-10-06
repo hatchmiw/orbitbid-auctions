@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T07:51:29.555699Z",
+  "retrieved_at": "2026-10-06T08:06:57.238653Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -506,9 +506,9 @@
       "title": "John Deere 4010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 4102 hours ...",
       "subtitle": null,
       "description": "",
-      "amount": 825,
+      "amount": 900,
       "max_amount": null,
-      "bid_count": 31,
+      "bid_count": 34,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -1376,9 +1376,9 @@
       "title": "John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires...",
       "subtitle": null,
       "description": "",
-      "amount": 755,
+      "amount": 780,
       "max_amount": null,
-      "bid_count": 25,
+      "bid_count": 26,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47366,5 +47366,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T07:51:29.555699Z"
+  "last_price_refresh_at": "2026-10-06T08:06:57.238653Z"
 }
