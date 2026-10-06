@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-06T16:06:08.384315Z",
+  "retrieved_at": "2026-10-06T16:28:33.323680Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -21,9 +21,9 @@
       "title": "2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,...",
       "subtitle": null,
       "description": "<div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div>",
-      "amount": 310,
+      "amount": 330,
       "max_amount": null,
-      "bid_count": 8,
+      "bid_count": 10,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -1213,9 +1213,9 @@
       "title": "2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine...",
       "subtitle": null,
       "description": "<div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div>",
-      "amount": 275,
+      "amount": 295,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -2351,9 +2351,9 @@
       "title": "2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng...",
       "subtitle": null,
       "description": "<div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div>",
-      "amount": 510,
+      "amount": 560,
       "max_amount": null,
-      "bid_count": 21,
+      "bid_count": 23,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -7839,9 +7839,9 @@
       "title": "2013 Volvo VNL Semi Truck tandem axle, 50,000 lb. GVWR, 12,000 lb. front axle, 19,000 lb. rear axles...",
       "subtitle": null,
       "description": "<div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div>",
-      "amount": 2550,
+      "amount": 2600,
       "max_amount": null,
-      "bid_count": 43,
+      "bid_count": 44,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -35675,9 +35675,9 @@
       "title": "2006 International 4300 SBA4X2 24' Box Truck Allison 2000 automatic transmission, International DT46...",
       "subtitle": null,
       "description": "<div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div>",
-      "amount": 305,
+      "amount": 380,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -53447,9 +53447,9 @@
       "title": "2002 Great Dane Dry Van Trailer tandem axle, rear roll up door, spring suspension.  Unit #726.",
       "subtitle": null,
       "description": "<div><div><div><p><strong>** This unit is being sold out of Hammond, IN, a $25 Out of State Title Processing Fee will be applied to the invoice in place of the $125 Broker and $15 Michigan title fee. Orbitbid.com, Inc is only a broker and will reassign and mail out the title to winning bidder after sale completes. Sales taxes, plates, and title transfer fees will be charged at your local DMV at time of transfer **</strong></p></div></div></div>",
-      "amount": 110,
+      "amount": 115,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 4,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -76378,13 +76378,13 @@
           }
         },
         {
-          "id": 10238304,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f3d60057fe29a715d086/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f3d60057fe29a715d086/large",
+          "id": 11287165,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/16640d1bc0fcf4c807d8/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/16640d1bc0fcf4c807d8/large",
           "metadata": {
             "type": "image",
-            "width": 2048,
-            "height": 1536,
+            "width": 3024,
+            "height": 4032,
             "formats": [
               "large",
               "medium",
@@ -76392,43 +76392,7 @@
               "small",
               "thumb"
             ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10238341,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bc8b9d7b2ff09aca0438/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/bc8b9d7b2ff09aca0438/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10238381,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d0572928cb0407d19d0b/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d0572928cb0407d19d0b/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
+            "orientation": "portrait"
           }
         },
         {
@@ -76608,7 +76572,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 11
+      "photo_count": 9
     },
     {
       "requested_lot_number": "17856",
@@ -131384,5 +131348,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T16:06:08.384315Z"
+  "last_price_refresh_at": "2026-10-06T16:28:33.323680Z"
 }

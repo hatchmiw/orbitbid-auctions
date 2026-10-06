@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T16:06:08.384315Z
+- Price refresh: 2026-10-06T16:28:33.323680Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -11,8 +11,8 @@
 
 - OrbitBid item number: 1-10000
 - Internal ID: 1761139
-- Current bid: $310
-- Bid count: 8
+- Current bid: $330
+- Bid count: 10
 - Photo count: 51
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -91,8 +91,8 @@
 
 - OrbitBid item number: 1-10001
 - Internal ID: 1761140
-- Current bid: $275
-- Bid count: 7
+- Current bid: $295
+- Bid count: 9
 - Photo count: 48
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -168,8 +168,8 @@
 
 - OrbitBid item number: 1-10002
 - Internal ID: 1761141
-- Current bid: $510
-- Bid count: 21
+- Current bid: $560
+- Bid count: 23
 - Photo count: 46
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -528,8 +528,8 @@
 
 - OrbitBid item number: 1-10006
 - Internal ID: 1761145
-- Current bid: $2550
-- Bid count: 43
+- Current bid: $2600
+- Bid count: 44
 - Photo count: 64
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -2365,8 +2365,8 @@
 
 - OrbitBid item number: 1-10057
 - Internal ID: 1761126
-- Current bid: $305
-- Bid count: 3
+- Current bid: $380
+- Bid count: 7
 - Photo count: 49
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -3543,8 +3543,8 @@
 
 - OrbitBid item number: 1-17101
 - Internal ID: 1761064
-- Current bid: $110
-- Bid count: 3
+- Current bid: $115
+- Bid count: 4
 - Photo count: 26
 - End time (UTC): 2026-10-06T23:00:00Z
 
@@ -5148,7 +5148,7 @@
 - Internal ID: 1761252
 - Current bid: $315
 - Bid count: 33
-- Photo count: 11
+- Photo count: 9
 - End time (UTC): 2026-10-06T23:30:00Z
 
 **Fields:**
@@ -5164,10 +5164,8 @@
 - [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/8e932afa315b48282607/large)
 - [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/c132348b01f205cef441/large)
 - [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/8c354657362b3331d3e7/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/f3d60057fe29a715d086/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/bc8b9d7b2ff09aca0438/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/d0572928cb0407d19d0b/large)
-- [Photo 11](https://d1ljvnrgb7j023.cloudfront.net/files/1/5266aaed322dd3d7af00/large)
+- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/16640d1bc0fcf4c807d8/large)
+- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/5266aaed322dd3d7af00/large)
 
 ---
 
