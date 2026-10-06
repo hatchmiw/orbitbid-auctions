@@ -2,20 +2,20 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 8000,1-8000,1887228,5,0,1,1,0,1791324000,2026-10-06T22:00:00Z,,,Please Note: Load out is going to be a little challenging with all the rain we have had and not havi...
 8539,1-8539,1887159,320,59,4,1,0,1791324000,2026-10-06T22:00:00Z,,,(11) 11:00-20 tires and rims
 9893,1-9893,1808101,3550,65,20,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 4010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 4102 hours ..."
-9894,1-9894,1808102,1835,30,5,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Bush hog SQ84T Brush Hog, 84"" 3 PT, SN: 12-02930"
-9895,1-9895,1808103,2050,58,26,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires..."
-9896,1-9896,1808104,850,30,22,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 225 hours showing,..."
-9897,1-9897,1808105,20600,57,40,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 6400 Tractor with John Deere 640 Loader, MFWD, Cab, 86"" bucket, 3 PT, no top link, PTO, t..."
+9894,1-9894,1808102,2150,34,5,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Bush hog SQ84T Brush Hog, 84"" 3 PT, SN: 12-02930"
+9895,1-9895,1808103,2550,68,26,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 13.9-36 rear tires..."
+9896,1-9896,1808104,875,31,22,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, no top link, PTO, one remote, 225 hours showing,..."
+9897,1-9897,1808105,25100,100,40,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 6400 Tractor with John Deere 640 Loader, MFWD, Cab, 86"" bucket, 3 PT, no top link, PTO, t..."
 9898,1-9898,1808106,7200,42,25,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 4400 Tractor Diesel, 4WD, Sync reverser, commercial 60"" mower deck, 3PT, PTO, two remotes..."
-9899,1-9899,1808107,1600,38,18,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours ..."
-9900,1-9900,1808108,750,38,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) King Kutter II TG-60-Y Rototiller, 60"", 3PT, all gear driven, SN LV44005141580"
+9899,1-9899,1808107,1650,39,18,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours ..."
+9900,1-9900,1808108,875,40,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) King Kutter II TG-60-Y Rototiller, 60"", 3PT, all gear driven, SN LV44005141580"
 9901,1-9901,1808109,1625,39,21,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 40 Tractor Gas, narrow front, 3 PT, PTO, 11.2-34 rear tires, SN 62429"
-9902,1-9902,1808110,1555,19,39,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 8630 Tractor 4WD, 8-wheeler, 20.8R-38 tires, 3 PT, PTO, (3) remotes, 7577 hours showing, ..."
+9902,1-9902,1808110,2005,29,39,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 8630 Tractor 4WD, 8-wheeler, 20.8R-38 tires, 3 PT, PTO, (3) remotes, 7577 hours showing, ..."
 9903,1-9903,1808111,4150,80,41,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 8650 Tractor 8-Wheeler, 4WD, 23.1-34 tires, 3PT, PTO, (3) remotes, 778 hours showing on 4..."
 9904,1-9904,1808112,15100,43,28,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 4040 Tractor Tractor Diesel, 2WD, wide front, 3PT, no top link, PTO, (2) remotes canopy, ..."
 9905,1-9905,1808113,11450,156,38,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 4440 Tractor Diesel, 2WD, wide front, cab, 3 PT, PTO, (2) remotes, 18.4R38 rear duals, 70..."
 9906,1-9906,1808114,5050,43,21,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3020 Tractor Diesel, wide front, 3PT, no top link, PTO, (1) remote, 6280 hours showing, S..."
-9907,1-9907,1808115,8550,28,41,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 544E Wheel Loader JRB 4-in-1 bucket, 101"", cab, 20.5-25 tires, 12045 hours showing, SN: D..."
+9907,1-9907,1808115,8938,30,41,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 544E Wheel Loader JRB 4-in-1 bucket, 101"", cab, 20.5-25 tires, 12045 hours showing, SN: D..."
 9908,1-9908,1808116,8550,130,44,1,0,1791324000,2026-10-06T22:00:00Z,,,"1971 Jeep M816 6X6 Wrecker Military Truck 5-Ton, B-L-H Corp M543 Wrecker Body, rear winch, front win..."
 9909,1-9909,1808117,365,13,10,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) John Deere 235 Disc, hydraulic wing fold, approx.16' Reminger 3-bar spike tooth drag, SN 013113A"
 9910,1-9910,1808118,632,67,15,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) John Deere 230 Disc, hydraulic wing fold, 18', 3 bar spike tooth drag, SN 021097"
@@ -27,7 +27,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9916,1-9916,1808124,555,51,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) J&amp;M Gravity Wagon, extendable tongue, model 350-20, SN 16908"
 9917,1-9917,1808125,155,22,8,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) Older grain/fertilizer, wagon, dump, wooden box"
 9783,1-9783,1808140,625,31,12,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Kicker wagon with Kory 6872 running gear, 16'"
-9784,1-9784,1808141,675,36,10,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Kicker wagon with Kory 6278 tandem running gear, 18'"
+9784,1-9784,1808141,725,38,10,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) Kicker wagon with Kory 6278 tandem running gear, 18'"
 9785,1-9785,1808142,100,21,9,1,0,1791325800,2026-10-06T22:30:00Z,,,(1) International 710 4-bottom plow
 9786,1-9786,1808143,4050,15,25,1,0,1791325800,2026-10-06T22:30:00Z,,,"John Deere 4520 Tractor Diesel, 2WD, wide front, cab, 3 PT, no top link, PTO, (2) remotes, 20.8-38 r..."
 9787,1-9787,1808144,205,12,14,1,0,1791325800,2026-10-06T22:30:00Z,,,"(1) John Deere 235 Disc, 14' hydraulic wing fold, SN T0020"
@@ -55,7 +55,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9772,1-9772,1808167,35,7,16,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) DMI Colter-Champ II disk chisel plow, 9 shank"
 9773,1-9773,1808168,675,65,8,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Kicker wagon on John Deere running gear, 18', extendable tongue"
 9774,1-9774,1808173,881,19,23,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) John Deere 7000 6-row planter, dry fertilizer, row markers"
-9775,1-9775,1808169,675,11,11,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Kicker wagon on Gehl tandem running gear, 18' extendable tongue"
+9775,1-9775,1808169,725,13,11,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Kicker wagon on Gehl tandem running gear, 18' extendable tongue"
 9776,1-9776,1808170,10,2,10,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) International 14 Hay Rake, 8'"
 9777,1-9777,1808174,5,1,12,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) John Deere 220 grain head, SN H00220F611257"
 9794,1-9794,1808151,20,4,9,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Chisel plow, 11 shank, SN 950086"
@@ -67,7 +67,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9800,1-9800,1808172,140,28,6,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) 3-bottom plow
 9801,1-9801,1808157,40,8,5,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Back blade, 8', 3PT"
 9802,1-9802,1808158,216,22,6,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) Flow EZ Gravity Wagon with EZ Trail running gear
-9803,1-9803,1808159,10,2,16,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Miller disc, 12'"
+9803,1-9803,1808159,15,3,16,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Miller disc, 12'"
 9804,1-9804,1808160,206,17,9,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) J&amp;M 250-7 Gravity wagon with harvest trail running gear, SN 764392"
 9805,1-9805,1808161,305,9,11,1,0,1791327600,2026-10-06T23:00:00Z,,,"(1) Bradford model 240-316 Gravity Wagon with bladtorn 10 ton gear, SN 8217114"
 9806,1-9806,1808162,461,15,8,1,0,1791327600,2026-10-06T23:00:00Z,,,(1) Killbros 300 gravity wagon on John Deere gear
@@ -87,7 +87,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9947,1-9947,1808196,30,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Grain auger electric, 3"" auger x 20' long"
 9948,1-9948,1808194,10,2,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(2) Sweeper augers, 7' and 9'"
 9949,1-9949,1808195,50,6,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) Plastic poly hopper for augers
-9950,1-9950,1808187,15,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
+9950,1-9950,1808187,20,4,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Verstile 4-bottom plow, 3PT"
 9951,1-9951,1808188,5,0,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(2) Titan 23.1-34 tires
 9952,1-9952,1808181,205,11,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) New Holland 56 Hay rake, SN 68582"
 9953,1-9953,1808189,625,42,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 40-U Tractor Gas, with side mounted sickle bar mower, SN 64344"
@@ -104,5 +104,5 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9852,1-9852,1887151,40,8,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Back blade, 3 PT, 8'"
 9821,1-9821,1887129,2050,22,22,1,0,1791333000,2026-10-07T00:30:00Z,,,1971 AM General 6X6 Military Truck
 9822,1-9822,1887132,510,8,15,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
-9823,1-9823,1887106,2500,109,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
+9823,1-9823,1887106,2550,110,20,1,0,1791333000,2026-10-07T00:30:00Z,,,1980 AM General 6X6 Military Truck
 9824,1-9824,1887144,1530,12,25,1,0,1791333000,2026-10-07T00:30:00Z,,,1967 International 6X6 Military Dump Truck
