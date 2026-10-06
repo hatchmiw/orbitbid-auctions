@@ -1,6 +1,6 @@
 # OrbitBid Auction 1920
 
-- Price refresh: 2026-10-06T16:34:24.900480Z
+- Price refresh: 2026-10-06T16:52:57.458640Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=1
 - Saved lots refreshed: 247
 - Refresh errors: 0
@@ -243,8 +243,8 @@
 
 - OrbitBid item number: 1-10003
 - Internal ID: 1761142
-- Current bid: $1075
-- Bid count: 13
+- Current bid: $1125
+- Bid count: 15
 - Photo count: 53
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -325,8 +325,8 @@
 
 - OrbitBid item number: 1-10004
 - Internal ID: 1761143
-- Current bid: $2700
-- Bid count: 32
+- Current bid: $3100
+- Bid count: 40
 - Photo count: 75
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -528,8 +528,8 @@
 
 - OrbitBid item number: 1-10006
 - Internal ID: 1761145
-- Current bid: $2600
-- Bid count: 44
+- Current bid: $2900
+- Bid count: 46
 - Photo count: 64
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -621,8 +621,8 @@
 
 - OrbitBid item number: 1-10007
 - Internal ID: 1761146
-- Current bid: $1175
-- Bid count: 18
+- Current bid: $1225
+- Bid count: 19
 - Photo count: 80
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -859,8 +859,9 @@
 - VIN: 4V4NC9TG5LN253496
 - Type: Semi Truck
 - Odometer Reading: 217490
+- Metered Hours: 7261.3
 - Titled Status: Clear
-- General Description: tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, 19,000 lb. each rear axles, dual power windows, power mirrors, cruise control, Bluetooth CD Player, air suspension, air 5th wheel, traction control, 29575R225 rear tires with all aluminum rims, dual aluminum fuel tank, single stack, air ride, air seat, scratches and chips on hood on driver's side. Unit #227
+- General Description: tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, 19,000 lb. each rear axles, dual power windows, power mirrors, cruise control, Bluetooth CD Player, air suspension, air 5th wheel, traction control, 29575R225 rear tires with all aluminum rims, dual aluminum fuel tank, single stack, air ride, air seat, scratches and chips on hood on driver's side. Unit #227 Engine Hours 7261.3
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
 
@@ -949,8 +950,8 @@
 
 - OrbitBid item number: 1-10010
 - Internal ID: 1761149
-- Current bid: $14550
-- Bid count: 193
+- Current bid: $14750
+- Bid count: 195
 - Photo count: 68
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1062,8 +1063,9 @@
 - VIN: 4V4NC9TG0LN253504
 - Type: Day Cab
 - Odometer Reading: 297416
+- Metered Hours: 9441.0
 - Titled Status: Clear
-- General Description: tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, scratches on driver's side fender, crack in hood on driver's side, runs and drives. Unit #229
+- General Description: tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 HP diesel engine, 50,350 lb. GVWR, 12,350 lb. front axle, each rear axle is 19,000, dual power windows, and mirrors, heated mirrors, CD player with Bluetooth, air ride, air suspension, DIF lock, traction control, 27580R225 rear tires with all aluminum rims, dual fuel tank, single stack, 29575R225 front tires with aluminum rims, scratches on driver's side fender, crack in hood on driver's side, runs and drives. Unit #229 Engine Hours 9441.0
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
 
@@ -1249,8 +1251,8 @@
 
 - OrbitBid item number: 1-10013
 - Internal ID: 1761152
-- Current bid: $50250
-- Bid count: 96
+- Current bid: $52250
+- Bid count: 105
 - Photo count: 63
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1341,8 +1343,8 @@
 
 - OrbitBid item number: 1-10014
 - Internal ID: 1761153
-- Current bid: $26100
-- Bid count: 77
+- Current bid: $31250
+- Bid count: 97
 - Photo count: 66
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1601,8 +1603,8 @@
 
 - OrbitBid item number: 1-10017
 - Internal ID: 1761156
-- Current bid: $45250
-- Bid count: 67
+- Current bid: $45500
+- Bid count: 68
 - Photo count: 65
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1773,8 +1775,8 @@
 
 - OrbitBid item number: 1-10019
 - Internal ID: 1761158
-- Current bid: $1175
-- Bid count: 31
+- Current bid: $1225
+- Bid count: 32
 - Photo count: 62
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -2140,8 +2142,8 @@
 
 - OrbitBid item number: 1-10054
 - Internal ID: 1761123
-- Current bid: $1550
-- Bid count: 35
+- Current bid: $1650
+- Bid count: 37
 - Photo count: 45
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -2214,8 +2216,8 @@
 
 - OrbitBid item number: 1-10055
 - Internal ID: 1761124
-- Current bid: $960
-- Bid count: 13
+- Current bid: $1550
+- Bid count: 18
 - Photo count: 46
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -2443,8 +2445,8 @@
 
 - OrbitBid item number: 1-10058
 - Internal ID: 1761127
-- Current bid: $905
-- Bid count: 19
+- Current bid: $1550
+- Bid count: 22
 - Photo count: 43
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -2912,8 +2914,8 @@
 
 - OrbitBid item number: 1-10064
 - Internal ID: 1761133
-- Current bid: $1750
-- Bid count: 25
+- Current bid: $1900
+- Bid count: 29
 - Photo count: 123
 - End time (UTC): 2026-10-06T22:30:00Z
 
