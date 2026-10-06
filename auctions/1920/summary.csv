@@ -1,7 +1,7 @@
 lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status,end_time,end_time_utc,offer_end_time,offer_end_time_utc,title
 10000,1-10000,1761139,660,36,51,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine, 52,..."
 10001,1-10001,1761140,925,48,48,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNM Day Cab tandem axle, VNL, Eaton Fuller 10-speed transmission, Volvo D12 diesel engine..."
-10002,1-10002,1761141,1025,40,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
+10002,1-10002,1761141,1075,41,46,1,0,1791324000,2026-10-06T22:00:00Z,,,"2007 Volvo VNM Day Cab tandem axle, Eaton Fuller 10-speed transmission, Volvo D12, 365 HP diesel eng..."
 10003,1-10003,1761142,1275,18,53,1,0,1791324000,2026-10-06T22:00:00Z,,,"2010 Volvo VNL Sleeper Truck tandem axle, Eaton Fuller push button, RTO-16910B-AS3, 10-speed automat..."
 10004,1-10004,1761143,5100,80,75,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Mack 613CXU613 Sleeper Semi Truck tandem axle, Eaton Fuller 13-speed transmission, MAC MP8 dies..."
 10005,1-10005,1761144,3250,23,70,1,0,1791324000,2026-10-06T22:00:00Z,,,"2013 Volvo VNL Sleeper Semi Truck tandem axle, with bunk, Eaton Fuller 10-speed transmission, Volvo ..."
@@ -9,12 +9,12 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10007,1-10007,1761146,1900,33,80,1,0,1791324000,2026-10-06T22:00:00Z,,,"2009 Volvo VNL Sleeper Semi Truck tandem axle, Eaton Fuller 9-speed transmission, model RTOC16909A, ..."
 10008,1-10008,1761147,9650,44,85,1,0,1791324000,2026-10-06T22:00:00Z,,,"2015 Volvo VNVNL Sleeper Semi Truck tandem axle, Eaton Fuller 10-speed transmission, Volvo D13, 475 ..."
 10009,1-10009,1761148,30500,43,76,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Semi Truck tandem axle, Eaton FAOM15810C automatic transmission, Volvo X15, 400 HP di..."
-10010,1-10010,1761149,15400,202,68,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
-10011,1-10011,1761150,20100,191,71,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
+10010,1-10010,1761149,16300,212,68,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
+10011,1-10011,1761150,20200,192,71,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle semi tractor, Eaton Fuller FAOM-15810C automatic transmission, Vo..."
 10012,1-10012,1761151,20200,60,72,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 Volvo VNL Day Cab tandem axle, Eaton Fuller FAOM-15810C automatic transmission, Volvo X15, 400 ..."
-10013,1-10013,1761152,55750,119,63,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D..."
-10014,1-10014,1761153,33250,104,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
-10015,1-10015,1761154,32150,83,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10013,1-10013,1761152,56250,122,63,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Volvo ATO2612F, 12-speed automatic transmission, D..."
+10014,1-10014,1761153,34500,108,66,1,0,1791324000,2026-10-06T22:00:00Z,,,"2024 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
+10015,1-10015,1761154,34500,91,45,1,0,1791324000,2026-10-06T22:00:00Z,,,"2023 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10016,1-10016,1761155,19500,64,62,1,0,1791324000,2026-10-06T22:00:00Z,,,"2020 International LT625 Day Cab tandem axle, Eaton-Fuller automatic transmission, Cummins X15 diese..."
 10017,1-10017,1761156,48750,75,65,1,0,1791324000,2026-10-06T22:00:00Z,,,"2021 Volvo VNL760 Sleeper Semi Truck tandem axle, Eaton Fuller ATO2612F, 12-speed automatic transmis..."
 10018,1-10018,1761157,2550,32,49,1,0,1791324000,2026-10-06T22:00:00Z,,,"2006 Volvo VNL Sleeper Semi Truck tandem axle, sleeper cab with bunk, Eaton Fuller 10-speed transmis..."
@@ -32,7 +32,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10060,1-10060,1761129,7800,63,46,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck Allison automatic transmission, Hino, model J05E-TP diesel engine, rear..."
 10061,1-10061,1761130,1600,41,52,1,0,1791325800,2026-10-06T22:30:00Z,,,"2012 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Max For..."
 10062,1-10062,1761131,6200,137,57,1,0,1791325800,2026-10-06T22:30:00Z,,,"2020 Hino 268A 24' Box Truck with lift gate, Allison automatic transmission, Hino, model J05E-TP die..."
-10063,1-10063,1761132,1825,21,48,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
+10063,1-10063,1761132,2750,25,48,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10064,1-10064,1761133,2100,33,123,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10065,1-10065,1761134,1650,44,47,1,0,1791325800,2026-10-06T22:30:00Z,,,"2018 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
 10066,1-10066,1761135,1750,18,49,1,0,1791325800,2026-10-06T22:30:00Z,,,"2017 International 4300 SBA4X2 24' Box Truck with lift gate, Allison automatic transmission, Cummins..."
@@ -55,7 +55,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 17113,1-17113,1761076,115,4,40,1,0,1791327600,2026-10-06T23:00:00Z,,,"2006 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle, 68,000 lb. GVWR..."
 17114,1-17114,1761077,610,53,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, rear roll up door, ..."
 17115,1-17115,1761078,1025,49,28,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, air ride suspension, rear roll up door, ..."
-17116,1-17116,1761079,125,6,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,..."
+17116,1-17116,1761079,130,7,31,1,0,1791327600,2026-10-06T23:00:00Z,,,"2015 Stoughton 53' Dry Van Trailer model ZGPVW-535T-S-C-AR, rear roll up door, rear tandem axle, 70,..."
 17117,1-17117,1761080,305,32,32,1,0,1791327600,2026-10-06T23:00:00Z,,,"2001 Utility 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle. Unit 741."
 17118,1-17118,1761081,110,3,29,1,0,1791327600,2026-10-06T23:00:00Z,,,"1999 Trailmobile 53' Dry Van Trailer rear roll up door, tandem axle. Unit 727."
 17119,1-17119,1761082,105,2,25,1,0,1791327600,2026-10-06T23:00:00Z,,,"2005 Wabash 53' Dry Van Trailer air ride suspension, rear roll up door, tandem axle. Unit 737."
@@ -135,7 +135,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 18666,1-18666,1761181,44,7,8,1,0,1791329400,2026-10-06T23:30:00Z,,,"Rack with contents, includes assorted Hino Filters, assorted WIX filters, Volvo filters, and much mo..."
 18667,1-18667,1761182,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (4) assorted aluminum load bars.
 18668,1-18668,1761183,25,5,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Kimball Midwest 4-drawer pull out cabinet with assorted contents, and assorted grinding wheels a..."
-18669,1-18669,1761184,70,13,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
+18669,1-18669,1761184,75,14,4,1,0,1791329400,2026-10-06T23:30:00Z,,,Lot of (2) approx. 20' long chains with hooks.
 18670,1-18670,1761185,35,7,4,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) 9-step warehouse safety ladder.
 18671,1-18671,1761186,145,29,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) heavy duty Associated 100/75 amp charger with 375 amp engine start.
 18672,1-18672,1761187,115,24,5,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Auto Specialties, model D8200, heavy duty hydraulic transmission jack, in working condition."
