@@ -8,7 +8,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9897,1-9897,1808105,20300,55,40,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 6400 Tractor with John Deere 640 Loader, MFWD, Cab, 86"" bucket, 3 PT, no top link, PTO, t..."
 9898,1-9898,1808106,7200,42,25,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 4400 Tractor Diesel, 4WD, Sync reverser, commercial 60"" mower deck, 3PT, PTO, two remotes..."
 9899,1-9899,1808107,1600,38,18,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 3010 Tractor Diesel, narrow front, 3 PT, PTO, one remote, 15.5-38 rear tires, 3941 hours ..."
-9900,1-9900,1808108,575,31,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) King Kutter II TG-60-Y Rototiller, 60"", 3PT, all gear driven, SN LV44005141580"
+9900,1-9900,1808108,600,32,7,1,0,1791324000,2026-10-06T22:00:00Z,,,"(1) King Kutter II TG-60-Y Rototiller, 60"", 3PT, all gear driven, SN LV44005141580"
 9901,1-9901,1808109,1625,39,21,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 40 Tractor Gas, narrow front, 3 PT, PTO, 11.2-34 rear tires, SN 62429"
 9902,1-9902,1808110,1455,16,39,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 8630 Tractor 4WD, 8-wheeler, 20.8R-38 tires, 3 PT, PTO, (3) remotes, 7577 hours showing, ..."
 9903,1-9903,1808111,3850,74,41,1,0,1791324000,2026-10-06T22:00:00Z,,,"John Deere 8650 Tractor 8-Wheeler, 4WD, 23.1-34 tires, 3PT, PTO, (3) remotes, 778 hours showing on 4..."
@@ -81,7 +81,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 8542,1-8542,1808193,90,15,5,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere quick attach
 9854,1-9854,1808197,5,1,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Grain auger electric, 5"" auger x 20' long"
 9891,1-9891,1808175,345,31,6,1,0,1791329400,2026-10-06T23:30:00Z,,,(1) John Deere 6-row corn head
-9892,1-9892,1808176,1275,24,40,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
+9892,1-9892,1808176,1325,25,40,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 8820 Titan II Combine Maurer bin extension, 6803 engine hours, 4WD, SN: H08820X611552, 30..."
 9944,1-9944,1808198,5,1,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Cardinal grain auger, no motor, 5"" auger x 10' long"
 9945,1-9945,1808199,160,6,9,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Gilmore grain cleaner, portable, electric, 230V, 3 HP, single phase"
 9947,1-9947,1808196,30,3,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Grain auger electric, 3"" auger x 20' long"
@@ -95,10 +95,10 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 9955,1-9955,1808185,825,33,12,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 730 Tractor Diesel, narrow front, 3 PT, no top link, 540 PTO, 15-5-38 rear tires, 4247 ho..."
 9956,1-9956,1808186,380,37,6,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Brillion cultipacker, 10'"
 9957,1-9957,1808183,55,5,10,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Portable sign, mounted on trailer, 8' x 72"" wide"
-9958,1-9958,1808177,800,18,41,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5..."
+9958,1-9958,1808177,900,22,41,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere Turbo 8820 Combine 4WD, 30.5L32 front tires, 16.9-26 rear tires, 3285 hours showing, SN 5..."
 9959,1-9959,1808178,705,25,11,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 920 grain head, SN H00920E661671"
 9960,1-9960,1808179,5,1,7,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) John Deere 216 grain head, 16', SN NA"
-9961,1-9961,1808182,310,19,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Disk, 3PT, 6'"
+9961,1-9961,1808182,360,24,4,1,0,1791329400,2026-10-06T23:30:00Z,,,"(1) Disk, 3PT, 6'"
 9962,1-9962,1808180,825,19,14,1,0,1791329400,2026-10-06T23:30:00Z,,,"John Deere 80 Tractor Diesel, wide front, newer front tires, 18.4-34 rear tires, PTO, (2) remotes, n..."
 9846,1-9846,1887149,60,13,5,1,0,1791331200,2026-10-07T00:00:00Z,,,Howse Auger Attachment 3-Point
 9852,1-9852,1887151,35,7,4,1,0,1791331200,2026-10-07T00:00:00Z,,,"Back blade, 3 PT, 8'"
