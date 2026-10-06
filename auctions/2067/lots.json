@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-06T16:53:33.508689Z",
+  "retrieved_at": "2026-10-06T17:06:35.260452Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -40352,9 +40352,9 @@
       "title": "(1) Bush hog SM60 Ditch bank mower, 60\", SN 00921",
       "subtitle": null,
       "description": "",
-      "amount": 560,
+      "amount": 660,
       "max_amount": null,
-      "bid_count": 36,
+      "bid_count": 40,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -41461,9 +41461,9 @@
       "title": "(1) Portable sign, mounted on trailer, 8' x 72\" wide",
       "subtitle": null,
       "description": "",
-      "amount": 55,
+      "amount": 65,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47474,5 +47474,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-06T16:53:33.508689Z"
+  "last_price_refresh_at": "2026-10-06T17:06:35.260452Z"
 }
