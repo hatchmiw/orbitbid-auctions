@@ -1,6 +1,6 @@
 # OrbitBid Auction 2067
 
-- Price refresh: 2026-10-06T17:50:54.089286Z
+- Price refresh: 2026-10-06T18:04:28.180490Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1
 - Saved lots refreshed: 107
 - Refresh errors: 0
@@ -412,8 +412,8 @@
 
 - OrbitBid item number: 1-9902
 - Internal ID: 1808110
-- Current bid: $1455
-- Bid count: 16
+- Current bid: $1555
+- Bid count: 19
 - Photo count: 39
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -471,8 +471,8 @@
 
 - OrbitBid item number: 1-9903
 - Internal ID: 1808111
-- Current bid: $3950
-- Bid count: 76
+- Current bid: $4150
+- Bid count: 80
 - Photo count: 41
 - End time (UTC): 2026-10-06T22:00:00Z
 
@@ -1162,8 +1162,8 @@
 
 - OrbitBid item number: 1-9786
 - Internal ID: 1808143
-- Current bid: $3050
-- Bid count: 13
+- Current bid: $4050
+- Bid count: 15
 - Photo count: 25
 - End time (UTC): 2026-10-06T22:30:00Z
 
@@ -2590,8 +2590,8 @@
 
 - OrbitBid item number: 1-9891
 - Internal ID: 1808175
-- Current bid: $655
-- Bid count: 55
+- Current bid: $925
+- Bid count: 66
 - Photo count: 6
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -3010,8 +3010,8 @@
 
 - OrbitBid item number: 1-9958
 - Internal ID: 1808177
-- Current bid: $1050
-- Bid count: 28
+- Current bid: $1100
+- Bid count: 29
 - Photo count: 41
 - End time (UTC): 2026-10-06T23:30:00Z
 
@@ -3100,8 +3100,8 @@
 
 - OrbitBid item number: 1-9960
 - Internal ID: 1808179
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 7
 - End time (UTC): 2026-10-06T23:30:00Z
 
