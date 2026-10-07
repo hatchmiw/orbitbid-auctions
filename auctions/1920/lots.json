@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=1920&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-07T00:45:28.638952Z",
+  "retrieved_at": "2026-10-07T01:05:28.851184Z",
   "total_discovered": 247,
   "total_retrieved": 247,
   "total_errors": 0,
@@ -73339,7 +73339,7 @@
       "amount": 2350,
       "max_amount": null,
       "bid_count": 109,
-      "status": 1,
+      "status": 2,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791201600,
@@ -82664,7 +82664,7 @@
       "amount": 725,
       "max_amount": null,
       "bid_count": 73,
-      "status": 1,
+      "status": 2,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791201600,
@@ -128360,7 +128360,7 @@
       "amount": 240,
       "max_amount": null,
       "bid_count": 50,
-      "status": 1,
+      "status": 2,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791201600,
@@ -128743,7 +128743,7 @@
       "amount": 395,
       "max_amount": null,
       "bid_count": 65,
-      "status": 1,
+      "status": 2,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791201600,
@@ -131356,5 +131356,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-07T00:45:28.638952Z"
+  "last_price_refresh_at": "2026-10-07T01:05:28.851184Z"
 }
