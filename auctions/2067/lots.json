@@ -5,7 +5,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=1",
     "https://bid.orbitbid.com/?items=all&auction_id=2067&display=grid&limit=60&page=2"
   ],
-  "retrieved_at": "2026-10-07T00:46:35.720868Z",
+  "retrieved_at": "2026-10-07T01:06:47.915630Z",
   "total_discovered": 107,
   "total_retrieved": 107,
   "total_errors": 0,
@@ -46788,14 +46788,14 @@
       "title": "1967 International 6X6 Military Dump Truck",
       "subtitle": null,
       "description": "",
-      "amount": 3175,
+      "amount": 3350,
       "max_amount": null,
-      "bid_count": 35,
-      "status": 1,
+      "bid_count": 40,
+      "status": 2,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791201600,
-      "end_time": 1791334580,
+      "end_time": 1791334658,
       "offer_end_time": null,
       "has_reserve": false,
       "has_reserve_met": false,
@@ -47513,5 +47513,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-07T00:46:35.720868Z"
+  "last_price_refresh_at": "2026-10-07T01:06:47.915630Z"
 }
