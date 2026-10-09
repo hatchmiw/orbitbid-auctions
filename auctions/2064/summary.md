@@ -1,6 +1,6 @@
 # OrbitBid Auction 2064
 
-- Price refresh: 2026-10-09T17:23:02.495420Z
+- Price refresh: 2026-10-09T18:27:09.993754Z
 - Source: https://bid.orbitbid.com/?auction_id=2064
 - Saved lots refreshed: 32
 - Refresh errors: 0
@@ -750,7 +750,7 @@
 
 ---
 
-## Lot 9881 — Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.
+## Lot 9881 — 1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.
 
 - OrbitBid item number: 1-9881
 - Internal ID: 1799701
@@ -761,10 +761,11 @@
 
 **Fields:**
 
+- Year: 1995
 - Make: Benson
 - Type: Dump Trailer
-- VIN: 0000000
-- Titled Status: TBD
+- VIN: 1NUDT28N5SMAS0818
+- Titled Status: Clear
 - General Description: Tandem axle aluminum with 3rd front lift axle.
 
 **Photos:**
@@ -1010,9 +1011,10 @@
 
 - Year: 2000
 - Make: Ford
-- Model: Single Axle Flatbed Truck
-- VIN: 3PDNF65A9YMA34239
-- Titled Status: TBD
+- Model: Single Axle
+- Type: Flatbed Truck
+- VIN: 3FDNF65A9YMA34239
+- Titled Status: Clear
 - General Description: Regular cab, CAT diesel, 6 speed manual transmission, 26000 lb. GVWR, hydraulic brakes, 22' long x 8' wide steel bed, 228,470 miles showing
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.
@@ -1053,7 +1055,7 @@
 
 ---
 
-## Lot 9889 — 1 Ford 900 Single Axle Fertilizer Truck Chandler stainless steel fertilizer box, double spinners, CA...
+## Lot 9889 — 1976 Ford 900 Single Axle Fertilizer Truck Chandler stainless steel fertilizer box, double spinners,...
 
 - OrbitBid item number: 1-9889
 - Internal ID: 1799710
@@ -1064,11 +1066,11 @@
 
 **Fields:**
 
-- Year: 1
+- Year: 1976
 - Make: Ford
 - Model: 900 Single Axle Fertilizer Truck
-- VIN: 000000000
-- Titled Status: TBD
+- VIN: N90LVA63179
+- Titled Status: Clear
 - General Description: Chandler stainless steel fertilizer box, double spinners, CAT 3208 diesel, automatic transmission, 66x43.00-25 rear tires, 48x25.00-20 front tires, cab is rusty.
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 - Operating Condition on Vehicles & Options: Auction company lists the options that the vehicle may have, however all options have not been tested or verified to be in working condition. Auction company does not conduct a road test, nor are the vehicles inspected for mechanical defects. Auction company testing is limited to driving vehicle within our auction facility lot only. For liability purposes, vehicles may be started, but not driven by customers. Please rely on your own inspection prior to bidding.

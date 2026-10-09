@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-09T17:23:02.495420Z",
+  "retrieved_at": "2026-10-09T18:27:09.993754Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -10539,7 +10539,7 @@
       "internal_id": 1799701,
       "id": 1799701,
       "item_number": "1-9881",
-      "title": "Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.",
+      "title": "1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.",
       "subtitle": null,
       "description": "",
       "amount": 100,
@@ -10567,6 +10567,13 @@
           "type": "broker_fee",
           "amount": 125,
           "is_taxable": true
+        },
+        {
+          "id": 2706453,
+          "name": "PLATE FEE",
+          "type": "plate_fee",
+          "amount": 300,
+          "is_taxable": false
         },
         {
           "id": 2515873,
@@ -10954,6 +10961,13 @@
       ],
       "fields": [
         {
+          "id": 19892911,
+          "type": "textbox",
+          "label": "Year",
+          "value": "1995",
+          "other_value": null
+        },
+        {
           "id": 19892912,
           "type": "textbox",
           "label": "Make",
@@ -10971,14 +10985,14 @@
           "id": 20008205,
           "type": "textbox",
           "label": "VIN",
-          "value": "0000000",
+          "value": "1NUDT28N5SMAS0818",
           "other_value": null
         },
         {
           "id": 20008206,
           "type": "checkbox",
           "label": "Titled Status",
-          "value": "TBD",
+          "value": "Clear",
           "other_value": null
         },
         {
@@ -14728,21 +14742,28 @@
           "id": 19892949,
           "type": "textbox",
           "label": "Model",
-          "value": "Single Axle Flatbed Truck",
+          "value": "Single Axle",
+          "other_value": null
+        },
+        {
+          "id": 20009432,
+          "type": "checkbox",
+          "label": "Type",
+          "value": "Flatbed Truck",
           "other_value": null
         },
         {
           "id": 19892950,
           "type": "textbox",
           "label": "VIN",
-          "value": "3PDNF65A9YMA34239",
+          "value": "3FDNF65A9YMA34239",
           "other_value": null
         },
         {
           "id": 20009437,
           "type": "checkbox",
           "label": "Titled Status",
-          "value": "TBD",
+          "value": "Clear",
           "other_value": null
         },
         {
@@ -14923,7 +14944,7 @@
       "internal_id": 1799710,
       "id": 1799710,
       "item_number": "1-9889",
-      "title": "1 Ford 900 Single Axle Fertilizer Truck Chandler stainless steel fertilizer box, double spinners, CA...",
+      "title": "1976 Ford 900 Single Axle Fertilizer Truck Chandler stainless steel fertilizer box, double spinners,...",
       "subtitle": null,
       "description": "",
       "amount": 100,
@@ -15557,7 +15578,7 @@
           "id": 19892958,
           "type": "textbox",
           "label": "Year",
-          "value": "1",
+          "value": "1976",
           "other_value": null
         },
         {
@@ -15578,14 +15599,14 @@
           "id": 20008980,
           "type": "textbox",
           "label": "VIN",
-          "value": "000000000",
+          "value": "N90LVA63179",
           "other_value": null
         },
         {
           "id": 20008984,
           "type": "checkbox",
           "label": "Titled Status",
-          "value": "TBD",
+          "value": "Clear",
           "other_value": null
         },
         {
@@ -16290,5 +16311,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-09T17:23:02.495420Z"
+  "last_price_refresh_at": "2026-10-09T18:27:09.993754Z"
 }
