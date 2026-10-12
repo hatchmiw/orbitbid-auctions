@@ -71,7 +71,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11073,1-11073,1799104,5,1,5,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot including (1) partial Threadwell broach kit with assorted broach tools.
 11074,1-11074,1799105,10,2,6,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot including (1) Companion wrench set, sizes 1/4"" through 3/4"" with roll up case, (1) new Pittsburg..."
 11075,1-11075,1799106,10,2,6,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot of quick change tap adapters/tool holders.
-11076,1-11076,1799107,10,2,5,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of assorted collets, various sizes."
+11076,1-11076,1799107,21,5,5,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of assorted collets, various sizes."
 11077,1-11077,1799108,20,5,4,1,0,1791930600,2026-10-13T22:30:00Z,,,Large lot of assorted used aluminum vise jaws.
 11078,1-11078,1799109,5,1,10,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of assorted tooling, includes various drill bits, reamers, end mills, (1) live center, and misce..."
 11079,1-11079,1799110,5,1,7,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) 72.5"" width x 38"" height x 30"" depth steel framed shelving unit, with wood composite/laminate sh..."
@@ -134,7 +134,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12386,1-12386,1799167,5,1,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(2) 8"" x 8"" x 10"" angle block, (1) 4"" x 8"" x 6"" angle block, and (1) 4.5"" x 5 1/4"" x 4.5"" angle bloc..."
 12387,1-12387,1799168,5,1,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"Lot of (3) various HSK style tool holders with (1) 6 x 3/16X high-speed steel cutting tool, and (1) ..."
 12388,1-12388,1799169,5,1,9,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 20"" width x 48"" height x 16"" depth wood cabinet with (7) sets of pin gauges, some are incomplete..."
-12389,1-12389,1799170,5,1,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) model PML-3, 300 kg capacity magnetic lift unit with approx. 30"" of chain with hook on the end."
+12389,1-12389,1799170,10,2,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) model PML-3, 300 kg capacity magnetic lift unit with approx. 30"" of chain with hook on the end."
 12390,1-12390,1799171,5,1,10,1,0,1791932400,2026-10-13T23:00:00Z,,,"Lot including (1) 14.5"" width x 18"" height x 6"" depth, and (1) 12"" width x 8"" height x 6"" depth hard..."
 12391,1-12391,1799172,5,1,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) Allen Bradley, model SMC-2, 3-phase smart motor controller."
 12392,1-12392,1799173,65,8,8,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 30"" width x 44"" height x 27.5"" depth 6-drawer tooling cabinet with contents, including various b..."
@@ -179,9 +179,9 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12432,1-12432,1799214,5,0,5,1,0,1791934200,2026-10-13T23:30:00Z,,,Lot of approx. (16) various sized Kant-Twist clamps.
 12433,1-12433,1799215,5,1,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of approx. (17) various sized C-clamps, ranging in size between 4"" and 8"", and (1) approx. 20"" F..."
 12434,1-12434,1799216,5,0,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Dayton free-standing, adjustable height shop floor fan with a 30"" cage, 115V, single phase, 1/2 ..."
-12435,1-12435,1799217,205,8,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-50-HD, 6000 lb. capacity, self-dumping hopper."
+12435,1-12435,1799217,255,10,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-50-HD, 6000 lb. capacity, self-dumping hopper."
 12436,1-12436,1799218,5,1,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of (2) Rubbermaid 34"" length x 33"" height x 17"" depth, 2-tier resin style shop carts, 1 includes..."
-12437,1-12437,1799219,205,5,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-25-HD, 6000 lb. capacity, self-dumping hopper."
+12437,1-12437,1799219,255,7,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-25-HD, 6000 lb. capacity, self-dumping hopper."
 12438,1-12438,1799220,130,8,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Dake, model 1 1/2B, arbor press, with a 9"" width x 34"" height x 16"" depth steel stand."
 12439,1-12439,1799221,5,0,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 72"" width x 33"" height x 27"" depth wood work bench with contents, includes assorted drill bits, ..."
 12440,1-12440,1799222,5,1,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of assorted DeWalt cordless drills, including (3 model DCD777, 1/2"", 20V, cordless drill drivers..."
