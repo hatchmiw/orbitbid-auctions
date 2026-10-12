@@ -1,6 +1,6 @@
 # OrbitBid Auction 2066
 
-- Price refresh: 2026-10-12T18:30:33.081286Z
+- Price refresh: 2026-10-12T19:26:33.536804Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=1
 - Saved lots refreshed: 299
 - Refresh errors: 0
@@ -291,8 +291,8 @@
 
 - OrbitBid item number: 1-10998
 - Internal ID: 1799036
-- Current bid: $5
-- Bid count: 0
+- Current bid: $10
+- Bid count: 2
 - Photo count: 8
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -920,8 +920,8 @@
 
 - OrbitBid item number: 1-11024
 - Internal ID: 1799054
-- Current bid: $3050
-- Bid count: 12
+- Current bid: $3250
+- Bid count: 14
 - Photo count: 19
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1218,8 +1218,8 @@
 
 - OrbitBid item number: 1-11039
 - Internal ID: 1799069
-- Current bid: $50
-- Bid count: 5
+- Current bid: $60
+- Bid count: 7
 - Photo count: 10
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1328,8 +1328,8 @@
 
 - OrbitBid item number: 1-11045
 - Internal ID: 1799075
-- Current bid: $255
-- Bid count: 17
+- Current bid: $345
+- Bid count: 20
 - Photo count: 12
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1358,8 +1358,8 @@
 
 - OrbitBid item number: 1-11046
 - Internal ID: 1799076
-- Current bid: $30
-- Bid count: 6
+- Current bid: $35
+- Bid count: 7
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -2511,8 +2511,8 @@
 
 - OrbitBid item number: 1-11092
 - Internal ID: 1799123
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -3510,8 +3510,8 @@
 
 - OrbitBid item number: 1-12382
 - Internal ID: 1799163
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3581,8 +3581,8 @@
 
 - OrbitBid item number: 1-12385
 - Internal ID: 1799166
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3897,8 +3897,8 @@
 
 - OrbitBid item number: 1-12398
 - Internal ID: 1799179
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -5474,8 +5474,8 @@
 
 - OrbitBid item number: 1-12467
 - Internal ID: 1799245
-- Current bid: $101
-- Bid count: 5
+- Current bid: $106
+- Bid count: 6
 - Photo count: 15
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5559,8 +5559,8 @@
 
 - OrbitBid item number: 1-12470
 - Internal ID: 1799248
-- Current bid: $2300
-- Bid count: 13
+- Current bid: $2450
+- Bid count: 16
 - Photo count: 8
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5757,31 +5757,23 @@
 
 ---
 
-## Lot 12480 — (1) 36" width x 72" height x 12" depth rivet lock shelving unit with assorted parts and components.
+## Lot 12480 — (1) 36" width x 72" height x 12" depth rivet lock shelving unit. No contents
 
 - OrbitBid item number: 1-12480
 - Internal ID: 1799258
 - Current bid: $10
 - Bid count: 2
-- Photo count: 10
+- Photo count: 2
 - End time (UTC): 2026-10-13T23:30:00Z
 
 **Fields:**
 
-- General Description: (1) 36" width x 72" height x 12" depth rivet lock shelving unit with assorted parts and components.
+- General Description: (1) 36" width x 72" height x 12" depth rivet lock shelving unit. No contents
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/96dc1d014e962911bdcb/large)
-- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/f899f440f685fd507c8c/large)
-- [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/8a7a68e471429c82ff64/large)
-- [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/7544d4f6c40e9aa09df8/large)
-- [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/c7a3c67873df051bce68/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/84ab6c0f8f6592136913/large)
-- [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f1e1f46af5dd6178d1/large)
-- [Photo 8](https://d1ljvnrgb7j023.cloudfront.net/files/1/b65b4af2a7dfb77006ab/large)
-- [Photo 9](https://d1ljvnrgb7j023.cloudfront.net/files/1/df286a69fad7b9ec004d/large)
-- [Photo 10](https://d1ljvnrgb7j023.cloudfront.net/files/1/5b27fa1fc019bef314f8/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/ea3476f3400d96b048cf/large)
+- [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/3986cc4dff0c66688740/large)
 
 ---
 
@@ -6701,12 +6693,12 @@
 
 **Photos:**
 
-- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/fed2493c842031a79bcd/large)
+- [Photo 1](https://d1ljvnrgb7j023.cloudfront.net/files/1/a506d94472654a4f240c/large)
 - [Photo 2](https://d1ljvnrgb7j023.cloudfront.net/files/1/0d1452e4c7e06fcf5926/large)
 - [Photo 3](https://d1ljvnrgb7j023.cloudfront.net/files/1/a69611d44bb70f98ab35/large)
 - [Photo 4](https://d1ljvnrgb7j023.cloudfront.net/files/1/05d495ce6d55f2d8a020/large)
 - [Photo 5](https://d1ljvnrgb7j023.cloudfront.net/files/1/1b85ee918a7ab5a78262/large)
-- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/ca4ba6cdc5ae5bc0c83a/large)
+- [Photo 6](https://d1ljvnrgb7j023.cloudfront.net/files/1/761dec8fd912f46930af/large)
 - [Photo 7](https://d1ljvnrgb7j023.cloudfront.net/files/1/39717689336e6fadf28f/large)
 
 ---

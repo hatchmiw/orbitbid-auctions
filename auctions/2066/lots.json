@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-12T18:30:33.081286Z",
+  "retrieved_at": "2026-10-12T19:26:33.536804Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -3939,9 +3939,9 @@
       "title": "(1) Dust Kop, model 30T31-D1, dust collector, with approx. 5 HP blower, 30\" x 41\" x 48\", (24) 6\" dia...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -12966,9 +12966,9 @@
       "title": "(1) 1997 Parker Majestic, model 2C, Universal ID/OD cylindrical grinder, 5\" x 50\" T-slotted table, 1...",
       "subtitle": null,
       "description": "",
-      "amount": 3050,
+      "amount": 3250,
       "max_amount": null,
-      "bid_count": 12,
+      "bid_count": 14,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -17109,9 +17109,9 @@
       "title": "(1) oxygen/acetylene torch cart with gauges, torches, etc., includes table and contents, 3\" speed vi...",
       "subtitle": null,
       "description": "",
-      "amount": 50,
+      "amount": 60,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -18605,9 +18605,9 @@
       "title": "(1) Sunnen, model MBB-1660, honing machine with 18\" x 26\" open top tank, single variable speed spind...",
       "subtitle": null,
       "description": "",
-      "amount": 255,
+      "amount": 345,
       "max_amount": null,
-      "bid_count": 17,
+      "bid_count": 20,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -19024,9 +19024,9 @@
       "title": "(1) model 39UK56, 47\" diameter air mover floor fan.",
       "subtitle": null,
       "description": "",
-      "amount": 30,
+      "amount": 35,
       "max_amount": null,
-      "bid_count": 6,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -34212,9 +34212,9 @@
       "title": "(1) Kurt Sidewinder 4\" offset vise.",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -47354,9 +47354,9 @@
       "title": "Lot including (4) 6\" x 2\" x 4\" blocks, and (5) 1-2-3 blocks.",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -48269,9 +48269,9 @@
       "title": "(1) 48\" width x 10\" height x 24\" depth Guardian step-style granite surface plate with a 50\" length x...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -52384,9 +52384,9 @@
       "title": "Lot including (4) various partial sets of block gauges with cases.",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -73026,9 +73026,9 @@
       "title": "(1) 30\" width x 75\" height x 38\" depth steel cantilever rack with assorted scrap steel.",
       "subtitle": null,
       "description": "",
-      "amount": 101,
+      "amount": 106,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 6,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -74193,9 +74193,9 @@
       "title": "Contents of 1st 2 shelves, includes assorted brass and copper cut offs.",
       "subtitle": null,
       "description": "",
-      "amount": 2300,
+      "amount": 2450,
       "max_amount": null,
-      "bid_count": 13,
+      "bid_count": 16,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -76858,7 +76858,7 @@
       "internal_id": 1799258,
       "id": 1799258,
       "item_number": "1-12480",
-      "title": "(1) 36\" width x 72\" height x 12\" depth rivet lock shelving unit with assorted parts and components.",
+      "title": "(1) 36\" width x 72\" height x 12\" depth rivet lock shelving unit. No contents",
       "subtitle": null,
       "description": "",
       "amount": 10,
@@ -76896,13 +76896,13 @@
       ],
       "images": [
         {
-          "id": 10459392,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/96dc1d014e962911bdcb/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/96dc1d014e962911bdcb/large",
+          "id": 11504992,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ea3476f3400d96b048cf/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ea3476f3400d96b048cf/large",
           "metadata": {
             "type": "image",
-            "width": 1536,
-            "height": 2048,
+            "width": 3024,
+            "height": 4032,
             "formats": [
               "large",
               "medium",
@@ -76914,13 +76914,13 @@
           }
         },
         {
-          "id": 10459396,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f899f440f685fd507c8c/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/f899f440f685fd507c8c/large",
+          "id": 11505154,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3986cc4dff0c66688740/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/3986cc4dff0c66688740/large",
           "metadata": {
             "type": "image",
-            "width": 2048,
-            "height": 1536,
+            "width": 3024,
+            "height": 4032,
             "formats": [
               "large",
               "medium",
@@ -76928,151 +76928,7 @@
               "small",
               "thumb"
             ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459395,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8a7a68e471429c82ff64/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/8a7a68e471429c82ff64/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459393,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7544d4f6c40e9aa09df8/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/7544d4f6c40e9aa09df8/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459394,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c7a3c67873df051bce68/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/c7a3c67873df051bce68/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459397,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/84ab6c0f8f6592136913/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/84ab6c0f8f6592136913/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459398,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f1e1f46af5dd6178d1/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/d9f1e1f46af5dd6178d1/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459399,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b65b4af2a7dfb77006ab/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/b65b4af2a7dfb77006ab/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459400,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/df286a69fad7b9ec004d/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/df286a69fad7b9ec004d/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
-          }
-        },
-        {
-          "id": 10459401,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5b27fa1fc019bef314f8/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/5b27fa1fc019bef314f8/large",
-          "metadata": {
-            "type": "image",
-            "width": 2048,
-            "height": 1536,
-            "formats": [
-              "large",
-              "medium",
-              "tile",
-              "small",
-              "thumb"
-            ],
-            "orientation": "landscape"
+            "orientation": "portrait"
           }
         }
       ],
@@ -77081,7 +76937,7 @@
           "id": 19881986,
           "type": "textbox",
           "label": "General Description",
-          "value": "(1) 36\" width x 72\" height x 12\" depth rivet lock shelving unit with assorted parts and components.",
+          "value": "(1) 36\" width x 72\" height x 12\" depth rivet lock shelving unit. No contents",
           "other_value": null
         }
       ],
@@ -77234,7 +77090,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 10
+      "photo_count": 2
     },
     {
       "requested_lot_number": "12481",
@@ -89141,13 +88997,13 @@
       ],
       "images": [
         {
-          "id": 10454765,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fed2493c842031a79bcd/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/fed2493c842031a79bcd/large",
+          "id": 11505879,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a506d94472654a4f240c/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/a506d94472654a4f240c/large",
           "metadata": {
             "type": "image",
-            "width": 2048,
-            "height": 1536,
+            "width": 4032,
+            "height": 3024,
             "formats": [
               "large",
               "medium",
@@ -89231,13 +89087,13 @@
           }
         },
         {
-          "id": 10455076,
-          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ca4ba6cdc5ae5bc0c83a/small",
-          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/ca4ba6cdc5ae5bc0c83a/large",
+          "id": 11505916,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/761dec8fd912f46930af/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/761dec8fd912f46930af/large",
           "metadata": {
             "type": "image",
-            "width": 2048,
-            "height": 1536,
+            "width": 3024,
+            "height": 4032,
             "formats": [
               "large",
               "medium",
@@ -89245,7 +89101,7 @@
               "small",
               "thumb"
             ],
-            "orientation": "landscape"
+            "orientation": "portrait"
           }
         },
         {
@@ -103425,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-12T18:30:33.081286Z"
+  "last_price_refresh_at": "2026-10-12T19:26:33.536804Z"
 }
