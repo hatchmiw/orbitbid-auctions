@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-12T16:26:48.980563Z",
+  "retrieved_at": "2026-10-12T17:26:23.331049Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -963,9 +963,9 @@
       "title": "(1) Meyer Industrial SXI865 tandem axle manure spreader, 865BV, dual vertical expellers, 28L-26 tire...",
       "subtitle": null,
       "description": "",
-      "amount": 2050,
+      "amount": 10050,
       "max_amount": null,
-      "bid_count": 11,
+      "bid_count": 13,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -3276,9 +3276,9 @@
       "title": "(1) Brillion SST-144 Sure stand seeder, 12', 3 PT",
       "subtitle": null,
       "description": "",
-      "amount": 725,
+      "amount": 1025,
       "max_amount": null,
-      "bid_count": 7,
+      "bid_count": 14,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -11671,9 +11671,9 @@
       "title": "Bobcat S630 Rubber Tire Skid Steer ,AUX hydraulics, hyraulic quick attach, Cab missing door and left...",
       "subtitle": null,
       "description": "",
-      "amount": 755,
+      "amount": 1550,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -12370,9 +12370,9 @@
       "title": "Bobcat S650 Rubber Tire Skid Steer ,AUX hydraulics, hydraulics quick attach, Cab, 12-16.5 tires, hou...",
       "subtitle": null,
       "description": "",
-      "amount": 925,
+      "amount": 1025,
       "max_amount": null,
-      "bid_count": 13,
+      "bid_count": 15,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16311,5 +16311,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-12T16:26:48.980563Z"
+  "last_price_refresh_at": "2026-10-12T17:26:23.331049Z"
 }
