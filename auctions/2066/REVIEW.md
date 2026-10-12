@@ -41,3 +41,7 @@ Even excellent bids may **not** justify a dedicated trip. Hold observation-only.
 ## Next checkpoint
 
 No automatic deeper research or trip commitment. On explicit follow-up: prioritize lots 11066, 12432, 12433, 12440, 12484, 11081, 12488 and 11094 according to Mike's interest; update `catalog-review.csv` after each original-photo inspection, actual comparable and reliable maximum price. Defer bulk industrial machines unless Mike requests otherwise.
+
+## Mike's final participation direction — 2026-10-12
+
+**Observation and historical logging only.** Do not recommend or place bids, buy, arrange pickup, or expand active candidate research. Preserve the 299-lot screening, bid snapshots, 19 review-sheet observations, flagged photo discrepancy, and related artifacts/records for later auction-history comparison. No active bidder shortlist or follow-up required. Existing automated price snapshots can continue under the established repository scheduler; these are historical data collection, not authority to participate. Do not label the auction definitively 'no bids' until it concludes and that result is confirmed.
