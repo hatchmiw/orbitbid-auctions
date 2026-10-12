@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-12T21:23:55.571671Z",
+  "retrieved_at": "2026-10-12T22:24:12.368850Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -9208,9 +9208,9 @@
       "title": "JLG 40H Rough Terrain Man Lift 40' max height, 33' max horizontonal reach, 1000 lb. max capacity, De...",
       "subtitle": null,
       "description": "",
-      "amount": 2050,
+      "amount": 2150,
       "max_amount": null,
-      "bid_count": 11,
+      "bid_count": 13,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -9871,9 +9871,9 @@
       "title": "(1) Case International True-Tandem 330 turbo high speed vertical tillage, 3 section, rolling baskets...",
       "subtitle": null,
       "description": "",
-      "amount": 510,
+      "amount": 535,
       "max_amount": null,
-      "bid_count": 8,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -10542,9 +10542,9 @@
       "title": "1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.",
       "subtitle": null,
       "description": "",
-      "amount": 2405,
+      "amount": 2500,
       "max_amount": null,
-      "bid_count": 51,
+      "bid_count": 53,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16311,5 +16311,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-12T21:23:55.571671Z"
+  "last_price_refresh_at": "2026-10-12T22:24:12.368850Z"
 }
