@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T15:29:48.575595Z",
+  "retrieved_at": "2026-10-13T15:37:48.368773Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -8763,9 +8763,9 @@
       "title": "(1) 1963 Mattison hydraulic surface grinder with 14\" x 65\" T-slotted table, 1750 RPM spindle, 14\" x ...",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 55,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 4,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -67217,9 +67217,9 @@
       "title": "(1) 20\" width x 48\" height x 16\" depth wood stand with (7) assorted pin gauge sets with slide out wo...",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 30,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 7,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T15:29:48.575595Z"
+  "last_price_refresh_at": "2026-10-13T15:37:48.368773Z"
 }
