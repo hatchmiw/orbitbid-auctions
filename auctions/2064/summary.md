@@ -1,6 +1,6 @@
 # OrbitBid Auction 2064
 
-- Price refresh: 2026-10-13T18:08:39.697869Z
+- Price refresh: 2026-10-13T18:32:03.829294Z
 - Source: https://bid.orbitbid.com/?auction_id=2064
 - Saved lots refreshed: 32
 - Refresh errors: 0
@@ -11,8 +11,8 @@
 
 - OrbitBid item number: 1-9860
 - Internal ID: 1799681
-- Current bid: $1475
-- Bid count: 20
+- Current bid: $1525
+- Bid count: 21
 - Photo count: 16
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -45,8 +45,8 @@
 
 - OrbitBid item number: 1-9861
 - Internal ID: 1799690
-- Current bid: $1030
-- Bid count: 93
+- Current bid: $1550
+- Bid count: 104
 - Photo count: 14
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -127,7 +127,7 @@
 
 **Fields:**
 
-- General Description: (1) Supreme 700T Vertical feed mixer wagon, single axle, 1000 PTO, central city scale model 640, SN 07T0667
+- General Description: (1) Supreme 700T Vertical feed mixer wagon, single axle, 1000 PTO, central city scale model 640, SN 07T0667. Was in working condition when removed from service one year ago.
 - Working Condition: Runs and Operates – Runs and operates without appearing to require any major repairs or abnormal maintenance. Please note, all items are selling as is and we only perform a cursory visual walk around and have not done any detailed mechanical inspections, so please rely on your own inspection prior to bidding as items may require repairs mechanically and/or cosmetically that we are not aware of and they will be the buyers responsibility (Auction company is an Agent only and relies on the owner for the items description and condition)
 
 **Photos:**
@@ -267,8 +267,8 @@
 
 - OrbitBid item number: 1-9867
 - Internal ID: 1799684
-- Current bid: $65
-- Bid count: 14
+- Current bid: $70
+- Bid count: 15
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -491,8 +491,8 @@
 
 - OrbitBid item number: 1-9875
 - Internal ID: 1799696
-- Current bid: $2800
-- Bid count: 38
+- Current bid: $3250
+- Bid count: 46
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -710,8 +710,8 @@
 
 - OrbitBid item number: 1-9880
 - Internal ID: 1799700
-- Current bid: $3050
-- Bid count: 57
+- Current bid: $3100
+- Bid count: 58
 - Photo count: 26
 - End time (UTC): 2026-10-13T23:30:00Z
 
