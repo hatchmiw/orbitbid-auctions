@@ -25,7 +25,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11020,1-11020,1799050,510,34,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Mitutoyo, model LH-600FG, linear height gauge, 600mm max. height, touch panel control, 6"" x 24"" ..."
 11021,1-11021,1799051,450,12,9,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 2023 Muse MOPA laser engraving system, 60 watt fiber optic laser, cantilever arm mounted, 12"" x ..."
 11022,1-11022,1799052,110,6,13,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Okamoto linear 618 surface grinder, with 6"" x 18"" T-slotted table, 3450 RPM spindle, 6"" x 18"" ma..."
-11023,1-11023,1799053,105,6,16,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1964 Parker Majestic U-Universal cylindrical grinder, 6"" x 58.5"" T-slotted table, 1750 RPM spind..."
+11023,1-11023,1799053,605,8,16,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1964 Parker Majestic U-Universal cylindrical grinder, 6"" x 58.5"" T-slotted table, 1750 RPM spind..."
 11024,1-11024,1799054,3550,16,19,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1997 Parker Majestic, model 2C, Universal ID/OD cylindrical grinder, 5"" x 50"" T-slotted table, 1..."
 11025,1-11025,1799055,10,2,14,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1997 Parker Majestic, 8"" x 18"" surface grinder, with "" T-slotted table, 3450 RPM spindle, 8"" x 1..."
 11026,1-11026,1799056,1505,14,17,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1998 Parker Majestic, 8"" x 18"" surface grinder, with "" T-slotted table, 3450 RPM spindle, 8"" x 1..."
@@ -99,7 +99,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12351,1-12351,1799132,25,4,9,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot including (1) Huot 15"" width x 8"" height x 7"" depth, 3-drawer, and (1) Huot 15"" width x 8"" heigh..."
 12352,1-12352,1799133,20,4,4,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of (3) various reamer indexes with reamers, (1) 29-piece machine reamer set with wood case, appe..."
 12353,1-12353,1799134,25,6,6,1,0,1791930600,2026-10-13T22:30:00Z,,,Large lot of assorted drills.
-12354,1-12354,1799135,30,5,10,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of (3) 15"" width x 8"" height x 7"" depth drill indexes with assorted drills, and (1) metal drill ..."
+12354,1-12354,1799135,35,6,10,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of (3) 15"" width x 8"" height x 7"" depth drill indexes with assorted drills, and (1) metal drill ..."
 12355,1-12355,1799136,20,4,9,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) 15"" width x 8"" height x 7"" depth, 3-drawer metric reamer index cabinet with 18.5"" width x 9"" hei..."
 12356,1-12356,1799137,230,11,13,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) Stanley/Vidmar 30"" width x 42"" height x 28"" depth tooling cabinet with 11 drawers and contents o..."
 12357,1-12357,1799138,180,8,12,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) Stanley/Vidmar 30"" width x 42"" height x 28"" depth tooling cabinet with 11 drawers and contents o..."
@@ -158,7 +158,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12411,1-12411,1799192,10,2,7,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 36"" x 7"" x 24"" step-type granite surface plate with a 33"" length x 36"" height x 27.5"" depth heav..."
 12412,1-12412,1799193,5,1,4,1,0,1791932400,2026-10-13T23:00:00Z,,,(1) 5C collet spin indexer.
 12413,1-12413,1799194,10,2,5,1,0,1791932400,2026-10-13T23:00:00Z,,,(1) make and model unknown radius dresser with steel case.
-12414,1-12414,1799195,5,1,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 115V, single phase, belt-driven centering tool."
+12414,1-12414,1799195,10,2,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 115V, single phase, belt-driven centering tool."
 12415,1-12415,1799196,5,1,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 115V, single phase, belt-driven centering tool."
 12416,1-12416,1799197,10,2,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) Yuasa News radius dresser with attached 3"", 3-jaw chuck."
 12417,1-12417,1799198,10,2,6,1,0,1791932400,2026-10-13T23:00:00Z,,,(1) SPI radius dresser.
@@ -180,7 +180,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12433,1-12433,1799215,50,7,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of approx. (17) various sized C-clamps, ranging in size between 4"" and 8"", and (1) approx. 20"" F..."
 12434,1-12434,1799216,15,3,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Dayton free-standing, adjustable height shop floor fan with a 30"" cage, 115V, single phase, 1/2 ..."
 12435,1-12435,1799217,305,14,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-50-HD, 6000 lb. capacity, self-dumping hopper."
-12436,1-12436,1799218,25,3,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of (2) Rubbermaid 34"" length x 33"" height x 17"" depth, 2-tier resin style shop carts, 1 includes..."
+12436,1-12436,1799218,40,5,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of (2) Rubbermaid 34"" length x 33"" height x 17"" depth, 2-tier resin style shop carts, 1 includes..."
 12437,1-12437,1799219,255,7,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-25-HD, 6000 lb. capacity, self-dumping hopper."
 12438,1-12438,1799220,130,8,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Dake, model 1 1/2B, arbor press, with a 9"" width x 34"" height x 16"" depth steel stand."
 12439,1-12439,1799221,10,2,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 72"" width x 33"" height x 27"" depth wood work bench with contents, includes assorted drill bits, ..."
@@ -256,7 +256,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12517,1-12517,1799295,5,1,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"Lot including (1) set of 0-1"", (1) set of 1-2"", make and model unknown micrometers, (1) Mitutoyo 2-3..."
 12518,1-12518,1799296,5,1,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"Set of Fowler micrometers, includes 0-1"", 1-2"", and 2-3"", with plastic case."
 12519,1-12519,1799297,125,10,7,1,0,1791936000,2026-10-14T00:00:00Z,,,"Lot of (6) Mitutoyo, and SPI dial bore gauges with cases."
-12520,1-12520,1799298,105,8,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(2) Diatest inside diameter gauges, both kits are incomplete."
+12520,1-12520,1799298,115,10,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(2) Diatest inside diameter gauges, both kits are incomplete."
 12521,1-12521,1799299,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Flex Bar shallow test gauge with case, (1) Mitutoyo, model 340, on/off magnetic base indicator h..."
 12522,1-12522,1799300,5,1,5,1,0,1791936000,2026-10-14T00:00:00Z,,,Lot of assorted stainless steel tooling balls.
 12523,1-12523,1799301,10,2,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Federal ""Pocket Surf"" portable surface roughness gauge with plastic case and manual."
@@ -266,7 +266,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12527,1-12527,1799307,10,2,7,1,0,1791936000,2026-10-14T00:00:00Z,,,"(4) sets of pin gauges (M1 thru M4) some missing, includes remaining items on shelf (various pins, b..."
 12528,1-12528,1799308,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) M1 and (1) M2 pin gauge set.
 12529,1-12529,1799309,45,10,4,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) metric thread gauge set with plastic case.
-12530,1-12530,1799310,30,5,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(3) Mitutoyo micrometers (2 are 2-3"", and 1 3-4""), and (1) Fowler 0-1"" micrometer, all with cases."
+12530,1-12530,1799310,220,7,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(3) Mitutoyo micrometers (2 are 2-3"", and 1 3-4""), and (1) Fowler 0-1"" micrometer, all with cases."
 12531,1-12531,1799311,10,2,15,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire contents of top 2 shelves of shelving unit, includes (1) Federal dimensional gauge, various b..."
 12532,1-12532,1799312,30,4,5,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) C.E. Johansson, model 510E, Mikrokator, mounted on a 24"" tall stand."
 12533,1-12533,1799313,5,1,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo 13"" capacity height master gauge with wood case."
