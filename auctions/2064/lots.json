@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-13T08:01:42.715020Z",
+  "retrieved_at": "2026-10-13T08:30:03.463861Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -508,9 +508,9 @@
       "title": "(1) John Deere 1290 Corn head 12 row, 20\" rows, poly snouts, SN H01290X705708 (header cart being sol...",
       "subtitle": null,
       "description": "",
-      "amount": 105,
+      "amount": 505,
       "max_amount": null,
-      "bid_count": 16,
+      "bid_count": 72,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -5150,9 +5150,9 @@
       "title": "(1) Unverferth HT30 header cart, 30' heads, extendable tongue, 22.5x8.0-12 tires, light kit, SN ASI5...",
       "subtitle": null,
       "description": "",
-      "amount": 510,
+      "amount": 535,
       "max_amount": null,
-      "bid_count": 32,
+      "bid_count": 33,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16311,5 +16311,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T08:01:42.715020Z"
+  "last_price_refresh_at": "2026-10-13T08:30:03.463861Z"
 }
