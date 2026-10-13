@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-13T21:12:39.473452Z",
+  "retrieved_at": "2026-10-13T21:33:41.164919Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -11689,9 +11689,9 @@
       "title": "Bobcat S630 Rubber Tire Skid Steer ,AUX hydraulics, hyraulic quick attach, Cab missing door and left...",
       "subtitle": null,
       "description": "",
-      "amount": 2550,
+      "amount": 2750,
       "max_amount": null,
-      "bid_count": 28,
+      "bid_count": 32,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -12388,9 +12388,9 @@
       "title": "Bobcat S650 Rubber Tire Skid Steer ,AUX hydraulics, hydraulics quick attach, Cab, 12-16.5 tires, hou...",
       "subtitle": null,
       "description": "",
-      "amount": 4500,
+      "amount": 4600,
       "max_amount": null,
-      "bid_count": 80,
+      "bid_count": 82,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -13069,9 +13069,9 @@
       "title": "Bobcat S630 Rubber Tire Skid Steer ,AUX hydraulics, hydraulic quick attach, Cab, missing left side, ...",
       "subtitle": null,
       "description": "",
-      "amount": 3600,
+      "amount": 4000,
       "max_amount": null,
-      "bid_count": 68,
+      "bid_count": 76,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -13696,9 +13696,9 @@
       "title": "(1) Assembled custom built tandem axle skid steer trailer, 10' long x 6' wide deck, ramps, pintle hi...",
       "subtitle": null,
       "description": "",
-      "amount": 215,
+      "amount": 320,
       "max_amount": null,
-      "bid_count": 16,
+      "bid_count": 26,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16329,5 +16329,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T21:12:39.473452Z"
+  "last_price_refresh_at": "2026-10-13T21:33:41.164919Z"
 }
