@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T18:33:47.402919Z",
+  "retrieved_at": "2026-10-13T18:42:51.861073Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -12966,9 +12966,9 @@
       "title": "(1) 1997 Parker Majestic, model 2C, Universal ID/OD cylindrical grinder, 5\" x 50\" T-slotted table, 1...",
       "subtitle": null,
       "description": "",
-      "amount": 6050,
+      "amount": 6250,
       "max_amount": null,
-      "bid_count": 23,
+      "bid_count": 28,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -101505,9 +101505,9 @@
       "title": "(1) micrometer set, size 0-1\" through size 11-12\", with wood case.",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 20,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 4,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T18:33:47.402919Z"
+  "last_price_refresh_at": "2026-10-13T18:42:51.861073Z"
 }
