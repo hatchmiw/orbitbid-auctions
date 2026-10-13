@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T16:16:17.883006Z",
+  "retrieved_at": "2026-10-13T16:30:04.268318Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -34852,9 +34852,9 @@
       "title": "(1) Huot tool scoot, approx. 37\" length x 35.5\" height x 18\" depth 3-tier tool cart with approx. (50...",
       "subtitle": null,
       "description": "",
-      "amount": 95,
+      "amount": 105,
       "max_amount": null,
-      "bid_count": 20,
+      "bid_count": 22,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -58856,9 +58856,9 @@
       "title": "(1) Big Joe, model 9957, 1000 lb. capacity, 12V electric lift cart, in working condition, with 5\" x ...",
       "subtitle": null,
       "description": "",
-      "amount": 162,
+      "amount": 167,
       "max_amount": null,
-      "bid_count": 15,
+      "bid_count": 16,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T16:16:17.883006Z"
+  "last_price_refresh_at": "2026-10-13T16:30:04.268318Z"
 }
