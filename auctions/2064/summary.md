@@ -1,6 +1,6 @@
 # OrbitBid Auction 2064
 
-- Price refresh: 2026-10-13T13:40:34.558775Z
+- Price refresh: 2026-10-13T14:05:26.675121Z
 - Source: https://bid.orbitbid.com/?auction_id=2064
 - Saved lots refreshed: 32
 - Refresh errors: 0
@@ -522,8 +522,8 @@
 
 - OrbitBid item number: 1-3323
 - Internal ID: 1811448
-- Current bid: $15
-- Bid count: 4
+- Current bid: $20
+- Bid count: 5
 - Photo count: 9
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -750,13 +750,13 @@
 
 ---
 
-## Lot 9881 — 1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.
+## Lot 9881 — 1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle. Dump trailer has liner.
 
 - OrbitBid item number: 1-9881
 - Internal ID: 1799701
 - Current bid: $2850
 - Bid count: 60
-- Photo count: 20
+- Photo count: 21
 - End time (UTC): 2026-10-13T23:30:00Z
 
 **Fields:**
@@ -766,7 +766,7 @@
 - Type: Dump Trailer
 - VIN: 1NUDT28N5SMAS0818
 - Titled Status: Clear
-- General Description: Tandem axle aluminum with 3rd front lift axle.
+- General Description: Tandem axle aluminum with 3rd front lift axle. Dump trailer has liner.
 
 **Photos:**
 
@@ -790,6 +790,7 @@
 - [Photo 18](https://d1ljvnrgb7j023.cloudfront.net/files/1/3fa90472a7f671eb97df/large)
 - [Photo 19](https://d1ljvnrgb7j023.cloudfront.net/files/1/709a0848c3566f797a30/large)
 - [Photo 20](https://d1ljvnrgb7j023.cloudfront.net/files/1/c96e3302d222ddfef902/large)
+- [Photo 21](https://d1ljvnrgb7j023.cloudfront.net/files/1/05fd904b141fbdee1735/large)
 
 ---
 
@@ -880,8 +881,8 @@
 
 - OrbitBid item number: 1-9884
 - Internal ID: 1799704
-- Current bid: $2600
-- Bid count: 41
+- Current bid: $2650
+- Bid count: 42
 - Photo count: 25
 - End time (UTC): 2026-10-13T23:30:00Z
 

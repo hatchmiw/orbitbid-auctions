@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-13T13:40:34.558775Z",
+  "retrieved_at": "2026-10-13T14:05:26.675121Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -7268,9 +7268,9 @@
       "title": "Ingersoll Rand 25T air compressor. 230/460 volts, 25 hp electric motor.",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 20,
       "max_amount": null,
-      "bid_count": 4,
+      "bid_count": 5,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -10539,7 +10539,7 @@
       "internal_id": 1799701,
       "id": 1799701,
       "item_number": "1-9881",
-      "title": "1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle.",
+      "title": "1995 Benson Dump Trailer Tandem axle aluminum with 3rd front lift axle. Dump trailer has liner.",
       "subtitle": null,
       "description": "",
       "amount": 2850,
@@ -10957,6 +10957,24 @@
             ],
             "orientation": "landscape"
           }
+        },
+        {
+          "id": 11521568,
+          "small_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/05fd904b141fbdee1735/small",
+          "large_path": "https://d1ljvnrgb7j023.cloudfront.net/files/1/05fd904b141fbdee1735/large",
+          "metadata": {
+            "type": "image",
+            "width": 1335,
+            "height": 1649,
+            "formats": [
+              "large",
+              "medium",
+              "tile",
+              "small",
+              "thumb"
+            ],
+            "orientation": "portrait"
+          }
         }
       ],
       "fields": [
@@ -10999,7 +11017,7 @@
           "id": 19892913,
           "type": "textbox",
           "label": "General Description",
-          "value": "Tandem axle aluminum with 3rd front lift axle.",
+          "value": "Tandem axle aluminum with 3rd front lift axle. Dump trailer has liner.",
           "other_value": null
         }
       ],
@@ -11152,7 +11170,7 @@
           "value": "<p>Posted closing times and displays of Auction Co.’s current time are approximate. Auction Co. reserves the right to close early or extend auctions at any time at its discretion. It is strongly recommended that bids be placed early to avoid losing out due to an ill-timed, last minute bid. All times are local time for auction location. Dynamic bidding – The dynamic bid on this website is a feature that does NOT allow an item to sell at the end of the auction until there is 10 minutes of bidding inactivity. EXAMPLE: An item is bid on at 7:50pm. An auction is scheduled to close at 8:00pm. When this bid is placed the ending time will automatically extend to 8:10pm. When another bid is placed at 8:01pm the auction will extend until 8:20pm. This will give bidders 19 minutes to place another bid. If no bids are placed, this auction will conclude at 8:20pm. The key to your dynamic bidding feature is that the auction extends from the preset closing time in 10 minute intervals, NOT 10 minutes from when you placed your bid.</p><p>\n</p>"
         }
       ],
-      "photo_count": 20
+      "photo_count": 21
     },
     {
       "requested_lot_number": "9882",
@@ -12370,9 +12388,9 @@
       "title": "Bobcat S650 Rubber Tire Skid Steer ,AUX hydraulics, hydraulics quick attach, Cab, 12-16.5 tires, hou...",
       "subtitle": null,
       "description": "",
-      "amount": 2600,
+      "amount": 2650,
       "max_amount": null,
-      "bid_count": 41,
+      "bid_count": 42,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16311,5 +16329,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T13:40:34.558775Z"
+  "last_price_refresh_at": "2026-10-13T14:05:26.675121Z"
 }
