@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T04:58:03.730245Z",
+  "retrieved_at": "2026-10-13T05:15:16.553415Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -37425,9 +37425,9 @@
       "title": "Lot including (1) Huot 15\" width x 8\" height x 7\" depth, 3-drawer, and (1) Huot 15\" width x 8\" heigh...",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -38065,9 +38065,9 @@
       "title": "Large lot of assorted drills.",
       "subtitle": null,
       "description": "",
-      "amount": 10,
+      "amount": 15,
       "max_amount": null,
-      "bid_count": 2,
+      "bid_count": 3,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T04:58:03.730245Z"
+  "last_price_refresh_at": "2026-10-13T05:15:16.553415Z"
 }
