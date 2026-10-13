@@ -1,6 +1,6 @@
 # OrbitBid Auction 2064
 
-- Price refresh: 2026-10-12T23:25:05.981380Z
+- Price refresh: 2026-10-13T00:38:48.966532Z
 - Source: https://bid.orbitbid.com/?auction_id=2064
 - Saved lots refreshed: 32
 - Refresh errors: 0
@@ -45,8 +45,8 @@
 
 - OrbitBid item number: 1-9861
 - Internal ID: 1799690
-- Current bid: $65
-- Bid count: 13
+- Current bid: $70
+- Bid count: 14
 - Photo count: 14
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -267,8 +267,8 @@
 
 - OrbitBid item number: 1-9867
 - Internal ID: 1799684
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -329,8 +329,8 @@
 
 - OrbitBid item number: 1-9869
 - Internal ID: 1799682
-- Current bid: $205
-- Bid count: 25
+- Current bid: $410
+- Bid count: 31
 - Photo count: 17
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -364,8 +364,8 @@
 
 - OrbitBid item number: 1-9870
 - Internal ID: 1799691
-- Current bid: $75
-- Bid count: 15
+- Current bid: $335
+- Bid count: 23
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -418,8 +418,8 @@
 
 - OrbitBid item number: 1-9872
 - Internal ID: 1799693
-- Current bid: $55
-- Bid count: 11
+- Current bid: $105
+- Bid count: 13
 - Photo count: 7
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -468,8 +468,8 @@
 
 - OrbitBid item number: 1-9874
 - Internal ID: 1799695
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -491,8 +491,8 @@
 
 - OrbitBid item number: 1-9875
 - Internal ID: 1799696
-- Current bid: $55
-- Bid count: 5
+- Current bid: $505
+- Bid count: 9
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -880,8 +880,8 @@
 
 - OrbitBid item number: 1-9884
 - Internal ID: 1799704
-- Current bid: $1550
-- Bid count: 26
+- Current bid: $2050
+- Bid count: 30
 - Photo count: 25
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -927,8 +927,8 @@
 
 - OrbitBid item number: 1-9885
 - Internal ID: 1799705
-- Current bid: $755
-- Bid count: 3
+- Current bid: $805
+- Bid count: 5
 - Photo count: 22
 - End time (UTC): 2026-10-13T23:30:00Z
 
