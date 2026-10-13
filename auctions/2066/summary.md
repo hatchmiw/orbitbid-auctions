@@ -1,6 +1,6 @@
 # OrbitBid Auction 2066
 
-- Price refresh: 2026-10-13T21:36:04.389977Z
+- Price refresh: 2026-10-13T21:44:16.260720Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=1
 - Saved lots refreshed: 299
 - Refresh errors: 0
@@ -11,8 +11,8 @@
 
 - OrbitBid item number: 1-10988
 - Internal ID: 1799027
-- Current bid: $255
-- Bid count: 36
+- Current bid: $265
+- Bid count: 37
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -74,8 +74,8 @@
 
 - OrbitBid item number: 1-10990
 - Internal ID: 1799029
-- Current bid: $2050
-- Bid count: 20
+- Current bid: $2300
+- Bid count: 22
 - Photo count: 17
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -109,8 +109,8 @@
 
 - OrbitBid item number: 1-10991
 - Internal ID: 1799030
-- Current bid: $15
-- Bid count: 3
+- Current bid: $20
+- Bid count: 4
 - Photo count: 10
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -138,8 +138,8 @@
 
 - OrbitBid item number: 1-10992
 - Internal ID: 1799031
-- Current bid: $310
-- Bid count: 26
+- Current bid: $360
+- Bid count: 28
 - Photo count: 12
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -168,8 +168,8 @@
 
 - OrbitBid item number: 1-10993
 - Internal ID: 1799032
-- Current bid: $1505
-- Bid count: 38
+- Current bid: $1555
+- Bid count: 39
 - Photo count: 10
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -256,8 +256,8 @@
 
 - OrbitBid item number: 1-10997
 - Internal ID: 1799035
-- Current bid: $1250
-- Bid count: 28
+- Current bid: $1450
+- Bid count: 30
 - Photo count: 17
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -386,8 +386,8 @@
 
 - OrbitBid item number: 1-11008
 - Internal ID: 1799038
-- Current bid: $2400
-- Bid count: 102
+- Current bid: $3300
+- Bid count: 118
 - Photo count: 22
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -426,8 +426,8 @@
 
 - OrbitBid item number: 1-11009
 - Internal ID: 1799039
-- Current bid: $105
-- Bid count: 11
+- Current bid: $110
+- Bid count: 12
 - Photo count: 11
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -593,8 +593,8 @@
 
 - OrbitBid item number: 1-11014
 - Internal ID: 1799044
-- Current bid: $205
-- Bid count: 24
+- Current bid: $530
+- Bid count: 41
 - Photo count: 15
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -737,8 +737,8 @@
 
 - OrbitBid item number: 1-11018
 - Internal ID: 1799048
-- Current bid: $11100
-- Bid count: 59
+- Current bid: $15250
+- Bid count: 63
 - Photo count: 19
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -828,8 +828,8 @@
 
 - OrbitBid item number: 1-11021
 - Internal ID: 1799051
-- Current bid: $800
-- Bid count: 25
+- Current bid: $925
+- Bid count: 29
 - Photo count: 9
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -855,8 +855,8 @@
 
 - OrbitBid item number: 1-11022
 - Internal ID: 1799052
-- Current bid: $305
-- Bid count: 8
+- Current bid: $445
+- Bid count: 22
 - Photo count: 13
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -886,8 +886,8 @@
 
 - OrbitBid item number: 1-11023
 - Internal ID: 1799053
-- Current bid: $2550
-- Bid count: 34
+- Current bid: $3600
+- Bid count: 44
 - Photo count: 16
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -920,8 +920,8 @@
 
 - OrbitBid item number: 1-11024
 - Internal ID: 1799054
-- Current bid: $18100
-- Bid count: 137
+- Current bid: $18300
+- Bid count: 139
 - Photo count: 19
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -989,8 +989,8 @@
 
 - OrbitBid item number: 1-11026
 - Internal ID: 1799056
-- Current bid: $2600
-- Bid count: 20
+- Current bid: $2800
+- Bid count: 22
 - Photo count: 17
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1075,8 +1075,8 @@
 
 - OrbitBid item number: 1-11029
 - Internal ID: 1799059
-- Current bid: $775
-- Bid count: 25
+- Current bid: $850
+- Bid count: 29
 - Photo count: 10
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1161,8 +1161,8 @@
 
 - OrbitBid item number: 1-11032
 - Internal ID: 1799062
-- Current bid: $510
-- Bid count: 13
+- Current bid: $825
+- Bid count: 19
 - Photo count: 13
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1270,8 +1270,8 @@
 
 - OrbitBid item number: 1-11043
 - Internal ID: 1799073
-- Current bid: $265
-- Bid count: 25
+- Current bid: $530
+- Bid count: 28
 - Photo count: 9
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1297,8 +1297,8 @@
 
 - OrbitBid item number: 1-11044
 - Internal ID: 1799074
-- Current bid: $625
-- Bid count: 34
+- Current bid: $875
+- Bid count: 40
 - Photo count: 13
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1328,8 +1328,8 @@
 
 - OrbitBid item number: 1-11045
 - Internal ID: 1799075
-- Current bid: $355
-- Bid count: 21
+- Current bid: $1000
+- Bid count: 44
 - Photo count: 12
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1403,8 +1403,8 @@
 
 - OrbitBid item number: 1-11048
 - Internal ID: 1799078
-- Current bid: $110
-- Bid count: 14
+- Current bid: $140
+- Bid count: 18
 - Photo count: 8
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1429,8 +1429,8 @@
 
 - OrbitBid item number: 1-11049
 - Internal ID: 1799079
-- Current bid: $296
-- Bid count: 26
+- Current bid: $490
+- Bid count: 38
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1454,8 +1454,8 @@
 
 - OrbitBid item number: 1-11050
 - Internal ID: 1799080
-- Current bid: $726
-- Bid count: 30
+- Current bid: $830
+- Bid count: 32
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1574,8 +1574,8 @@
 
 - OrbitBid item number: 1-11054
 - Internal ID: 1799084
-- Current bid: $40
-- Bid count: 7
+- Current bid: $45
+- Bid count: 8
 - Photo count: 4
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1623,8 +1623,8 @@
 
 - OrbitBid item number: 1-11056
 - Internal ID: 1799086
-- Current bid: $130
-- Bid count: 21
+- Current bid: $155
+- Bid count: 26
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1671,8 +1671,8 @@
 
 - OrbitBid item number: 1-11058
 - Internal ID: 1799088
-- Current bid: $135
-- Bid count: 25
+- Current bid: $140
+- Bid count: 26
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -1720,8 +1720,8 @@
 
 - OrbitBid item number: 1-11060
 - Internal ID: 1799090
-- Current bid: $155
-- Bid count: 27
+- Current bid: $165
+- Bid count: 29
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -1876,8 +1876,8 @@
 
 - OrbitBid item number: 1-11066
 - Internal ID: 1799097
-- Current bid: $45
-- Bid count: 9
+- Current bid: $50
+- Bid count: 10
 - Photo count: 14
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -1988,8 +1988,8 @@
 
 - OrbitBid item number: 1-11070
 - Internal ID: 1799101
-- Current bid: $30
-- Bid count: 6
+- Current bid: $50
+- Bid count: 11
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2108,8 +2108,8 @@
 
 - OrbitBid item number: 1-11075
 - Internal ID: 1799106
-- Current bid: $10
-- Bid count: 2
+- Current bid: $21
+- Bid count: 5
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2177,8 +2177,8 @@
 
 - OrbitBid item number: 1-11078
 - Internal ID: 1799109
-- Current bid: $90
-- Bid count: 12
+- Current bid: $105
+- Bid count: 15
 - Photo count: 10
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2299,8 +2299,8 @@
 
 - OrbitBid item number: 1-11083
 - Internal ID: 1799114
-- Current bid: $85
-- Bid count: 9
+- Current bid: $120
+- Bid count: 16
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2344,8 +2344,8 @@
 
 - OrbitBid item number: 1-11085
 - Internal ID: 1799116
-- Current bid: $50
-- Bid count: 5
+- Current bid: $80
+- Bid count: 11
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2368,8 +2368,8 @@
 
 - OrbitBid item number: 1-11086
 - Internal ID: 1799117
-- Current bid: $21
-- Bid count: 4
+- Current bid: $56
+- Bid count: 12
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2391,8 +2391,8 @@
 
 - OrbitBid item number: 1-11087
 - Internal ID: 1799118
-- Current bid: $20
-- Bid count: 4
+- Current bid: $25
+- Bid count: 6
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2415,8 +2415,8 @@
 
 - OrbitBid item number: 1-11088
 - Internal ID: 1799119
-- Current bid: $30
-- Bid count: 6
+- Current bid: $35
+- Bid count: 7
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2464,8 +2464,8 @@
 
 - OrbitBid item number: 1-11090
 - Internal ID: 1799121
-- Current bid: $40
-- Bid count: 7
+- Current bid: $45
+- Bid count: 8
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2487,8 +2487,8 @@
 
 - OrbitBid item number: 1-11091
 - Internal ID: 1799122
-- Current bid: $50
-- Bid count: 5
+- Current bid: $85
+- Bid count: 12
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2511,8 +2511,8 @@
 
 - OrbitBid item number: 1-11092
 - Internal ID: 1799123
-- Current bid: $415
-- Bid count: 52
+- Current bid: $425
+- Bid count: 53
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2535,8 +2535,8 @@
 
 - OrbitBid item number: 1-11093
 - Internal ID: 1799124
-- Current bid: $26
-- Bid count: 4
+- Current bid: $41
+- Bid count: 8
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2560,8 +2560,8 @@
 
 - OrbitBid item number: 1-11094
 - Internal ID: 1799125
-- Current bid: $505
-- Bid count: 63
+- Current bid: $555
+- Bid count: 65
 - Photo count: 11
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2589,8 +2589,8 @@
 
 - OrbitBid item number: 1-11095
 - Internal ID: 1799126
-- Current bid: $20
-- Bid count: 4
+- Current bid: $50
+- Bid count: 10
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2878,8 +2878,8 @@
 
 - OrbitBid item number: 1-12356
 - Internal ID: 1799137
-- Current bid: $350
-- Bid count: 22
+- Current bid: $360
+- Bid count: 23
 - Photo count: 13
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2909,8 +2909,8 @@
 
 - OrbitBid item number: 1-12357
 - Internal ID: 1799138
-- Current bid: $360
-- Bid count: 24
+- Current bid: $380
+- Bid count: 26
 - Photo count: 12
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2939,8 +2939,8 @@
 
 - OrbitBid item number: 1-12358
 - Internal ID: 1799139
-- Current bid: $230
-- Bid count: 11
+- Current bid: $250
+- Bid count: 13
 - Photo count: 9
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2966,8 +2966,8 @@
 
 - OrbitBid item number: 1-12359
 - Internal ID: 1799140
-- Current bid: $55
-- Bid count: 11
+- Current bid: $60
+- Bid count: 12
 - Photo count: 13
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -3134,8 +3134,8 @@
 
 - OrbitBid item number: 1-12366
 - Internal ID: 1799147
-- Current bid: $60
-- Bid count: 12
+- Current bid: $65
+- Bid count: 13
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -3345,8 +3345,8 @@
 
 - OrbitBid item number: 1-12375
 - Internal ID: 1799156
-- Current bid: $436
-- Bid count: 58
+- Current bid: $561
+- Bid count: 62
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4057,8 +4057,8 @@
 
 - OrbitBid item number: 1-12406
 - Internal ID: 1799187
-- Current bid: $30
-- Bid count: 6
+- Current bid: $55
+- Bid count: 12
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4088,8 +4088,8 @@
 
 - OrbitBid item number: 1-12407
 - Internal ID: 1799188
-- Current bid: $10
-- Bid count: 2
+- Current bid: $25
+- Bid count: 5
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4119,8 +4119,8 @@
 
 - OrbitBid item number: 1-12408
 - Internal ID: 1799189
-- Current bid: $35
-- Bid count: 7
+- Current bid: $50
+- Bid count: 10
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4143,8 +4143,8 @@
 
 - OrbitBid item number: 1-12409
 - Internal ID: 1799190
-- Current bid: $290
-- Bid count: 20
+- Current bid: $310
+- Bid count: 22
 - Photo count: 12
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4203,8 +4203,8 @@
 
 - OrbitBid item number: 1-12411
 - Internal ID: 1799192
-- Current bid: $55
-- Bid count: 6
+- Current bid: $445
+- Bid count: 66
 - Photo count: 7
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4228,8 +4228,8 @@
 
 - OrbitBid item number: 1-12412
 - Internal ID: 1799193
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4250,8 +4250,8 @@
 
 - OrbitBid item number: 1-12413
 - Internal ID: 1799194
-- Current bid: $50
-- Bid count: 7
+- Current bid: $105
+- Bid count: 18
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4273,8 +4273,8 @@
 
 - OrbitBid item number: 1-12414
 - Internal ID: 1799195
-- Current bid: $10
-- Bid count: 2
+- Current bid: $80
+- Bid count: 16
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4368,8 +4368,8 @@
 
 - OrbitBid item number: 1-12418
 - Internal ID: 1799199
-- Current bid: $105
-- Bid count: 6
+- Current bid: $280
+- Bid count: 14
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4440,8 +4440,8 @@
 
 - OrbitBid item number: 1-12421
 - Internal ID: 1799203
-- Current bid: $15
-- Bid count: 3
+- Current bid: $30
+- Bid count: 6
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4462,8 +4462,8 @@
 
 - OrbitBid item number: 1-12422
 - Internal ID: 1799204
-- Current bid: $185
-- Bid count: 29
+- Current bid: $190
+- Bid count: 30
 - Photo count: 12
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4492,8 +4492,8 @@
 
 - OrbitBid item number: 1-12423
 - Internal ID: 1799205
-- Current bid: $105
-- Bid count: 17
+- Current bid: $110
+- Bid count: 18
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4539,8 +4539,8 @@
 
 - OrbitBid item number: 1-12425
 - Internal ID: 1799207
-- Current bid: $15
-- Bid count: 3
+- Current bid: $55
+- Bid count: 11
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4562,8 +4562,8 @@
 
 - OrbitBid item number: 1-12426
 - Internal ID: 1799208
-- Current bid: $35
-- Bid count: 6
+- Current bid: $55
+- Bid count: 11
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4585,8 +4585,8 @@
 
 - OrbitBid item number: 1-12427
 - Internal ID: 1799209
-- Current bid: $40
-- Bid count: 8
+- Current bid: $135
+- Bid count: 28
 - Photo count: 7
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4610,8 +4610,8 @@
 
 - OrbitBid item number: 1-12428
 - Internal ID: 1799210
-- Current bid: $25
-- Bid count: 5
+- Current bid: $45
+- Bid count: 10
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4634,8 +4634,8 @@
 
 - OrbitBid item number: 1-12429
 - Internal ID: 1799211
-- Current bid: $5
-- Bid count: 1
+- Current bid: $55
+- Bid count: 12
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4656,8 +4656,8 @@
 
 - OrbitBid item number: 1-12430
 - Internal ID: 1799212
-- Current bid: $30
-- Bid count: 5
+- Current bid: $80
+- Bid count: 16
 - Photo count: 7
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4707,8 +4707,8 @@
 
 - OrbitBid item number: 1-12432
 - Internal ID: 1799214
-- Current bid: $55
-- Bid count: 11
+- Current bid: $145
+- Bid count: 29
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -4753,8 +4753,8 @@
 
 - OrbitBid item number: 1-12434
 - Internal ID: 1799216
-- Current bid: $35
-- Bid count: 7
+- Current bid: $40
+- Bid count: 8
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -4798,8 +4798,8 @@
 
 - OrbitBid item number: 1-12436
 - Internal ID: 1799218
-- Current bid: $40
-- Bid count: 5
+- Current bid: $50
+- Bid count: 7
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5013,8 +5013,8 @@
 
 - OrbitBid item number: 1-12446
 - Internal ID: 1799227
-- Current bid: $50
-- Bid count: 6
+- Current bid: $60
+- Bid count: 8
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5559,8 +5559,8 @@
 
 - OrbitBid item number: 1-12470
 - Internal ID: 1799248
-- Current bid: $2650
-- Bid count: 21
+- Current bid: $2700
+- Bid count: 22
 - Photo count: 8
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5849,8 +5849,8 @@
 
 - OrbitBid item number: 1-12484
 - Internal ID: 1799262
-- Current bid: $30
-- Bid count: 4
+- Current bid: $35
+- Bid count: 5
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5970,8 +5970,8 @@
 
 - OrbitBid item number: 1-12489
 - Internal ID: 1799267
-- Current bid: $25
-- Bid count: 5
+- Current bid: $30
+- Bid count: 6
 - Photo count: 7
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -6372,8 +6372,8 @@
 
 - OrbitBid item number: 1-12504
 - Internal ID: 1799282
-- Current bid: $20
-- Bid count: 4
+- Current bid: $35
+- Bid count: 6
 - Photo count: 7
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -6397,8 +6397,8 @@
 
 - OrbitBid item number: 1-12505
 - Internal ID: 1799283
-- Current bid: $10
-- Bid count: 2
+- Current bid: $15
+- Bid count: 3
 - Photo count: 4
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7026,8 +7026,8 @@
 
 - OrbitBid item number: 1-12533
 - Internal ID: 1799313
-- Current bid: $30
-- Bid count: 4
+- Current bid: $35
+- Bid count: 5
 - Photo count: 6
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7186,8 +7186,8 @@
 
 - OrbitBid item number: 1-12540
 - Internal ID: 1799320
-- Current bid: $245
-- Bid count: 31
+- Current bid: $330
+- Bid count: 36
 - Photo count: 10
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7347,8 +7347,8 @@
 
 - OrbitBid item number: 1-12548
 - Internal ID: 1799327
-- Current bid: $10
-- Bid count: 2
+- Current bid: $40
+- Bid count: 8
 - Photo count: 9
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7499,8 +7499,8 @@
 
 - OrbitBid item number: 1-12555
 - Internal ID: 1799334
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 5
 - End time (UTC): 2026-10-14T00:00:00Z
 
