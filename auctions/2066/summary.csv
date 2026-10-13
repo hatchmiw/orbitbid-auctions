@@ -11,7 +11,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 10998,1-10998,1799036,10,2,8,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Dust Kop, model 30T31-D1, dust collector, with approx. 5 HP blower, 30"" x 41"" x 48"", (24) 6"" dia..."
 10999,1-10999,1799037,680,26,41,1,0,1791928800,2026-10-13T22:00:00Z,,,"2010 Ford F150 XLT Extended Cab Pickup Truck (1) pickup truck, extended cab short bed, 5.4 liter V8 ..."
 11008,1-11008,1799038,220,37,22,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 2008 GF Agie/Charmilles micron UCP600, Vario vertical machining center with (2) 17"" diameter rot..."
-11009,1-11009,1799039,60,9,11,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Gravo-Graph, model 1S400TMN, engraving machine, bridge mounted spindle, 2.5"" vise, PC control, b..."
+11009,1-11009,1799039,105,11,11,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Gravo-Graph, model 1S400TMN, engraving machine, bridge mounted spindle, 2.5"" vise, PC control, b..."
 11010,1-11010,1799040,535,32,23,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1999 Haas, model VF8, vertical machining center, with 36"" x 64"" T-slotted table, 5000 RPM, Cat 5..."
 11011,1-11011,1799041,95,10,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Hobart, model TDU-292, arc welder, 295 amp with cables, and torch, unit is skid mounted, S/N 8TW..."
 11012,1-11012,1799042,55,4,12,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Ingersoll-Rand, model 253DE, air compressor with 10 HP, 2-stage, 80-gallon horizontal tank mount..."
@@ -23,10 +23,10 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11018,1-11018,1799048,1025,25,19,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 2015 Mazak, model VCU500C-3X, vertical machining center, with 19.6"" x 39.4"" T-slotted table, 10,..."
 11019,1-11019,1799049,510,15,11,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1999 Miller Syncrowave, model 250, TIG welder, 250 amp, includes cables, torch, foot pedal, unit..."
 11020,1-11020,1799050,510,34,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Mitutoyo, model LH-600FG, linear height gauge, 600mm max. height, touch panel control, 6"" x 24"" ..."
-11021,1-11021,1799051,450,12,9,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 2023 Muse MOPA laser engraving system, 60 watt fiber optic laser, cantilever arm mounted, 12"" x ..."
+11021,1-11021,1799051,489,14,9,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 2023 Muse MOPA laser engraving system, 60 watt fiber optic laser, cantilever arm mounted, 12"" x ..."
 11022,1-11022,1799052,110,6,13,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Okamoto linear 618 surface grinder, with 6"" x 18"" T-slotted table, 3450 RPM spindle, 6"" x 18"" ma..."
 11023,1-11023,1799053,605,8,16,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1964 Parker Majestic U-Universal cylindrical grinder, 6"" x 58.5"" T-slotted table, 1750 RPM spind..."
-11024,1-11024,1799054,3550,16,19,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1997 Parker Majestic, model 2C, Universal ID/OD cylindrical grinder, 5"" x 50"" T-slotted table, 1..."
+11024,1-11024,1799054,4250,18,19,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1997 Parker Majestic, model 2C, Universal ID/OD cylindrical grinder, 5"" x 50"" T-slotted table, 1..."
 11025,1-11025,1799055,10,2,14,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1997 Parker Majestic, 8"" x 18"" surface grinder, with "" T-slotted table, 3450 RPM spindle, 8"" x 1..."
 11026,1-11026,1799056,1505,14,17,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 1998 Parker Majestic, 8"" x 18"" surface grinder, with "" T-slotted table, 3450 RPM spindle, 8"" x 1..."
 11027,1-11027,1799057,510,23,8,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Polar Air, model PRV0600003, rotary screw air compressor, 60 HP, 145 PSI, built in air dryer, Lo..."
@@ -44,8 +44,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11046,1-11046,1799076,35,7,5,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) model 39UK56, 47"" diameter air mover floor fan."
 11047,1-11047,1799077,30,3,4,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Leonard grinder-lap cutter grinder with 5"" disc (120V, single phase input)."
 11048,1-11048,1799078,81,8,8,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) make and model unknown, 1"" vertical belt sander with .33 HP, 115V, single phase electric motor."
-11049,1-11049,1799079,10,2,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) New Bould Corporation, #202, motorized grinding chuck with 4"" 6-jaw chuck, and 115V, single phas..."
-11050,1-11050,1799080,80,9,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Roto-Grind, model 710-VI24, magnetic grinding table, S/N 5695."
+11049,1-11049,1799079,35,4,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) New Bould Corporation, #202, motorized grinding chuck with 4"" 6-jaw chuck, and 115V, single phas..."
+11050,1-11050,1799080,127,13,7,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) Roto-Grind, model 710-VI24, magnetic grinding table, S/N 5695."
 11051,1-11051,1799081,15,3,16,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 36"" width x 76"" height x 18.5"" depth, heavy duty, 2-door steel cabinet with 4 adjustable height ..."
 11052,1-11052,1799082,15,3,19,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 36"" width x 78"" height x 20.5"" depth, 2-door steel cabinet with 5 adjustable height shelves and ..."
 11053,1-11053,1799083,5,1,6,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 36.5"" width x 40.5"" height x 25"" depth, 2-door wood cabinet with contents, including various fil..."
@@ -53,7 +53,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11055,1-11055,1799085,10,2,9,1,0,1791928800,2026-10-13T22:00:00Z,,,"Entire contents of shelving in cabinet, includes various rings, Sunnen hone tooling, honing stones, ..."
 11056,1-11056,1799086,20,5,6,1,0,1791928800,2026-10-13T22:00:00Z,,,"Lot of assorted large drill bits, (2) drill indexes of tin coated drill bits."
 11057,1-11057,1799087,5,1,6,1,0,1791928800,2026-10-13T22:00:00Z,,,"(1) 51"" width x 33"" height x 26"" depth heavy duty steel stand with wood shelving, and contents inclu..."
-11058,1-11058,1799088,40,5,6,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) Global 72"" width x 37"" height x 24"" depth steel framed work bench with 1 3/4"" thick butcher bloc..."
+11058,1-11058,1799088,45,6,6,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) Global 72"" width x 37"" height x 24"" depth steel framed work bench with 1 3/4"" thick butcher bloc..."
 11059,1-11059,1799089,10,2,7,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of assorted tooling, includes various new and used end mills, (1) 6"" adjustable wrench, (1) bori..."
 11060,1-11060,1799090,30,5,5,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot of assorted cutting tools.
 11061,1-11061,1799091,5,0,7,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of (2) 10"" diameter face plates, 1 appears to be new."
@@ -68,7 +68,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 11070,1-11070,1799101,25,5,6,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) make and model unknown, 1/2"" air impact wrench kit with sockets, sizes 7/16"" up to 1"", and (1) a..."
 11071,1-11071,1799102,15,3,5,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) Pittsburgh hydraulic wire crimping tool, with plastic case, appears to be or in-like-new conditi..."
 11072,1-11072,1799103,10,2,8,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot including (1) Stanley, model PS15-Kit, manual rivet tool kit with rivets, (1) Weller, model 8200..."
-11073,1-11073,1799104,10,2,5,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot including (1) partial Threadwell broach kit with assorted broach tools.
+11073,1-11073,1799104,21,4,5,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot including (1) partial Threadwell broach kit with assorted broach tools.
 11074,1-11074,1799105,10,2,6,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot including (1) Companion wrench set, sizes 1/4"" through 3/4"" with roll up case, (1) new Pittsburg..."
 11075,1-11075,1799106,10,2,6,1,0,1791930600,2026-10-13T22:30:00Z,,,Lot of quick change tap adapters/tool holders.
 11076,1-11076,1799107,41,8,5,1,0,1791930600,2026-10-13T22:30:00Z,,,"Lot of assorted collets, various sizes."
@@ -116,8 +116,8 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12368,1-12368,1799149,5,1,4,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) heavy duty 8"" machinists vise with handle."
 12369,1-12369,1799150,10,2,5,1,0,1791930600,2026-10-13T22:30:00Z,,,"(1) 6"" x 6"" hinged magnetic sine plate."
 12370,1-12370,1799151,10,2,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 6"" x 6"" hinged magnetic sine plate."
-12371,1-12371,1799152,15,3,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 6"", 4-jaw chuck, and (1) 4"", 4-jaw chuck."
-12372,1-12372,1799153,10,2,6,1,0,1791932400,2026-10-13T23:00:00Z,,,Lot of (2) indexable radius and angle wheel dressers.
+12371,1-12371,1799152,25,5,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 6"", 4-jaw chuck, and (1) 4"", 4-jaw chuck."
+12372,1-12372,1799153,35,4,6,1,0,1791932400,2026-10-13T23:00:00Z,,,Lot of (2) indexable radius and angle wheel dressers.
 12373,1-12373,1799154,10,2,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) belt driven, electric rotary spindle."
 12374,1-12374,1799155,10,2,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 120V, single phase electric bench center/precision rotary lathe."
 12375,1-12375,1799156,25,5,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 115V, single phase, approx. 4 3/4"" diameter magnetic motorized grinding chuck."
@@ -146,7 +146,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12398,1-12398,1799179,15,3,6,1,0,1791932400,2026-10-13T23:00:00Z,,,Lot including (4) various partial sets of block gauges with cases.
 12399,1-12399,1799180,5,1,6,1,0,1791932400,2026-10-13T23:00:00Z,,,"(2) partial sets of parallel angle blocks, parallel blocks, various plastic tubing, and (1) 36"" widt..."
 12400,1-12400,1799181,5,1,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) Rubbermaid, 40"" length x 33"" height x 25.5"" depth, 2-tier resin shop cart, contents not included..."
-12401,1-12401,1799182,15,3,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) Yuasa 12"" x 6"" permanent magnetic chuck, S/N 7812239, and (1) 4"" x 6"" hinged sine plate."
+12401,1-12401,1799182,20,4,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) Yuasa 12"" x 6"" permanent magnetic chuck, S/N 7812239, and (1) 4"" x 6"" hinged sine plate."
 12402,1-12402,1799183,10,2,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 12"" x 6"" magnetic chuck."
 12403,1-12403,1799184,10,2,5,1,0,1791932400,2026-10-13T23:00:00Z,,,Lot including (2) magnetic machine levels.
 12404,1-12404,1799185,5,1,5,1,0,1791932400,2026-10-13T23:00:00Z,,,"Lot including (1) sine dresser, (1) Mitutoyo, model PGC, digital gauge unit, (1) CE Johnson machine ..."
@@ -176,7 +176,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12429,1-12429,1799211,5,1,4,1,0,1791932400,2026-10-13T23:00:00Z,,,"Lot including (1) tail stock, assorted blocks, V-blocks, and other miscellaneous items."
 12430,1-12430,1799212,5,1,7,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) 71"" width x 34"" height x 30"" depth steel framed work bench with 1 3/4"" thick wood composite top,..."
 12431,1-12431,1799213,15,3,8,1,0,1791932400,2026-10-13T23:00:00Z,,,"(1) MMS, approx. 24"" long x 9"" deep trundle table."
-12432,1-12432,1799214,20,4,5,1,0,1791934200,2026-10-13T23:30:00Z,,,Lot of approx. (16) various sized Kant-Twist clamps.
+12432,1-12432,1799214,25,5,5,1,0,1791934200,2026-10-13T23:30:00Z,,,Lot of approx. (16) various sized Kant-Twist clamps.
 12433,1-12433,1799215,56,9,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of approx. (17) various sized C-clamps, ranging in size between 4"" and 8"", and (1) approx. 20"" F..."
 12434,1-12434,1799216,26,5,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Dayton free-standing, adjustable height shop floor fan with a 30"" cage, 115V, single phase, 1/2 ..."
 12435,1-12435,1799217,305,14,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Vestil, model H-50-HD, 6000 lb. capacity, self-dumping hopper."
@@ -189,7 +189,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12443,1-12443,1799224,15,3,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot including (1) Unifast, 18.5"" steel case with contents of assorted standard Grade 2 hex nuts, (2)..."
 12444,1-12444,1799225,10,2,5,1,0,1791934200,2026-10-13T23:30:00Z,,,(1) granite setup/surface table with heavy duty steel base (table only).
 12445,1-12445,1799226,5,0,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot including (1) 15"" Exact Level Tool Manufacturing Company, Master Precision level, and (1) Federa..."
-12446,1-12446,1799227,30,4,6,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) set of micrometers, sizes 1-2"", up to 11-12"" with wood case (missing 0-1"" caliper)."
+12446,1-12446,1799227,50,6,6,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) set of micrometers, sizes 1-2"", up to 11-12"" with wood case (missing 0-1"" caliper)."
 12447,1-12447,1799228,10,2,9,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 20"" width x 48"" height x 16"" depth wood stand with (7) assorted pin gauge sets with slide out wo..."
 12448,1-12448,1799229,5,1,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 40"" length x 35"" height x 21"" depth, heavy duty steel cart with contents, including (1) Rock of ..."
 12452,1-12452,1799230,5,1,5,1,0,1791934200,2026-10-13T23:30:00Z,,,(1) granite surface plate with slide door steel base cabinet
@@ -203,7 +203,7 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12460,1-12460,1799238,25,3,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Rockwell/Wilson, model 4-JR-BB, hardness tester, S/N 6913."
 12461,1-12461,1799239,5,1,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 36.5"" x 3"" x 25"" granite surface plate with a 37"" width x 38"" height x 25"" depth heavy duty stee..."
 12462,1-12462,1799240,5,0,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Excell-O 3 phase, heavy duty grinder with wood case (case does not have a top)."
-12463,1-12463,1799241,105,9,9,1,0,1791934200,2026-10-13T23:30:00Z,,,"Entire contents of 1 side of 75"" length rack, includes various scrap metals, aluminum set up equipme..."
+12463,1-12463,1799241,135,15,9,1,0,1791934200,2026-10-13T23:30:00Z,,,"Entire contents of 1 side of 75"" length rack, includes various scrap metals, aluminum set up equipme..."
 12464,1-12464,1799242,130,8,11,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 74"" width x 67"" height x 36"" depth steel cantilever rack with contents of 1 side only, includes ..."
 12465,1-12465,1799243,155,8,16,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 38"" width x 80"" height x 31"" depth steel cantilever rack with assorted scrap metals, including s..."
 12466,1-12466,1799244,126,10,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) approx. 32"" width x 44"" height x 28"" depth steel cantilever rack with assorted scrap steel."
@@ -230,13 +230,13 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12489,1-12489,1799267,10,2,7,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) DeWalt, model DW715, 12"" compound miter saw (120V, single phase input/4000 RPM minimum)."
 12490,1-12490,1799268,10,2,6,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Bostitch Trim Air, 120V, portable air compressor."
 12491,1-12491,1799269,105,15,13,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 19"" width x 51"" height x 28"" depth, 7-drawer steel cabinet, and (1) 15"" width x 50"" height x 28""..."
-12492,1-12492,1799270,5,1,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 36"" x 6"" x 24"" granite surface plate with a heavy duty steel 33"" width x 30"" height x 21"" depth ..."
+12492,1-12492,1799270,10,2,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 36"" x 6"" x 24"" granite surface plate with a heavy duty steel 33"" width x 30"" height x 21"" depth ..."
 12493,1-12493,1799271,5,1,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) Global 96"" length x 36"" height x 30"" depth work bench with 1.5"" thick butcher block top, content..."
 12494,1-12494,1799272,15,4,8,1,0,1791934200,2026-10-13T23:30:00Z,,,"(6) gauge block sets, 2 are incomplete."
 12495,1-12495,1799273,40,6,9,1,0,1791934200,2026-10-13T23:30:00Z,,,"Lot of assorted sanders, includes (1) Onyx, model 3037, 1/2"" x 18"" air belt sander, (1) Chicago Pneu..."
 12496,1-12496,1799274,5,1,4,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 23.5"" x 3"" x 17 3/4"" granite surface plate."
 12497,1-12497,1799275,40,5,5,1,0,1791934200,2026-10-13T23:30:00Z,,,"(1) 1000 Kg capacity crane scale, appears to be in unused condition, with original packaging."
-12498,1-12498,1799276,5,1,8,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) 36"" width x 42"" height x 18"" depth, 2-door steel cabinet with assorted contents."
+12498,1-12498,1799276,10,2,8,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) 36"" width x 42"" height x 18"" depth, 2-door steel cabinet with assorted contents."
 12499,1-12499,1799277,5,1,7,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) 84"" length x 5"" height x 48"" depth lay out plate with an 84"" length x 32"" height x 48"" depth hea..."
 12500,1-12500,1799278,5,1,12,1,0,1791936000,2026-10-14T00:00:00Z,,,"Lot of assorted tools, including (1) Milwaukee, Cat #0622-20, 18V, cordless, 1/2"" driver drill with ..."
 12501,1-12501,1799279,160,13,30,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) 34"" width x 44"" height x 12"" depth hardware storage unit on a 5"" tall steel stand, with 72 steel..."
@@ -262,21 +262,21 @@ lot,item_number,internal_id,current_bid,bid_count,photo_count,status,live_status
 12523,1-12523,1799301,10,2,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Federal ""Pocket Surf"" portable surface roughness gauge with plastic case and manual."
 12524,1-12524,1799304,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Hon 36"" width x 72"" height x 18"" depth, 2-door steel cabinet with 5 adjustable height shelves, c..."
 12525,1-12525,1799305,5,1,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Imbera, model EVC04 R6, mini refrigerator with display window, 115V, single phase, 1 adjustable ..."
-12526,1-12526,1799306,20,4,17,1,0,1791936000,2026-10-14T00:00:00Z,,,"Contents of lower cabinet only, includes assorted micrometers, gauge balls, gauge blocks, parallel s..."
+12526,1-12526,1799306,25,6,17,1,0,1791936000,2026-10-14T00:00:00Z,,,"Contents of lower cabinet only, includes assorted micrometers, gauge balls, gauge blocks, parallel s..."
 12527,1-12527,1799307,10,2,7,1,0,1791936000,2026-10-14T00:00:00Z,,,"(4) sets of pin gauges (M1 thru M4) some missing, includes remaining items on shelf (various pins, b..."
 12528,1-12528,1799308,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) M1 and (1) M2 pin gauge set.
 12529,1-12529,1799309,45,10,4,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) metric thread gauge set with plastic case.
 12530,1-12530,1799310,220,7,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(3) Mitutoyo micrometers (2 are 2-3"", and 1 3-4""), and (1) Fowler 0-1"" micrometer, all with cases."
 12531,1-12531,1799311,10,2,15,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire contents of top 2 shelves of shelving unit, includes (1) Federal dimensional gauge, various b..."
 12532,1-12532,1799312,30,4,5,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) C.E. Johansson, model 510E, Mikrokator, mounted on a 24"" tall stand."
-12533,1-12533,1799313,5,1,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo 13"" capacity height master gauge with wood case."
+12533,1-12533,1799313,10,2,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo 13"" capacity height master gauge with wood case."
 12534,1-12534,1799314,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo, Cat #HM-R12, riser block, S/N 79387, with wood case."
 12535,1-12535,1799315,5,1,4,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo dial indicator mounted to an approx. 12"" tall stand."
 12536,1-12536,1799316,40,6,4,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) Mitutoyo 6-piece micrometer set with wood case.
 12537,1-12537,1799317,10,2,3,1,0,1791936000,2026-10-14T00:00:00Z,,,(1) Mitutoyo #2923-10 dial bore gauge with plastic case.
 12538,1-12538,1799318,15,3,7,1,0,1791936000,2026-10-14T00:00:00Z,,,"Lot including (1) approx. 4 1/4"" x 3"" x 4 1/4"", and (1) 4"" x 3"" x 4"" V-block set with wood case, (1)..."
 12539,1-12539,1799319,180,36,6,1,0,1791936000,2026-10-14T00:00:00Z,,,"(1) Mitutoyo set #BE1-81-2, (1) Mitutoyo set #BE4-81-2, and (1) HDI gauge block set, (Set #BE1-81-2,..."
-12540,1-12540,1799320,25,5,10,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire content of shelf shown in photos, includes (1) CEJ .02005-.090 gauge block set with wood case..."
+12540,1-12540,1799320,35,7,10,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire content of shelf shown in photos, includes (1) CEJ .02005-.090 gauge block set with wood case..."
 12541,1-12541,1799321,130,8,11,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire content of top 2 shelves, includes (1) Mitutoyo micrometer set with plastic case, part #04105..."
 12542,1-12542,1799322,5,1,5,1,0,1791936000,2026-10-14T00:00:00Z,,,"Lot including (1) Hallowell, approx. 37.5"" width x 83"" height x 18"" depth steel shelving unit, with ..."
 12543,1-12543,1799323,5,1,8,1,0,1791936000,2026-10-14T00:00:00Z,,,"Entire content of furniture only in inspection room, includes (2) 66"" width x 29"" height x 30"" depth..."

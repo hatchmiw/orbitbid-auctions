@@ -1,6 +1,6 @@
 # OrbitBid Auction 2066
 
-- Price refresh: 2026-10-13T13:12:12.583679Z
+- Price refresh: 2026-10-13T13:35:14.260360Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=1
 - Saved lots refreshed: 299
 - Refresh errors: 0
@@ -426,8 +426,8 @@
 
 - OrbitBid item number: 1-11009
 - Internal ID: 1799039
-- Current bid: $60
-- Bid count: 9
+- Current bid: $105
+- Bid count: 11
 - Photo count: 11
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -828,8 +828,8 @@
 
 - OrbitBid item number: 1-11021
 - Internal ID: 1799051
-- Current bid: $450
-- Bid count: 12
+- Current bid: $489
+- Bid count: 14
 - Photo count: 9
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -920,8 +920,8 @@
 
 - OrbitBid item number: 1-11024
 - Internal ID: 1799054
-- Current bid: $3550
-- Bid count: 16
+- Current bid: $4250
+- Bid count: 18
 - Photo count: 19
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1429,8 +1429,8 @@
 
 - OrbitBid item number: 1-11049
 - Internal ID: 1799079
-- Current bid: $10
-- Bid count: 2
+- Current bid: $35
+- Bid count: 4
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1454,8 +1454,8 @@
 
 - OrbitBid item number: 1-11050
 - Internal ID: 1799080
-- Current bid: $80
-- Bid count: 9
+- Current bid: $127
+- Bid count: 13
 - Photo count: 7
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -1671,8 +1671,8 @@
 
 - OrbitBid item number: 1-11058
 - Internal ID: 1799088
-- Current bid: $40
-- Bid count: 5
+- Current bid: $45
+- Bid count: 6
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2061,8 +2061,8 @@
 
 - OrbitBid item number: 1-11073
 - Internal ID: 1799104
-- Current bid: $10
-- Bid count: 2
+- Current bid: $21
+- Bid count: 4
 - Photo count: 5
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -3250,8 +3250,8 @@
 
 - OrbitBid item number: 1-12371
 - Internal ID: 1799152
-- Current bid: $15
-- Bid count: 3
+- Current bid: $25
+- Bid count: 5
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3274,8 +3274,8 @@
 
 - OrbitBid item number: 1-12372
 - Internal ID: 1799153
-- Current bid: $10
-- Bid count: 2
+- Current bid: $35
+- Bid count: 4
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3967,8 +3967,8 @@
 
 - OrbitBid item number: 1-12401
 - Internal ID: 1799182
-- Current bid: $15
-- Bid count: 3
+- Current bid: $20
+- Bid count: 4
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -4707,8 +4707,8 @@
 
 - OrbitBid item number: 1-12432
 - Internal ID: 1799214
-- Current bid: $20
-- Bid count: 4
+- Current bid: $25
+- Bid count: 5
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5013,8 +5013,8 @@
 
 - OrbitBid item number: 1-12446
 - Internal ID: 1799227
-- Current bid: $30
-- Bid count: 4
+- Current bid: $50
+- Bid count: 6
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5359,8 +5359,8 @@
 
 - OrbitBid item number: 1-12463
 - Internal ID: 1799241
-- Current bid: $105
-- Bid count: 9
+- Current bid: $135
+- Bid count: 15
 - Photo count: 9
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -6050,8 +6050,8 @@
 
 - OrbitBid item number: 1-12492
 - Internal ID: 1799270
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 8
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -6197,8 +6197,8 @@
 
 - OrbitBid item number: 1-12498
 - Internal ID: 1799276
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 8
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -6842,8 +6842,8 @@
 
 - OrbitBid item number: 1-12526
 - Internal ID: 1799306
-- Current bid: $20
-- Bid count: 4
+- Current bid: $25
+- Bid count: 6
 - Photo count: 17
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7026,8 +7026,8 @@
 
 - OrbitBid item number: 1-12533
 - Internal ID: 1799313
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-14T00:00:00Z
 
@@ -7186,8 +7186,8 @@
 
 - OrbitBid item number: 1-12540
 - Internal ID: 1799320
-- Current bid: $25
-- Bid count: 5
+- Current bid: $35
+- Bid count: 7
 - Photo count: 10
 - End time (UTC): 2026-10-14T00:00:00Z
 
