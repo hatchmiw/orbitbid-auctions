@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T12:14:52.455240Z",
+  "retrieved_at": "2026-10-13T12:36:03.919597Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -9871,9 +9871,9 @@
       "title": "(1) 2007 Mazak, model UCN510C-11, vertical machining center, with 45\" x 51\" T-slotted table, 12,000 ...",
       "subtitle": null,
       "description": "",
-      "amount": 1025,
+      "amount": 1300,
       "max_amount": null,
-      "bid_count": 18,
+      "bid_count": 20,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -14822,9 +14822,9 @@
       "title": "(1) Safety Space Kleen, model 91R AQUESVAT, parts washer with open top tank, hinged lid, heated, sel...",
       "subtitle": null,
       "description": "",
-      "amount": 205,
+      "amount": 281,
       "max_amount": null,
-      "bid_count": 21,
+      "bid_count": 31,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T12:14:52.455240Z"
+  "last_price_refresh_at": "2026-10-13T12:36:03.919597Z"
 }
