@@ -1,6 +1,6 @@
 # OrbitBid Auction 2066
 
-- Price refresh: 2026-10-12T23:27:00.867499Z
+- Price refresh: 2026-10-13T00:40:40.754339Z
 - Source: https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=1
 - Saved lots refreshed: 299
 - Refresh errors: 0
@@ -774,8 +774,8 @@
 
 - OrbitBid item number: 1-11019
 - Internal ID: 1799049
-- Current bid: $75
-- Bid count: 7
+- Current bid: $85
+- Bid count: 9
 - Photo count: 11
 - End time (UTC): 2026-10-13T22:00:00Z
 
@@ -2487,8 +2487,8 @@
 
 - OrbitBid item number: 1-11091
 - Internal ID: 1799122
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -2851,8 +2851,8 @@
 
 - OrbitBid item number: 1-12355
 - Internal ID: 1799136
-- Current bid: $5
-- Bid count: 1
+- Current bid: $15
+- Bid count: 3
 - Photo count: 9
 - End time (UTC): 2026-10-13T22:30:00Z
 
@@ -3321,8 +3321,8 @@
 
 - OrbitBid item number: 1-12374
 - Internal ID: 1799155
-- Current bid: $5
-- Bid count: 1
+- Current bid: $10
+- Bid count: 2
 - Photo count: 6
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3345,8 +3345,8 @@
 
 - OrbitBid item number: 1-12375
 - Internal ID: 1799156
-- Current bid: $15
-- Bid count: 3
+- Current bid: $25
+- Bid count: 5
 - Photo count: 5
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -3679,8 +3679,8 @@
 
 - OrbitBid item number: 1-12389
 - Internal ID: 1799170
-- Current bid: $20
-- Bid count: 4
+- Current bid: $36
+- Bid count: 8
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:00:00Z
 
@@ -5137,8 +5137,8 @@
 
 - OrbitBid item number: 1-12454
 - Internal ID: 1799232
-- Current bid: $15
-- Bid count: 3
+- Current bid: $30
+- Bid count: 6
 - Photo count: 4
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -5559,8 +5559,8 @@
 
 - OrbitBid item number: 1-12470
 - Internal ID: 1799248
-- Current bid: $2450
-- Bid count: 16
+- Current bid: $2500
+- Bid count: 17
 - Photo count: 8
 - End time (UTC): 2026-10-13T23:30:00Z
 
@@ -6019,8 +6019,8 @@
 
 - OrbitBid item number: 1-12491
 - Internal ID: 1799269
-- Current bid: $35
-- Bid count: 6
+- Current bid: $45
+- Bid count: 8
 - Photo count: 13
 - End time (UTC): 2026-10-13T23:30:00Z
 
