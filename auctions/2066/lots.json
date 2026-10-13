@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T09:40:00.941762Z",
+  "retrieved_at": "2026-10-13T10:29:41.316450Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -15942,9 +15942,9 @@
       "title": "(1) Trinco, model 5, media blasting cabinet, with  23\" x 29\" x 42\" gravity bottom, gloved access cab...",
       "subtitle": null,
       "description": "",
-      "amount": 305,
+      "amount": 330,
       "max_amount": null,
-      "bid_count": 11,
+      "bid_count": 14,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -34852,9 +34852,9 @@
       "title": "(1) Huot tool scoot, approx. 37\" length x 35.5\" height x 18\" depth 3-tier tool cart with approx. (50...",
       "subtitle": null,
       "description": "",
-      "amount": 25,
+      "amount": 55,
       "max_amount": null,
-      "bid_count": 5,
+      "bid_count": 12,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -38065,9 +38065,9 @@
       "title": "Large lot of assorted drills.",
       "subtitle": null,
       "description": "",
-      "amount": 15,
+      "amount": 25,
       "max_amount": null,
-      "bid_count": 3,
+      "bid_count": 6,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T09:40:00.941762Z"
+  "last_price_refresh_at": "2026-10-13T10:29:41.316450Z"
 }
