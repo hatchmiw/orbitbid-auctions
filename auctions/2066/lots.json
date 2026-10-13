@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T05:29:13.833513Z",
+  "retrieved_at": "2026-10-13T05:37:27.241751Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -68810,7 +68810,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -77375,9 +77375,9 @@
       "title": "(1) Quincy Lab, Inc., model 30, lab oven, with cart.",
       "subtitle": null,
       "description": "",
-      "amount": 5,
+      "amount": 10,
       "max_amount": null,
-      "bid_count": 1,
+      "bid_count": 2,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -77688,7 +77688,7 @@
       "description": "",
       "amount": 5,
       "max_amount": null,
-      "bid_count": 0,
+      "bid_count": 1,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -79169,9 +79169,9 @@
       "title": "(1) US General 30\" width x 42\" height x 21\" depth, 5-drawer rolling tool cart, includes contents of ...",
       "subtitle": null,
       "description": "",
-      "amount": 30,
+      "amount": 45,
       "max_amount": null,
-      "bid_count": 6,
+      "bid_count": 8,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T05:29:13.833513Z"
+  "last_price_refresh_at": "2026-10-13T05:37:27.241751Z"
 }
