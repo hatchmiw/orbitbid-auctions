@@ -4,7 +4,7 @@
   "catalog_pages": [
     "https://bid.orbitbid.com/?auction_id=2064"
   ],
-  "retrieved_at": "2026-10-13T16:57:05.420032Z",
+  "retrieved_at": "2026-10-13T17:14:10.337859Z",
   "total_discovered": 32,
   "total_retrieved": 32,
   "total_errors": 0,
@@ -2731,9 +2731,9 @@
       "title": "(1) Chandler tandem axle fertilizer spreader, stainless box, double spinners, hydraulic drive, appro...",
       "subtitle": null,
       "description": "",
-      "amount": 35,
+      "amount": 40,
       "max_amount": null,
-      "bid_count": 8,
+      "bid_count": 9,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -3767,9 +3767,9 @@
       "title": "(1) Farmhand F89B Grinder blower, 1000 PTO, SN 572",
       "subtitle": null,
       "description": "",
-      "amount": 55,
+      "amount": 60,
       "max_amount": null,
-      "bid_count": 12,
+      "bid_count": 13,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -16329,5 +16329,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T16:57:05.420032Z"
+  "last_price_refresh_at": "2026-10-13T17:14:10.337859Z"
 }
