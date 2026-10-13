@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-13T12:36:03.919597Z",
+  "retrieved_at": "2026-10-13T12:46:22.300796Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -4286,9 +4286,9 @@
       "title": "2010 Ford F150 XLT Extended Cab Pickup Truck (1) pickup truck, extended cab short bed, 5.4 liter V8 ...",
       "subtitle": null,
       "description": "",
-      "amount": 580,
+      "amount": 630,
       "max_amount": null,
-      "bid_count": 22,
+      "bid_count": 24,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-13T12:36:03.919597Z"
+  "last_price_refresh_at": "2026-10-13T12:46:22.300796Z"
 }
