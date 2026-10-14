@@ -8,7 +8,7 @@
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=4",
     "https://bid.orbitbid.com/?items=all&auction_id=2066&display=grid&limit=60&page=5"
   ],
-  "retrieved_at": "2026-10-14T01:28:32.505898Z",
+  "retrieved_at": "2026-10-14T01:37:22.497621Z",
   "total_discovered": 299,
   "total_retrieved": 299,
   "total_errors": 0,
@@ -69610,14 +69610,14 @@
       "title": "Lot including (1) 10\" diameter, 3-jaw chuck, (1) 10\" diameter, 6-jaw chuck, (1) 12\" diameter, 3-jaw ...",
       "subtitle": null,
       "description": "",
-      "amount": 585,
+      "amount": 610,
       "max_amount": null,
-      "bid_count": 68,
+      "bid_count": 69,
       "status": 1,
       "live_status": 0,
       "prebid_start_time": null,
       "start_time": 1791806400,
-      "end_time": 1791941852,
+      "end_time": 1791942395,
       "offer_end_time": null,
       "has_reserve": false,
       "has_reserve_met": false,
@@ -103281,5 +103281,5 @@
     }
   ],
   "errors": [],
-  "last_price_refresh_at": "2026-10-14T01:28:32.505898Z"
+  "last_price_refresh_at": "2026-10-14T01:37:22.497621Z"
 }
